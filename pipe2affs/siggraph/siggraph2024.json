@@ -1,0 +1,1118 @@
+[
+    {
+        "title": "2D Gaussian Splatting for Geometrically Accurate Radiance Fields",
+        "aff": "University of T\u00fcbingen; ShanghaiTech University"
+    },
+    {
+        "title": "3D Gaussian Blendshapes for Head Avatar Animation",
+        "aff": "Zhejiang University"
+    },
+    {
+        "title": "3D Gaussian Splatting With Deferred Reflection",
+        "aff": "Zhejiang University"
+    },
+    {
+        "title": "3D-Layers: Bringing Layer-based Color Editing to VR Painting",
+        "aff": "University of Toronto; Centre Inria d'Universit\u00e9 C\u00f4te d'Azur"
+    },
+    {
+        "title": "3Doodle: Compact Abstraction of Objects With 3D Strokes",
+        "aff": "Seoul National University"
+    },
+    {
+        "title": "4D-Rotor Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes",
+        "aff": "State Key Laboratory of General Artificial Intelligence; Princeton University; Peking University; NVIDIA"
+    },
+    {
+        "title": "A Construct-optimize Approach to Sparse View Synthesis Without Camera Pose",
+        "aff": "University of California San Diego"
+    },
+    {
+        "title": "A Differential Monte Carlo Solver for the Poisson Equation",
+        "aff": "University of California Irvine; NVIDIA"
+    },
+    {
+        "title": "A Dual-Particle Approach for Incompressible SPH Fluids",
+        "aff": "University of Toronto; Chinese Academy of Sciences  Institute of Software; Beijing Key Lab of Human-Computer Interaction, Institute of Software, Chinese Academy of Sciences, Beijing, China"
+    },
+    {
+        "title": "A Dynamic Duo of Finite Elements and Material Points",
+        "aff": "University of Utah; University of California Los Angeles; Toyota Research Institute; Carnegie Mellon University; Style3D Research"
+    },
+    {
+        "title": "A Framework for Solving Parabolic Partial Differential Equations on Discrete Domains",
+        "aff": "University of Southern California; Massachusetts Institute of Technology (MIT); Massachusetts Institute of Technology"
+    },
+    {
+        "title": "A Free-space Diffraction BSDF",
+        "aff": "University of California San Diego; University of Waterloo; NVIDIA"
+    },
+    {
+        "title": "A Fully-correlated Anisotropic Micrograin BSDF Model",
+        "aff": "University of Poitiers - XLIM; University of Bordeaux; INRIA, Bordeaux Sud-Ouest"
+    },
+    {
+        "title": "A Heat Method for Generalized Signed Distance",
+        "aff": "Carnegie Mellon University"
+    },
+    {
+        "title": "A Hierarchical 3D Gaussian Representation for Real-time Rendering of Very Large Scenes",
+        "aff": "Technical University of Vienna; INRIA, Universit\u00e9 C\u00f4te d'Azur; Unversit\u00e9 C\u00f4te d'Azur; Institut national de recherche en informatique et en automatique (INRIA); Technische Universit\u00e4t Wien (TU Wien)"
+    },
+    {
+        "title": "A Linear Method to Consistently Orient Normals of a 3D Point Cloud",
+        "aff": "Universit\u00e0 della Svizzera Italiana; New Jersey Institute of Technology (NJIT)"
+    },
+    {
+        "title": "A Neural Network Model for Efficient Musculoskeletal-driven Skin Deformation",
+        "aff": "Epic Games; University of California Los Angeles; Stanford University; University of California Davis"
+    },
+    {
+        "title": "A Realistic Multi-scale Surface-based Cloth Appearance Model",
+        "aff": "University of California Santa Barbara; Meta Reality Labs Research"
+    },
+    {
+        "title": "A Unified Differentiable Boolean Operator With Fuzzy Logic",
+        "aff": "Roblox; University of British Columbia; University of Utah; McGill University; Stanford University"
+    },
+    {
+        "title": "A Vortex Particle-on-mesh Method for Soap Film Simulation",
+        "aff": "State Key Laboratory of General Artificial Intelligence; Beijing Institute for General Artificial Intelligence; Georgia Institute of Technology; School of Intelligence Science and Technology, Peking University; Stanford University; Yuanpei College, Peking University; School of CS & National Key Lab of General AI, Peking University"
+    },
+    {
+        "title": "AONeuS: A Neural Rendering Framework for Acoustic-optical Sensor Fusion",
+        "aff": "University of Maryland College Park; Carnegie Mellon University; Dartmouth College"
+    },
+    {
+        "title": "Accelerating Saccadic Response Through Spatial and Temporal Cross-modal Misalignments",
+        "aff": "Max Planck Institute for Informatics; Universidad de Zaragoza; New York University"
+    },
+    {
+        "title": "Adaptive Grid Generation for Discretizing Implicit Complexes",
+        "aff": "Washington University in St. Louis; Adobe Research"
+    },
+    {
+        "title": "Alignment Conditions for NURBS-based Design of Mixed Tension-compression Grid Shells",
+        "aff": "Tomasetti; University of Tokyo; Thornton"
+    },
+    {
+        "title": "An Induce-on-Boundary Magnetostatic Solver for Grid-based Ferrofluids",
+        "aff": "Beijing Institute for General Artificial Intelligence; Peking University; School of CS & National Key Lab of General AI, Peking University; School of Intelligence Science and Technology, Peking University"
+    },
+    {
+        "title": "Analogist: Out-of-the-box Visual In-context Learning With Image Diffusion Model",
+        "aff": "Tianjin University; City University of Hong Kong; Nanjing University"
+    },
+    {
+        "title": "Aperture-aware Lens Design",
+        "aff": "Carnegie Mellon University"
+    },
+    {
+        "title": "Area ReSTIR: Resampling for Real-time Defocus and Antialiasing",
+        "aff": "NVIDIA Research; Roblox; University of Utah"
+    },
+    {
+        "title": "Audio Matters Too! Enhancing Markerless Motion Capture With Audio Signals for String Performance Capture",
+        "aff": "Tsinghua University; Central Conservatory of Music; Weilan Tech"
+    },
+    {
+        "title": "Automatic Digital Garment Initialization From Sewing Patterns",
+        "aff": "State Key Lab of CAD and CG, Zhejiang University; University of Utah; Style3D Research"
+    },
+    {
+        "title": "Biharmonic Coordinates and Their Derivatives for Triangular 3D Cages",
+        "aff": "Adobe Research; INRIA, Saclay"
+    },
+    {
+        "title": "Bilateral Guided Radiance Field Processing",
+        "aff": "The Chinese University of Hong Kong"
+    },
+    {
+        "title": "Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-based View Synthesis",
+        "aff": "Google Research; T\u00fcbingen AI Center, University of T\u00fcbingen"
+    },
+    {
+        "title": "BlockFusion: Expandable 3D Scene Generation Using Latent Tri-plane Extrapolation",
+        "aff": "National Institute of Informatics, Japan; Shanghai Jiao Tong University; Australian National University; University of Tokyo; Tencent"
+    },
+    {
+        "title": "Blue Noise for Diffusion Models",
+        "aff": "Google Research; Max Planck Institute for Informatics; Google DeepMind; University of Cambridge"
+    },
+    {
+        "title": "BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis in Large-scale Scenes",
+        "aff": "National Yang Ming Chiao Tung University; National Taiwan University"
+    },
+    {
+        "title": "BrepGen: A B-rep Generative Diffusion Model With Structured Latent Geometry",
+        "aff": "Simon Fraser University; Autodesk Research; Autodesk"
+    },
+    {
+        "title": "CLAY: A Controllable Large-scale Generative Model for Creating High-quality 3D Assets",
+        "aff": "Huazhong University of Science and Technology; Deemos Technology; ShanghaiTech University"
+    },
+    {
+        "title": "CNS-Edit: 3D Shape Editing via Coupled Neural Shape Optimization",
+        "aff": "Amazon; Simon Fraser University; The Chinese University of Hong Kong"
+    },
+    {
+        "title": "CWF: Consolidating Weak Features in High-quality Mesh Simplification",
+        "aff": "University of Hong Kong; Qingdao University of Science and Technology; Shandong University; University of Texas at Dallas; Wayne State University; Texas A&M University"
+    },
+    {
+        "title": "Capacitive Touch Sensing on General 3D Surfaces",
+        "aff": "Saarland Informatics Campus; CNR ISTI"
+    },
+    {
+        "title": "Categorical Codebook Matching for Embodied Character Controllers",
+        "aff": "University of Hong Kong; Facebook Reality Labs"
+    },
+    {
+        "title": "CharacterGen: Efficient 3D Character Generation From Single Images With Multi-view Pose Canonicalization",
+        "aff": "Tsinghua University; VAST"
+    },
+    {
+        "title": "Coin3D: Controllable and Interactive 3D Assets Generation With Proxy-guided Conditioning",
+        "aff": "Zhejiang University; ByteDance Inc."
+    },
+    {
+        "title": "ColorVideoVDP: A Visual Difference Predictor for Image, Video, and Display Distortions",
+        "aff": "Meta; University of Cambridge"
+    },
+    {
+        "title": "Compressed Skinning for Facial Blendshapes",
+        "aff": "Meta"
+    },
+    {
+        "title": "Computational Homogenization for Inverse Design of Surface-based Inflatables",
+        "aff": "EPFL; University of California Davis"
+    },
+    {
+        "title": "Computational Illusion Knitting",
+        "aff": "University of Washington"
+    },
+    {
+        "title": "ConceptLab: Creative Concept Generation using VLM-Guided Diffusion Prior Constraints",
+        "aff": "Tel Aviv University; Tel Aviv University, Snap"
+    },
+    {
+        "title": "Conditional Mixture Path Guiding for Differentiable Rendering",
+        "aff": "State Key Lab for Novel Software Technology, Nanjing University; Nanjing University"
+    },
+    {
+        "title": "Consistent Point Orientation for Manifold Surfaces via Boundary Integration",
+        "aff": "Beijing Normal University; Nanyang Technological University; La Trobe University"
+    },
+    {
+        "title": "Contact Detection Between Curved Fibres: High Order Makes a Difference",
+        "aff": "University Grenoble Alpes Inria, CNRS, Grenoble INP, LJK"
+    },
+    {
+        "title": "ContourCraft: Learning to Resolve Intersections in Neural Multi-garment Simulations",
+        "aff": "ETH Z\u00fcrich; Max Planck Institue for Intelligent Systems"
+    },
+    {
+        "title": "Controllable Neural Style Transfer for Dynamic Meshes",
+        "aff": "Disney Research Studios; Pixar Animation Studios"
+    },
+    {
+        "title": "Creating LEGO Figurines From Single Images",
+        "aff": "Qianzhi Technology Inc; The Chinese University of Hong Kong"
+    },
+    {
+        "title": "Cricket: A Self-powered Chirping Pixel",
+        "aff": "Columbia University"
+    },
+    {
+        "title": "Cross-image Attention for Zero-shot Appearance Transfer",
+        "aff": "Tel Aviv University"
+    },
+    {
+        "title": "Curvature-driven Conformal Deformations",
+        "aff": "CNRS, Inria, LORIA"
+    },
+    {
+        "title": "Cybersickness Reduction via Gaze-contingent Image Deformation",
+        "aff": "Universit\u00e0 della Svizzera Italiana; Technical University of Braunschweig"
+    },
+    {
+        "title": "Cyclogenesis: Simulating Hurricanes and Tornadoes",
+        "aff": "CAU; King Abdullah University of Science and Technology (KAUST); AMU"
+    },
+    {
+        "title": "DAE-Net: Deforming Auto-Encoder for Fine-grained Shape Co-segmentation",
+        "aff": "Adobe Research; Simon Fraser University"
+    },
+    {
+        "title": "DMHomo: Learning Homography with Diffusion Models",
+        "aff": "Megvii Technology Limited; Sichuan University; University of Electronic Science and Technology of China; Hong Kong University of Science and Technology; University of Electronic Science and Technology of China, Megvii Technology"
+    },
+    {
+        "title": "DeadWood: Including disturbance and decay in the depiction of digital nature",
+        "aff": "Universit\u00e9 Lyon 1, CNRS, LIRIS; INSA, Lyon; University of Lyon, LIRIS; University of Cape Town; Universitat Polit\u00e8cnica de Catalunya"
+    },
+    {
+        "title": "Decorrelating ReSTIR Samplers via MCMC Mutations",
+        "aff": "NVIDIA, USA; NVIDIA, Finnland; University of California San Diego; NVIDIA"
+    },
+    {
+        "title": "Deep Fourier-based Arbitrary-scale Super-resolution for Real-time Rendering",
+        "aff": "Nanjing University"
+    },
+    {
+        "title": "Deep Hybrid Camera Deblurring for Smartphone Cameras",
+        "aff": "POSTECH; Samsung AI Center Toronto"
+    },
+    {
+        "title": "Deep Sketch Vectorization via Implicit Surface Extraction",
+        "aff": "George Mason University; Waseda University; Adobe; South China University of Technology"
+    },
+    {
+        "title": "DiLightNet: Fine-grained Lighting Control for Diffusion-based Image Generation",
+        "aff": "State Key Lab of CAD and CG, Zhejiang University; Microsoft Research Asia; Tsinghua University; College of William & Mary"
+    },
+    {
+        "title": "DiffCAD: Weakly-supervised Probabilistic CAD Model Retrieval and Alignment From an RGB Image",
+        "aff": "Technical University of Munich"
+    },
+    {
+        "title": "DiffPoseTalk: Speech-driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models",
+        "aff": "Tsinghua University; Tianjin University; Beijing Jiaotong University"
+    },
+    {
+        "title": "DiffSound: Differentiable Modal Sound Rendering and Inverse Rendering for Diverse Inference Tasks",
+        "aff": "University of Maryland College Park; Peking University; Stanford University"
+    },
+    {
+        "title": "Differentiable Geodesic Distance for Intrinsic Minimization on Triangle Meshes",
+        "aff": "ETH Z\u00fcrich"
+    },
+    {
+        "title": "Differentiable Voronoi Diagrams for Simulation of Cell-based Mechanical Systems",
+        "aff": "ETH Z\u00fcrich"
+    },
+    {
+        "title": "Differentiable solver for time-dependent deformation problems with contact",
+        "aff": "nTop; University of Victoria; Massachusetts Institute of Technology (MIT); New York University"
+    },
+    {
+        "title": "Diffusion Illusions: Hiding Images in Plain Sight",
+        "aff": "Google; Stony Brook University"
+    },
+    {
+        "title": "Diffusion Texture Painting",
+        "aff": "University of Toronto; Vector Institute; NVIDIA"
+    },
+    {
+        "title": "Direct-a-Video: Customized Video Generation With User-directed Camera Movement and Object Motion",
+        "aff": "Tianjin University; Kuaishou Technology; City University of Hong Kong"
+    },
+    {
+        "title": "Dragon's Path: Synthesizing User-centered Flying Creature Animation Paths for Outdoor Augmented Reality Experiences",
+        "aff": "George Mason University; University of Texas at Dallas"
+    },
+    {
+        "title": "DreamFont3D: Personalized Text-to-3D Artistic Font Generation",
+        "aff": "Shandong Research Institute of Industrial Technology; Shandong University"
+    },
+    {
+        "title": "DreamMat: High-quality PBR Material Generation With Geometry- and Light-aware Diffusion Models",
+        "aff": "State Key Lab of CAD&CG, Zhejiang University; State Key Lab CAD&CG, Zhejiang University, ZJU-Tencent Game and Intelligent Graphics Innovation Technology Joint Lab; Tencent Technology; Zhejiang University; Bournemouth University; Texas A&M University"
+    },
+    {
+        "title": "DressCode: Autoregressively Sewing and Generating Garments From Text Guidance",
+        "aff": "NeuDim; Deemos Technology; University of Pennsylvania; ShanghaiTech University"
+    },
+    {
+        "title": "EASI-Tex: Edge-Aware Mesh Texturing from Single Image",
+        "aff": "Amazon; Simon Fraser University"
+    },
+    {
+        "title": "Efficient Debris-flow Simulation for Steep Terrain Erosion",
+        "aff": "INRIA, Universit\u00e9 C\u00f4te d'Azur; Purdue University"
+    },
+    {
+        "title": "Efficient Position-based Deformable Colon Modeling for Endoscopic Procedures Simulation",
+        "aff": "Federal University of Rio Grande do Sul; Instituto Superior T\u00e9cnico, Universidade de Lisboa; Federal University of Pelotas"
+    },
+    {
+        "title": "Eulerian-Lagrangian Fluid Simulation on Particle Flow Maps",
+        "aff": "University of Hong Kong; Georgia Institute of Technology; University of Michigan; Stanford University; Zhejiang University"
+    },
+    {
+        "title": "EyeIR: Single Eye Image Inverse Rendering in the Wild",
+        "aff": "Peng Cheng Laboratory; Beihang University"
+    },
+    {
+        "title": "Fabric Tessellation: Realizing Freeform Surfaces by Smocking",
+        "aff": "ETH Z\u00fcrich; University of Edinburgh"
+    },
+    {
+        "title": "Fabricable 3D Wire Art",
+        "aff": "ETH Z\u00fcrich; University of Tokyo; Reichman University; Institute of Science and Technology Austria (ISTA)"
+    },
+    {
+        "title": "Factorized Motion Fields for Fast Sparse Input Dynamic View Synthesis",
+        "aff": "Indian Institute of Science"
+    },
+    {
+        "title": "Filter-Guided Diffusion for Controllable Image Generation",
+        "aff": "Cornell University; Cornell-Tech Cornell University"
+    },
+    {
+        "title": "FlexScale: Modeling and Characterization of Flexible Scaled Sheets",
+        "aff": "ETH Z\u00fcrich"
+    },
+    {
+        "title": "Flexible Motion In-betweening With Diffusion Models",
+        "aff": "Tel Aviv University; Simon Fraser University; University of British Columbia; NVIDIA Research"
+    },
+    {
+        "title": "Fluid Control With Laplacian Eigenfunctions",
+        "aff": "University of Toronto; Adobe Research; NVIDIA"
+    },
+    {
+        "title": "From Microfacets to Participating Media: A Unified Theory of Light Transport With Stochastic Geometry",
+        "aff": "Dartmouth College; NVIDIA"
+    },
+    {
+        "title": "GEM3D: GEnerative Medial Abstractions for 3D Shape Synthesis",
+        "aff": "Adobe Research; University of Massachusetts Amherst; University of Cyprus; CYENS - Centre of Excellence"
+    },
+    {
+        "title": "GIPC: Fast and stable Gauss-Newton optimization of IPC barrier energy",
+        "aff": "University of Hong Kong; University of Hong Kong, Carnegie Mellon University"
+    },
+    {
+        "title": "GPU-accelerated Rendering of Vector Brush Strokes",
+        "aff": "Hong Kong University of Science and Technology, Guangzhou; Adobe Research; Hong Kong University of Science and Technology"
+    },
+    {
+        "title": "GaussianPrediction: Dynamic 3D Gaussian Prediction for Motion Extrapolation and Free View Synthesis",
+        "aff": "Ant Group; Jilin University; Google; State Key Laboratory of CAD & CG, Zhejiang University"
+    },
+    {
+        "title": "Generative Escher Meshes",
+        "aff": "Adobe Research; University of Montreal"
+    },
+    {
+        "title": "Going With the Flow",
+        "aff": "Technical University of Berlin; California Institute of Technology"
+    },
+    {
+        "title": "HAISOR: Human-Aware Indoor Scene Optimization via Deep Reinforcement Learning",
+        "aff": "Chinese Academy of Sciences Institute of Computing Technology; University of Chinese Academy of Sciences; Insititute of Computing Technology Chinese Academy of Sciences, University of Chinese Academy of Sciences; Stanford University; NVIDIA Research; Insititute of Computing Technology Chinese Academy of Sciences; Cardiff University; University of the Chinese Academy of Sciences"
+    },
+    {
+        "title": "HQ3DAvatar: High Quality Implicit 3D Head Avatar",
+        "aff": "Nanyang Technological University; Imperial College London; Flawless AI; Max Planck Institute for Informatics, Saarland Informatics Campus; Max Planck Institute for Informatics"
+    },
+    {
+        "title": "Hand-Object Interaction Controller (HOIC): Deep Reinforcement Learning for Reconstructing Interactions With Physics",
+        "aff": "School of Software, Tsinghua University; Google"
+    },
+    {
+        "title": "HeadArtist: Text-conditioned 3D Head Generation With Self Score Distillation",
+        "aff": "Ant Group; Alibaba DAMO Academy; City University of Hong Kong; HKUST"
+    },
+    {
+        "title": "High-quality Surface Reconstruction Using Gaussian Surfels",
+        "aff": "Style3D Research; State Key Laboratory of CAD & CG, Zhejiang University; Hangzhou Dianzi University"
+    },
+    {
+        "title": "Holographic Parallax Improves 3D Perceptual Realism",
+        "aff": "Stanford University; Seoul National University"
+    },
+    {
+        "title": "I2V-Adapter: A General Image-to-Video Adapter for Diffusion Models",
+        "aff": "Kuaishou Technology; Institute of Automation, Chinese Academy of Sciences; University of Science and Technology of China"
+    },
+    {
+        "title": "Implicit Surface Tension for SPH Fluid Simulation",
+        "aff": "RWTH Aachen University"
+    },
+    {
+        "title": "Implicit Swept Volume SDF: Enabling Continuous Collision-free Trajectory Generation for Arbitrary Shapes",
+        "aff": "Deemos Technology; Zhejiang University; ShanghaiTech University"
+    },
+    {
+        "title": "Importance Sampling BRDF Derivatives",
+        "aff": "Massachusetts Institute of Technology (MIT); University of California San Diego"
+    },
+    {
+        "title": "In the Quest for Scale-Optimal Mappings",
+        "aff": "Universit\u00e9 de Lorraine, CNRS, Inria, LORIA; Dorodnicyn Computing Center FRC CSC RAS Moscow Institute of Physics and Technology; Universit\u00e9 de Lorraine"
+    },
+    {
+        "title": "Interactive Character Control With Auto-regressive Motion Diffusion Models",
+        "aff": "Xmov; Simon Fraser University; Shanghai Aritificial Intelligence Laboratory; NVIDIA"
+    },
+    {
+        "title": "Interactive Design of Stylized Walking Gaits for Robotic Characters",
+        "aff": "Walt Disney Imagineering R&D; PickNik Robotics; Disney Research"
+    },
+    {
+        "title": "Interactive Invigoration: Volumetric Modeling of Trees With Strands",
+        "aff": "Purdue University; Kiel University; AMU"
+    },
+    {
+        "title": "Into the Portal: Directable Fractal Self-Similarity",
+        "aff": "Yale University"
+    },
+    {
+        "title": "Intrinsic Image Decomposition via Ordinal Shading",
+        "aff": "Simon Fraser University"
+    },
+    {
+        "title": "IntrinsicDiffusion: Joint Intrinsic Layers From Latent Diffusion Models",
+        "aff": "University of Bath; Adobe Research; Meta"
+    },
+    {
+        "title": "InvertAvatar: Incremental GAN Inversion for Generalized Head Avatars",
+        "aff": "Tsinghua University"
+    },
+    {
+        "title": "Iterative Motion Editing With Natural Language",
+        "aff": "Snap; Stanford University"
+    },
+    {
+        "title": "Joint Stroke Tracing and Correspondence for 2D Animation",
+        "aff": "Sun Yat-sen University"
+    },
+    {
+        "title": "Kinetic Simulation of Turbulent Multifluid Flows",
+        "aff": "Ecole Polytechnique; LightSpeed Studios; INRIA"
+    },
+    {
+        "title": "LGTM: Local-to-Global Text-driven Human Motion Diffusion Model",
+        "aff": "Kuaishou Technology; Shenzhen University; ByteDance Inc."
+    },
+    {
+        "title": "LOOSECONTROL: Lifting ControlNet for Generalized Depth Conditioning",
+        "aff": "University College London (UCL); Adobe Research; King Abdullah University of Science and Technology (KAUST)"
+    },
+    {
+        "title": "Lagrangian Covector Fluid With Free Surface",
+        "aff": "Georgia Institute of Technology"
+    },
+    {
+        "title": "Latent L-systems: Transformer-based Tree Generator",
+        "aff": "Purdue University"
+    },
+    {
+        "title": "LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer",
+        "aff": "Tsinghua University; NNKosmos Technology; Beijing Normal University"
+    },
+    {
+        "title": "Learning Images Across Scales Using Adversarial Training",
+        "aff": "INRIA, Universit\u00e9 C\u00f4te d'Azur; Max Planck Institute for Informatics; Nanyang Technological University"
+    },
+    {
+        "title": "Learning Physically Realizable Skills for Online Packing of General 3D Shapes",
+        "aff": "School of Computer Science National University of Defense Technology; National Key Laboratory for Novel Software Technology; Tencent - Lightspeed Studio"
+    },
+    {
+        "title": "Learning a Generalized Physical Face Model From Data",
+        "aff": "University of Wisconsin Madison; ETH Z\u00fcrich; Walt Disney Company, Switzerland"
+    },
+    {
+        "title": "Lifting Directional Fields to Minimal Sections",
+        "aff": "Harvard University; Massachusetts Institute of Technology (MIT); University of California San Diego"
+    },
+    {
+        "title": "Light Codes for Fast Two-Way Human-Centric Visual Communication",
+        "aff": "Snap Research; University of Wisconsin-Madison; Snap Inc."
+    },
+    {
+        "title": "LightFormer: Light-oriented Global Neural Rendering in Dynamic Scene",
+        "aff": "University of Hong Kong; Zhejiang Lab; State Key Laboratory of CAD & CG, Zhejiang University"
+    },
+    {
+        "title": "Lightning-fast Method of Fundamental Solutions",
+        "aff": "Georgia Institute of Technology; INRIA, Saclay"
+    },
+    {
+        "title": "Lite2Relight: 3D-aware Single Image Portrait Relighting",
+        "aff": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg (FAU); ETH Z\u00fcrich; Massachusetts Institute of Technology (MIT); Institute of Science and Technology Austria (ISTA); Harvard University; Saarbr\u00fccken Research Center for Visual Computing, Interaction and Artificial Intelligence (VIA); Max Planck Institute for Informatics; Google AR/VR"
+    },
+    {
+        "title": "MERCI: Mixed curvature-based elements for computing equilibria of thin elastic ribbons",
+        "aff": "University Grenoble Alpes Inria, CNRS, Grenoble INP, LJK; INRIA; Sorbonne Universit\u00e9 - CNRS"
+    },
+    {
+        "title": "MVD^2: Efficient Multiview 3D Reconstruction for Multiview Diffusion",
+        "aff": "Tsinghua University; Microsoft Research Asia; Microsoft"
+    },
+    {
+        "title": "MaPa: Text-driven Photorealistic Material Painting for 3D Shapes",
+        "aff": "State Key Lab of CAD and CG, Zhejiang University; Ant Group; Shenzhen University; Zhejiang University"
+    },
+    {
+        "title": "Matting by Generation",
+        "aff": "Hefei University of Technology; National Taiwan University; National Institute of Informatics; Chinese University of Hong Kong; Snap; National Chiao Tung University; University of Tokyo"
+    },
+    {
+        "title": "Media2Face: Co-speech Facial Animation Generation With Multi-modality Guidance",
+        "aff": "University of Hong Kong; Deemos Technology; DGene Digital Technology Co., Ltd.; ShanghaiTech University"
+    },
+    {
+        "title": "Mesh Neural Cellular Automata",
+        "aff": "EPFL; Google Research"
+    },
+    {
+        "title": "Minkowski Penalties: Robust Differentiable Constraint Enforcement for Vector Graphics",
+        "aff": "Independent; Carnegie Mellon University"
+    },
+    {
+        "title": "MoConVQ: Unified Physics-based Motion Control via Scalable Discrete Representations",
+        "aff": "Peking University, School of EECS; State Key Laboratory of General Artificial Intelligence; School of Computer Science, Peking University; Peking University"
+    },
+    {
+        "title": "Mob-FGSR: Frame Generation and Super Resolution for Mobile Real-time Rendering",
+        "aff": "OPPO Computing & Graphics Research Institute; State Key Lab of CAD&CG, Zhejiang University; Zhejiang University; State Key Laboratory of CAD & CG, Zhejiang University; University of California Santa Barbara"
+    },
+    {
+        "title": "Modal Folding: Discovering Smooth Folding Patterns for Sheet Materials Using Strain-space Modes",
+        "aff": "ETH Z\u00fcrich; Universit\u00e9 de Montr\u00e9al; University of Haifa"
+    },
+    {
+        "title": "Modeling Ambient Scene Dynamics for Free-view Synthesis",
+        "aff": "Meta; University of Maryland, College Park; University of Washington"
+    },
+    {
+        "title": "Modeling Hair Strands With Roving Capsules",
+        "aff": "NVIDIA"
+    },
+    {
+        "title": "Modelling a Feather as a Strongly Anisotropic Elastic Shell",
+        "aff": "University Grenoble Alpes Inria, CNRS, Grenoble INP, LJK; IIT Delhi; INRIA; Yale University"
+    },
+    {
+        "title": "MonoGaussianAvatar: Monocular Gaussian Point-based Head Avatar",
+        "aff": "Tsinghua University; Communication University of China; Harbin Institute of Technology"
+    },
+    {
+        "title": "Motion-I2V: Consistent and Controllable Image-to-video Generation With Explicit Motion Modeling",
+        "aff": "SenseTime; Tsinghua University; The Chinese University of Hong Kong; NVIDIA"
+    },
+    {
+        "title": "MotionCtrl: A Unified and Flexible Motion Controller for Video Generation",
+        "aff": "University of Hong Kong; Guangdong University of Technology; Peking University; Tencent AI Lab; Tsinghua University; ARC Lab, Tencent PCG"
+    },
+    {
+        "title": "Multi-material Mesh-based Surface Tracking With Implicit Topology Changes",
+        "aff": "University of Vienna; Institute of Science and Technology Austria (ISTA)"
+    },
+    {
+        "title": "N-BVH: Neural Ray Queries With Bounding Volume Hierarchies",
+        "aff": "DFKI; Saarland Informatics Campus; Adobe"
+    },
+    {
+        "title": "N-Dimensional Gaussians for Fitting of High Dimensional Functions",
+        "aff": "INRIA, Universit\u00e9 C\u00f4te d'Azur; Intel Labs"
+    },
+    {
+        "title": "NICER: A New and Improved Consumed Endurance and Recovery Metric to Quantify Muscle Fatigue of Mid-air Interactions",
+        "aff": "University of New England; Monash University; The University of British Columbia, Okanagan"
+    },
+    {
+        "title": "Navigation-driven Approximate Convex Decomposition",
+        "aff": "Epic Games"
+    },
+    {
+        "title": "NeLT: Object-oriented Neural Light Transfer",
+        "aff": "State Key Lab of CAD&CG, Zhejiang University; Zhejiang Lab; Zhejiang University  State Key Lab of CAD&CG"
+    },
+    {
+        "title": "NeRF as a Non-distant Environment Emitter in Physics-based Inverse Rendering",
+        "aff": "Tsinghua University; Tibet University; University of California Irvine"
+    },
+    {
+        "title": "NeurCADRecon: Neural Representation for Reconstructing CAD Surfaces by Enforcing Zero Gaussian Curvature",
+        "aff": "University of Hong Kong; Qingdao University of Science and Technology; Shandong University; Texas A&M University; AMSS, Chinese Academy of Sciences"
+    },
+    {
+        "title": "Neural Bounding",
+        "aff": "University College London (UCL); Birkbeck, University of London"
+    },
+    {
+        "title": "Neural Control Variates With Automatic Integration",
+        "aff": "Stanford University; Cornell University"
+    },
+    {
+        "title": "Neural Gaussian Scale-space Fields",
+        "aff": "Max Planck Institute for Informatics"
+    },
+    {
+        "title": "Neural Geometry Fields for Meshes",
+        "aff": "University of California San Diego"
+    },
+    {
+        "title": "Neural Monte Carlo Fluid Simulation",
+        "aff": "Computer Science and Artificial Intelligence Laboratory (CSAIL), Massachusetts Institute of Technology (MIT); University of Southern California; University of Pennsylvania"
+    },
+    {
+        "title": "Neural Slicer for Multi-axis 3D Printing",
+        "aff": "University of Manchester"
+    },
+    {
+        "title": "Neural-assisted Homogenization of Yarn-level Cloth",
+        "aff": "State Key Lab of CAD and CG, Zhejiang University; University of Utah; Style3D Research; State Key Laboratory of CAD & CG, Zhejiang University"
+    },
+    {
+        "title": "NeuralTO: Neural Reconstruction and View Synthesis of Translucent Objects",
+        "aff": "TMCC; OPPO US Research Center; Nankai University"
+    },
+    {
+        "title": "NeuralVDB: High-resolution Sparse Volume Representation using Hierarchical Neural Networks",
+        "aff": "NVIDIA, USA; NVIDIA"
+    },
+    {
+        "title": "Object-level Scene Deocclusion",
+        "aff": "Tel Aviv University; University of Hong Kong; Adobe Research; The Chinese University of Hong Kong"
+    },
+    {
+        "title": "One Noise to Rule Them All: Learning a Unified Model of Spatially-Varying Noise Patterns",
+        "aff": "Brown University; Adobe Research; Kiel University"
+    },
+    {
+        "title": "Online Neural Path Guiding with Normalized Anisotropic Spherical Gaussians",
+        "aff": "University of Hong Kong; Void Dimensions; Chuzhou University, Void Dimensions; Chuzhou University; Tohoku University"
+    },
+    {
+        "title": "PEA-PODs: Perceptual Evaluation of Algorithms for Power Optimization in XR Displays",
+        "aff": "Meta; New York University"
+    },
+    {
+        "title": "Part123: Part-aware 3D Reconstruction From a Single-view Image",
+        "aff": "Tsinghua University; University of Hong Kong; Texas A&M University"
+    },
+    {
+        "title": "Path-space Differentiable Rendering of Implicit Surfaces",
+        "aff": "Tokyo City University; University of California Irvine; Osaka University; NVIDIA"
+    },
+    {
+        "title": "Perceptual Evaluation of Steered Retinal Projection",
+        "aff": "Meta Reality Labs"
+    },
+    {
+        "title": "Physical Non-inertial Poser (PNP): Modeling Non-inertial Effects in Sparse-inertial Human Motion Capture",
+        "aff": "Tsinghua University; ETH Z\u00fcrich"
+    },
+    {
+        "title": "Physics-based Scene Layout Generation From Human Motion",
+        "aff": "The Chinese University of Hong Kong; Tencent Robotics X"
+    },
+    {
+        "title": "Physics-informed Learning of Characteristic Trajectories for Smoke Reconstruction",
+        "aff": "National Key Lab of General AI; ETH Z\u00fcrich; Peking University"
+    },
+    {
+        "title": "Portrait3D: Text-guided High-quality 3D Portrait Generation Using Pyramid Representation and GANs Prior",
+        "aff": "ETH Z\u00fcrich; State Key Lab of CAD&CG, Zhejiang University; OPPO US Research Center; Zhejiang University; Yale University"
+    },
+    {
+        "title": "Position-based Nonlinear Gauss-Seidel for Quasistatic Hyperelasticity",
+        "aff": "Epic Games; University of California Los Angeles; University of California Davis"
+    },
+    {
+        "title": "Practical Error Estimation for Denoised Monte Carlo Image Synthesis",
+        "aff": "Luxion; University of California San Diego; Technical University of Denmark"
+    },
+    {
+        "title": "Preconditioned Nonlinear Conjugate Gradient Method for Real-time Interior-point Hyperelasticity",
+        "aff": "Fuxi AI Lab, NetEase Inc"
+    },
+    {
+        "title": "Primal-dual Non-smooth Friction for Rigid Body Animation",
+        "aff": "Institute of Science and Technology Austria (ISTA)"
+    },
+    {
+        "title": "Progressive Dynamics for Cloth and Shell Animation",
+        "aff": "Adobe Research; Stanford University; Adobe"
+    },
+    {
+        "title": "Promptable Game Models: Text-Guided Game Simulation via Masked Diffusion Models",
+        "aff": "Institut Polytechnique de Paris; Snap; Paris Telecom LTCI; Max Planck Institute for Informatics; Universita degli Studi di Trento Fondazione Bruno Kessler"
+    },
+    {
+        "title": "Proxy Asset Generation for Cloth Simulation in Games",
+        "aff": "Peking Unversity; LightSpeed Studios"
+    },
+    {
+        "title": "Proxy Tracing: Unbiased Reciprocal Estimation for Optimized Sampling in BDPT",
+        "aff": "Peking University"
+    },
+    {
+        "title": "QT-Font: High-efficiency Font Synthesis via Quadtree-based Diffusion Models",
+        "aff": "Wangxuan Institute of Computer Technology; Peking University; Wangxuan Institute of Computer Technology, Peking University"
+    },
+    {
+        "title": "Quad-optimized Low-discrepancy Sequences",
+        "aff": "CNRS - LIRIS; University of Lyon 1"
+    },
+    {
+        "title": "RGB\u2194X: Image Decomposition and Synthesis Using Material- and Lighting-aware Diffusion Models",
+        "aff": "University of California Santa Barbara; Adobe Research"
+    },
+    {
+        "title": "RTG-SLAM: Real-time 3D Reconstruction at Scale Using Gaussian Splatting",
+        "aff": "Baidu Research; University of Utah; Zhejiang University"
+    },
+    {
+        "title": "Radar Fields: Frequency-space Neural Scene Representations for FMCW Radar",
+        "aff": "ETH Z\u00fcrich; Princeton University; KU Leuven"
+    },
+    {
+        "title": "Ray Tracing Harmonic Functions",
+        "aff": "Technical University of Dortmund; Carnegie Mellon University; Pixar"
+    },
+    {
+        "title": "ReFiNe: Recursive Field Networks for Cross-modal Multi-scene Representation",
+        "aff": "Toyota Research Institute"
+    },
+    {
+        "title": "Reach for the Arcs: Reconstructing Surfaces From SDFs via Tangent Points",
+        "aff": "University of Toronto; EPFL; University of Southern California; University of Waterloo"
+    },
+    {
+        "title": "Real-Time Neural Appearance Models",
+        "aff": "NVIDIA"
+    },
+    {
+        "title": "Real-time Hair Rendering With Hair Meshes",
+        "aff": "Cyber Radiance; University of Utah; RTX"
+    },
+    {
+        "title": "Real-time Neural Woven Fabric Rendering",
+        "aff": "Shandong University; Nanjing University"
+    },
+    {
+        "title": "Real-time Path Guiding Using Bounding Voxel Sampling",
+        "aff": "University of California San Diego"
+    },
+    {
+        "title": "Real-time Physically Guided Hair Interpolation",
+        "aff": "Roblox; LightSpeed Studios; University of Utah"
+    },
+    {
+        "title": "Real-time Wing Deformation Simulations for Flying Insects",
+        "aff": "East China Jiaotong University; Jiangxi University Finance and Economics; University of Houston"
+    },
+    {
+        "title": "RealFill: Reference-driven Generation for Authentic Image Completion",
+        "aff": "Snap; Google Research; Cornell University"
+    },
+    {
+        "title": "Recompose Grammars for Procedural Architecture",
+        "aff": "Esri R&D Center Zurich"
+    },
+    {
+        "title": "Repulsive Shells",
+        "aff": "University of Bonn; \u00c9cole Normale Sup\u00e9rieure Paris-Saclay; University of Georgia; Carnegie Mellon University"
+    },
+    {
+        "title": "Rip-NeRF: Anti-aliasing Radiance Fields With Ripmap-encoded Platonic Solids",
+        "aff": "Southern Medical University; Beijing Institute of Technology; Beihang University; Tencent AI Lab; Tsinghua University; Dermatology Hospital"
+    },
+    {
+        "title": "Robust Containment Queries Over Collections of Rational Parametric Curves via Generalized Winding Numbers",
+        "aff": "Indiana University School of Medicine; University of Colorado Boulder; Lawrence Livermore National Laboratory"
+    },
+    {
+        "title": "S3: Speech, Script, and Scene Driven Head and Eye Animation",
+        "aff": "University of Toronto; Jali Research, Canada"
+    },
+    {
+        "title": "SMEAR: Stylized Motion Exaggeration With ARt-direction",
+        "aff": "Laboratoire Bordelais de Recherche en Informatique (LaBRI); INRIA, Bordeaux Sud-Ouest"
+    },
+    {
+        "title": "SMERF: Streamable Memory Efficient Radiance Fields for Real-time Large-scene Exploration",
+        "aff": "Google Research; T\u00fcbingen AI Center, University of T\u00fcbingen; Google DeepMind; Google AR/VR"
+    },
+    {
+        "title": "ST-4DGS: Spatial-Temporally Consistent 4D Gaussian Splatting for Efficient Dynamic Scene Rendering",
+        "aff": "Beijing Normal University"
+    },
+    {
+        "title": "Saccade-contingent Rendering",
+        "aff": "Reality Labs Research, Meta; Reality Labs, Meta; New York University"
+    },
+    {
+        "title": "Scale-invariant Monocular Depth Estimation via SSI Depth",
+        "aff": "Simon Fraser University"
+    },
+    {
+        "title": "Scintilla: Simulating Combustible Vegetation for Wildfires",
+        "aff": "Kiel University; King Abdullah University of Science and Technology (KAUST); AMU"
+    },
+    {
+        "title": "Seamless Parametrization in Penner Coordinates",
+        "aff": "New York University"
+    },
+    {
+        "title": "Self-Supervised High Dynamic Range Imaging: What Can Be Learned from a Single 8-bit Video?",
+        "aff": "ISTI CNR; University of Warwick  WMG, Warwick Manufacturing Group; CNR ISTI"
+    },
+    {
+        "title": "Self-supervised Video Defocus Deblurring With Atlas Learning",
+        "aff": "Max Planck Institute for Informatics; University of Melbourne"
+    },
+    {
+        "title": "Semantic Gesticulator: Semantics-aware Co-speech Gesture Synthesis",
+        "aff": "Peking University, School of EECS; State Key Laboratory of General Artificial Intelligence; Shandong University; Renmin University of China; Peking University; School of Computer Science, Peking University"
+    },
+    {
+        "title": "Semantic Shape Editing With Parametric Implicit Templates",
+        "aff": "EPFL; Adobe Research"
+    },
+    {
+        "title": "Separate-and-Enhance: Compositional Finetuning for Text-to-image Diffusion Models",
+        "aff": "Adobe Research; Carnegie Mellon University; University of Illinois Urbana-Champaign"
+    },
+    {
+        "title": "Simplicits: Mesh-free, Geometry-agnostic Elastic Simulation",
+        "aff": "University of Toronto; Texas A&M University; NVIDIA Research; NVIDIA"
+    },
+    {
+        "title": "Singular Foliations for Knit Graph Design",
+        "aff": "Boston University; Northeastern University"
+    },
+    {
+        "title": "SketchDream: Sketch-based Text-to-3D Generation and Editing",
+        "aff": "Cardiff University; City University of Hong Kong; University of Chinese Academy of Sciences; Institute of Computing Technology, Chinese Academy of Sciences"
+    },
+    {
+        "title": "Smooth Bijective Projection in a High-order Shell",
+        "aff": "University of Science and Technology of China"
+    },
+    {
+        "title": "Soft Pneumatic Actuator Design Using Differentiable Simulation",
+        "aff": "New York University/ Courant; Disney Research"
+    },
+    {
+        "title": "Solid Knitting",
+        "aff": "Carnegie Mellon University; Google"
+    },
+    {
+        "title": "Spatial and Surface Correspondence Field for Interaction Transfer",
+        "aff": "Kuaishou Technology; Shenzhen University"
+    },
+    {
+        "title": "Specular Polynomials",
+        "aff": "University of California Santa Barbara; Southeast University; University of Utah; Nanjing University"
+    },
+    {
+        "title": "Spice-E: Structural Priors in 3D Diffusion Using Cross-Entity Attention",
+        "aff": "Tel Aviv University"
+    },
+    {
+        "title": "Spin-It Faster: Quadrics Solve All Topology Optimization Problems That Depend Only on Mass Moments",
+        "aff": "Institute of Science and Technology Austria (ISTA)"
+    },
+    {
+        "title": "Spin-weighted Spherical Harmonics for Polarized Light Transport",
+        "aff": "Korea Advanced Institute of Science and Technology (KAIST); Microsoft Research Asia"
+    },
+    {
+        "title": "Split-Aperture 2-in-1 Computational Cameras",
+        "aff": "King Abdullah University of Science and Technology (KAUST); Princeton University"
+    },
+    {
+        "title": "Split-and-Fit: Learning B-Reps via Structure-aware Voronoi Partitioning",
+        "aff": "Tel Aviv University; Simon Fraser University; Shenzhen University"
+    },
+    {
+        "title": "Stabler Neo-Hookean Simulation: Absolute Eigenvalue Filtering for Projected Newton",
+        "aff": "Roblox; University of British Columbia; Adobe Research; University of Toronto; Columbia University"
+    },
+    {
+        "title": "Stochastic Computation of Barycentric Coordinates",
+        "aff": "Ecole Polytechnique; INRIA; Pixar"
+    },
+    {
+        "title": "StopThePop: Sorted Gaussian Splatting for View-consistent Real-time Rendering",
+        "aff": "Huawei Technologies; Independent; Technische Universit\u00e4t Wien (TU Wien); Graz University of Technology"
+    },
+    {
+        "title": "Strategy and Skill Learning for Physics-based Table Tennis Animation",
+        "aff": "The AI Institute; Carnegie Mellon University; Seoul National University"
+    },
+    {
+        "title": "Streetscapes: Large-scale Consistent Street View Generation Using Autoregressive Video Diffusion",
+        "aff": "Google Research; Stanford University; Cornell University"
+    },
+    {
+        "title": "Stylized Rendering as a Function of Expectation",
+        "aff": "Blueqat Inc.; University of Tokyo; Aoyama Gakuin University"
+    },
+    {
+        "title": "Subject-Diffusion: Open Domain Personalized Text-to-image Generation Without Test-time Fine-tuning",
+        "aff": "Southern University of Science and Technology; OPPO"
+    },
+    {
+        "title": "Super-resolution Cloth Animation With Spatial and Temporal Coherence",
+        "aff": "Zhejiang University; Style3D Research"
+    },
+    {
+        "title": "SuperPADL: Scaling Language-directed Physics-based Control With Progressive Supervised Distillation",
+        "aff": "University of Toronto; Simon Fraser University; Stanford University; NVIDIA"
+    },
+    {
+        "title": "Surface-filling Curve Flows via Implicit Medial Axes",
+        "aff": "University of Toronto; Adobe Research; University of Tokyo; NVIDIA"
+    },
+    {
+        "title": "TEDi: Temporally-Entangled Diffusion for Long-term Motion Synthesis",
+        "aff": "Snap; University of Chicago"
+    },
+    {
+        "title": "TIP-Editor: An Accurate 3D Editor Following Both Text-prompts and Image-prompts",
+        "aff": "Sun Yat-sen University; Peng Cheng Laboratory; Tencent AI Lab"
+    },
+    {
+        "title": "Taming Diffusion Probabilistic Models for Character Control",
+        "aff": "University of Hong Kong; Hong Kong University of Science and Technology; Tencent AI Lab"
+    },
+    {
+        "title": "Target-aware Image Denoising for Inverse Monte Carlo Rendering",
+        "aff": "Korea Advanced Institute of Science and Technology (KAIST); Gwangju Institute of Science and Technology"
+    },
+    {
+        "title": "Tele-Aloha: A Telepresence System With Low-budget and High-authenticity Using Sparse RGB Cameras",
+        "aff": "Tsinghua University; BOE Technology Group; Harbin Institute of Technology"
+    },
+    {
+        "title": "Temporal Acoustic Point Holography",
+        "aff": "University College London (UCL)"
+    },
+    {
+        "title": "Temporally Stable Metropolis Light Transport Denoising Using Recurrent Transformer Blocks",
+        "aff": "Tsinghua University; University of California San Diego"
+    },
+    {
+        "title": "TensoSDF: Roughness-aware Tensorial Representation for Robust Geometry and Material Reconstruction",
+        "aff": "The Hong Kong Polytechnic University; Shandong University; Nanjing University"
+    },
+    {
+        "title": "Terrain Amplification Using Multi Scale Erosion",
+        "aff": "INSA, Lyon; Adobe Research; Universit\u00e9 Claude Bernard Lyon 1; CNRS - LIRIS"
+    },
+    {
+        "title": "TexPainter: Generative Mesh Texturing With Multi-view Consistency",
+        "aff": "LightSpeed Studios; Southeast University; University of British Columbia; TransGP"
+    },
+    {
+        "title": "TexSliders: Diffusion-based Texture Editing in CLIP Space",
+        "aff": "Adobe Research; Universidad de Zaragoza; Adobe"
+    },
+    {
+        "title": "Text-guided Synthesis of Crowd Animation",
+        "aff": "University of Hong Kong; Tencent America; Centre for Transformative Garment Production (TransGP)"
+    },
+    {
+        "title": "Text-to-vector Generation With Neural Path Representation",
+        "aff": "Adobe Research; City University of Hong Kong"
+    },
+    {
+        "title": "The Chosen One: Consistent Characters in Text-to-image Diffusion Models",
+        "aff": "Tel Aviv University; The Interdisciplinary Center Herzliya; Hebrew University of Jerusalem; Google"
+    },
+    {
+        "title": "The Method of Moving Frames for Surface Global Parametrization",
+        "aff": "Universit\u00e9 Catholique de Louvain; Universit\u00e9 de Lorraine, Inria, LORIA"
+    },
+    {
+        "title": "ThemeStation: Generating Theme-aware 3D Assets From Few Exemplars",
+        "aff": "Nanyang Technological University; Shanghai Aritificial Intelligence Laboratory; City University of Hong Kong"
+    },
+    {
+        "title": "Theory of Human Tetrachromatic Color Experience and Printing",
+        "aff": "University of California Berkeley"
+    },
+    {
+        "title": "Toonify3D: StyleGAN-based 3D Stylized Face Generator",
+        "aff": "POSTECH"
+    },
+    {
+        "title": "Towards Motion Metamers for Foveated Rendering",
+        "aff": "Universit\u00e0 della Svizzera Italiana"
+    },
+    {
+        "title": "Towards Unstructured Unlabeled Optical Mocap: A Video Helps!",
+        "aff": "Texas A&M University; University of Macau"
+    },
+    {
+        "title": "Training-free Consistent Text-to-image Generation",
+        "aff": "Tel Aviv University; Independent; NVIDIA Research"
+    },
+    {
+        "title": "Transparent Image Layer Diffusion Using Latent Transparency",
+        "aff": "Stanford University"
+    },
+    {
+        "title": "Ultra Inertial Poser: Scalable Motion Capture and Tracking From Sparse Inertial Sensors and Ultra-Wideband Ranging",
+        "aff": "ETH Z\u00fcrich"
+    },
+    {
+        "title": "Universal Facial Encoding of Codec Avatars From VR Headsets",
+        "aff": "Facebook Reality Labs"
+    },
+    {
+        "title": "VR-GS: A Physical Dynamics-aware Interactive Gaussian Splatting System in Virtual Reality",
+        "aff": "University of Hong Kong; University of Utah; University of California Los Angeles; Carnegie Mellon University; Amazon; Zhejiang University; Style3D Research"
+    },
+    {
+        "title": "VRMM: A Volumetric Relightable Morphable Head Model",
+        "aff": "Kuaishou Technology; Cardiff University"
+    },
+    {
+        "title": "Variational Feature Extraction in Scientific Visualization",
+        "aff": "University of Erlangen-Nuremberg"
+    },
+    {
+        "title": "Velocity-based Monte Carlo Fluids",
+        "aff": "University of Waterloo"
+    },
+    {
+        "title": "Versatile Vision Foundation Model for Image and Video Colorization",
+        "aff": "Disney Research Studios; ETH Z\u00fcrich; University of Wurzburg"
+    },
+    {
+        "title": "Vertex Block Descent",
+        "aff": "Roblox; University of Utah"
+    },
+    {
+        "title": "View-Independent Adjoint Light Tracing for Lighting Design Optimization",
+        "aff": "Technical University of Vienna; King Abdullah University of Science and Technology (KAUST); Technische Universit\u00e4t Wien (TU Wien)"
+    },
+    {
+        "title": "WalkTheDog: Cross-morphology Motion Alignment via Phase Manifolds",
+        "aff": "ETH Z\u00fcrich; Meta Reality Labs"
+    },
+    {
+        "title": "Walkin\u2019 Robin: Walk on Stars With Robin Boundary Conditions",
+        "aff": "Carnegie Mellon University; NVIDIA"
+    },
+    {
+        "title": "Woven Fabric Capture With a Reflection-transmission Photo Pair",
+        "aff": "Adobe Research; Nanjing University of Science and Technology; Nankai University; Nanjing University"
+    },
+    {
+        "title": "X-Portrait: Expressive Portrait Animation With Hierarchical Motion Attention",
+        "aff": "ByteDance Inc."
+    },
+    {
+        "title": "X-SLAM: Scalable Dense SLAM for Task-aware Optimization Using CSFD",
+        "aff": "University of Utah; University of California Los Angeles; Zhejiang University"
+    },
+    {
+        "title": "ZeroGrads: Learning Local Surrogates for Non-differentiable Graphics",
+        "aff": "University College London (UCL)"
+    },
+    {
+        "title": "fVDB : A Deep-learning Framework for Sparse, Large Scale, and High Performance Spatial Intelligence",
+        "aff": "University of California Berkeley; University of Wisconsin-Madison; NVIDIA Research"
+    }
+]

@@ -1,0 +1,1198 @@
+[
+    {
+        "title": "InstructAV: Instruction Fine-tuning Large Language Models for Authorship Verification",
+        "aff": "Singapore University of Technology and Design;Singapore University of Technology and Design;DSO;Singapore University of Technology and Design"
+    },
+    {
+        "title": "ReAct Meets ActRe: Autonomous Annotation of Agent Trajectories for Contrastive Self-Training",
+        "aff": "Department of Computer Science and Technology, Tsinghua University;Tsinghua University;Alibaba Group;Alibaba Group;Tsinghua University;Alibaba Group US"
+    },
+    {
+        "title": "Effective Prompt Extraction from Language Models",
+        "aff": "School of Computer Science, Carnegie Mellon University;Google"
+    },
+    {
+        "title": "SPEER: Sentence-Level Planning of Long Clinical Summaries via Embedded Entity Retrieval",
+        "aff": "Columbia University;Biomedical Informatics, Columbia University"
+    },
+    {
+        "title": "See What LLMs Cannot Answer: A Self-Challenge Framework for Uncovering LLM Weaknesses",
+        "aff": "University of Cambridge;Microsoft;Westlake University;Harbin Institute of Technology;University of Illinois Urbana Champaign;Westlake University;Microsoft;Meta Facebook;Westlake University"
+    },
+    {
+        "title": "From Strategic Narratives to Code-Like Cognitive Models: An LLM-Based Approach in A Sorting Task",
+        "aff": "University of Arizona;University of Arizona;University of Arizona"
+    },
+    {
+        "title": "Agent-DocEdit: Language-Instructed LLM Agent for Content-Rich Document Editing",
+        "aff": "University of California, Los Angeles;Adobe Systems;Adobe ;University of Maryland, College Park;Adobe"
+    },
+    {
+        "title": "Prompt Public Large Language Models to Synthesize Data for Private On-device Applications",
+        "aff": "Google;Google;Google;Research, Google"
+    },
+    {
+        "title": "Risks from Language Models for Automated Mental Healthcare: Ethics and Structure for Implementation",
+        "aff": "Stanford University;Stanford University"
+    },
+    {
+        "title": "Stream of Search (SoS): Learning to Search in Language",
+        "aff": "Stanford University;Massachusetts Institute of Technology;Harvey Mudd College;Stanford University;Stanford University;Stanford University;Stanford University"
+    },
+    {
+        "title": "ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction",
+        "aff": "Rutgers University;Sony AI;Beijing Medical University;Rutgers University;Massachusetts Institute of Technology;New Jersey Institute of Technology;University of Liverpool"
+    },
+    {
+        "title": "ACORN: Aspect-wise Commonsense Reasoning Explanation Evaluation",
+        "aff": "RIKEN AIP;Tohoku University;Tohoku University;Tohoku University;Tohoku University"
+    },
+    {
+        "title": "Enhancing Language Models with Idiomatic Reasoning",
+        "aff": "University of Illinois, Urbana Champaign;University of Illinois, Urbana Champaign;FAIR at Meta;University of Illinois, Urbana Champaign"
+    },
+    {
+        "title": "Will the Real Linda Please Stand up...to Large Language Models? Examining the Representativeness Heuristic in LLMs",
+        "aff": "Rice University;Rice University;Rice University"
+    },
+    {
+        "title": "Bot or Human? Detecting ChatGPT Imposters with A Single Question",
+        "aff": "University of California, Santa Barbara;University of California, Santa Barbara;Sage Hill School;UC Santa Barbara"
+    },
+    {
+        "title": "Timo: Towards Better Temporal Reasoning for Language Models",
+        "aff": "Soochow University;Soochow University;Soochow University, China;Shanghai Artificial Intelligence Laboratory;Soochow University, China;Harbin Institute of Technology;The Chinese University of Hong Kong"
+    },
+    {
+        "title": "MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies",
+        "aff": "Tsinghua University;Tsinghua University;Tsinghua University;Tsinghua University;ModelBest Inc.;Modelbest Inc.;ModelBest;Tsinghua University;Tsinghua University;Tsinghua University;National University of Singapore;, Tsinghua University;ModelBest;Alibaba Group;Tsinghua University;modelbest;Tsinghua University;Tsinghua University;Tsinghua University"
+    },
+    {
+        "title": "StateFlow: Enhancing LLM Task-Solving through State-Driven Workflows",
+        "aff": "Pennsylvania State University;Mathos AI;Microsoft Research;Pennsylvania State University"
+    },
+    {
+        "title": "Cohesive Conversations: Enhancing Authenticity in Multi-Agent Simulated Dialogues",
+        "aff": "The University of Tokyo;The University of Tokyo, Graduate School of  Information Science and Technology;The University of Tokyo"
+    },
+    {
+        "title": "Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation",
+        "aff": "Stanford University;Microsoft Research New England"
+    },
+    {
+        "title": "WorkBench: a Benchmark Dataset for Agents in a Realistic Workplace Setting",
+        "aff": "MindsDB;MindsDB;MindsDB Inc.;University of Glasgow;The university of Warwick;MLCommons"
+    },
+    {
+        "title": "Prompt-prompted Adaptive Structured Pruning for Efficient LLM Generation",
+        "aff": "Carnegie Mellon University;Meta Facebook"
+    },
+    {
+        "title": "Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating Real and Synthetic Data",
+        "aff": "Harvard University;Meta Generative AI;Stanford University;Stanford University;Anthropic;MATS Program;Reed College;Speechmatics;Computer Science Department, Stanford University;University of Maryland, College Park;Sequoia Capital;Stanford University;Stanford University;Google"
+    },
+    {
+        "title": "Exploiting the Potential of Seq2Seq Models as Robust Few-Shot Learners",
+        "aff": "KakaoBrain;kakaobrain;Sogang University;Kakaobrain;Kakao"
+    },
+    {
+        "title": "Pack of LLMs: Model Fusion at Test-Time via Perplexity Optimization",
+        "aff": "University of Minnesota - Twin Cities;University of California, San Diego;University of Minnesota, Minneapolis"
+    },
+    {
+        "title": "LLM-Datasets: An Open Framework for Pretraining Datasets of Large Language Models",
+        "aff": "German Research Center for AI;Universit\u00e4t des Saarlandes;Deutsches Forschungszentrum f\u00fcr K\u00fcnstliche Intelligenz;Common Crawl Foundation"
+    },
+    {
+        "title": "SteP: Stacked LLM Policies for Web Actions",
+        "aff": "ASAPP"
+    },
+    {
+        "title": "Helping or Herding? Reward Model Ensembles Mitigate but do not Eliminate Reward Hacking",
+        "aff": "Google;Google;Google;Massachusetts Institute of Technology;Google;Google;Google;Google;Google DeepMind;Tel Aviv University;Massachusetts Institute of Technology;Google DeepMind"
+    },
+    {
+        "title": "Measuring and Controlling Instruction (In)Stability in Language Model Dialogs",
+        "aff": "Harvard University;Harvard University;Harvard University;Northeastern University;Harvard University;Google"
+    },
+    {
+        "title": "ExoViP: Step-by-step Verification and Exploration with Exoskeleton Modules for Compositional Visual Reasoning",
+        "aff": "Beijing Institute for General Artificial Intelligence;Johns Hopkins University;Johns Hopkins University;Beijing Institute for General Artificial Intelligence"
+    },
+    {
+        "title": "MANGO: A Benchmark for Evaluating Mapping and Navigation Abilities of Large Language Models",
+        "aff": "Toyota Technological Institute at Chicago;Fudan University;Northwestern University;WeChat AI, Tencent;Toyota Technological Institute at Chicago;Toyota Technological Institute at Chicago"
+    },
+    {
+        "title": "Corex: Pushing the Boundaries of Complex Reasoning through Multi-Model Collaboration",
+        "aff": "National University of Singapore;Fudan University;East China Normal University;Fudan University;Department of Computer Science, The University of Hong Kong"
+    },
+    {
+        "title": "Poly-Visual-Expert Vision-Language Models",
+        "aff": "Fudan University;Fudan University;Fudan University;Fudan University;Fudan University;Fudan University;Fudan University;Fudan University;Fudan University;Fudan University;Fudan University;Fudan University;Fudan University;Fudan University;Fudan University;Fudan University;Fudan University;Fudan University;Fudan University;Fudan University;Fudan University;Fudan University;Fudan University"
+    },
+    {
+        "title": "Beyond Relevance: Evaluate and Improve Retrievers on Perspective Awareness",
+        "aff": "Carnegie Mellon University;University of Washington, Seattle;University of Pennsylvania;Tencent AI Lab Seattle;School of Computer Science, Carnegie Mellon University"
+    },
+    {
+        "title": "Pairwise Proximal Policy Optimization: Language Model Alignment with Comparative RL",
+        "aff": "University of California, Berkeley;University of California, Berkeley;Peking University;University of California, Berkeley;University of California, Berkeley"
+    },
+    {
+        "title": "Measuring Taiwanese Mandarin Language Understanding",
+        "aff": "National Taiwan University;National Taiwan University;National Taiwan University;National Taiwan University;Department of Computer Science and Informational Engineering, National Taiwan University"
+    },
+    {
+        "title": "Yes, no, maybe? Revisiting language models' response stability under paraphrasing for the assessment of political leaning",
+        "aff": "University of Zurich;Universit\u00e4t Potsdam"
+    },
+    {
+        "title": "IllusionVQA: A Challenging Optical Illusion Dataset for Vision Language Models",
+        "aff": "Bangladesh University of Engineering and Technology;Bangladesh University of Engineering and Technology;Bangladesh University of Engineering and Technology;Amazon;McGill University;Bangladesh University of Engineering and Technology"
+    },
+    {
+        "title": "PAPERCLIP: Associating Astronomical Observations and Natural Language with Multi-Modal Models",
+        "aff": "Harvard University;Harrow School;Massachusetts Institute of Technology"
+    },
+    {
+        "title": "Keep the Cost Down: A Review on Methods to Optimize LLM\u2019s KV-Cache Consumption",
+        "aff": "Wuhan University;Wuhan University;Shanghai Jiaotong University;Wuhan University;Shanghai Jiaotong University"
+    },
+    {
+        "title": "BumbleBee: Dynamic KV-Cache Streaming Submodular Summarization for Infinite-Context Transformers",
+        "aff": "University of Washington, Seattle;New York University, Shanghai;University of Maryland, College Park;Research, Google;Carnegie Mellon University;University of Washington, Seattle"
+    },
+    {
+        "title": "TMMLU+: An Improved Traditional Chinese Evaluation Suite for Foundation Models",
+        "aff": "Appier;National Yang Ming Chiao Tung University;iKala Interactive Media Inc.;National Taiwan University;Computer Science Department, Stanford University;University of Illinois, Urbana Champaign;iKala Interactive Media Inc."
+    },
+    {
+        "title": "Latent Causal Probing: A Formal Perspective on Probing with Causal Models of Data",
+        "aff": "Massachusetts Institute of Technology"
+    },
+    {
+        "title": "Certifying LLM Safety against Adversarial Prompting",
+        "aff": "School of Engineering and Applied Sciences, Harvard University;Harvard University;School of Engineering and Applied Sciences, Harvard University;Harvard University;University of Maryland, College Park;Harvard University"
+    },
+    {
+        "title": "Forcing Diffuse Distributions out of Language Models",
+        "aff": "School of Computer Science, Carnegie Mellon University;Carnegie Mellon University;Google;Carnegie Mellon University"
+    },
+    {
+        "title": "CHOPS: CHat with custOmer Profile Systems for Customer Service with LLMs",
+        "aff": "Tsinghua University;Tsinghua University;Tsinghua University;Tsinghua University;Tsinghua University;University of Copenhagen"
+    },
+    {
+        "title": "Aligning with Human Judgement: The Role of Pairwise Preference in Large Language Model Evaluators",
+        "aff": "University of Cambridge;Google;University of Cambridge;Monash University;PolyAI Limited;University of Cambridge;University of Cambridge"
+    },
+    {
+        "title": "Inspecting and Editing Knowledge Representations in Language Models",
+        "aff": "Massachusetts Institute of Technology;Microsoft;Massachusetts Institute of Technology"
+    },
+    {
+        "title": "SynerGPT: In-Context Learning for Personalized Drug Synergy Prediction and Drug Design",
+        "aff": "Genentech;National Institutes of Health;Allen Institute for Artificial Intelligence;University of Illinois, Urbana Champaign;University of Illinois, Urbana-Champaign;Hebrew University, Hebrew University of Jerusalem"
+    },
+    {
+        "title": "TOFU: A Task of Fictitious Unlearning for LLMs",
+        "aff": "Carnegie Mellon University;Microsoft Research;Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University"
+    },
+    {
+        "title": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversations",
+        "aff": "Microsoft;University of Washington;Pennsylvania State University;Microsoft Research;Microsoft;Microsoft;Microsoft Research;Microsoft;Microsoft Research;Pennsylvania State University"
+    },
+    {
+        "title": "Automata-based constraints for language model decoding",
+        "aff": "Google;Google;Google"
+    },
+    {
+        "title": "Do Language Models Plan Ahead for Future Tokens?",
+        "aff": "University of Colorado at Boulder;Cornell University;Cornell University"
+    },
+    {
+        "title": "Handling Open-Vocabulary Constructs in Formalizing Specifications: Retrieval Augmented Parsing with Expert Knowledge",
+        "aff": "State University of New York at Stony Brook;, State University of New York at Stony Brook;Harvey Mudd College;SUNY at Stony Brook;, State University of New York, Stony Brook;State University of New York, Stony Brook"
+    },
+    {
+        "title": "On Robustness-Accuracy Characterization of Language Models using Synthetic Datasets",
+        "aff": "Massachusetts Institute of Technology;International Business Machines;IBM, International Business Machines;Massachusetts Institute of Technology"
+    },
+    {
+        "title": "Should We Attend More or Less? Modulating Attention for Fairness",
+        "aff": "Montreal Institute for Learning Algorithms, University of Montreal, Universit\u00e9 de Montr\u00e9al;\u00c9cole Polytechnique de Montr\u00e9al"
+    },
+    {
+        "title": "STaR-GATE: Teaching Language Models to Ask Clarifying Questions",
+        "aff": "Stanford University;Stanford University;Stanford University;Stanford University"
+    },
+    {
+        "title": "Length-Controlled AlpacaEval: A Simple Debiasing of Automatic Evaluators",
+        "aff": "Stanford University;Stanford University;Stanford University"
+    },
+    {
+        "title": "Can It Edit? Evaluating the Ability of Large Language Models to Follow Code Editing Instructions",
+        "aff": "Northeastern University;Northeastern University;Northeastern University;Northeastern University;Wellesley College;Northeastern University;Northeastern University;Northeastern University;Hugging Face;Wellesley College;Northeastern University"
+    },
+    {
+        "title": "Enhancing Adversarial Robustness of LLMs with Analytic Hierarchy Process",
+        "aff": "Institute of Automation, Chinese Academy of Sciences;Institute of Automation\uff0cChinese Academy of Sciences;Institute of Automation, Chinese Academy of Sciences;Institute of Automation, Chinese Academy of Sciences"
+    },
+    {
+        "title": "CTIKG: LLM-Powered Knowledge Graph Construction from Cyber Threat Intelligence",
+        "aff": "Arizona State University;Arizona State University"
+    },
+    {
+        "title": "LITE: Modeling Environmental Ecosystems with Multimodal Large Language Models",
+        "aff": "The Hong Kong Polytechnic University;University of Pittsburgh;University of Pittsburgh;Department of Computer Science, University of North Carolina at Chapel Hill"
+    },
+    {
+        "title": "CULTURE-GEN: Revealing Global Cultural Perception in Language Models through Natural Language Prompting",
+        "aff": "University of Southern California;University of Washington;University of Southern California;Department of Computer Science, University of Washington"
+    },
+    {
+        "title": "3M-Diffusion: Latent Multi-Modal Diffusion for Language-Guided Molecular Structure Generation",
+        "aff": "Pennsylvania State University;Pennsylvania State University"
+    },
+    {
+        "title": "Self-Guide: Better Task-Specific Instruction Following via Self-Synthetic Finetuning",
+        "aff": ", Tsinghua University;Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University;School of Computer Science, Carnegie Mellon University"
+    },
+    {
+        "title": "Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models",
+        "aff": "Apple AI/ML;Columbia University;Apple;Apple;Apple AI/ML;UC Santa Barbara;Columbia University;Apple;Apple;Apple;UC Santa Barbara"
+    },
+    {
+        "title": "Tower: An Open Multilingual Large Language Model for Translation-Related Tasks",
+        "aff": "Instituto Superior T\u00e9cnico;Unbabel;Instituto Superior T\u00e9cnico;Unbabel;Unbabel;Instituto Superior T\u00e9cnico;Instituto Superior T\u00e9cnico;Instituto de Telecomunica\u00e7\u00f5es;CentraleSupelec;Unbabel;Unbabel;INESC-ID"
+    },
+    {
+        "title": "D2PO: Discriminator-Guided DPO with Response Evaluation Models",
+        "aff": ", University of Texas at Austin;Allen Institute for Artificial Intelligence;University of Massachusetts at Amherst;Princeton University;University of Texas at Austin"
+    },
+    {
+        "title": "StructLM: Towards Building Generalist Models for Structured Knowledge Grounding",
+        "aff": ", University of Waterloo;University of Waterloo;Waseda University;University of Waterloo;Hong Kong University of Science and Technology;University of Waterloo"
+    },
+    {
+        "title": "Evaluating the Adversarial Robustness of Retrieval-Based In-Context Learning for Large Language Models",
+        "aff": "University of Edinburgh, University of Edinburgh;University of Edinburgh;University of Edinburgh, University of Edinburgh;University of Edinburgh, University of Edinburgh"
+    },
+    {
+        "title": "Suspicion Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4",
+        "aff": "Google Research;KDDI Research, Inc.;The University of Tokyo;Allen Institute for Artificial Intelligence;The University of Tokyo, The University of Tokyo;The University of Tokyo"
+    },
+    {
+        "title": "Massive Activations in Large Language Models",
+        "aff": "Computer Science Department, Carnegie Mellon University;Meta;Carnegie Mellon University;FAIR, Meta AI"
+    },
+    {
+        "title": "EnvGen: Generating and Adapting Environments via LLMs for Training Embodied Agents",
+        "aff": "Department of Computer Science, University of North Carolina at Chapel Hill;University of North Carolina, Chapel Hill;Department of Computer Science, University of North Carolina at Chapel Hill;University of North Carolina at Chapel Hill;University of North Carolina at Chapel Hill"
+    },
+    {
+        "title": "Model Autophagy Analysis to Explicate Self-consumption within Human-AI Interactions",
+        "aff": "University of Macau;King Abdullah University of Science and Technology;Ant Group;KAUST"
+    },
+    {
+        "title": "Hydra: Sequentially-Dependent Draft Heads for Medusa Decoding",
+        "aff": "Massachusetts Institute of Technology;Massachusetts Institute of Technology;MIT;Massachusetts Institute of Technology;Adobe Systems;Massachusetts Institute of Technology"
+    },
+    {
+        "title": "CoCA: Regaining Safety-awareness of Multimodal Large Language Models with Constitutional Calibration",
+        "aff": "Hong Kong University of Science and Technology;Hong Kong Polytechnic University;Huawei Technologies Ltd.;Huawei Technologies Ltd.;Department of Computer Science, The University of Hong Kong;Noah\u2019s Ark Lab, Huawei Technologies;Huawei Noah's Ark Lab"
+    },
+    {
+        "title": "CoLLEGe: Concept Embedding Generation for Large Language Models",
+        "aff": "New York University;New York University;New York University"
+    },
+    {
+        "title": "Counting Like Transformers: Compiling Temporal Counting Logic Into Softmax Transformers",
+        "aff": "University of Notre Dame"
+    },
+    {
+        "title": "A Long Way to Go: Investigating Length Correlations in RLHF",
+        "aff": ", University of Texas at Austin;Princeton University;SalesForce.com;University of Texas at Austin"
+    },
+    {
+        "title": "JailBreakV: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks",
+        "aff": "Ohio State University, Columbus;Peking University;University of Wisconsin - Madison;University of Wisconsin - Madison;NVIDIA"
+    },
+    {
+        "title": "RAVEN: In-Context Learning with Retrieval-Augmented Encoder-Decoder Language Models",
+        "aff": "University of Illinois, Urbana Champaign;NVIDIA;NVIDIA;NVIDIA;University of Illinois, Urbana Champaign;NVIDIA"
+    },
+    {
+        "title": "Starling-7B: Improving Helpfulness and Harmlessness with RLAIF",
+        "aff": "University of California, Berkeley;University of California, Berkeley;University of California, Berkeley;Electrical Engineering & Computer Science Department, University of California Berkeley;Nexusflow;University of California, Berkeley;Sambanova Systems Inc.;University of California, Berkeley"
+    },
+    {
+        "title": "LLM4Causal: Democratized Causal Tools for Everyone via Large Language Model",
+        "aff": "North Carolina State University;North Carolina State University;North Carolina State University;North Carolina State University"
+    },
+    {
+        "title": "Reverse Training to Nurse the Reversal Curse",
+        "aff": "Meta Facebook;Meta AI"
+    },
+    {
+        "title": "Elephants Never Forget: Memorization and Learning of Tabular Data in Large Language Models",
+        "aff": "Eberhard-Karls-Universit\u00e4t T\u00fcbingen;Microsoft;Microsoft;Microsoft"
+    },
+    {
+        "title": "TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding",
+        "aff": "Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University;Meta AI (FAIR);Meta Facebook"
+    },
+    {
+        "title": "What is in Your Safe Data? Identifying Benign Data that Breaks Safety",
+        "aff": "Department of Computer Science, Princeton University;Princeton University;Princeton University"
+    },
+    {
+        "title": "Chain-of-Symbol Prompting For Spatial Reasoning in Large Language Models",
+        "aff": "University of Edinburgh;The Chinese University of Hong Kong;University of Edinburgh, University of Edinburgh;The Chinese University of Hong Kong;Westlake University"
+    },
+    {
+        "title": "Early Weight Averaging meets High Learning Rates for LLM Pre-training",
+        "aff": "University of Texas at Austin;University of Texas at Austin;University College London;Google DeepMind;University of Texas, Austin"
+    },
+    {
+        "title": "Evaluating Language Models for Efficient Code Generation",
+        "aff": "Amazon;Tongji University;Tongji University;Snowflake;Amazon;University of Illinois Urbana-Champaign"
+    },
+    {
+        "title": "AutoDAN: Interpretable Gradient-Based Adversarial Attacks on Large Language Models",
+        "aff": "University of Maryland, College Park;University of Maryland, College Park;Adobe Research;Adobe Systems;Adobe Research;University of Maryland;Adobe Systems;Adobe Systems"
+    },
+    {
+        "title": "Faithful and Unfaithful Error Recovery in Chain of Thought",
+        "aff": "University of California, San Diego;University of California, San Diego;University of California, San Diego;University of California, San Diego;University of California, San Diego;University of California, San Diego"
+    },
+    {
+        "title": "LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders",
+        "aff": "McGill University - Mila;McGill University;Saarland University;ServiceNow Research;ServiceNow Research;Mila, McGill University"
+    },
+    {
+        "title": "Information-Theoretic Distillation for Reference-less Summarization",
+        "aff": "University of Washington;University of Washington;University of Washington;Allen Institute for AI;University of Washington, Seattle;University of Washington;Department of Computer Science, University of Washington"
+    },
+    {
+        "title": "Mind the Privacy Unit! User-Level Differential Privacy for Language Model Fine-Tuning",
+        "aff": "Google;Google;Princeton University;Google Research;Google;University of Washington, Seattle;Google;Research, Google;Google"
+    },
+    {
+        "title": "On Fairness of Low-Rank Adaptation of Large Models",
+        "aff": "Computer Science Department, Stanford University;Computer Science Department, Stanford University;Stanford University;Stanford University;Google"
+    },
+    {
+        "title": "IsoBench: Benchmarking Multimodal Foundation Models on Isomorphic Representations",
+        "aff": "University of Southern California;Georgia Institute of Technology;Department of Computer Science, Duke University;University of Southern California;Duke University;University of Southern California;University of Southern California;Google DeepMind"
+    },
+    {
+        "title": "On Limitations of the Transformer Architecture",
+        "aff": "Columbia University;Google DeepMind;Columbia University"
+    },
+    {
+        "title": "Empowering Large Language Model Agents through Action Learning",
+        "aff": "Peking University;Bytedance;Department of Computer Science, The University of Hong Kong;Peking University;ByteDance Inc.;University of Hong Kong"
+    },
+    {
+        "title": "What makes a good metric? Evaluating automatic metrics for text-to-image consistency",
+        "aff": "Meta;Research, Facebook;FAIR (Meta Platforms Inc.);Meta"
+    },
+    {
+        "title": "Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training",
+        "aff": "Princeton University;Princeton University;Department of Computer Science, Princeton University;Facebook AI Research"
+    },
+    {
+        "title": "Forklift: An Extensible Neural Lifter",
+        "aff": "Google DeepMind;Huawei Technologies Ltd.;University of Edinburgh, University of Edinburgh;Edinburgh University, University of Edinburgh;University of Edinburgh, University of Edinburgh"
+    },
+    {
+        "title": "Beyond Accuracy: Evaluating the Reasoning Behavior of Large Language Models - A Survey",
+        "aff": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen;IT University of Copenhagen"
+    },
+    {
+        "title": "From Words to Numbers: Your Large Language Model Is Secretly A Capable Regressor When Given In-Context Examples",
+        "aff": "University of Arizona;Technical University of Cluj-Napoca;Technical University of Cluj-Napoca;University of Arizona"
+    },
+    {
+        "title": "Commonsense-T2I Challenge: Can Text-to-Image Generation Models Understand Commonsense?",
+        "aff": "University of Pennsylvania;University of Pennsylvania;UC Santa Barbara;Amazon;UC Santa Barbara"
+    },
+    {
+        "title": "Your Context Is Not an Array: Unveiling Random Access Limitations in Transformers",
+        "aff": "University of Toronto;Qualcomm Inc, Qualcomm"
+    },
+    {
+        "title": "ScenicNL: Generating Probabilistic Scenario Programs from Natural Language",
+        "aff": "University of California, Berkeley;Electrical Engineering & Computer Science Department, University of California, Berkeley;Electrical Engineering & Computer Science Department, University of California, Berkeley;University of California, Berkeley;University of California, Berkeley;Databricks"
+    },
+    {
+        "title": "Negative Preference Optimization: From Catastrophic Collapse to Effective Unlearning",
+        "aff": "University of California, Berkeley;University of California, Berkeley;Salesforce Research;University of California, Berkeley"
+    },
+    {
+        "title": "Information Guided Regularization for Fine-tuning Language Models",
+        "aff": "Virginia Polytechnic Institute and State University;Stevens Institute of Technology;Virginia Polytechnic Institute and State University;Virginia Polytechnic Institute and State University"
+    },
+    {
+        "title": "Are Language Models Robust Coreference Resolvers?",
+        "aff": "Georgia Institute of Technology;Georgia Institute of Technology"
+    },
+    {
+        "title": "Why do small language models underperform? Studying Language Model Saturation via the Softmax Bottleneck",
+        "aff": "INRIA;INRIA;Inria"
+    },
+    {
+        "title": "Building a Large Japanese Web Corpus for Large Language Models",
+        "aff": "Tokyo Institute of Technology;Institute of Science Tokyo;Tokyo Institute of Technology, Tokyo Institute of Technology;Tokyo Institute of Technology, Tokyo Institute of Technology;Institute of Science Tokyo;Tokyo Institute of Technology;Tokyo Institute of Technology;Tokyo Institute of Technology, Tokyo Institute of Technology;Institute of Science Tokyo;AIST, National Institute of Advanced Industrial Science and Technology"
+    },
+    {
+        "title": "Autonomous Evaluation and Refinement of Digital Agents",
+        "aff": "University of California, Berkeley;University of Michigan;University of California, Berkeley;University of California, Berkeley;Google;University of California, Berkeley"
+    },
+    {
+        "title": "DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning",
+        "aff": "Department of Computer Science, University of North Carolina at Chapel Hill;Department of Computer Science, University of North Carolina at Chapel Hill;University of North Carolina, Chapel Hill;University of North Carolina at Chapel Hill"
+    },
+    {
+        "title": "Multi-hop Question Answering under Temporal Knowledge Editing",
+        "aff": "South China University of Technology;South China University of Technology;South China University of Technology;South China University of Technology;Ant Group;King Abdullah University of Science and Technology;KAUST"
+    },
+    {
+        "title": "Let\u2019s Think Dot by Dot: Hidden computation in transformer language models",
+        "aff": "New York University;New York University"
+    },
+    {
+        "title": "Best Practices and Lessons Learned on Synthetic Data",
+        "aff": "Google DeepMind;Google DeepMind;Stanford University;Georgia Institute of Technology;Google DeepMind;Stanford University;Google;Google DeepMind;Google DeepMind;Google"
+    },
+    {
+        "title": "A Reparameterized Discrete Diffusion Model for Text Generation",
+        "aff": "The University of Hong Kong;Bytedance;Google DeepMind;Department of Computer Science, The University of Hong Kong"
+    },
+    {
+        "title": "AgentKit: Structured LLM Reasoning with Dynamic Graphs",
+        "aff": "Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University;NVIDIA;Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University;School of Computer Science, Carnegie Mellon University;School of Computer Science, Carnegie Mellon University"
+    },
+    {
+        "title": "Emergent World Models and Latent Variable Estimation in Chess-Playing Language Models",
+        "aff": "Galois"
+    },
+    {
+        "title": "\"Merge Conflicts!'\" Exploring the Impacts of External Knowledge Distractors to Parametric Knowledge Graphs",
+        "aff": "Carnegie Mellon University;School of Computer Science, Carnegie Mellon University"
+    },
+    {
+        "title": "The Larger the Better? Improved LLM Code-Generation via Budget Reallocation",
+        "aff": "Hebrew University of Jerusalem;Meta;Meta Facebook;Hebrew University, Hebrew University of Jerusalem;Meta"
+    },
+    {
+        "title": "From Narratives to Numbers: Valid Inference Using Language Model Predictions from Verbal Autopsies",
+        "aff": "University of Washington;University of Washington;University of Washington;Fred Hutchinson Cancer Research Center;Johns Hopkins University;Fred Hutchinson Cancer Research Center;University of Washington"
+    },
+    {
+        "title": "LLM360: Towards Fully Transparent Open-Source LLMs",
+        "aff": "Mohamed bin Zayed University of Artificial Intelligence;Snowflake;University of Southern California;Carnegie Mellon University;Carnegie Mellon University;University of Illinois, Urbana Champaign;Mohamed bin Zayed University of Artificial Intelligence;Petuum Inc.;Petuum Inc;Petuum Inc;Petuum Inc.;University of California, San Diego;Carnegie Mellon University;Mohamed bin Zayed University of Artificial Intelligence;Mohamed bin Zayed University of Artificial Intelligence;Mohamed bin Zayed University of Artificial Intelligence;Mohamed bin Zayed University of Artificial Intelligence;Mohamed bin Zayed University of Artificial Intelligence;Mohamed bin Zayed University of Artificial Intelligence;Northeastern University;Amazon;Mohamed bin Zayed University of Artificial Intelligence;The University of Melbourne;School of Computer Science, Carnegie Mellon University"
+    },
+    {
+        "title": "Using Natural Language Explanations to Rescale Human Judgments",
+        "aff": "University of Texas at Austin;Amazon;University of Texas, Austin;University of Texas at Austin"
+    },
+    {
+        "title": "Chinese Tiny LLM: Pretraining a Chinese-Centered Large Language Model",
+        "aff": "School of Data Science, The Chinese University of Hongkong, Shenzhen;Fudan University;Peking University;Peking University;Shanghai Jiaotong University;Hong Kong University of Science and Technology;Alibaba Group;Kuaishou- \u5feb\u624b\u79d1\u6280;Kuaishou- \u5feb\u624b\u79d1\u6280;University of Waterloo;University of Waterloo"
+    },
+    {
+        "title": "CALM : A Multi-task Benchmark for Comprehensive Assessment of Language Model Bias",
+        "aff": "Pennsylvania State University;Pennsylvania State University;Pennsylvania State University;Pennsylvania State University"
+    },
+    {
+        "title": "LLM economicus? Mapping the Behavioral Biases of LLMs via Utility Theory",
+        "aff": "Massachusetts Institute of Technology;Massachusetts Institute of Technology"
+    },
+    {
+        "title": "Deductive Beam Search: Decoding Deducible Rationale for Chain-of-Thought Reasoning",
+        "aff": "Fudan University;Google DeepMind;Fudan University;Microsoft"
+    },
+    {
+        "title": "Evaluating Cultural Adaptability of a Large Language Model via Simulation of Synthetic Personas",
+        "aff": "University College London, University of London;University College London, University of London;University College London, University of London"
+    },
+    {
+        "title": "How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?",
+        "aff": "Wuhan University;Fudan University;Fudan University;Fudan University;Google DeepMind;Fudan University"
+    },
+    {
+        "title": "Beyond A*: Better Planning with Transformers via Search Dynamics Bootstrapping",
+        "aff": "Meta FAIR;Meta AI;Meta Facebook;Meta;Mila;Meta AI (FAIR)"
+    },
+    {
+        "title": "Compression Represents Intelligence Linearly",
+        "aff": "Hong Kong University of Science and Technology;Hong Kong University of Science and Technology;WeChat, Tencent;Hong Kong University of Science and Technology"
+    },
+    {
+        "title": "Iteratively Prompting Multimodal LLMs to Reproduce Natural and AI-Generated Images",
+        "aff": "University of Massachusetts at Amherst;University of Massachusetts at Amherst;University of Massachusetts Amherst;University of Massachusetts, Amherst"
+    },
+    {
+        "title": "StyleTalker: Finetuning Audio Language Model and Style-Based Text-to-Speech Model for Fast Spoken Dialogue Generation",
+        "aff": "Columbia University;University of Rochester;University of Rochester;Columbia University"
+    },
+    {
+        "title": "Adaptive Quantization Error Reconstruction for LLMs with Mixed Precision",
+        "aff": "Alibaba Group;Alibaba Group;Alibaba Group;Tianjin University;Alibaba Cloud Intelligence Group"
+    },
+    {
+        "title": "Optimising Calls to Large Language Models with Uncertainty-Based Two-Tier Selection",
+        "aff": "University of Edinburgh;University of Edinburgh;University of Amsterdam"
+    },
+    {
+        "title": "Decoupling Noise and Toxic Parameters for Language Model Detoxification by Task Vector Merging",
+        "aff": "Tokyo University, Tokyo Institute of Technology;The University of Tokyo;The University of Tokyo, The University of Tokyo;The University of Tokyo"
+    },
+    {
+        "title": "Continual Pre-Training for Cross-Lingual LLM Adaptation: Enhancing Japanese Language Capabilities",
+        "aff": "Tokyo Institute of Technology;Tokyo Institute of Technology;Tokyo Institute of Technology, Tokyo Institute of Technology;Tokyo Institute of Technology, Tokyo Institute of Technology;Institute of Science Tokyo;Institute of Science Tokyo;Tokyo Institute of Technology, Tokyo Institute of Technology;AIST, National Institute of Advanced Industrial Science and Technology;Institute of Science Tokyo;Tokyo Institute of Technology"
+    },
+    {
+        "title": "Stronger Random Baselines for In-Context Learning",
+        "aff": "Cornell University;Cornell University"
+    },
+    {
+        "title": "Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model Mechanisms",
+        "aff": "University of Amsterdam;University of Amsterdam;Technion, Technion"
+    },
+    {
+        "title": "GPQA: A Graduate-Level Google-Proof Q&A Benchmark",
+        "aff": "New York University;New York University;New York University;New York University;New York University;New York University;New York University"
+    },
+    {
+        "title": "LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition",
+        "aff": "Tiktok;Allen Institute for Artificial Intelligence;Sea AI Lab;Sea AI Lab;Sea AI Lab"
+    },
+    {
+        "title": "Auxiliary task demands mask the capabilities of smaller language models",
+        "aff": "Harvard University;Stanford University"
+    },
+    {
+        "title": "A Language Agent for Autonomous Driving",
+        "aff": "University of Southern California;University of Southern California;Stanford University;NVIDIA"
+    },
+    {
+        "title": "Source-Aware Training Enables Knowledge Attribution in Language Models",
+        "aff": "University of Michigan - Ann Arbor;Allen Institute for Artificial Intelligence;Carnegie Mellon University;University of Michigan;Allen Institute for Artificial Intelligence;Department of Computer Science,  University of Illinois Urbana-Champaign;LG AI Research"
+    },
+    {
+        "title": "List Items One by One: A New Data Source and Learning Paradigm for Multimodal LLMs",
+        "aff": "University of California, San Diego;Microsoft;University of California, San Diego;Microsoft;Microsoft;Microsoft;University of California, San Diego, University of California, San Diego;Microsoft Research;Microsoft;Microsoft"
+    },
+    {
+        "title": "AmpleGCG: Learning a Universal and Transferable Generative Model of Adversarial Suffixes for Jailbreaking Both Open and Closed LLMs",
+        "aff": "Ohio State University, Columbus;The Ohio State University, Columbus"
+    },
+    {
+        "title": "MileBench: Benchmarking MLLMs in Long Context",
+        "aff": "The Chinese University of Hong Kong, Shenzhen;Shenzhen Research Institute of Big Data;The Chinese University of Hong Kong, Shenzhen;Shenzhen Research Institute of Big Data;The Chinese University of Hong Kong, Shenzhen"
+    },
+    {
+        "title": "Unforgettable Generalization in Language Models",
+        "aff": "Massachusetts Institute of Technology;International Business Machines;Microsoft"
+    },
+    {
+        "title": "Efficient Parallelization Layouts for Large-Scale Distributed Model Training",
+        "aff": "Prime Intellect;Aleph Alpha GmbH;Hasso Plattner Institute;Hasso Plattner Institute;University of Potsdam"
+    },
+    {
+        "title": "An In-Context Learning Agent for Formal Theorem-Proving",
+        "aff": "University of Texas at Austin;University of Texas at Austin;University of Texas, Austin;University of Texas at Austin;University of Texas at Austin"
+    },
+    {
+        "title": "Does RoBERTa Perform Better than BERT in Continual Learning: An Attention Sink Perspective",
+        "aff": "State University of New York, Stony Brook;State University of New York, Stony Brook"
+    },
+    {
+        "title": "Crowd-Calibrator: Can Annotator Disagreement Inform Calibration in Subjective Tasks?",
+        "aff": "Vrije Universiteit Amsterdam;University of Amsterdam;VU University Amsterdam;University of Southern California"
+    },
+    {
+        "title": "Generating Synthetic Datasets for Few-shot Prompt Tuning",
+        "aff": "Nanyang Technological University;Nanyang Technological University;School of Computer Science and  Engineering, Nanyang Technological University"
+    },
+    {
+        "title": "Description-Based Text Similarity",
+        "aff": "Bar-Ilan University;Bar Ilan University;Bar Ilan University"
+    },
+    {
+        "title": "MambaByte: Token-free Selective State Space Model",
+        "aff": "Cornell University;Cornell University;School of Engineering and Applied Sciences, Harvard University"
+    },
+    {
+        "title": "MBBQ: A Dataset for Cross-Lingual Comparison of Stereotypes in Generative LLMs",
+        "aff": "University of Amsterdam, University of Amsterdam;University of Groningen;University of Amsterdam"
+    },
+    {
+        "title": "Data Checklist: On Unit-Testing Datasets with Usable Information",
+        "aff": "Stanford University;Stanford University;Stanford University"
+    },
+    {
+        "title": "A Dynamic LLM-Powered Agent Network for Task-Oriented Agent Collaboration",
+        "aff": "Department of Computer Science and Technology, Tsinghua University;Georgia Institute of Technology;Tsinghua University;Tsinghua University;Stanford University"
+    },
+    {
+        "title": "What Are Tools Anyway? A Survey from the Language Model Perspective",
+        "aff": "Carnegie Mellon University;Shanghai Jiaotong University;Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University"
+    },
+    {
+        "title": "Scattered Mixture-of-Experts Implementation",
+        "aff": "Universit\u00e9 de Montr\u00e9al;University of Montreal;MIT-IBM Watson AI Lab;Universit\u00e9 de Montr\u00e9al"
+    },
+    {
+        "title": "Mapping the Increasing Use of LLMs in Scientific Papers",
+        "aff": "Stanford University;Stanford University;Stanford University;Stanford University;UC Santa Barbara;Stanford University;Stanford University;Stanford University;Stanford University;Stanford University;Stanford University;Computer Science Department, Stanford University"
+    },
+    {
+        "title": "FABLES: Evaluating faithfulness and content selection in book-length summarization",
+        "aff": "University of Massachusetts at Amherst;University of Massachusetts at Amherst;Adobe Research;Adobe Systems;Allen Institute for Artificial Intelligence;Princeton University;University of Massachusetts Amherst"
+    },
+    {
+        "title": "Prompt Exploration with Prompt Regression",
+        "aff": "Spotify;Massachusetts Institute of Technology;University of Michigan;International Business Machines"
+    },
+    {
+        "title": "Cookbook: A framework for improving LLM generative abilities via programmatic data generating templates",
+        "aff": "Stanford University;Stanford University"
+    },
+    {
+        "title": "Language Models as Critical Thinking Tools: A Case Study of Philosophers",
+        "aff": "University of Washington;University of Washington;Department of Computer Science"
+    },
+    {
+        "title": "Large Language Model Routing with Benchmark Datasets",
+        "aff": "Broad Institute;Universidade Federal de Minas Gerais, Universidade Federal de Minas Gerais;IBM Research;University of Michigan;Massachusetts Institute of Technology;Massachusetts Institute of Technology;International Business Machines"
+    },
+    {
+        "title": "Redesigning Information Markets in the Era of Language Models",
+        "aff": "Montreal Institute for Learning Algorithms, University of Montreal, University of Montreal;Max Planck Institute for Intelligent Systems, Max-Planck Institute;Max Planck Institute for Intelligent Systems;University of Montreal;Columbia University;Polytechnique Montreal"
+    },
+    {
+        "title": "Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability",
+        "aff": "Google;Google;Google Research, Brain Team;ML Collective;Google;Anthropic;Google;Google;Google;Google;Google DeepMind;Google;Google DeepMind;Google DeepMind;University of California, Berkeley;Google Brain;Google DeepMind;Google;Google Brain;Google Deepmind;Google;Google;Google;OpenAI;Google"
+    },
+    {
+        "title": "Nonparametric Variational Regularisation of Pretrained Transformers",
+        "aff": "Idiap Research Institute;Idiap Research Institute"
+    },
+    {
+        "title": "Zephyr: Direct Distillation of LM Alignment",
+        "aff": "Hugging Face;Hugging Face;Allen Institute for Artificial Intelligence;Zalando SE;Hugging Face;Hugging Face;Delft University of Technology;Hugging Face;School of Engineering and Applied Sciences, Harvard University;Hugging Face;Collinear AI"
+    },
+    {
+        "title": "Hummer: Towards Limited Competitive Preference Dataset",
+        "aff": "Peking University;McGill University;antgroup;Institute of Automation, Chinese Academy of Sciences;Ant Group;Ant Group;Peking University"
+    },
+    {
+        "title": "The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets",
+        "aff": "Northeastern University;Massachusetts Institute of Technology"
+    },
+    {
+        "title": "Revenge of the Fallen? Recurrent Models Match Transformers at Predicting Human Language Comprehension Metrics",
+        "aff": "University of California, San Diego;University of California, San Diego;University of California, San Diego"
+    },
+    {
+        "title": "Do Membership Inference Attacks Work on Large Language Models?",
+        "aff": "University of Virginia;Department of Computer Science, University of Washington;University of Washington, Seattle;Meta;Department of Computer Science, University of Washington;Department of Computer Science, University of Washington;University of Virginia;University of Washington;University of Washington"
+    },
+    {
+        "title": "LLM Reasoners: New Evaluation, Library, and Analysis of Step-by-Step Reasoning with Large Language Models",
+        "aff": "Meta;University of California, San Diego;Shanghai Jiaotong University;University of California, San Diego;University of California, San Diego;University of California, San Diego;University of Florida;University of California, San Diego;University of California, San Diego;University of California, San Diego;Amazon"
+    },
+    {
+        "title": "O3D: Offline Data-driven Discovery and Distillation for Sequential Decision-Making with Large Language Models",
+        "aff": "J.P. Morgan Chase;J.P. Morgan AI Research;Columbia University;J.P. Morgan Chase;J.P. Morgan Chase;J.P. Morgan Chase"
+    },
+    {
+        "title": "How Multilingual are Large Language Models Fine-tuned for Translation?",
+        "aff": "University of Maryland, College Park;University of Maryland, College Park"
+    },
+    {
+        "title": "Tabular Transfer Learning via Prompting LLMs",
+        "aff": "Korea Advanced Institute of Science & Technology;KAIST;Korea Advanced Institute of Science & Technology;Korea Advanced Institute of Science & Technology;Mohamed bin Zayed University of Artificial Intelligence;Carnegie Mellon University;Hyundai Motor Company;Korea Advanced Institute of Science & Technology"
+    },
+    {
+        "title": "Benchmarks as Microscopes: A Call for Model Metrology",
+        "aff": "Advanced Micro Devices;Meta;University of Washington, Seattle;Harvard University;UC Santa Barbara"
+    },
+    {
+        "title": "Personalized Collaborative Fine-Tuning for On-Device Large Language Models",
+        "aff": "School of Computer and Communication Sciences, EPFL - EPF Lausanne;School of Computer and Communication Sciences, EPFL - EPF Lausanne;EPFL"
+    },
+    {
+        "title": "Fakes of Varying Shades: How Warning Affects Human Perception and Engagement Regarding LLM Hallucinations",
+        "aff": "Pennsylvania State University;Pennsylvania State University;Seoul National University;The Pennsylvania State University"
+    },
+    {
+        "title": "Unified View of Grokking, Double Descent and Emergent Abilities: A Comprehensive Study on Algorithm Task",
+        "aff": "Tsinghua University;Tsinghua University;Tsinghua University;Tsinghua University"
+    },
+    {
+        "title": "ORAG: Ontology-Guided Retrieval-Augmented Generation for Theme-Specific Entity Typing",
+        "aff": "University of Illinois, Urbana Champaign;University of Illinois, Urbana Champaign;International Business Machines;University of Illinois at Urbana-Champaign (UIUC)"
+    },
+    {
+        "title": "Fine-grained Hallucination Detection and Editing for Language Models",
+        "aff": "University of Washington;Paul G. Allen School of Computer Science & Engineering, University of Washington;Carnegie Mellon University;Department of Computer Science, University of Washington;Carnegie Mellon University;Department of Computer Science, University of Washington;University of Washington"
+    },
+    {
+        "title": "Scalable Model Editing via Customized Expert Networks",
+        "aff": "Tomorrow Advancing Life;Tomorrow Advancing Life;Tomorrow Advancing Life"
+    },
+    {
+        "title": "Unveiling LLMs: The Evolution of Latent Representations in a Dynamic Knowledge Graph",
+        "aff": "University of Trento;Ipazia Spa;Fondazione Bruno Kessler;University of Trento;University of Trento"
+    },
+    {
+        "title": "Learning From Correctness Without Prompting Makes LLM Efficient Reasoner",
+        "aff": "City University of Hong Kong;Huawei Technologies Ltd.;University of Cambridge;City University of Hong Kong;Dongguan University of Technology;City University of Hong Kong"
+    },
+    {
+        "title": "CatCode: A Comprehensive Evaluation Framework for LLMs On the Mixture of Code and Text",
+        "aff": "Tsinghua University;Beijing Academy of Artificial Intelligence;Massachusetts Institute of Technology"
+    },
+    {
+        "title": "With Greater Text Comes Greater Necessity: Inference-Time Training Helps Long Text Generation",
+        "aff": "miHoYo;Tencent;Tencent AI Lab"
+    },
+    {
+        "title": "HDT: Hierarchical Document Transformer",
+        "aff": "Eberhard-Karls-Universit\u00e4t T\u00fcbingen;Eberhard-Karls-Universit\u00e4t T\u00fcbingen;UKP (TU Darmstadt);University of Tuebingen"
+    },
+    {
+        "title": "Evaluating LLMs at Detecting Errors in LLM Responses",
+        "aff": "Pennsylvania State University;Pennsylvania State University;Yale University;Pennsylvania State University;Pennsylvania State University;Pennsylvania State University;Pennsylvania State University;Pennsylvania State University;Pennsylvania State University;State University of New York at Stony Brook;Allen Institute for Artificial Intelligence;Pennsylvania State University;Pennsylvania State University;Pennsylvania State University;Pennsylvania State University"
+    },
+    {
+        "title": "Tuning Language Models by Proxy",
+        "aff": "University of Washington;Department of Computer Science, University of Washington;Department of Computer Science, University of Washington;Department of Computer Science, University of Washington;Department of Computer Science, University of Washington;Allen Institute for Artificial Intelligence"
+    },
+    {
+        "title": "The Curious Case of Nonverbal Abstract Reasoning with Multi-Modal Large Language Models",
+        "aff": "University of Southern California;University of Southern California;University of Southern California;Information Sciences Institute, University of Southern California;USC/ISI;University of Southern California"
+    },
+    {
+        "title": "LMD3: Language Model Data Density Dependence",
+        "aff": "University of Maryland, College Park;University of Maryland, College Park;Max Planck Institute for Intelligent Systems, Max-Planck Institute;Google;University of Maryland, College Park;Google"
+    },
+    {
+        "title": "HuatuoGPT-II, One-stage Training for Medical Adaption of LLMs",
+        "aff": "Chinese University of Hong Kong, Shenzhen;The Chinese University of Hong Kong;Southeast University;ShenZhen research institute of big data;The Chinese University of Hong Kong, Shenzhen;Shenzhen Research Institute of Big Data;Westlake University;The Chinese University of Hong Kong, Shenzhen;Chinese University of Hong Kong;Hong Kong Baptist University;Shenzhen Research Institute of Big Data;National University of Singapore;The Chinese University of Hong Kong, Shenzhen"
+    },
+    {
+        "title": "VisualWebBench: How Far Have Multimodal LLMs Evolved in Web Page Understanding and Grounding?",
+        "aff": "The Chinese University of Hong Kong;Peking University;Allen Institute for Artificial Intelligence;The Chinese University of Hong Kong;Carnegie Mellon University;Carnegie Mellon University"
+    },
+    {
+        "title": "Towards Verifiable Text Generation with Symbolic References",
+        "aff": "Massachusetts Institute of Technology;MIT;Good Data Initiative;Massachusetts Institute of Technology;Massachusetts Institute of Technology"
+    },
+    {
+        "title": "UniMem: Towards a Unified View of Long-Context Large Language Models",
+        "aff": "Xiamen University;Tsinghua University;Tsinghua University;Tsinghua University;Tsinghua University;Tsinghua University;Tsinghua University;Renmin University of China;Xiamen University, Tsinghua University;Tsinghua University;Tsinghua University;Beijing University of Posts and Telecommunications"
+    },
+    {
+        "title": "Uncovering Intermediate Variables in Transformers using Circuit Probing",
+        "aff": "Brown University;Universit\u00e9 de Toulouse;Brown University"
+    },
+    {
+        "title": "TarGEN: Targeted Data Generation with Large Language Models",
+        "aff": "Amazon;Amazon;Simplr AI;Arizona State University;Arizona State University;Google"
+    },
+    {
+        "title": "NoFunEval: Funny How Code LMs Falter on Requirements Beyond Functional Correctness",
+        "aff": "Microsoft;Microsoft;Microsoft;Microsoft;Microsoft"
+    },
+    {
+        "title": "Characterizing Multimodal Long-form Summarization: A Case Study on Financial Reports",
+        "aff": "Zhejiang University;J.P. Morgan Chase;University of Chicago"
+    },
+    {
+        "title": "Does In-Context Learning Really Learn? Rethinking How Large Language Models Respond and Solve Tasks via In-Context Learning",
+        "aff": "Nanyang Technological University;Nanyang Technological University;Nanyang Technological University;The Chinese University of Hong Kong"
+    },
+    {
+        "title": "Do Large Language Models Have Compositional Ability? An Investigation into Limitations and Scalability",
+        "aff": "University of Wisconsin - Madison;University of Wisconsin - Madison"
+    },
+    {
+        "title": "LLM as a Mastermind: A Survey of Strategic Reasoning with Large Language Models",
+        "aff": "Microsoft;Tencent AI Lab;Microsoft Research;East China Normal University;Microsoft Research"
+    },
+    {
+        "title": "LAMPO: Large Language Models as Preference Machines for Few-shot Ordinal Classification",
+        "aff": "Google Deepmind;Google Research;Google Research;Google DeepMind;Google"
+    },
+    {
+        "title": "Understanding Retrieval Augmentation for Long-Form Question Answering",
+        "aff": "University of Texas at Austin;University of Texas at Austin;University of Texas at Austin;University of Texas, Austin"
+    },
+    {
+        "title": "DeStein: Navigating Detoxification of Language Models via Universal Steering Pairs and Head-wise Activation Fusion",
+        "aff": "Tongji University;Tongji University;Tongji University;Tongji University"
+    },
+    {
+        "title": "Can MLLMs Perform Text-to-Image In-Context Learning?",
+        "aff": "Microsoft;Furiosa AI;KRAFTON;University of Wisconsin - Madison"
+    },
+    {
+        "title": "Bring Your Own Data! Self-Sensitivity Evaluation for Large Language Models",
+        "aff": "University of Maryland, College Park;University of Maryland, College Park;University of Maryland, College Park;University of Maryland, College Park;Department of Computer Science, University of Maryland, College Park;University of Maryland, College Park;New York University;Max Planck Institute for Intelligent Systems, Max-Planck Institute;University of Maryland, College Park"
+    },
+    {
+        "title": "PRobELM: Plausibility Ranking Evaluation for Language Models",
+        "aff": "University of Cambridge;Amazon (AWS);University of Cambridge;University of Cambridge;University of Cambridge"
+    },
+    {
+        "title": "From $r$ to $Q^*$: Your Language Model is Secretly a Q-Function",
+        "aff": "Stanford University;Stanford University;Google;Stanford University"
+    },
+    {
+        "title": "Can Language Models Solve Olympiad Programming?",
+        "aff": "Princeton University;Princeton University;Princeton University;Princeton University"
+    },
+    {
+        "title": "The N+ Implementation Details of RLHF with PPO: A Case Study on TL;DR Summarization",
+        "aff": "Hugging Face;University of Montreal;Montreal Institute for Learning Algorithms, University of Montreal, University of Montreal;Zalando SE;Hugging Face"
+    },
+    {
+        "title": "RULER: What\u2019s the Real Context Size of Your Long-Context Language Models?",
+        "aff": "NVIDIA;University of Massachusetts, Amherst;NVIDIA;NVIDIA;University of California, Berkeley;NVIDIA"
+    },
+    {
+        "title": "GeniL: A Multilingual Dataset on Generalizing Language",
+        "aff": "Research, Google;Google;Research, Google;Google"
+    },
+    {
+        "title": "Crystal: Illuminating LLM Abilities on Language and Code",
+        "aff": "University of Illinois, Urbana Champaign;Mohamed bin Zayed University of Artificial Intelligence;Carnegie Mellon University;Carnegie Mellon University;Cerebras Systems, Inc;Cerebras Systems, Inc;School of Computer Science, Carnegie Mellon University;Mohamed bin Zayed University of Artificial Intelligence;Cerebras Systems, Inc"
+    },
+    {
+        "title": "Don't throw away your value model! Generating more preferable text with Value-Guided Monte-Carlo Tree Search decoding",
+        "aff": "Meta Facebook;Meta Platforms;Meta Platforms Inc;Department of Computer Science, University of Washington;University of Washington;FAIR "
+    },
+    {
+        "title": "CA-LoRA: Adapting Existing LoRA for Compressed LLMs to Enable Efficient Multi-Tasking on Personal Devices",
+        "aff": "Tsinghua University;Tsinghua University;Tsinghua University;Tsinghua University;Apple;Tsinghua University"
+    },
+    {
+        "title": "AI-generated text boundary detection with RoFT",
+        "aff": "Queen Mary University of London;Skolkovo Institute of Science and Technology;Higher School of Economics;Skolkovo Institute of Science and Technology;CNRS, Institut Mathematiques de Jussieu, Paris Diderot University;Steklov Institute of Mathematics at St. Petersburg;Huawei Technologies Ltd.;Huawei"
+    },
+    {
+        "title": "Rejection Improves Reliability: Training LLMs to Refuse Unknown Questions Using RL from Knowledge Feedback",
+        "aff": "Shanghai Jiaotong University;Shanghai Jiaotong University;Shanghai Jiaotong University;Shanghai Jiaotong University;AISpeech Ltd;Shanghai Jiaotong University;Shanghai Jiaotong University"
+    },
+    {
+        "title": "Talk Less, Interact Better: Evaluating In-context Conversational Adaptation in Multimodal LLMs",
+        "aff": ""
+    },
+    {
+        "title": "LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset",
+        "aff": "The Ohio State University;Ohio State University, Columbus;Ohio State University;Ohio State University, Columbus;The Ohio State University, Columbus"
+    },
+    {
+        "title": "Automatic Pseudo-Harmful Prompt Generation for Evaluating False Refusals in Large Language Models",
+        "aff": "University of Maryland, College Park;University of Maryland, College Park;University of Maryland, College Park;University of Maryland, College Park;University of Maryland;Adobe Systems"
+    },
+    {
+        "title": "Multi-FAct: Assessing Factuality of Multilingual LLMs using FActScore",
+        "aff": "KAIST;KAIST;Korea Advanced Institute of Science & Technology;Korea Advanced Institute of Science & Technology"
+    },
+    {
+        "title": "Is ChatGPT a Good Sentiment Analyzer?",
+        "aff": "Nanjing University of Science and Technology;Nanjing University of Science and Technology;Nanjing University of Science and Technology;Nanjing University of Science and Technology;Nanjing University of Science and Technology"
+    },
+    {
+        "title": "AmbigDocs: Reasoning across Documents on Different Entities under the Same Name",
+        "aff": "Seoul National University;UT Austin;University of Texas, Austin"
+    },
+    {
+        "title": "Eliciting Latent Knowledge from \"Quirky\" Language Models",
+        "aff": "University of Washington, Seattle;University of Washington;University of Washington;FAR AI"
+    },
+    {
+        "title": "SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models",
+        "aff": "Shanghai Jiaotong University;Houmo AI;Peking University;The Chinese University of Hong Kong;Sensetime;The Chinese University of Hong Kong"
+    },
+    {
+        "title": "Impact of Preference Noise on the Alignment Performance of Generative Language Models",
+        "aff": "Google;Research, Google;Google"
+    },
+    {
+        "title": "Learning to Plan for Language Modeling from Unlabeled Data",
+        "aff": "KU Leuven;KU Leuven, KU Leuven;KU Leuven"
+    },
+    {
+        "title": "An Incomplete Loop: Instruction Inference, Instruction Following, and In-Context Learning in Language Models",
+        "aff": "School of Computer Science, Carnegie Mellon University;Carnegie Mellon University;Microsoft"
+    },
+    {
+        "title": "Instruction-tuning Aligns LLMs to the Human Brain",
+        "aff": "Singapore Management University;EPFL - EPF Lausanne;EPFL - EPF Lausanne;EPFL - EPF Lausanne;Swiss Federal Institute of Technology Lausanne"
+    },
+    {
+        "title": "AdaMoLE: Fine-Tuning Large Language Models with Adaptive Mixture of Low-Rank Adaptation Experts",
+        "aff": "Georgia Institute of Technology;University of Macau"
+    },
+    {
+        "title": "Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM",
+        "aff": "Meta AI;Meta Facebook;Meta Facebook;FAIR, AMI Foundation;Meta;Meta AI;Meta AI;Meta Facebook;Meta Platforms, Inc.;Facebook AI"
+    },
+    {
+        "title": "Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking",
+        "aff": "Stanford University;Computer Science Department, Stanford University;Stanford University;Stanford University"
+    },
+    {
+        "title": "Logits of API-Protected LLMs Leak Proprietary Information",
+        "aff": "University of Southern California;University of Southern California;University of Southern California"
+    },
+    {
+        "title": "Reasoning about concepts with LLMs: Inconsistencies abound",
+        "aff": "International Business Machines;International Business Machines;International Business Machines;International Business Machines"
+    },
+    {
+        "title": "PolygloToxicityPrompts: Multilingual Evaluation of Neural Toxic Degeneration in Large Language Models",
+        "aff": "Carnegie Mellon University;Independent;Allen Institute for Artificial Intelligence;University of Virginia, Charlottesville;Carnegie Mellon University;Carnegie Mellon University"
+    },
+    {
+        "title": "Stop Reasoning! When Multimodal LLM with Chain-of-Thought Reasoning Meets Adversarial Image",
+        "aff": "Technische Universit\u00e4t M\u00fcnchen;Amazon;University of Munich, Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen;Technische Universit\u00e4t M\u00fcnchen;LMU Munich;Siemens Corporate Research;University of Oxford"
+    },
+    {
+        "title": "Task Success is not Enough: Investigating the Use of Video-Language Models as Behavior Critics for Catching Undesirable Agent Behaviors",
+        "aff": "Arizona State University;Arizona State University;Arizona State University;Arizona State University;Arizona State University"
+    },
+    {
+        "title": "Web Retrieval Agents for Evidence-Based Misinformation Detection",
+        "aff": "Mila - Quebec Artificial Intelligence Institute;University of California, Berkeley;Department of Computer Science, Dartmouth College;International Institute of Information Technology, Hyderabad, International Institute of Information Technology Hyderabad;McGill University;Universit\u00e9 de Montr\u00e9al;Montreal Institute for Learning Algorithms, University of Montreal, University of Montreal;McGill University"
+    },
+    {
+        "title": "DISTFLASHATTN: Distributed Memory-efficient Attention for Long-context LLMs Training",
+        "aff": "University of Washington;School of Computer Science, Carnegie Mellon University;USC/ISI;University of California, Berkeley;University of California, Berkeley;Carnegie Mellon University"
+    },
+    {
+        "title": "How Far Are We from Intelligent Visual Deductive Reasoning?",
+        "aff": "Apple;Mila, UdeM;Apple;Apple;Apple;Apple;Apple"
+    },
+    {
+        "title": "Resolving Knowledge Conflicts in Large Language Models",
+        "aff": "University of California, Berkeley;University of Washington;Xi'an Jiaotong University;University of Washington, Seattle;Carnegie Mellon University;University of Washington;Department of Computer Science, University of Washington"
+    },
+    {
+        "title": "Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation",
+        "aff": "Harbin Institute of Technology;Tsinghua University;Tsinghua University;Tsinghua University;Nanchang University;University of Washington;Tsinghua University;Tsinghua University"
+    },
+    {
+        "title": "ChatGPT Based Data Augmentation for Improved Parameter-Efficient Debiasing of LLMs",
+        "aff": "Carleton College;California Institute of Technology;University of Cambridge;California Institute of Technology;California Institute of Technology;California Institute of Technology"
+    },
+    {
+        "title": "Look at the Text: Instruction-Tuned Language Models are More Robust Multiple Choice Selectors than You Think",
+        "aff": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen;Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen;Bocconi University;IT University of Copenhagen"
+    },
+    {
+        "title": "Implicit Geometry of Next-token Prediction: From Language Sparsity Patterns to Model Representations",
+        "aff": "University of British Columbia;University of British Columbia;University of British Columbia;University of British Columbia"
+    },
+    {
+        "title": "PhonATe: Impact of Type-Written Phonological Features of African American Language on Generative Language Modeling Tasks",
+        "aff": "Columbia University;University of Michigan - Ann Arbor;Columbia University;Columbia University"
+    },
+    {
+        "title": "RAFT: Adapting Language Model to Domain Specific RAG",
+        "aff": "University of California, Berkeley;University of California, Berkeley;University of California, Berkeley;University of California, Berkeley;Databricks;University of California, Berkeley;University of California, Berkeley"
+    },
+    {
+        "title": "Trans-Tokenization and Cross-lingual Vocabulary Transfers: Language Adaptation of LLMs for Low-Resource NLP",
+        "aff": "Universiteit Gent;KU Leuven, KU Leuven;German Centre for Higher Education Research and Science Studies (DZHW);Becode;KU Leuven;Ghent University - imec"
+    },
+    {
+        "title": "TPD: Enhancing Student Language Model Reasoning via Principle Discovery and Guidance",
+        "aff": "Georgia Institute of Technology;Zhejiang University;Georgia Institute of Technology;Georgia Institute of Technology;Georgia Institute of Technology;University of California, Los Angeles;Georgia Institute of Technology"
+    },
+    {
+        "title": "OpenAgents: An Open Platform for Language Agents in the Wild",
+        "aff": "the University of Hong Kong, University of Hong Kong;Shanghai Jiaotong University;Shanghai Jiaotong University;Amazon AWS;Zhejiang University;The University of Hong Kong;Nanyang Technological University;Tokyo Institute of Technology, Tokyo Institute of Technology;Tiktok;University of Hong Kong;University of Texas at Austin;the University of Hong Kong, University of Hong Kong;University of Hong Kong;Salesforce Research;The University of Hong Kong"
+    },
+    {
+        "title": "VideoDirectorGPT: Consistent Multi-Scene Video Generation via LLM-Guided Planning",
+        "aff": "Department of Computer Science, University of North Carolina at Chapel Hill;Department of Computer Science, University of North Carolina at Chapel Hill;University of North Carolina, Chapel Hill;University of North Carolina at Chapel Hill"
+    },
+    {
+        "title": "Linearizing Large Language Models",
+        "aff": "Toyota Research Institute;Toyota Research Institute;Toyota Research Institute;McGill University;Toyota Research Institute;Stanford University;Toyota Research Institute"
+    },
+    {
+        "title": "Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence",
+        "aff": "University of Hong Kong;Recursal AI, Inc.;University of California, Santa Barbara;Booz Allen Hamilton;Technical University of Wroclaw;DataChat;Harvard University;Grand Canyon University;Allen Institute for Artificial Intelligence;Imperial College London;University of Chinese Academy of Sciences;Tsinghua University;University of Edinburgh, University of Edinburgh;University of British Columbia;University of California, Santa Cruz;Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)"
+    },
+    {
+        "title": "V-STaR: Training Verifiers for Self-Taught Reasoners",
+        "aff": "Montreal Institute for Learning Algorithms, University of Montreal, University of Montreal;Universit\u00e9 de Montr\u00e9al;Google DeepMind;Microsoft;Microsoft Research"
+    },
+    {
+        "title": "How bad is training on synthetic data? A statistical analysis of language model collapse",
+        "aff": "Technology Innovation Institute;New York University, Abu Dhabi;National University of Singapore;New York University;Khalifa University of Science, Technology and Research"
+    },
+    {
+        "title": "MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop Queries",
+        "aff": "Hong Kong University of Science and Technology;Hong Kong University of Science and Technology"
+    },
+    {
+        "title": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces",
+        "aff": "Carnegie Mellon University;Princeton University"
+    },
+    {
+        "title": "Trust No Bot: Discovering Personal Disclosures in Human-LLM Conversations in the Wild",
+        "aff": "Allen Institute for Artificial Intelligence;Montreal Institute for Learning Algorithms, University of Montreal, Universit\u00e9 de Montr\u00e9al;Department of Computer Science, University of Washington;McGill University;University of Washington"
+    },
+    {
+        "title": "LalaEval: A Holistic Human Evaluation Framework for Domain-Specific Large Language Models",
+        "aff": "The Chinese University of Hong Kong;Huolala;Huolala;Huolala;Huolala;Huolala"
+    },
+    {
+        "title": "Exploring the Mystery of Influential Data for Mathematical Reasoning",
+        "aff": "Microsoft;Microsoft;Tsinghua University;Microsoft Research Asia;Microsoft GenAI"
+    },
+    {
+        "title": "RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation",
+        "aff": "Massachusetts Institute of Technology;Hong Kong University of Science and Technology;Imperial College London;Hong Kong University of Science and Technology;Hong Kong University of Science and Technology"
+    },
+    {
+        "title": "Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion Tokens",
+        "aff": "Meta Facebook;Department of Computer Science, University of Washington;Meta;Department of Computer Science, University of Washington;University of Washington"
+    },
+    {
+        "title": "Does Collaborative Human\u2013LM Dialogue Generation Help Information Extraction from Human\u2013Human Dialogues?",
+        "aff": "University of Washington;Department of Computer Science, University of Washington;University of Washington, Seattle;University of Washington, Seattle;Microsoft Research;Allstate Insurance;Allstate;The University of Hong Kong;University of Washington;Allen Institute for Artificial Intelligence"
+    },
+    {
+        "title": "Efficient Hybrid Long Sequence Modeling with State Space Augmented Transformers",
+        "aff": "Microsoft;Microsoft Research;Microsoft;Microsoft Research;Georgia Institute of Technology"
+    },
+    {
+        "title": "CATS: Context-Aware Thresholding for Sparsity in Large Language Models",
+        "aff": "University College London, University of London;University of Oxford;NVIDIA;OpenAI"
+    },
+    {
+        "title": "Best-of-Venom: Attacking RLHF by Injecting Poisoned Preference Data",
+        "aff": "Google;Google;Research, Google;Google"
+    },
+    {
+        "title": "Predicting Emergent Capabilities by Finetuning",
+        "aff": "University of California, Berkeley;University of California, Berkeley;University of California, Berkeley;Google"
+    },
+    {
+        "title": "Does your data spark joy? Performance gains from domain upsampling at the end of training",
+        "aff": "MosaicML;Databricks, Databricks;Databricks, Databricks;MosaicML;Databricks Mosaic Research"
+    },
+    {
+        "title": "Instruction Mining: Instruction Data Selection for Tuning Large Language Models",
+        "aff": "LinkedIn;LinkedIn;Microsoft Research;Lehigh University"
+    },
+    {
+        "title": "Large Language Model is not a (Multilingual) Compositional Relation Reasoner",
+        "aff": "Department of Computer Science, University of Toronto"
+    },
+    {
+        "title": "Dated Data: Tracing Knowledge Cutoffs in Large Language Models",
+        "aff": "Johns Hopkins University;Johns Hopkins University;Johns Hopkins University;Johns Hopkins University;Johns Hopkins University"
+    },
+    {
+        "title": "Guiding Language Model Reasoning with Planning Tokens",
+        "aff": "International Business Machines;Microsoft;University of Montreal;Microsoft;UC Santa Barbara;Microsoft Research"
+    },
+    {
+        "title": "How Well Do LLMs Identify Cultural Unity in Diversity?",
+        "aff": "Tongji University;Tongji University;University of Wisconsin, Madison"
+    },
+    {
+        "title": "Factual and Tailored Recommendation Endorsements using Language Models and Reinforcement Learning",
+        "aff": "University of Toronto;Google Research;Google Research;Google;Google;Amazon AGI"
+    },
+    {
+        "title": "Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game",
+        "aff": "Tsinghua University;Tsinghua University"
+    },
+    {
+        "title": "CLIN: A Continually Learning Language Agent for Rapid Task Adaptation and Generalization",
+        "aff": "Allen Institute for Artificial Intelligence;Allen Institute for Artificial Intelligence;Allen Institute for Artificial Intelligence;Microsoft Research;University of Pennsylvania;Allen Institute for Artificial Intelligence;Allen Institute for Artificial Intelligence;Allen Institute for Artificial Intelligence"
+    },
+    {
+        "title": "FUSE-ing Language Models: Zero-Shot Adapter Discovery for Prompt Optimization Across Tokenizers",
+        "aff": "Carnegie Mellon University;Carnegie Mellon University"
+    },
+    {
+        "title": "Investigating Instruction Tuning Large Language Models on Graphs",
+        "aff": "Department of computer science and informational engineering, National Taiwan University;University of Illinois, Urbana Champaign;UIUC;University of Illinois Urbana Champaign;University of Illinois, Urbana Champaign;National Taiwan University;University of Illinois at Urbana-Champaign (UIUC)"
+    },
+    {
+        "title": "Studying Large Language Model Behaviors Under Context-Memory Conflicts With Real Documents",
+        "aff": "Eberhard-Karls-Universit\u00e4t T\u00fcbingen;Eberhard-Karls-Universit\u00e4t T\u00fcbingen;Eberhard-Karls-Universit\u00e4t T\u00fcbingen;Eberhard-Karls-Universit\u00e4t T\u00fcbingen"
+    },
+    {
+        "title": "HGRN2: Gated Linear RNNs with State Expansion",
+        "aff": "TapTap;Massachusetts Institute of Technology;Shanghai AI Lab;Shanghai AI Lab;Shanghai Artificial Intelligence Laboratory;Shanghai AI Lab"
+    },
+    {
+        "title": "PairEval: Open-domain Dialogue Evaluation Metric with Pairwise Comparisons",
+        "aff": "Korea Advanced Institute of Science & Technology;Korea Advanced Institute of Science & Technology;KAIST;Korea Advanced Institute of Science & Technology"
+    },
+    {
+        "title": "How Susceptible are LLMs to Influence in Prompts?",
+        "aff": "ETH Zurich;Google DeepMind"
+    },
+    {
+        "title": "Khayyam Challenge (PersianMMLU): Is Your LLM Truly Wise to The Persian Language?",
+        "aff": "Sharif University of Technology;Sharif University of Technology;Motamed Cancer Institute;Shahid Beheshti University;University of California, Berkeley;Sharif University of Technology;Sharif University of Technology"
+    },
+    {
+        "title": "NeMo-Aligner: Scalable Toolkit for Efficient Model Alignment",
+        "aff": "NVIDIA;NVIDIA;NVIDIA;NVIDIA;NVIDIA;NVIDIA;Computer Science Department, Stanford University;NVIDIA;NVIDIA;NVIDIA"
+    },
+    {
+        "title": "Large Language Models are Capable of Offering Cognitive Reappraisal, if Guided",
+        "aff": "University of Texas at Austin;University of Texas at Austin;Seoul National University;Department of Computer Science, University of Washington;University of Texas, Austin;University of Texas at Austin"
+    },
+    {
+        "title": "LLM Discussion: Enhancing the Creativity of Large Language Models via Discussion Framework and Role-Play",
+        "aff": "National Taiwan University;National Taiwan University;Academia Sinica;National Taiwan University;National Taiwan University;National Taiwan University"
+    },
+    {
+        "title": "Does Incomplete Syntax Influence Korean Language Model? Focusing on Word Order and Case Markers",
+        "aff": "SK telecom;Korea Advanced Institute of Science & Technology;SKTelecom;Korea Advanced Institute of Science & Technology"
+    },
+    {
+        "title": "Locating and Editing Factual Associations in Mamba",
+        "aff": "Northeastern University;Northeastern University;Northeastern University"
+    },
+    {
+        "title": "Long-Form Answers to Visual Questions from Blind and Low Vision People",
+        "aff": ", University of Texas at Austin;University of Texas at Austin;Carnegie Mellon University;University of Texas at Austin;Hong Kong University of Science and Technology;University of Colorado at Boulder;University of Texas, Austin;University of Texas at Austin"
+    },
+    {
+        "title": "Transformer Circuit Evaluation Metrics Are Not Robust",
+        "aff": "ML Alignment & Theory Scholars;OpenAI"
+    },
+    {
+        "title": "Top Leaderboard Ranking = Top Coding Proficiency, Always? EvoEval: Evolving Coding Benchmarks via LLM",
+        "aff": "University of Illinois, Urbana Champaign;University of Illinois Urbana-Champaign;University of Illinois Urbana-Champaign"
+    },
+    {
+        "title": "Towards Measuring the Representation of Subjective Global Opinions in Language Models",
+        "aff": "Anthropic;Anthropic;Anthropic;Anthropic AI;Australian National University;Anthropic;Anthropic;Anthropic PBC;Anthropic;Anthropic"
+    },
+    {
+        "title": "A Survey on Deep Learning for Theorem Proving",
+        "aff": "University of Toronto;Department of Computer Science, University of Toronto;University of Toronto;Nanjing University;Microsoft;California Institute of Technology;University of Toronto"
+    }
+]

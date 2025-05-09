@@ -1,0 +1,650 @@
+[
+    {
+        "title": "3D Mesh Labeling via Deep Convolutional Neural Networks",
+        "aff": ""
+    },
+    {
+        "title": "A Compiler for 3D Machine Knitting",
+        "aff": ""
+    },
+    {
+        "title": "A Deep Learning Framework for Character Motion Synthesis and Editing",
+        "aff": ""
+    },
+    {
+        "title": "A Non-Parametric-Factor Microfacet Model for Isotropic BRDFs",
+        "aff": ""
+    },
+    {
+        "title": "A Probabilistic Model for Exteriors of Residential Buildings",
+        "aff": ""
+    },
+    {
+        "title": "A Semi-Implicit Material-Point Method for Continuum Simulation of Granular Materials",
+        "aff": ""
+    },
+    {
+        "title": "A System for Rapid Exploration of Shader Optimization Choices",
+        "aff": ""
+    },
+    {
+        "title": "Accelerated Quadratic Proxy for Geometric Optimization",
+        "aff": ""
+    },
+    {
+        "title": "Acoustic Voxels: Computational Optimization of Modular Acoustic Filters",
+        "aff": ""
+    },
+    {
+        "title": "Adaptive Polynomial Rendering",
+        "aff": ""
+    },
+    {
+        "title": "Additive Light-Field Displays: Realization of Augmented Reality With Holographic Optical Elements",
+        "aff": ""
+    },
+    {
+        "title": "Adjoint-Driven Russian Roulette and Splitting in Light-Transport Simulation",
+        "aff": ""
+    },
+    {
+        "title": "All-Hex Meshing Using Closed Form-Induced Polycubes",
+        "aff": ""
+    },
+    {
+        "title": "An Anatomically Constrained Local Deformation Model for Monocular Face Capture",
+        "aff": ""
+    },
+    {
+        "title": "An Interaction-Aware Perceptual Model for Non-Linear Elastic Objects",
+        "aff": ""
+    },
+    {
+        "title": "Animated Mesh Approximation With Sphere-Meshes",
+        "aff": ""
+    },
+    {
+        "title": "Approximate Translational Building Blocks for Image Decomposition and Synthesis",
+        "aff": ""
+    },
+    {
+        "title": "Artist-Directed Dynamics for 2D Animation",
+        "aff": ""
+    },
+    {
+        "title": "AutoHair: Fully Automatic Hair Modeling From A Single Image",
+        "aff": ""
+    },
+    {
+        "title": "Automatic Photo Adjustment Using Deep Neural Networks",
+        "aff": ""
+    },
+    {
+        "title": "Automatic Triage for a Photo Series",
+        "aff": ""
+    },
+    {
+        "title": "Automatically Scheduling Halide Image-Processing Pipelines",
+        "aff": ""
+    },
+    {
+        "title": "Band-Sifting Decomposition for Image-Based Material Editing",
+        "aff": ""
+    },
+    {
+        "title": "Beyond Developable: Computational Design and Fabrication With Auxetic Materials",
+        "aff": ""
+    },
+    {
+        "title": "Bijective Maps From Simplicial Foliations",
+        "aff": ""
+    },
+    {
+        "title": "Binary-Continuous Image Decomposition for Multi-View Display",
+        "aff": ""
+    },
+    {
+        "title": "Body Talk: Crowd Shaping Realistic 3D Avatars With Words",
+        "aff": ""
+    },
+    {
+        "title": "Bounded Distortion Harmonic Shape Interpolation",
+        "aff": ""
+    },
+    {
+        "title": "Cinema 3D: Large-Scale Automultiscopic Display",
+        "aff": ""
+    },
+    {
+        "title": "CofiFab: Coarse-to-Fine Fabrication of Large 3D Objects",
+        "aff": ""
+    },
+    {
+        "title": "Computational Design of Reconfigurables",
+        "aff": ""
+    },
+    {
+        "title": "Computational Design of Stable Planar-Rod Structures",
+        "aff": ""
+    },
+    {
+        "title": "Computational Imaging With Multi-Camera Time-of-Flight Systems",
+        "aff": ""
+    },
+    {
+        "title": "Computational Network Design From Functional Specifications",
+        "aff": ""
+    },
+    {
+        "title": "Computational Thermoforming",
+        "aff": ""
+    },
+    {
+        "title": "Connected Fermat Spirals for Layered Fabrication",
+        "aff": ""
+    },
+    {
+        "title": "Construction of Manifolds via Compatible Sparse Representations",
+        "aff": ""
+    },
+    {
+        "title": "Crowd-Driven Mid-Scale Layout Design",
+        "aff": ""
+    },
+    {
+        "title": "Designing Structurally Sound Ornamental Curve Networks",
+        "aff": ""
+    },
+    {
+        "title": "Detail-Preserving Mesh Unfolding for Non-Rigid Shape Retrieval",
+        "aff": ""
+    },
+    {
+        "title": "DisCo: Display-Camera Communication Using Rolling Shutter Sensors",
+        "aff": ""
+    },
+    {
+        "title": "Discrete Connection and Covariant Derivative for Vector-Field Analysis and Design",
+        "aff": ""
+    },
+    {
+        "title": "Drucker-Prager Elastoplasticity for Sand Animation",
+        "aff": ""
+    },
+    {
+        "title": "Ebb: A DSL for Physical Simulation on CPUs and GPUs",
+        "aff": ""
+    },
+    {
+        "title": "Efficient 3D Object Segmentation From Densely Sampled Light Fields With Applications to 3D Reconstruction",
+        "aff": ""
+    },
+    {
+        "title": "Efficient Dynamic Skinning with Low-Rank Helper Bone Controllers",
+        "aff": ""
+    },
+    {
+        "title": "Efficient Fluid Simulation on the Surface of a Sphere",
+        "aff": ""
+    },
+    {
+        "title": "Efficient GPU Rendering of Subdivision Surfaces Using Adaptive Quadtrees",
+        "aff": ""
+    },
+    {
+        "title": "Efficient and Flexible Deformation Representation for Data-Driven Surface Modeling",
+        "aff": ""
+    },
+    {
+        "title": "Efficient and Precise Interactive Hand Tracking Through Joint, Continuous Optimization of Pose and Correspondences",
+        "aff": ""
+    },
+    {
+        "title": "Emulating Displays With Continuously Varying Frame Rates",
+        "aff": ""
+    },
+    {
+        "title": "Entropic Metric Alignment for Correspondence Problems",
+        "aff": ""
+    },
+    {
+        "title": "Erosion Thickness on Medial Axes of 3D Shapes",
+        "aff": ""
+    },
+    {
+        "title": "Example-Based Plastic Deformation of Rigid Bodies",
+        "aff": ""
+    },
+    {
+        "title": "EyeOpener: Editing Eyes in the Wild",
+        "aff": ""
+    },
+    {
+        "title": "Fairy Lights in Femtoseconds: Aerial and Volumetric Graphics Rendered by a Focused Femtosecond Laser Combined With Computational Holographic Fields",
+        "aff": ""
+    },
+    {
+        "title": "Fast 4D Sheared Filtering for Interactive Rendering of Distribution Effects",
+        "aff": ""
+    },
+    {
+        "title": "Fast Approximations for Boundary-Element-Based Brittle Fracture Simulation",
+        "aff": ""
+    },
+    {
+        "title": "Fast and Exact Discrete Geodesic Computation Based on Triangle-Oriented Wavefront Propagation",
+        "aff": ""
+    },
+    {
+        "title": "Fidelity vs. Simplicity: a Global Approach to Line-Drawing Vectorization",
+        "aff": ""
+    },
+    {
+        "title": "Fitting Procedural Yarn Models for Realistic Cloth Rendering",
+        "aff": ""
+    },
+    {
+        "title": "Flow-Guided Warping for Image-Based Shape Manipulation",
+        "aff": ""
+    },
+    {
+        "title": "Fusion4D: Real-Time Performance Capture of Challenging Scenes",
+        "aff": ""
+    },
+    {
+        "title": "G1 Non-Uniform Catmull-Clark Surfaces",
+        "aff": ""
+    },
+    {
+        "title": "GazeStereo3D: Seamless Disparity Manipulations",
+        "aff": ""
+    },
+    {
+        "title": "Generalized Non-Reflecting Boundaries for Fluid Re-Simulation",
+        "aff": ""
+    },
+    {
+        "title": "Generating Dynamically Feasible Trajectories for Quadrotor Cameras",
+        "aff": ""
+    },
+    {
+        "title": "Globally Optimal Toon Tracking",
+        "aff": ""
+    },
+    {
+        "title": "Guided Learning of Control Graphs for Physics-Based Characters",
+        "aff": ""
+    },
+    {
+        "title": "HexEx: Robust Hexahedral Mesh Extraction",
+        "aff": ""
+    },
+    {
+        "title": "High Brightness HDR Projection Using Dynamic Freeform Lensing",
+        "aff": ""
+    },
+    {
+        "title": "Image Perforation: Automatically Accelerating Image Pipelines by Intelligently Skipping Samples",
+        "aff": ""
+    },
+    {
+        "title": "Integration with Stochastic Point Processes",
+        "aff": ""
+    },
+    {
+        "title": "Interactive Acoustic Transfer Approximation for Modal Sound",
+        "aff": ""
+    },
+    {
+        "title": "Interactive Design of Developable Surfaces",
+        "aff": ""
+    },
+    {
+        "title": "Interactive Sketching of Urban Procedural Models",
+        "aff": ""
+    },
+    {
+        "title": "Interactively Cutting and Constraining Vertices in Meshes Using Augmented Matrices",
+        "aff": ""
+    },
+    {
+        "title": "Intrinsic Girth Function for Shape Processing",
+        "aff": ""
+    },
+    {
+        "title": "JALI: An Animator-Centric Viseme Model for Expressive Lip Synchronization",
+        "aff": ""
+    },
+    {
+        "title": "Learning How Objects Function via Co-Analysis of Interactions",
+        "aff": ""
+    },
+    {
+        "title": "Learning to Simplify: Fully Convolutional Networks for Rough Sketch Cleanup",
+        "aff": ""
+    },
+    {
+        "title": "Legible Compact Calligrams",
+        "aff": ""
+    },
+    {
+        "title": "Let There Be Color!: Joint End-to-End Learning of Global and Local Image Priors for Automatic Image Colorization With Simultaneous Classification",
+        "aff": ""
+    },
+    {
+        "title": "Lightweight Eye Capture Using a Parametric Model",
+        "aff": ""
+    },
+    {
+        "title": "Live Intrinsic Video",
+        "aff": ""
+    },
+    {
+        "title": "Mapping Virtual and Physical Reality",
+        "aff": ""
+    },
+    {
+        "title": "Matching Real Fabrics With Micro-Appearance Models",
+        "aff": ""
+    },
+    {
+        "title": "Mesh Arrangements for Solid Geometry",
+        "aff": ""
+    },
+    {
+        "title": "Modeling Character Canvases From Cartoon Drawings",
+        "aff": ""
+    },
+    {
+        "title": "Modeling Dense Inflorescences",
+        "aff": ""
+    },
+    {
+        "title": "Motion Graphs for Unstructured Textured Meshes",
+        "aff": ""
+    },
+    {
+        "title": "Multi-Scale Label-Map Extraction for Texture Synthesis",
+        "aff": ""
+    },
+    {
+        "title": "Multi-Scale Rendering of Scratched Materials Using a Structured SV-BRDF Model",
+        "aff": ""
+    },
+    {
+        "title": "Multi-View Intrinsic Images of Outdoors Scenes With an Application to Relighting",
+        "aff": ""
+    },
+    {
+        "title": "Multiphase SPH Simulation for Interactive Fluids and Solids",
+        "aff": ""
+    },
+    {
+        "title": "Multiple-Scattering Microfacet BSDFs With the Smith Model",
+        "aff": ""
+    },
+    {
+        "title": "Multiway K-Clustered Tensor Approximation: Toward High-Performance Photorealistic Data-Driven Rendering",
+        "aff": ""
+    },
+    {
+        "title": "My Text in Your Handwriting",
+        "aff": ""
+    },
+    {
+        "title": "Non-Linear Shape Optimization Using Local Subspace Projections",
+        "aff": ""
+    },
+    {
+        "title": "Non-Smooth Developable Geometry for Interactively Animating Paper Crumpling",
+        "aff": ""
+    },
+    {
+        "title": "Occluded Imaging With Time-of-Flight Sensors",
+        "aff": ""
+    },
+    {
+        "title": "On the Convexity and Feasibility of the Bounded Distortion Harmonic Mapping Problem",
+        "aff": ""
+    },
+    {
+        "title": "PATEX : Exploring Pattern Variations",
+        "aff": ""
+    },
+    {
+        "title": "Painting Style Transfer for Head Portraits Using Convolutional Neural Networks",
+        "aff": ""
+    },
+    {
+        "title": "Parallel Inverse Kinematics for Multithreaded Architectures",
+        "aff": ""
+    },
+    {
+        "title": "Perceptual Effect of Shoulder Motions on Crowd Animations",
+        "aff": ""
+    },
+    {
+        "title": "Perspective-Aware Manipulation of Portrait Photos",
+        "aff": ""
+    },
+    {
+        "title": "Physics-Driven Pattern Adjustment for Direct 3D Garment Editing",
+        "aff": ""
+    },
+    {
+        "title": "PiGraphs: Learning Interaction Snapshots From Observations",
+        "aff": ""
+    },
+    {
+        "title": "Point Registration via Efficient Convex Relaxation",
+        "aff": ""
+    },
+    {
+        "title": "Pose-Space Subspace Dynamics",
+        "aff": ""
+    },
+    {
+        "title": "Position-Normal Distributions for Efficient Rendering of Specular Microstructure",
+        "aff": ""
+    },
+    {
+        "title": "Practical Multispectral Lighting Reproduction",
+        "aff": ""
+    },
+    {
+        "title": "Predicting Appearance From Measured Microgeometry of Metal Surfaces",
+        "aff": ""
+    },
+    {
+        "title": "Preserving Geometry and Topology for Fluid Flows With Thin Obstacles and Narrow Gaps",
+        "aff": ""
+    },
+    {
+        "title": "Printed Perforated Lampshades for Continuous Projective Images",
+        "aff": ""
+    },
+    {
+        "title": "Printing Arbitrary Meshes With a 5DOF Wireframe Printer",
+        "aff": ""
+    },
+    {
+        "title": "Procedural Voronoi Foams for Additive Manufacturing",
+        "aff": ""
+    },
+    {
+        "title": "ProxImaL: Efficient Image Optimization Using Proximal Algorithms",
+        "aff": ""
+    },
+    {
+        "title": "Pushing the Limits of 3D Color Printing: Error Diffusion With Translucent Materials",
+        "aff": ""
+    },
+    {
+        "title": "Q-MAT: Computing Medial Axis Transform By Quadratic Error Minimization",
+        "aff": ""
+    },
+    {
+        "title": "RAID: A Relation-Augmented Image Descriptor",
+        "aff": ""
+    },
+    {
+        "title": "Real-Time 3D Eye Gaze Animation Using a Single RGB Camera",
+        "aff": ""
+    },
+    {
+        "title": "Real-Time Facial Animation With Image-Based Dynamic Avatars",
+        "aff": ""
+    },
+    {
+        "title": "Real-Time Polygonal-Light Shading With Linearly Transformed Cosines",
+        "aff": ""
+    },
+    {
+        "title": "Real-Time Skeletal Skinning With Optimized Centers of Rotation",
+        "aff": ""
+    },
+    {
+        "title": "Reconciling Elastic and Equilibrium Methods for Static Analysis",
+        "aff": ""
+    },
+    {
+        "title": "Reconstruction of Personalized 3D Face Rigs From Monocular Video",
+        "aff": ""
+    },
+    {
+        "title": "Reflectance Modeling by Neural Texture Synthesis",
+        "aff": ""
+    },
+    {
+        "title": "Rendering on A Power Budget: A Power-Optimal Rendering Framework",
+        "aff": ""
+    },
+    {
+        "title": "Resolving Fluid Boundary Layers With Particle-Strength Exchange and Weak Adaptivity",
+        "aff": ""
+    },
+    {
+        "title": "Rich360: Optimized Spherical Representation From Structured Panoramic Camera Arrays",
+        "aff": ""
+    },
+    {
+        "title": "Rig Animation With a Tangible and Modular Input Device",
+        "aff": ""
+    },
+    {
+        "title": "Rigel: Flexible Multi-Rate Image Processing Hardware",
+        "aff": ""
+    },
+    {
+        "title": "Roto++: Accelerating Professional Rotoscoping Using Shape Manifolds",
+        "aff": ""
+    },
+    {
+        "title": "Schr\u00f6dinger's Smoke",
+        "aff": ""
+    },
+    {
+        "title": "Seamless Visual Sharing with Color-Vision Deficiencies",
+        "aff": ""
+    },
+    {
+        "title": "SemanticPaint: Interactive Segmentation and Learning of 3D Worlds",
+        "aff": ""
+    },
+    {
+        "title": "Shadow Theatre: Discovering Human Motion From a Sequence of Silhouettes",
+        "aff": ""
+    },
+    {
+        "title": "Simit: A Language for Physical Simulation",
+        "aff": ""
+    },
+    {
+        "title": "SketchiMo: Sketch-Based Motion Editing for Articulated Characters",
+        "aff": ""
+    },
+    {
+        "title": "Sky is Not the Limit: Semantic-Aware Sky Replacement",
+        "aff": ""
+    },
+    {
+        "title": "Soli: Ubiquitous Gesture Sensing With Millimeter Wave Radar",
+        "aff": ""
+    },
+    {
+        "title": "Spectral Style Transfer for Human Motion Between Independent Actions",
+        "aff": ""
+    },
+    {
+        "title": "StyLit: Illumination-Guided Example-Based Stylization of 3D Renderings",
+        "aff": ""
+    },
+    {
+        "title": "Subdivision Exterior Calculus for Geometry Processing",
+        "aff": ""
+    },
+    {
+        "title": "Surface-Only Liquids",
+        "aff": ""
+    },
+    {
+        "title": "Synthesis of Filigrees for Digital Fabrication",
+        "aff": ""
+    },
+    {
+        "title": "Tactile Mesh Saliency",
+        "aff": ""
+    },
+    {
+        "title": "Task-Based Locomotion",
+        "aff": ""
+    },
+    {
+        "title": "Terrain-Adaptive Locomotion Skills Using Deep Reinforcement Learning",
+        "aff": ""
+    },
+    {
+        "title": "The Diffractive Achromat: Full-Spectrum Computational Imaging With Diffractive Optics",
+        "aff": ""
+    },
+    {
+        "title": "The Sketchy Database: Learning to Retrieve Badly Drawn Bunnies",
+        "aff": ""
+    },
+    {
+        "title": "Time-Varying Weathering in Texture Space",
+        "aff": ""
+    },
+    {
+        "title": "Toward Animating Water With Complex Acoustic Bubbles",
+        "aff": ""
+    },
+    {
+        "title": "Transfiguring Portraits",
+        "aff": ""
+    },
+    {
+        "title": "Unified Motion Planner for Fishes With Various Swimming Styles",
+        "aff": ""
+    },
+    {
+        "title": "Vector-Regression Functions for Texture Compression",
+        "aff": ""
+    },
+    {
+        "title": "Volume-Encoded UV Maps",
+        "aff": ""
+    },
+    {
+        "title": "Wasserstein Barycentric Coordinates: Histogram Regression Using Optimal Transport",
+        "aff": ""
+    },
+    {
+        "title": "ZoeMatrope: A System for Physical Material Design",
+        "aff": ""
+    },
+    {
+        "title": "cSculpt: A System for Collaborative Sculpting",
+        "aff": ""
+    }
+]

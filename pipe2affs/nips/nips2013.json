@@ -1,0 +1,1442 @@
+[
+    {
+        "title": "(More) Efficient Reinforcement Learning via Posterior Sampling",
+        "aff": ""
+    },
+    {
+        "title": "(Nearly) Optimal Algorithms for Private Online Learning in Full-information and Bandit Settings",
+        "aff": ""
+    },
+    {
+        "title": "A Comparative Framework for Preconditioned Lasso Algorithms",
+        "aff": ""
+    },
+    {
+        "title": "A Deep Architecture for Matching Short Texts",
+        "aff": ""
+    },
+    {
+        "title": "A Determinantal Point Process Latent Variable Model for Inhibition in Neural Spiking Data",
+        "aff": ""
+    },
+    {
+        "title": "A Gang of Bandits",
+        "aff": ""
+    },
+    {
+        "title": "A Graphical Transformation for Belief Propagation: Maximum Weight Matchings and Odd-Sized Cycles",
+        "aff": ""
+    },
+    {
+        "title": "A Kernel Test for Three-Variable Interactions",
+        "aff": ""
+    },
+    {
+        "title": "A Latent Source Model for Nonparametric Time Series Classification",
+        "aff": ""
+    },
+    {
+        "title": "A New Convex Relaxation for Tensor Completion",
+        "aff": ""
+    },
+    {
+        "title": "A Novel Two-Step Method for Cross Language Representation Learning",
+        "aff": ""
+    },
+    {
+        "title": "A Scalable Approach to Probabilistic Latent Space Inference of Large-Scale Networks",
+        "aff": ""
+    },
+    {
+        "title": "A Stability-based Validation Procedure for Differentially Private Machine Learning",
+        "aff": ""
+    },
+    {
+        "title": "A memory frontier for complex synapses",
+        "aff": ""
+    },
+    {
+        "title": "A message-passing algorithm for multi-agent trajectory planning",
+        "aff": ""
+    },
+    {
+        "title": "A multi-agent control framework for co-adaptation in brain-computer interfaces",
+        "aff": ""
+    },
+    {
+        "title": "A simple example of Dirichlet process mixture inconsistency for the number of components",
+        "aff": ""
+    },
+    {
+        "title": "A* Lasso for Learning a Sparse Bayesian Network Structure for Continuous Variables",
+        "aff": ""
+    },
+    {
+        "title": "Accelerated Mini-Batch Stochastic Dual Coordinate Ascent",
+        "aff": ""
+    },
+    {
+        "title": "Accelerating Stochastic Gradient Descent using Predictive Variance Reduction",
+        "aff": ""
+    },
+    {
+        "title": "Action from Still Image Dataset and Inverse Optimal Control to Learn Task Specific Visual Scanpaths",
+        "aff": ""
+    },
+    {
+        "title": "Action is in the Eye of the Beholder: Eye-gaze Driven Model for Spatio-Temporal Action Localization",
+        "aff": ""
+    },
+    {
+        "title": "Active Learning for Probabilistic Hypotheses Using the Maximum Gibbs Error Criterion",
+        "aff": ""
+    },
+    {
+        "title": "Actor-Critic Algorithms for Risk-Sensitive MDPs",
+        "aff": ""
+    },
+    {
+        "title": "Adaptive Anonymity via $b$-Matching",
+        "aff": ""
+    },
+    {
+        "title": "Adaptive Market Making via Online Learning",
+        "aff": ""
+    },
+    {
+        "title": "Adaptive Step-Size for Policy Gradient Methods",
+        "aff": ""
+    },
+    {
+        "title": "Adaptive Submodular Maximization in Bandit Setting",
+        "aff": ""
+    },
+    {
+        "title": "Adaptive dropout for training deep neural networks",
+        "aff": ""
+    },
+    {
+        "title": "Adaptivity to Local Smoothness and Dimension in Kernel Regression",
+        "aff": ""
+    },
+    {
+        "title": "Aggregating Optimistic Planning Trees for Solving Markov Decision Processes",
+        "aff": ""
+    },
+    {
+        "title": "An Approximate, Efficient LP Solver for LP Rounding",
+        "aff": ""
+    },
+    {
+        "title": "Analyzing Hogwild Parallel Gaussian Gibbs Sampling",
+        "aff": ""
+    },
+    {
+        "title": "Analyzing the Harmonic Structure in Graph-Based Learning",
+        "aff": ""
+    },
+    {
+        "title": "Annealing between distributions by averaging moments",
+        "aff": ""
+    },
+    {
+        "title": "Approximate Bayesian Image Interpretation using Generative Probabilistic Graphics Programs",
+        "aff": ""
+    },
+    {
+        "title": "Approximate Dynamic Programming Finally Performs Well in the Game of Tetris",
+        "aff": ""
+    },
+    {
+        "title": "Approximate Gaussian process inference for the drift function in stochastic differential equations",
+        "aff": ""
+    },
+    {
+        "title": "Approximate Inference in Continuous Determinantal Processes",
+        "aff": ""
+    },
+    {
+        "title": "Approximate inference in latent Gaussian-Markov models from continuous time observations",
+        "aff": ""
+    },
+    {
+        "title": "Auditing: Active Learning with Outcome-Dependent Query Costs",
+        "aff": ""
+    },
+    {
+        "title": "Auxiliary-variable Exact Hamiltonian Monte Carlo Samplers for Binary Distributions",
+        "aff": ""
+    },
+    {
+        "title": "B-test: A Non-parametric, Low Variance Kernel Two-sample Test",
+        "aff": ""
+    },
+    {
+        "title": "BIG & QUIC: Sparse Inverse Covariance Estimation for a Million Variables",
+        "aff": ""
+    },
+    {
+        "title": "Bayesian Estimation of Latently-grouped Parameters in Undirected Graphical Models",
+        "aff": ""
+    },
+    {
+        "title": "Bayesian Hierarchical Community Discovery",
+        "aff": ""
+    },
+    {
+        "title": "Bayesian Inference and Learning in Gaussian Process State-Space Models with Particle MCMC",
+        "aff": ""
+    },
+    {
+        "title": "Bayesian Inference and Online Experimental Design for Mapping Neural Microcircuits",
+        "aff": ""
+    },
+    {
+        "title": "Bayesian Mixture Modelling and Inference based Thompson Sampling in Monte-Carlo Tree Search",
+        "aff": ""
+    },
+    {
+        "title": "Bayesian entropy estimation for binary spike train data using parametric prior knowledge",
+        "aff": ""
+    },
+    {
+        "title": "Bayesian inference as iterated random functions with applications to sequential inference in graphical models",
+        "aff": ""
+    },
+    {
+        "title": "Bayesian inference for low rank spatiotemporal neural receptive fields",
+        "aff": ""
+    },
+    {
+        "title": "Bayesian optimization explains human active search",
+        "aff": ""
+    },
+    {
+        "title": "Bellman Error Based Feature Generation using Random Projections on Sparse Spaces",
+        "aff": ""
+    },
+    {
+        "title": "Better Approximation and Faster Algorithm Using the Proximal Average",
+        "aff": ""
+    },
+    {
+        "title": "Beyond Pairwise: Provably Fast Algorithms for Approximate $k$-Way Similarity Search",
+        "aff": ""
+    },
+    {
+        "title": "Binary to Bushy: Bayesian Hierarchical Clustering with the Beta Coalescent",
+        "aff": ""
+    },
+    {
+        "title": "Blind Calibration in Compressed Sensing using Message Passing Algorithms",
+        "aff": ""
+    },
+    {
+        "title": "Buy-in-Bulk Active Learning",
+        "aff": ""
+    },
+    {
+        "title": "Capacity of strong attractor patterns to model behavioural and cognitive prototypes",
+        "aff": ""
+    },
+    {
+        "title": "Causal Inference on Time Series using Restricted Structural Equation Models",
+        "aff": ""
+    },
+    {
+        "title": "Cluster Trees on Manifolds",
+        "aff": ""
+    },
+    {
+        "title": "Compete to Compute",
+        "aff": ""
+    },
+    {
+        "title": "Compressive Feature Learning",
+        "aff": ""
+    },
+    {
+        "title": "Computing the Stationary Distribution Locally",
+        "aff": ""
+    },
+    {
+        "title": "Conditional Random Fields via Univariate Exponential Families",
+        "aff": ""
+    },
+    {
+        "title": "Confidence Intervals and Hypothesis Testing for High-Dimensional Statistical Models",
+        "aff": ""
+    },
+    {
+        "title": "Context-sensitive active sensing in humans",
+        "aff": ""
+    },
+    {
+        "title": "Contrastive Learning Using Spectral Methods",
+        "aff": ""
+    },
+    {
+        "title": "Convergence of Monte Carlo Tree Search in Simultaneous Move Games",
+        "aff": ""
+    },
+    {
+        "title": "Convex Calibrated Surrogates for Low-Rank Loss Matrices with Applications to Subset Ranking Losses",
+        "aff": ""
+    },
+    {
+        "title": "Convex Relaxations for Permutation Problems",
+        "aff": ""
+    },
+    {
+        "title": "Convex Tensor Decomposition via Structured Schatten Norm Regularization",
+        "aff": ""
+    },
+    {
+        "title": "Convex Two-Layer Modeling",
+        "aff": ""
+    },
+    {
+        "title": "Correlated random features for fast semi-supervised learning",
+        "aff": ""
+    },
+    {
+        "title": "Correlations strike back (again): the case of associative memory retrieval",
+        "aff": ""
+    },
+    {
+        "title": "Curvature and Optimal Algorithms for Learning and Minimizing Submodular Functions",
+        "aff": ""
+    },
+    {
+        "title": "DESPOT: Online POMDP Planning with Regularization",
+        "aff": ""
+    },
+    {
+        "title": "Data-driven Distributionally Robust Polynomial Optimization",
+        "aff": ""
+    },
+    {
+        "title": "DeViSE: A Deep Visual-Semantic Embedding Model",
+        "aff": ""
+    },
+    {
+        "title": "Decision Jungles: Compact and Rich Models for Classification",
+        "aff": ""
+    },
+    {
+        "title": "Deep Fisher Networks for Large-Scale Image Classification",
+        "aff": ""
+    },
+    {
+        "title": "Deep Neural Networks for Object Detection",
+        "aff": ""
+    },
+    {
+        "title": "Deep content-based music recommendation",
+        "aff": ""
+    },
+    {
+        "title": "Demixing odors - fast inference in olfaction",
+        "aff": ""
+    },
+    {
+        "title": "Density estimation from unweighted k-nearest neighbor graphs: a roadmap",
+        "aff": ""
+    },
+    {
+        "title": "Designed Measurements for Vector Count Data",
+        "aff": ""
+    },
+    {
+        "title": "Dimension-Free Exponentiated Gradient",
+        "aff": ""
+    },
+    {
+        "title": "Direct 0-1 Loss Minimization and Margin Maximization with Boosting",
+        "aff": ""
+    },
+    {
+        "title": "Dirty Statistical Models",
+        "aff": ""
+    },
+    {
+        "title": "Discovering Hidden Variables in Noisy-Or Networks using Quartet Tests",
+        "aff": ""
+    },
+    {
+        "title": "Discriminative Transfer Learning with Tree-based Priors",
+        "aff": ""
+    },
+    {
+        "title": "Distributed Exploration in Multi-Armed Bandits",
+        "aff": ""
+    },
+    {
+        "title": "Distributed Representations of Words and Phrases and their Compositionality",
+        "aff": ""
+    },
+    {
+        "title": "Distributed Submodular Maximization: Identifying Representative Elements in Massive Data",
+        "aff": ""
+    },
+    {
+        "title": "Distributed k-means and k-median clustering on general communication topologies",
+        "aff": ""
+    },
+    {
+        "title": "Documents as multiple overlapping windows into grids of counts",
+        "aff": ""
+    },
+    {
+        "title": "Dropout Training as Adaptive Regularization",
+        "aff": ""
+    },
+    {
+        "title": "Dynamic Clustering via Asymptotics of the Dependent Dirichlet Process Mixture",
+        "aff": ""
+    },
+    {
+        "title": "EDML for Learning Parameters in Directed and Undirected Graphical Models",
+        "aff": ""
+    },
+    {
+        "title": "Efficient Algorithm for Privately Releasing Smooth Queries",
+        "aff": ""
+    },
+    {
+        "title": "Efficient Exploration and Value Function Generalization in Deterministic Systems",
+        "aff": ""
+    },
+    {
+        "title": "Efficient Online Inference for Bayesian Nonparametric Relational Models",
+        "aff": ""
+    },
+    {
+        "title": "Efficient Optimization for Sparse Gaussian Process Regression",
+        "aff": ""
+    },
+    {
+        "title": "Eluder Dimension and the Sample Complexity of Optimistic Exploration",
+        "aff": ""
+    },
+    {
+        "title": "Embed and Project: Discrete Sampling with Universal Hashing",
+        "aff": ""
+    },
+    {
+        "title": "Error-Minimizing Estimates and Universal Entry-Wise Error Bounds for Low-Rank Matrix Completion",
+        "aff": ""
+    },
+    {
+        "title": "Estimating LASSO Risk and Noise Level",
+        "aff": ""
+    },
+    {
+        "title": "Estimating the Unseen: Improved Estimators for Entropy and other Properties",
+        "aff": ""
+    },
+    {
+        "title": "Estimation Bias in Multi-Armed Bandit Algorithms for Search Advertising",
+        "aff": ""
+    },
+    {
+        "title": "Estimation, Optimization, and Parallelism when Data is Sparse",
+        "aff": ""
+    },
+    {
+        "title": "Exact and Stable Recovery of Pairwise Interaction Tensors",
+        "aff": ""
+    },
+    {
+        "title": "Extracting regions of interest from biological images with convolutional sparse block coding",
+        "aff": ""
+    },
+    {
+        "title": "Factorized Asymptotic Bayesian Inference for Latent Feature Models",
+        "aff": ""
+    },
+    {
+        "title": "Fantope Projection and Selection: A near-optimal convex relaxation of sparse PCA",
+        "aff": ""
+    },
+    {
+        "title": "Fast Algorithms for Gaussian Noise Invariant Independent Component Analysis",
+        "aff": ""
+    },
+    {
+        "title": "Fast Determinantal Point Process Sampling with Application to Clustering",
+        "aff": ""
+    },
+    {
+        "title": "Fast Template Evaluation with Vector Quantization",
+        "aff": ""
+    },
+    {
+        "title": "Faster Ridge Regression via the Subsampled Randomized Hadamard Transform",
+        "aff": ""
+    },
+    {
+        "title": "Firing rate predictions in optimal balanced networks",
+        "aff": ""
+    },
+    {
+        "title": "First-order Decomposition Trees",
+        "aff": ""
+    },
+    {
+        "title": "Flexible sampling of discrete data correlations without the marginal distributions",
+        "aff": ""
+    },
+    {
+        "title": "Forgetful Bayes and myopic planning: Human learning and decision-making in a bandit setting",
+        "aff": ""
+    },
+    {
+        "title": "From Bandits to Experts: A Tale of Domination and Independence",
+        "aff": ""
+    },
+    {
+        "title": "Gaussian Process Conditional Copulas with Applications to Financial Time Series",
+        "aff": ""
+    },
+    {
+        "title": "Generalized Denoising Auto-Encoders as Generative Models",
+        "aff": ""
+    },
+    {
+        "title": "Generalized Method-of-Moments for Rank Aggregation",
+        "aff": ""
+    },
+    {
+        "title": "Generalized Random Utility Models with Multiple Types",
+        "aff": ""
+    },
+    {
+        "title": "Generalizing Analytic Shrinkage for Arbitrary Covariance Structures",
+        "aff": ""
+    },
+    {
+        "title": "Geometric optimisation on positive definite matrices for elliptically contoured distributions",
+        "aff": ""
+    },
+    {
+        "title": "Global MAP-Optimality by Shrinking the Combinatorial Search Area with Convex Relaxation",
+        "aff": ""
+    },
+    {
+        "title": "Global Solver and Its Efficient Approximation for Variational Bayesian Low-rank Subspace Clustering",
+        "aff": ""
+    },
+    {
+        "title": "Graphical Models for Inference with Missing Data",
+        "aff": ""
+    },
+    {
+        "title": "Heterogeneous-Neighborhood-based Multi-Task Local Learning Algorithms",
+        "aff": ""
+    },
+    {
+        "title": "Hierarchical Modular Optimization of Convolutional Networks Achieves Representations Similar to Macaque IT and Human Ventral Stream",
+        "aff": ""
+    },
+    {
+        "title": "High-Dimensional Gaussian Process Bandits",
+        "aff": ""
+    },
+    {
+        "title": "Higher Order Priors for Joint Intrinsic Image, Objects, and Attributes Estimation",
+        "aff": ""
+    },
+    {
+        "title": "How to Hedge an Option Against an Adversary: Black-Scholes Pricing is Minimax Optimal",
+        "aff": ""
+    },
+    {
+        "title": "Improved and Generalized Upper Bounds on the Complexity of Policy Iteration",
+        "aff": ""
+    },
+    {
+        "title": "Inferring neural population dynamics from multiple partial recordings of the same neural circuit",
+        "aff": ""
+    },
+    {
+        "title": "Information-theoretic lower bounds for distributed statistical estimation with communication constraints",
+        "aff": ""
+    },
+    {
+        "title": "Integrated Non-Factorized Variational Inference",
+        "aff": ""
+    },
+    {
+        "title": "Inverse Density as an Inverse Problem: the Fredholm Equation Approach",
+        "aff": ""
+    },
+    {
+        "title": "It is all in the noise: Efficient multi-task Gaussian process inference with structured residuals",
+        "aff": ""
+    },
+    {
+        "title": "Large Scale Distributed Sparse Precision Estimation",
+        "aff": ""
+    },
+    {
+        "title": "Lasso Screening Rules via Dual Polytope Projection",
+        "aff": ""
+    },
+    {
+        "title": "Latent Maximum Margin Clustering",
+        "aff": ""
+    },
+    {
+        "title": "Latent Structured Active Learning",
+        "aff": ""
+    },
+    {
+        "title": "Learning Adaptive Value of Information for Structured Prediction",
+        "aff": ""
+    },
+    {
+        "title": "Learning Chordal Markov Networks by Constraint Satisfaction",
+        "aff": ""
+    },
+    {
+        "title": "Learning Efficient Random Maximum A-Posteriori Predictors with Non-Decomposable Loss Functions",
+        "aff": ""
+    },
+    {
+        "title": "Learning Feature Selection Dependencies in Multi-task Learning",
+        "aff": ""
+    },
+    {
+        "title": "Learning Gaussian Graphical Models with Observed or Latent FVSs",
+        "aff": ""
+    },
+    {
+        "title": "Learning Hidden Markov Models from Non-sequence Data via Tensor Decomposition",
+        "aff": ""
+    },
+    {
+        "title": "Learning Kernels Using Local Rademacher Complexity",
+        "aff": ""
+    },
+    {
+        "title": "Learning Multi-level Sparse Representations",
+        "aff": ""
+    },
+    {
+        "title": "Learning Multiple Models via Regularized Weighting",
+        "aff": ""
+    },
+    {
+        "title": "Learning Prices for Repeated Auctions with Strategic Buyers",
+        "aff": ""
+    },
+    {
+        "title": "Learning Stochastic Feedforward Neural Networks",
+        "aff": ""
+    },
+    {
+        "title": "Learning Stochastic Inverses",
+        "aff": ""
+    },
+    {
+        "title": "Learning Trajectory Preferences for Manipulators via Iterative Improvement",
+        "aff": ""
+    },
+    {
+        "title": "Learning a Deep Compact Image Representation for Visual Tracking",
+        "aff": ""
+    },
+    {
+        "title": "Learning and using language via recursive pragmatic reasoning about other agents",
+        "aff": ""
+    },
+    {
+        "title": "Learning from Limited Demonstrations",
+        "aff": ""
+    },
+    {
+        "title": "Learning invariant representations and applications to face verification",
+        "aff": ""
+    },
+    {
+        "title": "Learning the Local Statistics of Optical Flow",
+        "aff": ""
+    },
+    {
+        "title": "Learning to Pass Expectation Propagation Messages",
+        "aff": ""
+    },
+    {
+        "title": "Learning to Prune in Metric and Non-Metric Spaces",
+        "aff": ""
+    },
+    {
+        "title": "Learning with Invariance via Linear Functionals on Reproducing Kernel Hilbert Space",
+        "aff": ""
+    },
+    {
+        "title": "Learning with Noisy Labels",
+        "aff": ""
+    },
+    {
+        "title": "Learning word embeddings efficiently with noise-contrastive estimation",
+        "aff": ""
+    },
+    {
+        "title": "Least Informative Dimensions",
+        "aff": ""
+    },
+    {
+        "title": "Lexical and Hierarchical Topic Regression",
+        "aff": ""
+    },
+    {
+        "title": "Linear Convergence with Condition Number Independent Access of Full Gradients",
+        "aff": ""
+    },
+    {
+        "title": "Linear decision rule as aspiration for simple decision heuristics",
+        "aff": ""
+    },
+    {
+        "title": "Local Privacy and Minimax Bounds: Sharp Rates for Probability Estimation",
+        "aff": ""
+    },
+    {
+        "title": "Locally Adaptive Bayesian Multivariate Time Series",
+        "aff": ""
+    },
+    {
+        "title": "Low-Rank Matrix and Tensor Completion via Adaptive Sampling",
+        "aff": ""
+    },
+    {
+        "title": "Low-rank matrix reconstruction and clustering via approximate message passing",
+        "aff": ""
+    },
+    {
+        "title": "Machine Teaching for Bayesian Learners in the Exponential Family",
+        "aff": ""
+    },
+    {
+        "title": "Manifold-based Similarity Adaptation for Label Propagation",
+        "aff": ""
+    },
+    {
+        "title": "Mapping paradigm ontologies to and from the brain",
+        "aff": ""
+    },
+    {
+        "title": "Marginals-to-Models Reducibility",
+        "aff": ""
+    },
+    {
+        "title": "Matrix Completion From any Given Set of Observations",
+        "aff": ""
+    },
+    {
+        "title": "Matrix factorization with binary components",
+        "aff": ""
+    },
+    {
+        "title": "Memoized Online Variational Inference for Dirichlet Process Mixture Models",
+        "aff": ""
+    },
+    {
+        "title": "Memory Limited, Streaming PCA",
+        "aff": ""
+    },
+    {
+        "title": "Message Passing Inference with Chemical Reaction Networks",
+        "aff": ""
+    },
+    {
+        "title": "Mid-level Visual Element Discovery as Discriminative Mode Seeking",
+        "aff": ""
+    },
+    {
+        "title": "Minimax Optimal Algorithms for Unconstrained Linear Optimization",
+        "aff": ""
+    },
+    {
+        "title": "Minimax Theory for High-dimensional Gaussian Mixtures with Sparse Mean Separation",
+        "aff": ""
+    },
+    {
+        "title": "Mixed Optimization for Smooth Functions",
+        "aff": ""
+    },
+    {
+        "title": "Model Selection for High-Dimensional Regression under the Generalized Irrepresentability Condition",
+        "aff": ""
+    },
+    {
+        "title": "Modeling Clutter Perception using Parametric Proto-object Partitioning",
+        "aff": ""
+    },
+    {
+        "title": "Modeling Overlapping Communities with Node Popularities",
+        "aff": ""
+    },
+    {
+        "title": "Moment-based Uniform Deviation Bounds for $k$-means and Friends",
+        "aff": ""
+    },
+    {
+        "title": "More Effective Distributed ML via a Stale Synchronous Parallel Parameter Server",
+        "aff": ""
+    },
+    {
+        "title": "More data speeds up training time in learning halfspaces over sparse vectors",
+        "aff": ""
+    },
+    {
+        "title": "Multi-Prediction Deep Boltzmann Machines",
+        "aff": ""
+    },
+    {
+        "title": "Multi-Task Bayesian Optimization",
+        "aff": ""
+    },
+    {
+        "title": "Multiclass Total Variation Clustering",
+        "aff": ""
+    },
+    {
+        "title": "Multilinear Dynamical Systems for Tensor Time Series",
+        "aff": ""
+    },
+    {
+        "title": "Multiscale Dictionary Learning for Estimating Conditional Distributions",
+        "aff": ""
+    },
+    {
+        "title": "Multisensory Encoding, Decoding, and Identification",
+        "aff": ""
+    },
+    {
+        "title": "Near-Optimal Entrywise Sampling for Data Matrices",
+        "aff": ""
+    },
+    {
+        "title": "Near-optimal Anomaly Detection in Graphs using Lovasz Extended Scan Statistic",
+        "aff": ""
+    },
+    {
+        "title": "Neural representation of action sequences: how far can a simple snippet-matching model take us?",
+        "aff": ""
+    },
+    {
+        "title": "New Subsampling Algorithms for Fast Least Squares Regression",
+        "aff": ""
+    },
+    {
+        "title": "Noise-Enhanced Associative Memories",
+        "aff": ""
+    },
+    {
+        "title": "Non-Linear Domain Adaptation with Boosting",
+        "aff": ""
+    },
+    {
+        "title": "Non-Uniform Camera Shake Removal Using a Spatially-Adaptive Sparse Penalty",
+        "aff": ""
+    },
+    {
+        "title": "Non-strongly-convex smooth stochastic approximation with convergence rate O(1/n)",
+        "aff": ""
+    },
+    {
+        "title": "Nonparametric Multi-group Membership Model for Dynamic Networks",
+        "aff": ""
+    },
+    {
+        "title": "On Algorithms for Sparse Multi-factor NMF",
+        "aff": ""
+    },
+    {
+        "title": "On Decomposing the Proximal Map",
+        "aff": ""
+    },
+    {
+        "title": "On Flat versus Hierarchical Classification in Large-Scale Taxonomies",
+        "aff": ""
+    },
+    {
+        "title": "On Poisson Graphical Models",
+        "aff": ""
+    },
+    {
+        "title": "On Sampling from the Gibbs Distribution with Random Maximum A-Posteriori Perturbations",
+        "aff": ""
+    },
+    {
+        "title": "On model selection consistency of penalized M-estimators: a geometric theory",
+        "aff": ""
+    },
+    {
+        "title": "On the Complexity and Approximation of Binary Evidence in Lifted Inference",
+        "aff": ""
+    },
+    {
+        "title": "On the Expressive Power of Restricted Boltzmann Machines",
+        "aff": ""
+    },
+    {
+        "title": "On the Linear Convergence of the Proximal Gradient Method for Trace Norm Regularization",
+        "aff": ""
+    },
+    {
+        "title": "On the Relationship Between Binary Classification, Bipartite Ranking, and Binary Class Probability Estimation",
+        "aff": ""
+    },
+    {
+        "title": "On the Sample Complexity of Subspace Learning",
+        "aff": ""
+    },
+    {
+        "title": "One-shot learning and big data with n=2",
+        "aff": ""
+    },
+    {
+        "title": "One-shot learning by inverting a compositional causal process",
+        "aff": ""
+    },
+    {
+        "title": "Online Learning in Markov Decision Processes with Adversarially Chosen Transition Probability Distributions",
+        "aff": ""
+    },
+    {
+        "title": "Online Learning of Dynamic Parameters in Social Networks",
+        "aff": ""
+    },
+    {
+        "title": "Online Learning of Nonparametric Mixture Models via Sequential Variational Approximation",
+        "aff": ""
+    },
+    {
+        "title": "Online Learning with Costly Features and Labels",
+        "aff": ""
+    },
+    {
+        "title": "Online Learning with Switching Costs and Other Adaptive Adversaries",
+        "aff": ""
+    },
+    {
+        "title": "Online PCA for Contaminated Data",
+        "aff": ""
+    },
+    {
+        "title": "Online Robust PCA via Stochastic Optimization",
+        "aff": ""
+    },
+    {
+        "title": "Online Variational Approximations to non-Exponential Family Change Point Models: With Application to Radar Tracking",
+        "aff": ""
+    },
+    {
+        "title": "Online learning in episodic Markovian decision processes by relative entropy policy search",
+        "aff": ""
+    },
+    {
+        "title": "Optimal Neural Population Codes for High-dimensional Stimulus Variables",
+        "aff": ""
+    },
+    {
+        "title": "Optimal integration of visual speed across different spatiotemporal frequency channels",
+        "aff": ""
+    },
+    {
+        "title": "Optimistic Concurrency Control for Distributed Unsupervised Learning",
+        "aff": ""
+    },
+    {
+        "title": "Optimistic policy iteration and natural actor-critic: A unifying view and a non-optimality result",
+        "aff": ""
+    },
+    {
+        "title": "Optimization, Learning, and Games with Predictable Sequences",
+        "aff": ""
+    },
+    {
+        "title": "Optimizing Instructional Policies",
+        "aff": ""
+    },
+    {
+        "title": "PAC-Bayes-Empirical-Bernstein Inequality",
+        "aff": ""
+    },
+    {
+        "title": "Parallel Sampling of DP Mixture Models using Sub-Cluster Splits",
+        "aff": ""
+    },
+    {
+        "title": "Parametric Task Learning",
+        "aff": ""
+    },
+    {
+        "title": "Pass-efficient unsupervised feature selection",
+        "aff": ""
+    },
+    {
+        "title": "Perfect Associative Learning with Spike-Timing-Dependent Plasticity",
+        "aff": ""
+    },
+    {
+        "title": "Phase Retrieval using Alternating Minimization",
+        "aff": ""
+    },
+    {
+        "title": "Point Based Value Iteration with Optimal Belief Compression for Dec-POMDPs",
+        "aff": ""
+    },
+    {
+        "title": "Polar Operators for Structured Sparse Estimation",
+        "aff": ""
+    },
+    {
+        "title": "Policy Shaping: Integrating Human Feedback with Reinforcement Learning",
+        "aff": ""
+    },
+    {
+        "title": "Predicting Parameters in Deep Learning",
+        "aff": ""
+    },
+    {
+        "title": "Predictive PAC Learning and Process Decompositions",
+        "aff": ""
+    },
+    {
+        "title": "Prior-free and prior-dependent regret bounds for Thompson Sampling",
+        "aff": ""
+    },
+    {
+        "title": "Probabilistic Low-Rank Matrix Completion with Adaptive Spectral Regularization Algorithms",
+        "aff": ""
+    },
+    {
+        "title": "Probabilistic Movement Primitives",
+        "aff": ""
+    },
+    {
+        "title": "Probabilistic Principal Geodesic Analysis",
+        "aff": ""
+    },
+    {
+        "title": "Projected Natural Actor-Critic",
+        "aff": ""
+    },
+    {
+        "title": "Projecting Ising Model Parameters for Fast Mixing",
+        "aff": ""
+    },
+    {
+        "title": "Provable Subspace Clustering: When LRR meets SSC",
+        "aff": ""
+    },
+    {
+        "title": "RNADE: The real-valued neural autoregressive density-estimator",
+        "aff": ""
+    },
+    {
+        "title": "Rapid Distance-Based Outlier Detection via Sampling",
+        "aff": ""
+    },
+    {
+        "title": "Real-Time Inference for a Gamma Process Model of Neural Spiking",
+        "aff": ""
+    },
+    {
+        "title": "Reasoning With Neural Tensor Networks for Knowledge Base Completion",
+        "aff": ""
+    },
+    {
+        "title": "Reciprocally Coupled Local Estimators Implement Bayesian Information Integration Distributively",
+        "aff": ""
+    },
+    {
+        "title": "Reconciling \"priors'' & \"priors\" without prejudice?",
+        "aff": ""
+    },
+    {
+        "title": "Recurrent linear models of simultaneously-recorded neural populations",
+        "aff": ""
+    },
+    {
+        "title": "Recurrent networks of coupled Winner-Take-All oscillators for solving constraint satisfaction problems",
+        "aff": ""
+    },
+    {
+        "title": "Reflection methods for user-friendly submodular optimization",
+        "aff": ""
+    },
+    {
+        "title": "Regression-tree Tuning in a Streaming Setting",
+        "aff": ""
+    },
+    {
+        "title": "Regret based Robust Solutions for Uncertain Markov Decision Processes",
+        "aff": ""
+    },
+    {
+        "title": "Regularized M-estimators with nonconvexity: Statistical and algorithmic theory for local optima",
+        "aff": ""
+    },
+    {
+        "title": "Regularized Spectral Clustering under the Degree-Corrected Stochastic Blockmodel",
+        "aff": ""
+    },
+    {
+        "title": "Reinforcement Learning in Robust Markov Decision Processes",
+        "aff": ""
+    },
+    {
+        "title": "Relevance Topic Model for Unstructured Social Group Activity Recognition",
+        "aff": ""
+    },
+    {
+        "title": "Reservoir Boosting : Between Online and Offline Ensemble Learning",
+        "aff": ""
+    },
+    {
+        "title": "Reshaping Visual Datasets for Domain Adaptation",
+        "aff": ""
+    },
+    {
+        "title": "Restricting exchangeable nonparametric distributions",
+        "aff": ""
+    },
+    {
+        "title": "Reward Mapping for Transfer in Long-Lived Agents",
+        "aff": ""
+    },
+    {
+        "title": "Robust Bloom Filters for Large MultiLabel Classification Tasks",
+        "aff": ""
+    },
+    {
+        "title": "Robust Data-Driven Dynamic Programming",
+        "aff": ""
+    },
+    {
+        "title": "Robust Image Denoising with Multi-Column Deep Neural Networks",
+        "aff": ""
+    },
+    {
+        "title": "Robust Low Rank Kernel Embeddings of Multivariate Distributions",
+        "aff": ""
+    },
+    {
+        "title": "Robust Multimodal Graph Matching: Sparse Coding Meets Graph Matching",
+        "aff": ""
+    },
+    {
+        "title": "Robust Sparse Principal Component Regression under the High Dimensional Elliptical Model",
+        "aff": ""
+    },
+    {
+        "title": "Robust Spatial Filtering with Beta Divergence",
+        "aff": ""
+    },
+    {
+        "title": "Robust Transfer Principal Component Analysis with Rank Constraints",
+        "aff": ""
+    },
+    {
+        "title": "Robust learning of low-dimensional dynamics from large neural ensembles",
+        "aff": ""
+    },
+    {
+        "title": "Scalable Inference for Logistic-Normal Topic Models",
+        "aff": ""
+    },
+    {
+        "title": "Scalable Influence Estimation in Continuous-Time Diffusion Networks",
+        "aff": ""
+    },
+    {
+        "title": "Scalable kernels for graphs with continuous attributes",
+        "aff": ""
+    },
+    {
+        "title": "Scoring Workers in Crowdsourcing: How Many Control Questions are Enough?",
+        "aff": ""
+    },
+    {
+        "title": "Sensor Selection in High-Dimensional Gaussian Trees with Nuisances",
+        "aff": ""
+    },
+    {
+        "title": "Sequential Transfer in Multi-armed Bandit with Finite Set of Models",
+        "aff": ""
+    },
+    {
+        "title": "Sign Cauchy Projections and Chi-Square Kernel",
+        "aff": ""
+    },
+    {
+        "title": "Similarity Component Analysis",
+        "aff": ""
+    },
+    {
+        "title": "Simultaneous Rectification and Alignment via Robust Recovery of Low-rank Tensors",
+        "aff": ""
+    },
+    {
+        "title": "Sinkhorn Distances: Lightspeed Computation of Optimal Transport",
+        "aff": ""
+    },
+    {
+        "title": "Sketching Structured Matrices for Faster Nonlinear Regression",
+        "aff": ""
+    },
+    {
+        "title": "Small-Variance Asymptotics for Hidden Markov Models",
+        "aff": ""
+    },
+    {
+        "title": "Solving inverse problem of Markov chain with partial observations",
+        "aff": ""
+    },
+    {
+        "title": "Solving the multi-way matching problem by permutation synchronization",
+        "aff": ""
+    },
+    {
+        "title": "Sparse Additive Text Models with Low Rank Background",
+        "aff": ""
+    },
+    {
+        "title": "Sparse Inverse Covariance Estimation with Calibration",
+        "aff": ""
+    },
+    {
+        "title": "Sparse Overlapping Sets Lasso for Multitask Learning and its Application to fMRI Analysis",
+        "aff": ""
+    },
+    {
+        "title": "Sparse nonnegative deconvolution for compressive calcium imaging: algorithms and phase transitions",
+        "aff": ""
+    },
+    {
+        "title": "Spectral methods for neural characterization using generalized quadratic models",
+        "aff": ""
+    },
+    {
+        "title": "Speeding up Permutation Testing in Neuroimaging",
+        "aff": ""
+    },
+    {
+        "title": "Speedup Matrix Completion with Side Information: Application to Multi-Label Learning",
+        "aff": ""
+    },
+    {
+        "title": "Spike train entropy-rate estimation using hierarchical Dirichlet process priors",
+        "aff": ""
+    },
+    {
+        "title": "Statistical Active Learning Algorithms",
+        "aff": ""
+    },
+    {
+        "title": "Statistical analysis of coupled time series with Kernel Cross-Spectral Density operators.",
+        "aff": ""
+    },
+    {
+        "title": "Stochastic Convex Optimization with Multiple Objectives",
+        "aff": ""
+    },
+    {
+        "title": "Stochastic Gradient Riemannian Langevin Dynamics on the Probability Simplex",
+        "aff": ""
+    },
+    {
+        "title": "Stochastic Majorization-Minimization Algorithms for Large-Scale Optimization",
+        "aff": ""
+    },
+    {
+        "title": "Stochastic Optimization of PCA with Capped MSG",
+        "aff": ""
+    },
+    {
+        "title": "Stochastic Ratio Matching of RBMs for Sparse High-Dimensional Inputs",
+        "aff": ""
+    },
+    {
+        "title": "Stochastic blockmodel approximation of a graphon: Theory and consistent estimation",
+        "aff": ""
+    },
+    {
+        "title": "Streaming Variational Bayes",
+        "aff": ""
+    },
+    {
+        "title": "Structured Learning via Logistic Regression",
+        "aff": ""
+    },
+    {
+        "title": "Submodular Optimization with Submodular Cover and Submodular Knapsack Constraints",
+        "aff": ""
+    },
+    {
+        "title": "Summary Statistics for Partitionings and Feature Allocations",
+        "aff": ""
+    },
+    {
+        "title": "Supervised Sparse Analysis and Synthesis Operators",
+        "aff": ""
+    },
+    {
+        "title": "Symbolic Opportunistic Policy Iteration for Factored-Action MDPs",
+        "aff": ""
+    },
+    {
+        "title": "Synthesizing Robust Plans under Incomplete Domain Models",
+        "aff": ""
+    },
+    {
+        "title": "The Fast Convergence of Incremental PCA",
+        "aff": ""
+    },
+    {
+        "title": "The Pareto Regret Frontier",
+        "aff": ""
+    },
+    {
+        "title": "The Power of Asymmetry in Binary Hashing",
+        "aff": ""
+    },
+    {
+        "title": "The Randomized Dependence Coefficient",
+        "aff": ""
+    },
+    {
+        "title": "The Total Variation on Hypergraphs - Learning on Hypergraphs Revisited",
+        "aff": ""
+    },
+    {
+        "title": "Third-Order Edge Statistics: Contour Continuation, Curvature, and Cortical Connections",
+        "aff": ""
+    },
+    {
+        "title": "Thompson Sampling for 1-Dimensional Exponential Family Bandits",
+        "aff": ""
+    },
+    {
+        "title": "Top-Down Regularization of Deep Belief Networks",
+        "aff": ""
+    },
+    {
+        "title": "Tracking Time-varying Graphical Structure",
+        "aff": ""
+    },
+    {
+        "title": "Trading Computation for Communication: Distributed Stochastic Dual Coordinate Ascent",
+        "aff": ""
+    },
+    {
+        "title": "Training and Analysing Deep Recurrent Neural Networks",
+        "aff": ""
+    },
+    {
+        "title": "Transfer Learning in a Transductive Setting",
+        "aff": ""
+    },
+    {
+        "title": "Translating Embeddings for Modeling Multi-relational Data",
+        "aff": ""
+    },
+    {
+        "title": "Transportability from Multiple Environments with Limited Experiments",
+        "aff": ""
+    },
+    {
+        "title": "Two-Target Algorithms for Infinite-Armed Bandits with Bernoulli Rewards",
+        "aff": ""
+    },
+    {
+        "title": "Understanding Dropout",
+        "aff": ""
+    },
+    {
+        "title": "Understanding variable importances in forests of randomized trees",
+        "aff": ""
+    },
+    {
+        "title": "Universal models for binary spike patterns using centered Dirichlet processes",
+        "aff": ""
+    },
+    {
+        "title": "Unsupervised Spectral Learning of Finite State Transducers",
+        "aff": ""
+    },
+    {
+        "title": "Unsupervised Structure Learning of Stochastic And-Or Grammars",
+        "aff": ""
+    },
+    {
+        "title": "Using multiple samples to learn mixture models",
+        "aff": ""
+    },
+    {
+        "title": "Variance Reduction for Stochastic Gradient Optimization",
+        "aff": ""
+    },
+    {
+        "title": "Variational Inference for Mahalanobis Distance Metrics in Gaussian Process Regression",
+        "aff": ""
+    },
+    {
+        "title": "Variational Planning for Graph-based MDPs",
+        "aff": ""
+    },
+    {
+        "title": "Variational Policy Search via Trajectory Optimization",
+        "aff": ""
+    },
+    {
+        "title": "Visual Concept Learning: Combining Machine Vision and Bayesian Generalization on Concept Hierarchies",
+        "aff": ""
+    },
+    {
+        "title": "Wavelets on Graphs via Deep Learning",
+        "aff": ""
+    },
+    {
+        "title": "What Are the Invariant Occlusive Components of Image Patches? A Probabilistic Generative Approach",
+        "aff": ""
+    },
+    {
+        "title": "What do row and column marginals reveal about your dataset?",
+        "aff": ""
+    },
+    {
+        "title": "When are Overcomplete Topic Models Identifiable? Uniqueness of Tensor Tucker Decompositions with Structured Sparsity",
+        "aff": ""
+    },
+    {
+        "title": "When in Doubt, SWAP: High-Dimensional Sparse Recovery from Correlated Measurements",
+        "aff": ""
+    },
+    {
+        "title": "Which Space Partitioning Tree to Use for Search?",
+        "aff": ""
+    },
+    {
+        "title": "Zero-Shot Learning Through Cross-Modal Transfer",
+        "aff": ""
+    },
+    {
+        "title": "k-Prototype Learning for 3D Rigid Structures",
+        "aff": ""
+    },
+    {
+        "title": "q-OCSVM: A q-Quantile Estimator for High-Dimensional Distributions",
+        "aff": ""
+    },
+    {
+        "title": "\u03a3-Optimality for Active Learning on Gaussian Random Fields",
+        "aff": ""
+    }
+]

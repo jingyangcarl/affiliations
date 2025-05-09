@@ -1,0 +1,606 @@
+[
+    {
+        "title": "*Cages: A Multi\u2010Level, Multi\u2010Cage Based System for Mesh Deformation",
+        "aff": ""
+    },
+    {
+        "title": "3D + 2D TV: 3D Displays With No Ghosting for Viewers Without Glasses",
+        "aff": ""
+    },
+    {
+        "title": "3D Shape Regression for Real-Time Facial Animation",
+        "aff": ""
+    },
+    {
+        "title": "5D Covariance Tracing for Efficient Depth of Field and Motion Blur",
+        "aff": ""
+    },
+    {
+        "title": "A Benchmark for Surface Reconstruction",
+        "aff": ""
+    },
+    {
+        "title": "A Gradient\u2010Based Implicit Blend",
+        "aff": ""
+    },
+    {
+        "title": "A Hardware Unit for Fast SAH-Optimised BVH Construction",
+        "aff": ""
+    },
+    {
+        "title": "A Material-Point Method for Snow Simulation",
+        "aff": ""
+    },
+    {
+        "title": "A New Grid Structure for Domain Extension",
+        "aff": ""
+    },
+    {
+        "title": "A Practical Microcylinder Appearance Model for Cloth Rendering",
+        "aff": ""
+    },
+    {
+        "title": "A Reconfigurable Camera Add-On for High-Dynamic-Range, Multi-Spectral, Polarization, and Light-Field Imaging",
+        "aff": ""
+    },
+    {
+        "title": "A Sort-Based Deferred Shading Architecture for Decoupled Sampling",
+        "aff": ""
+    },
+    {
+        "title": "A Two-Continua Approach to Eulerian Simulation of Water Spray",
+        "aff": ""
+    },
+    {
+        "title": "A Unified Interpolary Subdivision Scheme for Quadrilateral Meshes",
+        "aff": ""
+    },
+    {
+        "title": "AIREAL: Interactive Tactile Experiences in Free Air",
+        "aff": ""
+    },
+    {
+        "title": "Acquiring Reflectance and Shape From Continuous Spherical Harmonic Illumination",
+        "aff": ""
+    },
+    {
+        "title": "Adaptive Fracture Simulation of Multi-Layered Thin Plates",
+        "aff": ""
+    },
+    {
+        "title": "Adaptive Image Synthesis for Compressive Displays",
+        "aff": ""
+    },
+    {
+        "title": "Adaptive Progressive Photon Mapping",
+        "aff": ""
+    },
+    {
+        "title": "An Efficient Computation of  Handle-and-Tunnel Loops Via Reeb Graphs",
+        "aff": ""
+    },
+    {
+        "title": "Analytic Displacement Mapping Using Hardware Tessellation",
+        "aff": ""
+    },
+    {
+        "title": "Anisotropic Delaunay Meshes of Surfaces",
+        "aff": ""
+    },
+    {
+        "title": "Asynchronous Adaptive Anti-Aliasing Using Shared Memory",
+        "aff": ""
+    },
+    {
+        "title": "Automated Video Looping With Progressive Dynamism",
+        "aff": ""
+    },
+    {
+        "title": "Axis-Aligned Filtering for Interactive Physically Based Diffuse Indirect Lighting",
+        "aff": ""
+    },
+    {
+        "title": "Bi-Scale Appearance Fabrication",
+        "aff": ""
+    },
+    {
+        "title": "Blue-Noise Sampling With Controlled Aliasing",
+        "aff": ""
+    },
+    {
+        "title": "Bundled Camera Paths for Video Stabilization",
+        "aff": ""
+    },
+    {
+        "title": "Cardinality-Constrained Texture Filtering",
+        "aff": ""
+    },
+    {
+        "title": "Closest-Point Turbulence for Liquid Surfaces",
+        "aff": ""
+    },
+    {
+        "title": "Co-Hierarchical Analysis of Shape Structures",
+        "aff": ""
+    },
+    {
+        "title": "Compressive Light-Field Photography Using Overcomplete Dictionaries and Optimized Projections",
+        "aff": ""
+    },
+    {
+        "title": "Computational Design of Actuated Deformable Characters",
+        "aff": ""
+    },
+    {
+        "title": "Computational Design of Mechanical Characters",
+        "aff": ""
+    },
+    {
+        "title": "Computing Self-Supporting Surfaces By Regular Triangulation",
+        "aff": ""
+    },
+    {
+        "title": "Content-Adaptive Lenticular Prints",
+        "aff": ""
+    },
+    {
+        "title": "Controlled-Distortion Constrained Global Parametrization",
+        "aff": ""
+    },
+    {
+        "title": "Cubic Mean Value Coordinates",
+        "aff": ""
+    },
+    {
+        "title": "Dense Scene Reconstruction With Points of Interest",
+        "aff": ""
+    },
+    {
+        "title": "Depicting Stylized Materials With Vector Shade Trees",
+        "aff": ""
+    },
+    {
+        "title": "Depth Synthesis and Local Warps for Plausible Image\u2010Based Navigation",
+        "aff": ""
+    },
+    {
+        "title": "Designing Unreinforced Masonry Models",
+        "aff": ""
+    },
+    {
+        "title": "Dynamic Hair Manipulation in Images and Videos",
+        "aff": ""
+    },
+    {
+        "title": "Dynamic-Element Textures",
+        "aff": ""
+    },
+    {
+        "title": "Edge\u2010Aware Point Set Resampling",
+        "aff": ""
+    },
+    {
+        "title": "Efficient Preconditioning of Laplacian Matrices for Computer Graphics",
+        "aff": ""
+    },
+    {
+        "title": "Embedded Thin Shells for Wrinkle Simulation",
+        "aff": ""
+    },
+    {
+        "title": "Eulerian\u2010on\u2010Lagrangian Simulation",
+        "aff": ""
+    },
+    {
+        "title": "Example-Based Video Color Grading",
+        "aff": ""
+    },
+    {
+        "title": "Example\u2010Guided Physically Based Modal Sound Synthesis",
+        "aff": ""
+    },
+    {
+        "title": "Exposing Photo Manipulation With Inconsistent Shadows",
+        "aff": ""
+    },
+    {
+        "title": "Fabricating BRDFs at High Spatial Resolution Using Wave Optics",
+        "aff": ""
+    },
+    {
+        "title": "Fabricating Translucent Materials Using Continuous Pigment Mixtures",
+        "aff": ""
+    },
+    {
+        "title": "Femto-Photography - Capturing and Visualizing the Propagation of Light",
+        "aff": ""
+    },
+    {
+        "title": "Flow Reconstruction for Data-Driven Traffic Animation",
+        "aff": ""
+    },
+    {
+        "title": "Folding and Crumpling Adaptive Sheets",
+        "aff": ""
+    },
+    {
+        "title": "Fourier Analysis of Stochastic Sampling Strategies for Assessing Bias and Variance in Integration",
+        "aff": ""
+    },
+    {
+        "title": "Gap Processing for Adaptive Maximal Poisson-Disk Sampling",
+        "aff": ""
+    },
+    {
+        "title": "Generating and Exploring Good Building Layouts",
+        "aff": ""
+    },
+    {
+        "title": "Geodesics in Heat: A New Approach to Computing Distance Based on Heat Flow",
+        "aff": ""
+    },
+    {
+        "title": "Global Illumination With Radiance Regression Functions",
+        "aff": ""
+    },
+    {
+        "title": "Globally Optimal Direction Fields",
+        "aff": ""
+    },
+    {
+        "title": "Gloss Perception in Painterly and Cartoon Rendering",
+        "aff": ""
+    },
+    {
+        "title": "Gradient-Domain Metropolis Light Transport",
+        "aff": ""
+    },
+    {
+        "title": "Handwriting Beautification Using Tokens Means",
+        "aff": ""
+    },
+    {
+        "title": "High-Quality Computational Imaging Through Simple Lenses",
+        "aff": ""
+    },
+    {
+        "title": "High-Resolution Sparse Voxel DAGs",
+        "aff": ""
+    },
+    {
+        "title": "Highly Adaptive Liquid Simulations on Tetrahedral Meshes",
+        "aff": ""
+    },
+    {
+        "title": "Image-Based Reconstruction and Synthesis of Dense Foliage",
+        "aff": ""
+    },
+    {
+        "title": "Implicit Skinning: Real-Time Skin Deformation With Contact Modeling",
+        "aff": ""
+    },
+    {
+        "title": "InfraStructs: Fabricating Information Inside Physical Objects for Imaging in the Terahertz Region",
+        "aff": ""
+    },
+    {
+        "title": "Injective and Bounded Distortion Mappings in 3D",
+        "aff": ""
+    },
+    {
+        "title": "Integer-Grid Maps for Reliable Quad Meshing",
+        "aff": ""
+    },
+    {
+        "title": "Interactive Albedo Editing in Path\u2010Traced Volumetric Materials",
+        "aff": ""
+    },
+    {
+        "title": "Interactive Authoring of Simulation-Ready Plants",
+        "aff": ""
+    },
+    {
+        "title": "Interpreting Concept Sketches",
+        "aff": ""
+    },
+    {
+        "title": "L1-Medial Skeleton of Point Cloud",
+        "aff": ""
+    },
+    {
+        "title": "Layered Analysis of Irregular Fa\u00e7ades Via Symmetry Maximization",
+        "aff": ""
+    },
+    {
+        "title": "Learning Part-Based Templates From Large Collections of 3D Shapes",
+        "aff": ""
+    },
+    {
+        "title": "Line-Segment Sampling With Blue-Noise Properties",
+        "aff": ""
+    },
+    {
+        "title": "Liquid Surface Tracking With Error Compensation",
+        "aff": ""
+    },
+    {
+        "title": "Low-Budget Transient Imaging Using Photonic Mixer Devices",
+        "aff": ""
+    },
+    {
+        "title": "Make It Stand: Balancing Shapes for 3D Fabrication",
+        "aff": ""
+    },
+    {
+        "title": "Map-Based Exploration of Intrinsic Shape Differences and Variability",
+        "aff": ""
+    },
+    {
+        "title": "Mesh Denoising Via L_0 Minimization",
+        "aff": ""
+    },
+    {
+        "title": "MeshGit: Diffing and Merging Meshes for Polygonal Modeling",
+        "aff": ""
+    },
+    {
+        "title": "Modeling Friction and Air Effects between Cloth and Deformable Bodies",
+        "aff": ""
+    },
+    {
+        "title": "Modular Flux Transfer: Efficient Rendering of High-Resolution Volumes With Repeated Structures",
+        "aff": ""
+    },
+    {
+        "title": "Near-Exhaustive Precomputation of Secondary Cloth Effects",
+        "aff": ""
+    },
+    {
+        "title": "Near\u2010Invariant Blur for Depth and 2D Motion Via Time\u2010Varying Light Field Analysis",
+        "aff": ""
+    },
+    {
+        "title": "Non-Polynomial Galerkin Projection on Deforming Meshes",
+        "aff": ""
+    },
+    {
+        "title": "On the Equilibrium of Simplicial Masonry Structures",
+        "aff": ""
+    },
+    {
+        "title": "Online Modeling For Real-Time Facial Animation",
+        "aff": ""
+    },
+    {
+        "title": "Opacity Optimization for 3D Line Fields",
+        "aff": ""
+    },
+    {
+        "title": "OpenFab: A Programmable Pipeline for Multi-Material Fabrication",
+        "aff": ""
+    },
+    {
+        "title": "OpenSurfaces: A Richly Annotated Catalog of Surface Appearance",
+        "aff": ""
+    },
+    {
+        "title": "Optimizing Color Consistency in Photo Collections",
+        "aff": ""
+    },
+    {
+        "title": "O\u2010Snap: Optimization\u2010Based Snapping for Modeling Architecture",
+        "aff": ""
+    },
+    {
+        "title": "Painting by Feature: Texture Boundaries for Example-Based Image Creation",
+        "aff": ""
+    },
+    {
+        "title": "Parsing Sewing Patterns Into 3D Garments",
+        "aff": ""
+    },
+    {
+        "title": "Particle-Based Anisotropic Surface Meshing",
+        "aff": ""
+    },
+    {
+        "title": "Path-Space Manipulation of Physically Based Light Transport",
+        "aff": ""
+    },
+    {
+        "title": "Perception of Perspective Distortions in Image-Based Rendering",
+        "aff": ""
+    },
+    {
+        "title": "Phase-Based Video Motion Processing",
+        "aff": ""
+    },
+    {
+        "title": "Planar Shape Interpolation With Bounded Distortion",
+        "aff": ""
+    },
+    {
+        "title": "Position-Based Fluids",
+        "aff": ""
+    },
+    {
+        "title": "Practical SVBRDF Capture in the Frequency Domain",
+        "aff": ""
+    },
+    {
+        "title": "Probabilistic Color-by-Numbers: Suggesting Pattern Colorizations Using Factor Graphs",
+        "aff": ""
+    },
+    {
+        "title": "Procedural Fa\u00e7ade Variations From Single Layout",
+        "aff": ""
+    },
+    {
+        "title": "Putting Holes in Holey Geometry: Topology Change for Arbitrary Surfaces",
+        "aff": ""
+    },
+    {
+        "title": "Qualitative Organization of Collections of Shapes Via Quartet Analysis",
+        "aff": ""
+    },
+    {
+        "title": "Radial View Based Culling for Continuous Self-Collision Detection of Skeletal Models",
+        "aff": ""
+    },
+    {
+        "title": "Real-Time Drawing Assistance Through Crowdsourcing",
+        "aff": ""
+    },
+    {
+        "title": "Real-Time Dynamic Fracture With Volumetric Approximate Convex Decompositions",
+        "aff": ""
+    },
+    {
+        "title": "Real-Time Facial Animation With On-the-Fly Correctives",
+        "aff": ""
+    },
+    {
+        "title": "RealBrush: Painting with Examples of Physical Media",
+        "aff": ""
+    },
+    {
+        "title": "Reciprocal Frame Structures Made Easy",
+        "aff": ""
+    },
+    {
+        "title": "Reconstructing Surfaces of Particle\u2010Based Fluids Using Ansotropic Kernels",
+        "aff": ""
+    },
+    {
+        "title": "Rectangling Panoramic Images Via Warping",
+        "aff": ""
+    },
+    {
+        "title": "Robust Adaptive Photon Tracing Using Photon-Path Visibility",
+        "aff": ""
+    },
+    {
+        "title": "Robust Fairing Via Conformal Curvature Flow",
+        "aff": ""
+    },
+    {
+        "title": "Robust Inside-Outside Segmentation Using Generalized Winding Numbers",
+        "aff": ""
+    },
+    {
+        "title": "Scalable Real-Time Volumetric Surface Reconstruction",
+        "aff": ""
+    },
+    {
+        "title": "Scene Reconstruction From High Spatio-Angular Resolution Light Fields",
+        "aff": ""
+    },
+    {
+        "title": "Screened Poisson-Surface Reconstruction",
+        "aff": ""
+    },
+    {
+        "title": "Semantic Decomposition and Reconstruction of Residential Scenes from LiDAR Data",
+        "aff": ""
+    },
+    {
+        "title": "Simulating Liquids and Solid Liquid Interactions With Langragian Meshes",
+        "aff": ""
+    },
+    {
+        "title": "Sketch-Based Generation and Editing of Quad Meshes",
+        "aff": ""
+    },
+    {
+        "title": "Sketch2Scene: Sketch-Based Co-Retrieval and Co-Placement of 3D Models",
+        "aff": ""
+    },
+    {
+        "title": "Spec2Fab: A Reducer-Tuner Model for Translating Specifications to 3D Prints",
+        "aff": ""
+    },
+    {
+        "title": "Spectral Appearance Changes Induced by Light Exposure",
+        "aff": ""
+    },
+    {
+        "title": "Stereoscopic 3D Line Drawing",
+        "aff": ""
+    },
+    {
+        "title": "Structure-Aware Hair Capture",
+        "aff": ""
+    },
+    {
+        "title": "Style and Abstraction in Portrait Sketching",
+        "aff": ""
+    },
+    {
+        "title": "Stylizing Animation By Example",
+        "aff": ""
+    },
+    {
+        "title": "Subspace Fluid Re-Simulation",
+        "aff": ""
+    },
+    {
+        "title": "Subspace Integration With Local Deformations",
+        "aff": ""
+    },
+    {
+        "title": "Super Space Clothoids",
+        "aff": ""
+    },
+    {
+        "title": "Synthesis of Tiled Patterns Using Factor Graphs",
+        "aff": ""
+    },
+    {
+        "title": "Synthesizing Waves From Animated Height Fields",
+        "aff": ""
+    },
+    {
+        "title": "Terrain Generation Using Procedural Models Based on Hydrology",
+        "aff": ""
+    },
+    {
+        "title": "Thin Skin Elastodynamics",
+        "aff": ""
+    },
+    {
+        "title": "Topology\u2010Driven Vectorization of Clean Line Drawings",
+        "aff": ""
+    },
+    {
+        "title": "Two-Layer Sparse Compression of Dense-Weight Blend Skinning",
+        "aff": ""
+    },
+    {
+        "title": "Understanding the Role of Phase Function in Translucent Appearance",
+        "aff": ""
+    },
+    {
+        "title": "User-Assisted Image Compositing for Photographic Lighting",
+        "aff": ""
+    },
+    {
+        "title": "VDB: High\u2010Resolution Sparse Volumes With Dynamic Topology",
+        "aff": ""
+    },
+    {
+        "title": "Video-Based Hand Manipulation Capture Through Composite Motion Control",
+        "aff": ""
+    },
+    {
+        "title": "Wave\u2010Based Sound Propagation in Large Open Scenes Using an Equivalent-Source Formulation",
+        "aff": ""
+    },
+    {
+        "title": "Weighted Averages on Surfaces",
+        "aff": ""
+    },
+    {
+        "title": "Worst-Case Structural Analysis",
+        "aff": ""
+    }
+]

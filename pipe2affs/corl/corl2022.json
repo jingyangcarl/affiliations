@@ -1,0 +1,790 @@
+[
+    {
+        "title": "Tailoring Visual Object Representations to Human Requirements: A Case Study with a Recycling Robot",
+        "aff": "Yale University;Department of Computer Science, Yale University;Yale University;Yale University;Yale University;Yale University"
+    },
+    {
+        "title": "Learning Interpretable BEV Based VIO without Deep Neural Networks",
+        "aff": "Zhejiang University;Zhejiang University;Zhejiang University;Zhejiang University;Zhejiang University"
+    },
+    {
+        "title": "Residual Skill Policies: Learning an Adaptable Skill-based Action Space for Reinforcement Learning for Robotics",
+        "aff": "Queensland University of Technology;Queensland University of Technology;Queensland University of Technology;Queensland University of Technology;Queensland University of Technology"
+    },
+    {
+        "title": "Towards Online 3D Bin Packing: Learning Synergies between Packing and Unpacking via DRL",
+        "aff": "Shandong University;Shandong University;Shandong University;Shandong University;Shandong University"
+    },
+    {
+        "title": "Do we use the Right Measure? Challenges in Evaluating Reward Learning Algorithms",
+        "aff": "Delft University of Technology"
+    },
+    {
+        "title": "MegaPose: 6D Pose Estimation of Novel Objects via Render & Compare",
+        "aff": "NVIDIA;NVIDIA;NVIDIA;NVIDIA;NVIDIA;INRIA;ENPC;Department of Computer Science;Czech Technical University in Prague"
+    },
+    {
+        "title": "Is Anyone There? Learning a Planner Contingent on Perceptual Uncertainty",
+        "aff": "University of California, Berkeley;Toyota Research Institute;Microsoft;University of California, Berkeley;Google;University of California, Berkeley;University of California, Berkeley"
+    },
+    {
+        "title": "Selective Object Rearrangement in Clutter",
+        "aff": "University of Southern California;University of Southern California"
+    },
+    {
+        "title": "ToolFlowNet: Robotic Manipulation with Tools via Predicting Tool Flow from Point Clouds",
+        "aff": "School of Computer Science, Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University"
+    },
+    {
+        "title": "INQUIRE: INteractive Querying for User-aware Informative REasoning",
+        "aff": "Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University"
+    },
+    {
+        "title": "Inner Monologue: Embodied Reasoning through Planning with Language Models",
+        "aff": "Google;Google;Google Brain;Carnegie Mellon University;Google;Google DeepMind;Research, Google;Google;Google;Google;Google;Google;Google Brain"
+    },
+    {
+        "title": "DayDreamer: World Models for Physical Robot Learning",
+        "aff": "University of California, Berkeley;University of Toronto;Covariant;University of California, Berkeley;University of California, Berkeley"
+    },
+    {
+        "title": "Safe Control Under Input Limits with Neural Control Barrier Functions",
+        "aff": "Carnegie Mellon University;Carnegie Mellon University;School of Computer Science, Carnegie Mellon University"
+    },
+    {
+        "title": "SE(2)-Equivariant Pushing Dynamics Models for Tabletop Object Manipulations",
+        "aff": "Seoul National University;Seoul National University;Seoul National University;Seoul National University"
+    },
+    {
+        "title": "i-Sim2Real: Reinforcement Learning of Robotic Policies in Tight Human-Robot Interaction Loops",
+        "aff": "Google;Google;Google;Google;Google;Google;Google;Google Brain Robotics & Columbia University;Google"
+    },
+    {
+        "title": "Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior",
+        "aff": "Massachusetts Institute of Technology;Massachusetts Institute of Technology"
+    },
+    {
+        "title": "Efficient and Stable Off-policy Training via Behavior-aware Evolutionary Learning",
+        "aff": "Peking University"
+    },
+    {
+        "title": "Learning the Dynamics of Compliant Tool-Environment Interaction for Visuo-Tactile Contact Servoing",
+        "aff": "University of Michigan - Ann Arbor;University of Michigan;University of Michigan"
+    },
+    {
+        "title": "Efficient Tactile Simulation with Differentiability for Robotic Manipulation",
+        "aff": "Massachusetts Institute of Technology;Massachusetts Institute of Technology;Massachusetts Institute of Technology;Massachusetts Institute of Technology;Massachusetts Institute of Technology;Massachusetts Institute of Technology;Texas A&M University - College Station"
+    },
+    {
+        "title": "USHER: Unbiased Sampling for Hindsight Experience Replay",
+        "aff": "Rutgers University;Rutgers University, New Brunswick;, Rutgers University"
+    },
+    {
+        "title": "Solving Complex Manipulation Tasks with Model-Assisted Model-Free Reinforcement Learning",
+        "aff": "Shanghai Jiaotong University;Shanghai Jiaotong University"
+    },
+    {
+        "title": "Particle-Based Score Estimation for State Space Model Learning in Autonomous Driving",
+        "aff": "Waymo;Waymo;University of Oxford;University of Oxford"
+    },
+    {
+        "title": "Learning Model Predictive Controllers with Real-Time Attention for Real-World Navigation",
+        "aff": "George Mason University;Google;Google Brain Robotics & Columbia University;Google;Google;Google Brain Robotics;Google;Google;Google;Google;University of California, Santa Cruz;Google;Google;Google;Google"
+    },
+    {
+        "title": "When the Sun Goes Down: Repairing Photometric Losses for All-Day Depth Estimation",
+        "aff": "Department of Computer Science, University of Oxford;Department of Computer Science, University of Oxford;Queensland University of Technology;University of Oxford;University of Oxford"
+    },
+    {
+        "title": "Human-Robot Commensality: Bite Timing Prediction for Robot-Assisted Feeding in Groups",
+        "aff": "University of Oxford;Cornell University;Rutgers University;Cornell University;Cornell University;Rutgers University;Cornell University"
+    },
+    {
+        "title": "Online Dynamics Learning for Predictive Control with an Application to Aerial Robots",
+        "aff": "University of Pennsylvania;School of Engineering and Applied Science, University of Pennsylvania"
+    },
+    {
+        "title": "PlanT: Explainable Planning Transformers via Object-Level Representations",
+        "aff": "University of T\u00fcbingen;University of T\u00fcbingen;University of Tuebingen;University of T\u00fcbingen;University of Tuebingen;Eberhard-Karls-Universit\u00e4t T\u00fcbingen"
+    },
+    {
+        "title": "Learning Sampling Distributions for Model Predictive Control",
+        "aff": "Department of Computer Science, University of Washington;University of Washington"
+    },
+    {
+        "title": "Learning Goal-Conditioned Policies Offline with Self-Supervised Reward Shaping",
+        "aff": "Meta AI;Meta Facebook;Meta;Meta Facebook;Inria"
+    },
+    {
+        "title": "Learning Diverse and Physically Feasible Dexterous Grasps with Generative Model and Bilevel Optimization",
+        "aff": "Computer Science Department, Stanford University"
+    },
+    {
+        "title": "BusyBot: Learning to Interact, Reason, and Plan in a BusyBoard Environment",
+        "aff": "Columbia University;Columbia University;Columbia University"
+    },
+    {
+        "title": "Cross-Domain Transfer via Semantic Skill Imitation",
+        "aff": "University of Southern California;Meta Facebook;Korea Advanced Institute of Science & Technology;FAIR, Meta;Facebook AI Research;Meta, FAIR"
+    },
+    {
+        "title": "ROS-PyBullet Interface: A Framework for Reliable Contact Simulation and Human-Robot Interaction",
+        "aff": "University College London (UCL)"
+    },
+    {
+        "title": "MIRA: Mental Imagery for Robotic Affordances",
+        "aff": "Massachusetts Institute of Technology;Google;Massachusetts Institute of Technology;Massachusetts Institute of Technology;NVIDIA;Massachusetts Institute of Technology;Massachusetts Institute of Technology;Google;Google"
+    },
+    {
+        "title": "Masked World Models for Visual Control",
+        "aff": "University of California, Berkeley;University of Toronto;University of California, Berkeley;University of California, Berkeley;University of California, Berkeley;Covariant;University of California, Berkeley"
+    },
+    {
+        "title": "Rethinking Sim2Real: Lower Fidelity Simulation Leads to Higher Sim2Real Transfer in Navigation",
+        "aff": "University of Texas at Austin;Georgia Institute of Technology;Georgia Institute of Technology;FAIR, Meta;Facebook AI Research"
+    },
+    {
+        "title": "Evo-NeRF: Evolving NeRF for Sequential Robot Grasping of Transparent Objects",
+        "aff": "University of California, Berkeley;University of California, Berkeley;University of California, Berkeley;University of California, Berkeley;University of California, Berkeley;University of California, Berkeley;University of California, Berkeley;University of California, Berkeley"
+    },
+    {
+        "title": "Learning Preconditions of Hybrid Force-Velocity Controllers for Contact-Rich Manipulation",
+        "aff": "Carnegie Mellon University;Carnegie Mellon University"
+    },
+    {
+        "title": "LEADER: Learning Attention over Driving Behaviors for Planning under Uncertainty",
+        "aff": "National University of Singapore;National University of Singapore"
+    },
+    {
+        "title": "Learning Road Scene-level Representations via Semantic Region Prediction",
+        "aff": "Johns Hopkins University;Johns Hopkins University;National Yang Ming Chiao Tung University"
+    },
+    {
+        "title": "Data-Efficient Model Learning for Control with Jacobian-Regularized Dynamic-Mode Decomposition",
+        "aff": "Carnegie Mellon University;Carnegie Mellon University"
+    },
+    {
+        "title": "ROAD: Learning an Implicit Recursive Octree Auto-Decoder to Efficiently Encode 3D Shapes",
+        "aff": "Toyota Research Institute;Toyota Research Institute;Toyota Research Institute;Toyota Research Institute (TRI)"
+    },
+    {
+        "title": "Transformers Are Adaptable Task Planners",
+        "aff": "Meta Facebook;Facebook AI Research;Meta ;Carnegie Mellon University;Facebook AI Research"
+    },
+    {
+        "title": "Lyapunov Design for Robust and Efficient Robotic Reinforcement Learning",
+        "aff": "University of California, Berkeley;University of California, Berkeley;University of California, Berkeley;University of California, Berkeley"
+    },
+    {
+        "title": "Towards Long-Tailed 3D Detection",
+        "aff": "Carnegie Mellon University;Amazon;School of Computer Science, Carnegie Mellon University;Carnegie Mellon University"
+    },
+    {
+        "title": "VIRDO++: Real-World, Visuo-tactile Dynamics and Perception of Deformable Objects",
+        "aff": "University of Michigan;Google;University of Michigan;Google"
+    },
+    {
+        "title": "Neural Geometric Fabrics: Efficiently Learning High-Dimensional Policies from Demonstration",
+        "aff": "Georgia Institute of Technology;Imperial College London;NVIDIA;Department of Computer Science;Georgia Institute of Technology;NVIDIA"
+    },
+    {
+        "title": "One-Shot Transfer of Affordance Regions? AffCorrs!",
+        "aff": "University College London;University College London;University College London"
+    },
+    {
+        "title": "TRITON: Neural Neural Textures for Better Sim2Real",
+        "aff": "Department of Computer Science, State University of New York, Stony Brook;Google DeepMind"
+    },
+    {
+        "title": "A Dual Representation Framework for Robot Learning with Human Guidance",
+        "aff": "Stanford University;Stanford University;Stanford University;Tsinghua University;Computer Science Department, Stanford University;SalesForce.com;Stanford University;Stanford University"
+    },
+    {
+        "title": "Inferring Smooth Control: Monte Carlo Posterior Policy Iteration with Gaussian Processes",
+        "aff": "TU Darmstadt;TU Darmstadt"
+    },
+    {
+        "title": "Few-Shot Preference Learning for Human-in-the-Loop RL",
+        "aff": "Stanford University;Stanford University"
+    },
+    {
+        "title": "Verified Path Following Using Neural Control Lyapunov Functions",
+        "aff": "University of Colorado at Boulder;University of Colorado at Boulder;University of Colorado at Boulder;Amazon"
+    },
+    {
+        "title": "MidasTouch: Monte-Carlo inference over distributions across sliding touch",
+        "aff": "Carnegie Mellon University;Meta;Carnegie Mellon University;Meta AI"
+    },
+    {
+        "title": "Visuo-Tactile Transformers for Manipulation",
+        "aff": "University of Michigan - Ann Arbor;University of Michigan - Ann Arbor;University of Michigan"
+    },
+    {
+        "title": "Learning Semantics-Aware Locomotion Skills from Human Demonstration",
+        "aff": "Google;University of Washington;Google;Google;Google;University of Washington"
+    },
+    {
+        "title": "Learning Visualization Policies of Augmented Reality for Human-Robot Collaboration",
+        "aff": "State University of New York at Binghamton;State University of New York at Binghamton"
+    },
+    {
+        "title": "On-Robot Learning With Equivariant Models",
+        "aff": "Northeastern University;Northeastern University;Northeastern University;Northeastern University ;Northeastern University"
+    },
+    {
+        "title": "Iterative Interactive Modeling for Knotting Plastic Bags",
+        "aff": "Tsinghua University;Tsinghua University;Tsinghua University;Tsinghua University"
+    },
+    {
+        "title": "Real-World Robot Learning with Masked Visual Pre-training",
+        "aff": "University of California, Berkeley;Facebook AI Research;University of California, Berkeley;Covariant;University of California, Berkeley;Electrical Engineering & Computer Science Department"
+    },
+    {
+        "title": "Socially-Attentive Policy Optimization in Multi-Agent Self-Driving System",
+        "aff": "Beijing Institute of Technology;Queen Mary University, London;Huawei Noah's Ark Lab;Tianjin University;Beijing Institute of Technology"
+    },
+    {
+        "title": "Bayesian Reinforcement Learning for Single-Episode Missions in Partially Unknown Environments",
+        "aff": "University of Oxford;University of Oxford;University of Oxford;University of Oxford"
+    },
+    {
+        "title": "VIOLA: Object-Centric Imitation Learning for Vision-Based Robot Manipulation",
+        "aff": "The University of Texas at Austin;University of Texas at Austin;University of Texas, Austin;Computer Science Department, University of Texas, Austin"
+    },
+    {
+        "title": "SE(3)-Equivariant Relational Rearrangement with Neural Descriptor Fields",
+        "aff": "NVIDIA;Massachusetts Institute of Technology;Massachusetts Institute of Technology;Massachusetts Institute of Technology;Massachusetts Institute of Technology;Massachusetts Institute of Technology;Massachusetts Institute of Technology"
+    },
+    {
+        "title": "Transferring Hierarchical Structures with Dual Meta Imitation Learning",
+        "aff": "Tsinghua University;Tsinghua University;Tsinghua University"
+    },
+    {
+        "title": "Fleet-DAgger: Interactive Robot Fleet Learning with Scalable Human Supervision",
+        "aff": "University of California, Berkeley;Electrical Engineering & Computer Science Department, University of California, Berkeley;University of California, Berkeley;Covariant;University of California, Berkeley"
+    },
+    {
+        "title": "CADSim: Robust and Scalable in-the-wild 3D Reconstruction for Controllable Sensor Simulation",
+        "aff": "University of Toronto;Waabi Innovation Inc.;Waabi Innovation Inc;Massachusetts Institute of Technology;Department of Computer Science, University of Toronto;University of Toronto;Department of Computer Science, University of Toronto"
+    },
+    {
+        "title": "Inferring Versatile Behavior from Demonstrations by Matching Geometric Descriptors",
+        "aff": "Karlsruhe Institute of Technology;Karlsruher Institut f\u00fcr Technologie;Karlsruhe Institute of Technology;Karlsruhe Institute of Technology"
+    },
+    {
+        "title": "Hypernetworks in Meta-Reinforcement Learning",
+        "aff": "University of Oxford;University of Oxford;Department of Computer Science, University of Oxford;QualComm"
+    },
+    {
+        "title": "Generative Category-Level Shape and Pose Estimation with Semantic Primitives",
+        "aff": "Zhejiang University;Zhejiang University;The Chinese University of Hong Kong;Bytedance;Zhejiang University;Zhejiang University"
+    },
+    {
+        "title": "In-Hand Gravitational Pivoting Using Tactile Sensing",
+        "aff": "Monash University;Meta AI;Monash University"
+    },
+    {
+        "title": "Reinforcement learning with Demonstrations from Mismatched Task under Sparse Reward",
+        "aff": "Tsinghua University;Tsinghua University;University of California, Berkeley;Tsinghua University;Tsinghua University"
+    },
+    {
+        "title": "Touching a NeRF: Leveraging Neural Radiance Fields for Tactile Sensory Data Generation",
+        "aff": "University of Oxford;University of Oxford;University of Oxford;University of Oxford;University of Oxford"
+    },
+    {
+        "title": "Learning Neuro-Symbolic Skills for Bilevel Planning",
+        "aff": "Massachusetts Institute of Technology;Massachusetts Institute of Technology;Massachusetts Institute of Technology;Massachusetts Institute of Technology;Massachusetts Institute of Technology"
+    },
+    {
+        "title": "NeuralGrasps: Learning Implicit Representations for Grasps of Multiple Robotic Hands",
+        "aff": "University of Texas at Dallas;University of Texas at Dallas;University of Texas at Dallas;University of Texas - Dallas;University of Texas, Dallas"
+    },
+    {
+        "title": "CoBEVT: Cooperative Bird\u2019s Eye View Semantic Segmentation with Sparse Transformers",
+        "aff": "University of California, Los Angeles;University of Texas at Austin;University of California, Los Angeles;Arizona State University;University of California, Los Angeles"
+    },
+    {
+        "title": "Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation",
+        "aff": "NVIDIA;NVIDIA;Department of Computer Science"
+    },
+    {
+        "title": "Towards Capturing the Temporal Dynamics for Trajectory Prediction: a Coarse-to-Fine Approach",
+        "aff": "Shanghai Jiaotong University;Shanghai AI Laboratory;Shanghai Jiaotong University;Shanghai Jiaotong University;Shanghai AI Lab;Shanghai Jiaotong University"
+    },
+    {
+        "title": "Online Inverse Reinforcement Learning with Learned Observation Model",
+        "aff": "University of Georgia;University of Southern Mississippi"
+    },
+    {
+        "title": "Bayesian Object Models for Robotic Interaction with Differentiable Probabilistic Programming",
+        "aff": "NVIDIA;Department of Computer Science;University of Toronto;NVIDIA;University of Montreal"
+    },
+    {
+        "title": "Learning and Retrieval from Prior Data for Skill-based Imitation Learning",
+        "aff": "University of Texas, Austin;Stanford University;Computer Science Department, University of Texas, Austin"
+    },
+    {
+        "title": "Legged Locomotion in Challenging Terrains using Egocentric Vision",
+        "aff": "Carnegie Mellon University;University of California, Berkeley;University of California, Berkeley;Carnegie Mellon University"
+    },
+    {
+        "title": "Last-Mile Embodied Visual Navigation",
+        "aff": "University of Illinois, Urbana Champaign;Meta AI;University of Illinois, Urbana Champaign;Meta Facebook"
+    },
+    {
+        "title": "Discriminator-Guided Model-Based Offline Imitation Learning",
+        "aff": "Tsinghua University;JD.com;Department of Automation, Tsinghua University;Beijing Jiaotong University;Tsinghua University;Tsinghua University;Tsinghua University"
+    },
+    {
+        "title": "Vision-based Uneven BEV Representation Learning with Polar Rasterization and Surface Estimation",
+        "aff": "Horizon Robotics;Huazhong University of Science and Technology;Huazhong University of Science and Technology;Horizon Robotics;Horizon Robotics;Huazhong University of Science and Technology;Tianjin University;Tianjin University"
+    },
+    {
+        "title": "Volumetric-based Contact Point Detection for 7-DoF Grasping",
+        "aff": "Hong Kong University of Science and Technology;SUN YAT-SEN UNIVERSITY;SUN YAT-SEN UNIVERSITY;Hong Kong University of Science and Technology;Hong Kong University of Science and Technology"
+    },
+    {
+        "title": "Concept Learning for Interpretable Multi-Agent Reinforcement Learning",
+        "aff": "University of Massachusetts, Amherst;Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University"
+    },
+    {
+        "title": "Offline Reinforcement Learning at Multiple Frequencies",
+        "aff": "Stanford University;Stanford University;Google;Google Brain"
+    },
+    {
+        "title": "PLATO: Predicting Latent Affordances Through Object-Centric Play",
+        "aff": "Stanford University;Stanford University"
+    },
+    {
+        "title": "LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action",
+        "aff": "UC Berkeley;University of Warsaw;Google;Google"
+    },
+    {
+        "title": "Proactive slip control by learned slip model and trajectory adaptation",
+        "aff": "University of Lincoln;University of Lincoln"
+    },
+    {
+        "title": "ARC - Actor Residual Critic for Adversarial Imitation Learning",
+        "aff": "Carnegie Mellon University;Carnegie Mellon University"
+    },
+    {
+        "title": "RoboTube: Learning Household Manipulation from Human Videos with Simulated Twin Environments",
+        "aff": "Carnegie Mellon University;Shanghai Jiaotong University;Shanghai Jiaotong University;Shanghai Jiaotong University;Shanghai Jiaotong University;Shanghai Jiaotong University;University of Toronto;Shanghai Jiaotong University"
+    },
+    {
+        "title": "HERD: Continuous Human-to-Robot Evolution for Learning from Human Demonstration",
+        "aff": "Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University"
+    },
+    {
+        "title": "Latent Plans for Task-Agnostic Offline Reinforcement Learning",
+        "aff": "Albert-Ludwigs-Universit\u00e4t Freiburg;CS Department, University of Freiburg, Germany, Albert-Ludwigs-Universit\u00e4t Freiburg;Universit\u00e4t Freiburg;Universit\u00e4t Freiburg"
+    },
+    {
+        "title": "Synthesizing Adversarial Visual Scenarios for Model-Based Robotic Control",
+        "aff": "University of Texas at Austin"
+    },
+    {
+        "title": "Don\u2019t Start From Scratch: Leveraging Prior Data to Automate Robotic Reinforcement Learning",
+        "aff": "University of California, Berkeley;Electrical Engineering & Computer Science Department, University of California, Berkeley;University of Texas at Austin;University of California, Berkeley;Google;Google"
+    },
+    {
+        "title": "Where To Start? Transferring Simple Skills to Complex Environments",
+        "aff": "Imperial College London;Imperial College London"
+    },
+    {
+        "title": "Safe Robot Learning in Assistive Devices through Neural Network Repair",
+        "aff": "Arizona State University;Arizona State University;University of Colorado at Boulder;Arizona State University;Arizona State University"
+    },
+    {
+        "title": "Out-of-Dynamics Imitation Learning from Multimodal Demonstrations",
+        "aff": "Tsinghua University;School of Software, Tsinghua University;Stanford University;Tsinghua University"
+    },
+    {
+        "title": "PRISM: Probabilistic Real-Time Inference in Spatial World Models",
+        "aff": "Machine Learning Research Lab, Volkswagen Group;Data Lab, Volkswagen Group;Volkswagen Group;Machine Learning Research Lab; Volkswagen Group;Technical University Munich;VW Group"
+    },
+    {
+        "title": "Learning with Muscles: Benefits for Data-Efficiency and Robustness in Anthropomorphic Tasks",
+        "aff": "Universit\u00e4t Stuttgart;Max Planck Institute for Intelligent Systems, Max-Planck Institute;Max Planck Institute for Intelligent Systems;Max Planck Institute for Intelligent Systems, Max-Planck Institute;Universit\u00e4t Stuttgart"
+    },
+    {
+        "title": "In-Hand Object Rotation via Rapid Motor Adaptation",
+        "aff": "University of California, Berkeley;University of California, Berkeley;Meta Facebook;University of California, Berkeley;University of California, Berkeley"
+    },
+    {
+        "title": "JFP: Joint Future Prediction with Interactive Multi-Agent Modeling for Autonomous Driving",
+        "aff": "Waymo;Waymo;Waymo"
+    },
+    {
+        "title": "Adapting Neural Models with Sequential Monte Carlo Dropout",
+        "aff": "Monash University;Monash University;Monash University"
+    },
+    {
+        "title": "Rethinking Optimization with Differentiable Simulation from a Global Perspective",
+        "aff": "Stanford University;Stanford University;University of Montreal"
+    },
+    {
+        "title": "TAX-Pose: Task-Specific Cross-Pose Estimation for Robot Manipulation",
+        "aff": "Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University"
+    },
+    {
+        "title": "Domain Adaptation and Generalization: A Low-Complexity Approach",
+        "aff": "German Aerospace Center (DLR)"
+    },
+    {
+        "title": "PoET: Pose Estimation Transformer for Single-View, Multi-Object 6D Pose Estimation",
+        "aff": "University of Klagenfurt;Alpen-Adria Universit\u00e4t Klagenfurt;Alpen-Adria Universit\u00e4t Klagenfurt"
+    },
+    {
+        "title": "Real-Time Generation of Time-Optimal Quadrotor Trajectories with Semi-Supervised Seq2Seq Learning",
+        "aff": "Massachusetts Institute of Technology;Massachusetts Institute of Technology"
+    },
+    {
+        "title": "Learning Multi-Objective Curricula for Robotic Policy Learning",
+        "aff": "McGill University;International Business Machines;Meta AI;Polytechnique Montreal;McGill University;University of Montreal"
+    },
+    {
+        "title": "Watch and Match: Supercharging Imitation with Regularized Optimal Transport",
+        "aff": "New York University;New York University;New York University;New York University"
+    },
+    {
+        "title": "Deep Projective Rotation Estimation through Relative Supervision",
+        "aff": "Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University"
+    },
+    {
+        "title": "BEHAVIOR-1K: A Benchmark for Embodied AI with 1,000 Everyday Activities and Realistic Simulation",
+        "aff": "Stanford University;Stanford University;Stanford University;Stanford University;Stanford University;SalesForce.com;Computer Science Department, Stanford University;Stanford University;Stanford University;Stanford University;Computer Science Department, Stanford University;Stanford University;Stanford University;Stanford University;Computer Science Department, Stanford University;Stanford University;Stanford University;Stanford University;Computer Science Department, Stanford University;Google;Stanford University;Stanford University;Stanford University;Stanford University;Stanford University"
+    },
+    {
+        "title": "SurroundDepth: Entangling Surrounding Views for Self-Supervised Multi-Camera Depth Estimation",
+        "aff": "Automation, Tsinghua University, Tsinghua University;Tianjin University;Tsinghua University;PhiGent Robotics;Tsinghua University;Xforward AI Technology;Tsinghua University;Tsinghua University"
+    },
+    {
+        "title": "Motion Policy Networks",
+        "aff": "University of Washington;NVIDIA;Universit\u00e4t Freiburg;University of Washington;Department of Computer Science;NVIDIA"
+    },
+    {
+        "title": "LaRa: Latents and Rays for Multi-Camera Bird\u2019s-Eye-View Semantic Segmentation",
+        "aff": "Valeo;Sorbonne Universit\u00e9;Inria;Valeo;Valeo;Valeo"
+    },
+    {
+        "title": "Graph Inverse Reinforcement Learning from Diverse Videos",
+        "aff": "University of California, San Diego;Meta;University of California, San Diego;University of California, San Diego;University of California, San Diego"
+    },
+    {
+        "title": "Learning Dense Visual Descriptors using Image Augmentations for Robot Manipulation Tasks",
+        "aff": "Bosch Center for Artifical Intelligence;Robert Bosch GmbH, Bosch;Robert Bosch GmbH, Bosch;Ulm University;Bosch Center for Artificial Intelligence"
+    },
+    {
+        "title": "Learning Representations that Enable Generalization in Assistive Tasks",
+        "aff": "Carnegie Mellon University;University of California, Berkeley;Carnegie Mellon University;University of California, Berkeley"
+    },
+    {
+        "title": "PI-QT-Opt: Predictive Information Improves Multi-Task Robotic Reinforcement Learning at Scale",
+        "aff": "Google;Graz University of Technology;Google;Google"
+    },
+    {
+        "title": "Learning Robust Real-World Dexterous Grasping Policies via Implicit Shape Augmentation",
+        "aff": "Department of Computer Science, University of Washington;NVIDIA;NVIDIA;NVIDIA;Massachusetts Institute of Technology;Department of Computer Science"
+    },
+    {
+        "title": "Do As I Can, Not As I Say: Grounding Language in Robotic Affordances",
+        "aff": "Google;Google;Google;Google;Google;Google DeepMind;Google;Google;Google;Google;Google;Google;Google;Google;Google;Google;Google;Research, Google;Google;Google;Google Brain"
+    },
+    {
+        "title": "CAtNIPP: Context-Aware Attention-based Network for Informative Path Planning",
+        "aff": "National University of Singapore;National University of Singapore;Indian Institute of Technology Kharagpur;National University of Singapore;National University of Singapore"
+    },
+    {
+        "title": "Embedding Synthetic Off-Policy Experience for Autonomous Driving via Zero-Shot Curricula",
+        "aff": "Waymo;Waymo Research;Waymo;Princeton University;Simon Fraser University;University of Oxford;Trustworthy AI"
+    },
+    {
+        "title": "Frame Mining: a Free Lunch for Learning Robotic Manipulation from 3D Point Clouds",
+        "aff": "University of California, San Diego;University of California, San Diego;Qualcomm Inc, QualComm;Alibaba Group;University of California, San Diego"
+    },
+    {
+        "title": "Learning Markerless Robot-Depth Camera Calibration and End-Effector Pose Estimation",
+        "aff": "Ko\u00e7 University;Koc University"
+    },
+    {
+        "title": "Generalization with Lossy Affordances: Leveraging Broad Offline Data for Learning Visuomotor Tasks",
+        "aff": "University of California, Berkeley;University of California, Berkeley;University of California, Berkeley;University of California, Berkeley;Google"
+    },
+    {
+        "title": "Sim-to-Real via Sim-to-Seg: End-to-end Off-road Autonomous Driving Without Real Data",
+        "aff": "University of California, Berkeley;Covariant;University of California, Berkeley"
+    },
+    {
+        "title": "SSL-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving",
+        "aff": "University of Waterloo;University of Waterloo"
+    },
+    {
+        "title": "Reciprocal MIND MELD: Improving Learning From Demonstration via Personalized, Reciprocal Teaching",
+        "aff": "Georgia Institute of Technology;Georgia Institute of Technology"
+    },
+    {
+        "title": "Interpretable Self-Aware Neural Networks for Robust Trajectory Prediction",
+        "aff": "Stanford University;Stanford University"
+    },
+    {
+        "title": "Manipulation via Membranes: High-Resolution and Highly Deformable Tactile Sensing and Control",
+        "aff": "University of Michigan - Ann Arbor;University of Michigan;University of Michigan"
+    },
+    {
+        "title": "Deep Black-Box Reinforcement Learning with Movement Primitives",
+        "aff": "Bosch Center for AI;Karlsruhe Institute of Technology;Bosch Center for Artificial Intelligence;Karlsruhe Institute of Technology;Robert Bosch GmbH, Bosch"
+    },
+    {
+        "title": "Lidar Line Selection with Spatially-Aware Shapley Value for Cost-Efficient Depth Completion",
+        "aff": "Max Planck Institute for Intelligent Systems, Max-Planck Institute;ETHZ - ETH Zurich;KU Leuven"
+    },
+    {
+        "title": "SE(3)-Equivariant Point Cloud-Based Place Recognition",
+        "aff": "University of Michigan;University of Michigan;University of Michigan"
+    },
+    {
+        "title": "Instruction-driven history-aware policies for robotic manipulations",
+        "aff": "INRIA;INRIA;INRIA;Wadhwani Institute for Artificial Intelligence;INRIA Paris;Inria"
+    },
+    {
+        "title": "Learning Generalizable Dexterous Manipulation from Human Grasp Affordance",
+        "aff": "University of California, San Diego;University of California, San Diego"
+    },
+    {
+        "title": "Multi-Robot Scene Completion: Towards Task-Agnostic Collaborative Perception",
+        "aff": "New York University;New York University;New York University;Massachusetts Institute of Technology;New York University"
+    },
+    {
+        "title": "Decentralized Data Collection for Robotic Fleet Learning: A Game-Theoretic Approach",
+        "aff": "The University of Texas at Austin;University of Texas, Austin;University of Texas at Austin"
+    },
+    {
+        "title": "Eliciting Compatible Demonstrations for Multi-Human Imitation Learning",
+        "aff": "Stanford University;Computer Science Department, Stanford University;Stanford University;Stanford University"
+    },
+    {
+        "title": "Skill-based Model-based Reinforcement Learning",
+        "aff": "University of Southern California;Korea Advanced Institute of Science & Technology;University of Southern California"
+    },
+    {
+        "title": "HUM3DIL: Semi-supervised Multi-modal 3D HumanPose Estimation for Autonomous Driving",
+        "aff": "Google;Google;Waymo LLC;Waymo;Waymo;Lund University;Waymo"
+    },
+    {
+        "title": "Learning Visuo-Haptic Skewering Strategies for Robot-Assisted Feeding",
+        "aff": "Stanford University;Stanford University;Stanford University"
+    },
+    {
+        "title": "Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models",
+        "aff": "Columbia University;Columbia University"
+    },
+    {
+        "title": "You Only Look at One: Category-Level Object Representations for Pose Estimation From a Single Example",
+        "aff": "University of Oxford;University of Oxford"
+    },
+    {
+        "title": "GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots",
+        "aff": "University of California, Berkeley;University of California, Berkeley;Simon Fraser University;University of California, Berkeley;The Chinese University of Hong Kong;University of California, Berkeley;University of California, Berkeley;Google"
+    },
+    {
+        "title": "CC-3DT: Panoramic 3D Object Tracking via Cross-Camera Fusion",
+        "aff": "Swiss Federal Institute of Technology;National Tsing Hua University;Swiss Federal Institute of Technology;National Tsing Hua University;Swiss Federal Institute of Technology"
+    },
+    {
+        "title": "Leveraging Language for Accelerated Learning of Tool Manipulation",
+        "aff": "Toyota Research Institute;Princeton University;Princeton University;Princeton University"
+    },
+    {
+        "title": "Temporal Logic Imitation: Learning Plan-Satisficing Motion Policies from Demonstrations",
+        "aff": "Massachusetts Institute of Technology;Massachusetts Institute of Technology;Brown University;Massachusetts Institute of Technology"
+    },
+    {
+        "title": "COACH: Cooperative Robot Teaching",
+        "aff": "National University of Singapore;National University of Singapore;National University of Singapore;National University of Singapore"
+    },
+    {
+        "title": "Representation Learning for Object Detection from Unlabeled Point Cloud Sequences",
+        "aff": "Computer Science and Artificial Intelligence Laboratory, Electrical Engineering & Computer Science;Massachusetts Institute of Technology;Toyota Research Institute;Toyota Research Institute;Toyota Research Institute (TRI);Massachusetts Institute of Technology"
+    },
+    {
+        "title": "Learning Riemannian Stable Dynamical Systems via Diffeomorphisms",
+        "aff": "Karlsruher Institut f\u00fcr Technologie;Bosch;Robert Bosch GmbH, Bosch"
+    },
+    {
+        "title": "Fast Lifelong Adaptive Inverse Reinforcement Learning from Demonstrations",
+        "aff": "Georgia Institute of Technology;Georgia Institute of Technology;Georgia Institute of Technology"
+    },
+    {
+        "title": "Task-Relevant Failure Detection for Trajectory Predictors in Autonomous Vehicles",
+        "aff": "NVIDIA;NVIDIA;NVIDIA;Stanford University"
+    },
+    {
+        "title": "QuaDUE-CCM: Interpretable Distributional Reinforcement Learning using Uncertain Contraction Metrics for Precise Quadrotor Trajectory Tracking",
+        "aff": "Imperial College London;Imperial College London, Imperial College London;Imperial College London, Imperial College London;Imperial College London, Imperial College London"
+    },
+    {
+        "title": "Exploring with Sticky Mittens: Reinforcement Learning with Expert Interventions via Option Templates",
+        "aff": "University of Pennsylvania;AWS AI Labs;University of Pennsylvania;The Wharton School, University of Pennsylvania;Vanderbilt University;University of Pennsylvania;University of Pennsylvania"
+    },
+    {
+        "title": "Planning Paths through Occlusions in Urban Environments",
+        "aff": "Innopeak Technology (OPPO Research USA);Cornell University;Guangdong OPPO Mobile Telecommunications Corp.,Ltd.;Cornell University"
+    },
+    {
+        "title": "Leveraging Fully Observable Policies for Learning under Partial Observability",
+        "aff": "Northeastern University;Northeastern University;Northeastern University;Northeastern University;Northeastern University"
+    },
+    {
+        "title": "Learning Bimanual Scooping Policies for Food Acquisition",
+        "aff": "Computer Science Department, Stanford University;Stanford University;Stanford University;Stanford University"
+    },
+    {
+        "title": "VideoDex: Learning Dexterity from Internet Videos",
+        "aff": "Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University"
+    },
+    {
+        "title": "Learning Multi-Object Dynamics with Compositional Neural Radiance Fields",
+        "aff": "Technische Universit\u00e4t Berlin;University of California, San Diego, University of California, San Diego;Massachusetts Institute of Technology;Massachusetts Institute of Technology;TU Berlin"
+    },
+    {
+        "title": "TrackletMapper: Ground Surface Segmentation and Mapping from Traffic Participant Trajectories",
+        "aff": "Albert-Ludwigs-Universit\u00e4t Freiburg"
+    },
+    {
+        "title": "Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer",
+        "aff": "Tsinghua University;University of Toronto;Sensetime Group;The Chinese University of Hong Kong;SenseTime"
+    },
+    {
+        "title": "Real-time Mapping of Physical Scene Properties with an Autonomous Robot Experimenter",
+        "aff": "Imperial College London;Imperial College London;Dyson Ltd;Imperial College London;Imperial College London"
+    },
+    {
+        "title": "Learning to Correct Mistakes: Backjumping in Long-Horizon Task and Motion Planning",
+        "aff": "University of Texas at Austin;University of Texas at Austin;University of Texas, Austin"
+    },
+    {
+        "title": "Graph network simulators can learn discontinuous, rigid contact dynamics",
+        "aff": "Google;Google DeepMind;Google DeepMind;Google DeepMind;Deepmind;Google DeepMind"
+    },
+    {
+        "title": "Visuotactile Affordances for Cloth Manipulation with Local Control",
+        "aff": "Massachusetts Institute of Technology;Massachusetts Institute of Technology;Massachusetts Institute of Technology;Massachusetts Institute of Technology"
+    },
+    {
+        "title": "Training Robots to Evaluate Robots: Example-Based Interactive Reward Functions for Policy Learning",
+        "aff": "School of Engineering and Applied Science, University of Pennsylvania;University of Pennsylvania;University of Pennsylvania"
+    },
+    {
+        "title": "See, Hear, and Feel: Smart Sensory Fusion for Robotic Manipulation",
+        "aff": "Stanford University;Stanford University;Stanford University;Massachusetts Institute of Technology;New York University;Stanford University;Massachusetts Institute of Technology;Stanford University;Stanford University;Stanford University"
+    },
+    {
+        "title": "Learning Temporally Extended Skills in Continuous Domains as Symbolic Actions for Planning",
+        "aff": "University of Tuebingen;Max Planck Institute for Intelligent Systems;Max Planck Institute for Intelligent Systems, Max-Planck Institute"
+    },
+    {
+        "title": "R3M: A Universal Visual Representation for Robot Manipulation",
+        "aff": "Meta Facebook;Meta Facebook;Meta Facebook;Google;Meta Facebook"
+    },
+    {
+        "title": "DexPoint: Generalizable Point Cloud Reinforcement Learning for Sim-to-Real Dexterous Manipulation",
+        "aff": "University of California, San Diego;University of California, San Diego;University of California, San Diego;University of California, San Diego;Hong Kong University of Science and Technology"
+    },
+    {
+        "title": "Motion Style Transfer: Modular Low-Rank Adaptation for Deep Motion Forecasting",
+        "aff": "Swiss Federal Institute of Technology Lausanne;EPFL - EPF Lausanne;Swiss Federal Institute of Technology Lausanne;EPFL"
+    },
+    {
+        "title": "DiffStack: A Differentiable and Modular Control Stack for Autonomous Vehicles",
+        "aff": "NVIDIA;NVIDIA;Technion - Israel Institute of Technology, Technion;Stanford University"
+    },
+    {
+        "title": "Proactive Robot Assistance via Spatio-Temporal Object Modeling",
+        "aff": "Allen Institute for Artificial Intelligence;Georgia Institute of Technology"
+    },
+    {
+        "title": "Towards Scale Balanced 6-DoF Grasp Detection in Cluttered Scenes",
+        "aff": "Beihang University;Beihang University"
+    },
+    {
+        "title": "Detecting Incorrect Visual Demonstrations for Improved Policy Learning",
+        "aff": "computer science , University of New Hampshire;University of New Hampshire"
+    },
+    {
+        "title": "Planning with Spatial-Temporal Abstraction from Point Clouds for Deformable Object Manipulation",
+        "aff": "Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University;University of California, San Diego, University of California, San Diego;Carnegie Mellon University;Massachusetts Institute of Technology;MIT-IBM Watson AI Lab;Carnegie Mellon University"
+    },
+    {
+        "title": "Laplace Approximation Based Epistemic Uncertainty Estimation in 3D Object Detection",
+        "aff": "Department of Computer Science and Engineering, Hong Kong University of Science and Technology;Hong Kong University of Science and Technology"
+    },
+    {
+        "title": "Modularity through Attention: Efficient Training and Transfer of Language-Conditioned Policies for Robot Manipulation",
+        "aff": "Arizona State University;Arizona State University;Intel Labs;Carnegie Mellon University;Arizona State University"
+    },
+    {
+        "title": "HTRON: Efficient Outdoor Navigation with Sparse Rewards via Heavy Tailed Adaptive Reinforce Algorithm",
+        "aff": "University of Maryland, College Park;University of Maryland, College Park;University of Maryland, College Park"
+    },
+    {
+        "title": "Robustness Certification of Visual Perception Models via Camera Motion Smoothing",
+        "aff": "Carnegie Mellon University;Microsoft Research;Carnegie Mellon University;Carnegie Mellon University"
+    },
+    {
+        "title": "Offline Reinforcement Learning for Visual Navigation",
+        "aff": "UC Berkeley;University of California, Berkeley;University of California, Berkeley;University of California, Berkeley;University of California, Berkeley;Google"
+    },
+    {
+        "title": "Robust Trajectory Prediction against Adversarial Attacks",
+        "aff": "University of Michigan;NVIDIA;Carnegie Mellon University;University of Michigan;Stanford University;California Institute of Technology;Arizona State University"
+    },
+    {
+        "title": "Contrastive Decision Transformers",
+        "aff": "Georgia Institute of Technology;Georgia Institute of Technology;Georgia Institute of Technology"
+    },
+    {
+        "title": "GLSO: Grammar-guided Latent Space Optimization for Sample-efficient Robot Design Automation",
+        "aff": "Carnegie Mellon University;Carnegie Mellon University"
+    },
+    {
+        "title": "CausalAF: Causal Autoregressive Flow for Safety-Critical Driving Scenario Generation",
+        "aff": "Carnegie Mellon University;Carnegie Mellon University;University of Illinois, Urbana Champaign;Carnegie Mellon University"
+    },
+    {
+        "title": "Learning Agile Skills via Adversarial Imitation of Rough Partial Demonstrations",
+        "aff": "ETHZ - ETH Zurich;Max Planck Institute for Intelligent Systems, Max Planck Institute for Intelligent Systems;Max Planck Institute for Intelligent Systems;Max Planck Institute for Intelligent Systems, Max-Planck Institute"
+    },
+    {
+        "title": "Learning Control Admissibility Models with Graph Neural Networks for Multi-Agent Navigation",
+        "aff": "University of California, San Diego;University of California, San Diego"
+    },
+    {
+        "title": "Learning to Grasp the Ungraspable with Emergent Extrinsic Dexterity",
+        "aff": "Meta AI;Carnegie Mellon University"
+    },
+    {
+        "title": "Topological Semantic Graph Memory for Image-Goal Navigation",
+        "aff": "Seoul National University;Seoul National University;Seoul National University;Seoul National University;Seoul National University;Seoul National University"
+    },
+    {
+        "title": "Fusing Priori and Posteriori Metrics for Automatic Dataset Annotation of Planar Grasping",
+        "aff": "Zhejiang University;Zhejiang University;Zhejiang University;Zhejiang University"
+    },
+    {
+        "title": "Embodied Concept Learner: Self-supervised Learning of Concepts and Mapping through Instruction Following",
+        "aff": "University of Hong Kong;The Chinese University of Hong Kong;MIT-IBM Watson AI lab;International Business Machines;Massachusetts Institute of Technology;MIT-IBM Watson AI Lab;The University of Hong Kong"
+    },
+    {
+        "title": "Meta-Learning Priors for Safe Bayesian Optimization",
+        "aff": "Swiss Federal Institute of Technology;Swiss Federal Institute of Technology;Swiss Federal Institute of Technology"
+    },
+    {
+        "title": "RAP: Risk-Aware Prediction for Robust Planning",
+        "aff": "Toyota Research Institute;Toyota Research Institute;Toyota Research Institute (TRI);Toyota Research Institute"
+    },
+    {
+        "title": "Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion",
+        "aff": "Stanford University;Carnegie Mellon University;Carnegie Mellon University"
+    }
+]
