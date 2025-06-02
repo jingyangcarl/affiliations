@@ -1,0 +1,318 @@
+[
+    {
+        "title": "$\\mathcal{X}$-Armed Bandits: Optimizing Quantiles, CVaR and Other Risks",
+        "aff": "Universite de Toulouse, INRA, France+Institut de Mathematiques de Toulouse, France; Univ. Lyon, ENS de Lyon, France; PROWLER.io, 72 Hills Road, Cambridge, UK"
+    },
+    {
+        "title": "A Continuous Actor-Critic Reinforcement Learning Approach to Flocking with Fixed-Wing UAVs",
+        "aff": "National University of Defense Technology, Changsha, China; National University of Defense Technology, Changsha, China; National University of Defense Technology, Changsha, China; National University of Defense Technology, Changsha, China"
+    },
+    {
+        "title": "A Generalization Bound for Online Variational Inference",
+        "aff": "CREST, ENSAE, Institut Polytechnique de Paris; RIKEN Center for AI Project, Tokyo, Japan; RIKEN Center for AI Project, Tokyo, Japan"
+    },
+    {
+        "title": "A Model of Text-Enhanced Knowledge Graph Representation Learning with Collaborative Attention",
+        "aff": "China Academy of Electronics and Information Technology of CETC, Beijing, China; China Academy of Electronics and Information Technology of CETC, Beijing, China; China Academy of Electronics and Information Technology of CETC, Beijing, China+University of Science and Technology of China, Hefei, Anhui, China"
+    },
+    {
+        "title": "A New Multi-choice Reading Comprehension Dataset for Curriculum Learning",
+        "aff": "School of Data and Computer Science, Sun Yat-sen University, China + Guangdong Key Laboratory of Big Data Analysis and Processing, Guangzhou 510006, P.R.China; School of Data and Computer Science, Sun Yat-sen University, China + Guangdong Key Laboratory of Big Data Analysis and Processing, Guangzhou 510006, P.R.China; School of Data and Computer Science, Sun Yat-sen University, China + Guangdong Key Laboratory of Big Data Analysis and Processing, Guangzhou 510006, P.R.China"
+    },
+    {
+        "title": "Active Change-Point Detection",
+        "aff": "Graduate School of Informatics, Kyoto University; Institute of Mathematics for Industry, Kyushu University + RIKEN Center for AIP; Graduate School of Informatics, Kyoto University + RIKEN Center for AIP"
+    },
+    {
+        "title": "Adaptive truncated residual regression for fine-grained regression problems",
+        "aff": "Center for Advanced Intelligence Project, RIKEN, Tokyo, Japan+Graduate School of System Engineering, Wakayama University, Wakayama, Japan; Center for Advanced Intelligence Project, RIKEN, Tokyo, Japan+Graduate School of System Engineering, Wakayama University, Wakayama, Japan; Center for Advanced Intelligence Project, RIKEN, Tokyo, Japan; Center for Advanced Intelligence Project, RIKEN, Tokyo, Japan"
+    },
+    {
+        "title": "An Anchor-Free Oriented Text Detector with Connectionist Text Proposal Network",
+        "aff": "School of Computer Science and Technology, East China Normal University, Shanghai 200062, China; School of Computer Science and Technology, East China Normal University, Shanghai 200062, China"
+    },
+    {
+        "title": "An Articulated Structure-aware Network for 3D Human Pose Estimation",
+        "aff": "College of Computer Science & Software Engineering, Shenzhen University, Shenzhen, China; College of Computer Science & Software Engineering, Shenzhen University, Shenzhen, China; Department of Computer Science, City University of Hong Kong, Hong Kong, China"
+    },
+    {
+        "title": "An Attentive Memory Network Integrated with Aspect Dependency for Document-Level Multi-Aspect Sentiment Classification",
+        "aff": "School of Computer, Beijing Institute of Technology, Beijing 100081, China; School of Computer, Beijing Institute of Technology, Beijing 100081, China"
+    },
+    {
+        "title": "An Encoding Adversarial Network for Anomaly Detection",
+        "aff": ";;;"
+    },
+    {
+        "title": "Asian Conference on Machine Learning: Preface",
+        "aff": ";"
+    },
+    {
+        "title": "Canonical Soft Time Warping",
+        "aff": "Toyota Central R&D Labs., 41-1 Yokomichi, Nagakute, Aichi, Japan; Toyota Central R&D Labs., 41-1 Yokomichi, Nagakute, Aichi, Japan; Toyota Central R&D Labs., 41-1 Yokomichi, Nagakute, Aichi, Japan"
+    },
+    {
+        "title": "Capsule Networks Need an Improved Routing Algorithm",
+        "aff": "Deep Bio Inc., Seoul, Republic of Korea; Deep Bio Inc., Seoul, Republic of Korea; Handong Global University, Pohang, Republic of Korea"
+    },
+    {
+        "title": "Cascaded and Dual: Discrimination Oriented Network for Brain Tumor Classification",
+        "aff": "Nanjing University of Science and Technology; Nanjing University of Science and Technology; Nanjing University of Science and Technology"
+    },
+    {
+        "title": "Cell-aware Stacked LSTMs for Modeling Sentences",
+        "aff": "Department of Computer Science and Engineering, Seoul National University, Seoul, Korea; Department of Computer Science and Engineering, Seoul National University, Seoul, Korea; Department of Computer Science and Engineering, Seoul National University, Seoul, Korea"
+    },
+    {
+        "title": "Convolutional Neural Collaborative Filtering with Stacked Embeddings",
+        "aff": "Huazhong University of Science and Technology, Wuhan, China; Huazhong University of Science and Technology, Wuhan, China; Huazhong University of Science and Technology, Wuhan, China; Huazhong University of Science and Technology, Wuhan, China"
+    },
+    {
+        "title": "Deep Learning with a Rethinking Structure for Multi-label Classification",
+        "aff": "Department of Computer Science and Information Engineering, National Taiwan University; Department of Computer Science and Information Engineering, National Taiwan University; Department of Computer Science and Information Engineering, National Taiwan University; Department of Computer Science and Information Engineering, National Taiwan University"
+    },
+    {
+        "title": "Differentially Private Community Detection in Attributed Social Networks",
+        "aff": "Department of EECS, Case Western Reserve University; College of Engineering, Virginia Commonwealth University; Department of EECS, Case Western Reserve University; Department of EECS, Case Western Reserve University; Department of Computer and Information Sciences, Towson University; Department of EECS, Case Western Reserve University"
+    },
+    {
+        "title": "Effective Sentence Scoring Method Using BERT for Speech Recognition",
+        "aff": "Seoul National University; Seoul National University; Seoul National University"
+    },
+    {
+        "title": "Efficient Diversified Mini-Batch Selection using Variable High-layer Features",
+        "aff": "Faculty of Engineering and IT, University of Technology Sydney; Faculty of Engineering and IT, University of Technology Sydney; NSW Data Analytics Centre"
+    },
+    {
+        "title": "Efficient Learning of Restricted Boltzmann Machines Using Covariance Estimates",
+        "aff": "Indian Institute of Science Bangalore, India; Indian Institute of Science Bangalore, India"
+    },
+    {
+        "title": "Exemplar Based Mixture Models with Censored Data",
+        "aff": "NTT Service Evolution Laboratories, NTT Corporation, Yokosuka, Japan; NTT Service Evolution Laboratories, NTT Corporation, Yokosuka, Japan; NTT Service Evolution Laboratories, NTT Corporation, Yokosuka, Japan"
+    },
+    {
+        "title": "FEARS: a Feature and Representation Selection approach for Time Series Classification",
+        "aff": ";;;;"
+    },
+    {
+        "title": "Focused Anchors Loss: cost-sensitive learning of discriminative features for imbalanced classification",
+        "aff": "National University of Computer and Emerging Sciences; National University of Computer and Emerging Sciences; National University of Computer and Emerging Sciences; National University of Computer and Emerging Sciences; National University of Computer and Emerging Sciences"
+    },
+    {
+        "title": "Forward and Backward Knowledge Transfer for Sentiment Classification",
+        "aff": ";;;;"
+    },
+    {
+        "title": "Forward-Backward Generative Adversarial Networks for Anomaly Detection",
+        "aff": "Medi Whale Incorporated, Seoul, Republic of Korea; BARO, Korea"
+    },
+    {
+        "title": "From Implicit to Explicit Feedback: A deep neural network for modeling the sequential behavior of online users",
+        "aff": ";;;;"
+    },
+    {
+        "title": "Functional Isolation Forest",
+        "aff": "LTCI, T\u00e9l\u00e9com Paris, Institut Polytechnique de Paris; LTCI, T\u00e9l\u00e9com Paris, Institut Polytechnique de Paris; LTCI, T\u00e9l\u00e9com Paris, Institut Polytechnique de Paris; LTCI, T\u00e9l\u00e9com Paris, Institut Polytechnique de Paris"
+    },
+    {
+        "title": "Fusing Recalibrated Features and Depthwise Separable Convolution for the Mangrove Bird Sound Classification",
+        "aff": "Key Lab of Optoelectronic Technology and Systems of Education Ministry, College of Optoelectronic Engineering, Chongqing University, Chongqing, China; Key Lab of Optoelectronic Technology and Systems of Education Ministry, College of Optoelectronic Engineering, Chongqing University, Chongqing, China; Key Lab of Optoelectronic Technology and Systems of Education Ministry, College of Optoelectronic Engineering, Chongqing University, Chongqing, China"
+    },
+    {
+        "title": "G-UAP: Generic Universal Adversarial Perturbation that Fools RPN-based Detectors",
+        "aff": "School of Data and Computer Science, Sun Yat-sen University, Guangzhou 510006, China; School of Data and Computer Science, Sun Yat-sen University, Guangzhou 510006, China; School of Data and Computer Science, Sun Yat-sen University, Guangzhou 510006, China"
+    },
+    {
+        "title": "Geometry-Aware Maximum Likelihood Estimation of Intrinsic Dimension",
+        "aff": "Skolkovo Institute of Science and Technology+Higher School of Economics; Skolkovo Institute of Science and Technology+Moscow Institute of Physics and Technology; Skolkovo Institute of Science and Technology; Skolkovo Institute of Science and Technology+Institute for Information Transmission Problems"
+    },
+    {
+        "title": "Gradient-based Training of Slow Feature Analysis by Differentiable Approximate Whitening",
+        "aff": "Institute for Neural Computation, Ruhr-Universit\u00e4t Bochum, Germany; Institute for Neural Computation, Ruhr-Universit\u00e4t Bochum, Germany; Institute for Neural Computation, Ruhr-Universit\u00e4t Bochum, Germany"
+    },
+    {
+        "title": "Hyperbolic Ordinal Embedding",
+        "aff": "7-3-1, Hongo, Bunkyo-ku, Tokyo, Japan; 7-3-1, Hongo, Bunkyo-ku, Tokyo, Japan; Fern Barrow, Poole, BH12 5BB, the United Kingdom; 7-3-1, Hongo, Bunkyo-ku, Tokyo, Japan; 7-3-1, Hongo, Bunkyo-ku, Tokyo, Japan"
+    },
+    {
+        "title": "Improving Relation Classification by Entity Pair Graph",
+        "aff": "School of Computer and Information Technology, Beijing Jiaotong University, Beijing, China + Beijing Key Laboratory of Tra\ufb03c Data Analysis and Mining, Beijing, China; School of Computer and Information Technology, Beijing Jiaotong University, Beijing, China + Beijing Key Laboratory of Tra\ufb03c Data Analysis and Mining, Beijing, China; School of Computer and Information Technology, Beijing Jiaotong University, Beijing, China + Beijing Key Laboratory of Tra\ufb03c Data Analysis and Mining, Beijing, China; School of Computer and Information Technology, Beijing Jiaotong University, Beijing, China + Beijing Key Laboratory of Tra\ufb03c Data Analysis and Mining, Beijing, China"
+    },
+    {
+        "title": "Improving Statute Prediction via Mining Correlations between Statutes",
+        "aff": "State Key Laboratory for Novel Software Technology, Software Institute, Nanjing University, Nanjing 210093, China; State Key Laboratory for Novel Software Technology, Software Institute, Nanjing University, Nanjing 210093, China; State Key Laboratory for Novel Software Technology, Software Institute, Nanjing University, Nanjing 210093, China; State Key Laboratory for Novel Software Technology, Software Institute, Nanjing University, Nanjing 210093, China"
+    },
+    {
+        "title": "Investigating the effect of novel classes in semi-supervised learning",
+        "aff": "University of Auckland; University of Auckland; University of Auckland; University of Waikato"
+    },
+    {
+        "title": "Kernel Learning for Data-Driven Spectral Analysis of Koopman Operators",
+        "aff": "RIKEN Center for Advanced Intelligence Project, Japan"
+    },
+    {
+        "title": "LADet: A Light-weight and Adaptive Network for Multi-scale Object Detection",
+        "aff": "School of Computer Science and Engineering, Beihang University, Beijing 100191, China; School of Computer Science and Engineering, Beihang University, Beijing 100191, China; School of Computer Science and Engineering, Beihang University, Beijing 100191, China; School of Computer Science and Engineering, Beihang University, Beijing 100191, China; School of Computer Science and Engineering, Beihang University, Beijing 100191, China; School of Computer Science and Engineering, Beihang University, Beijing 100191, China"
+    },
+    {
+        "title": "Latent Multi-view Semi-Supervised Classification",
+        "aff": "Glasgow college, University of Electronic Science and Technology of China; School of Computer Science and Engineering, University of Electronic Science and Technology of China; School of Computer Science and Engineering, University of Electronic Science and Technology of China; School of Foreign Languages, University of Electronic Science and Technology of China + School of Computer Science and Engineering, University of Electronic Science and Technology of China; School of Computer Science and Engineering, University of Electronic Science and Technology of China"
+    },
+    {
+        "title": "Learning Weighted Top-$k$ Support Vector Machine",
+        "aff": "Division of Electronics and Informatics, Faculty of Science and Technology, Gunma University; DENSO CORPORATION"
+    },
+    {
+        "title": "Learning to Aggregate: Tackling the Aggregation/Disaggregation Problem for OWA",
+        "aff": "Paderborn University; Paderborn University"
+    },
+    {
+        "title": "Learning to Augment with Feature Side-information",
+        "aff": "Geneva School of Business Administration, HES-SO University of Applied Sciences of Western Switzerland + University of Geneva, Switzerland; Geneva School of Business Administration, HES-SO University of Applied Sciences of Western Switzerland + University of Geneva, Switzerland; Expedia, Switzerland; University of Geneva, Switzerland"
+    },
+    {
+        "title": "Learning to Sample Hard Instances for Graph Algorithms",
+        "aff": "Kyoto University, Kyoto 606-8501, Japan; Kyoto University, Kyoto 606-8501, Japan; Kyoto University, Kyoto 606-8501, Japan + RIKEN Center for Advanced Intelligence Project, Tokyo 103-0027, Japan"
+    },
+    {
+        "title": "Minimax Online Prediction of Varying Bernoulli Process under Variational Approximation",
+        "aff": "Department of Informatics, Kyushu University, Fukuoka, 819-0395 Japan; Department of Computer Science and Engineering, Toyohashi University of Technology, Toyohashi, 441-8580 Japan"
+    },
+    {
+        "title": "Model-Based Reinforcement Learning Exploiting State-Action Equivalence",
+        "aff": "Inria Lille \u2013 Nord Europe; Inria Lille \u2013 Nord Europe; Inria Lille \u2013 Nord Europe; Inria Lille \u2013 Nord Europe"
+    },
+    {
+        "title": "Multi-Label Learning with Regularization Enriched Label-Specific Features",
+        "aff": "School of Computer Science and Engineering, Southeast University, Nanjing 210096, China + Key Laboratory of Computer Network and Information Integration (Southeast University), Ministry of Education, China; School of Computer Science and Engineering, Southeast University, Nanjing 210096, China + Key Laboratory of Computer Network and Information Integration (Southeast University), Ministry of Education, China"
+    },
+    {
+        "title": "Multi-Scale Visual Semantics Aggregation with Self-Attention for End-to-End Image-Text Matching",
+        "aff": "Department of Computer Science and Technologies, Tsinghua University, Beijing, China+Graduate School at Shenzhen, Tsinghua University, Shenzhen, China; Department of Computer Science and Technologies, Tsinghua University, Beijing, China+Graduate School at Shenzhen, Tsinghua University, Shenzhen, China; Graduate School at Shenzhen, Tsinghua University, Shenzhen, China+Peng Cheng Laboratory, Shenzhen, China"
+    },
+    {
+        "title": "Multi-branch Siamese Network for High Performance Online Visual Tracking",
+        "aff": "Beijing University of Posts and Telecommunications; Beijing University of Posts and Telecommunications; Beijing Faceall Technology Co.,Ltd; Ricoh software research center (Beijing) co. Ltd"
+    },
+    {
+        "title": "Multi-modal Representation Learning for Successive POI Recommendation",
+        "aff": "Tsinghua University; Tsinghua University; Tsinghua University; Tsinghua University; Tsinghua University"
+    },
+    {
+        "title": "Multi-width Activation and Multiple Receptive Field Networks for Dynamic Scene Deblurring",
+        "aff": "Key Lab of Optoelectronic Technology and Systems of Education Ministry, College of Optoelectronic Engineering, Chongqing University, Chongqing, China; Key Lab of Optoelectronic Technology and Systems of Education Ministry, College of Optoelectronic Engineering, Chongqing University, Chongqing, China; Key Lab of Optoelectronic Technology and Systems of Education Ministry, College of Optoelectronic Engineering, Chongqing University, Chongqing, China; Key Lab of Optoelectronic Technology and Systems of Education Ministry, College of Optoelectronic Engineering, Chongqing University, Chongqing, China"
+    },
+    {
+        "title": "Multiple Empirical Kernel Learning with Discriminant Locality Preservation",
+        "aff": "East China University of Science and Technology, China; East China University of Science and Technology, China; East China University of Science and Technology, China"
+    },
+    {
+        "title": "Multivariate Time Series Prediction Based on Optimized Temporal Convolutional Networks with Stacked Auto-encoders",
+        "aff": "Jiangsu Key Laboratory of Big Data Security and Intelligent Processing, School of Computer Science, Nanjing University of Posts and Telecommunications, China; Jiangsu Key Laboratory of Big Data Security and Intelligent Processing, School of Computer Science, Nanjing University of Posts and Telecommunications, China; Jiangsu Key Laboratory of Big Data Security and Intelligent Processing, School of Computer Science, Nanjing University of Posts and Telecommunications, China; Jiangsu Key Laboratory of Big Data Security and Intelligent Processing, School of Computer Science, Nanjing University of Posts and Telecommunications, China"
+    },
+    {
+        "title": "Nuclei segmentation by using convolutional network with distance map and contour information",
+        "aff": "College of Computer Science and Technology, Wuhan University of Science and technology, Wuhan, 430065, China + Hubei Province Key Laboratory of Intelligent Information Processing and Real-time Industrial System, Wuhan, 430065, China; College of Computer Science and Technology, Wuhan University of Science and technology, Wuhan, 430065, China + Hubei Province Key Laboratory of Intelligent Information Processing and Real-time Industrial System, Wuhan, 430065, China; College of Computer Science and Technology, Wuhan University of Science and technology, Wuhan, 430065, China + Hubei Province Key Laboratory of Intelligent Information Processing and Real-time Industrial System, Wuhan, 430065, China; College of Computer Science and Technology, Wuhan University of Science and technology, Wuhan, 430065, China + Hubei Province Key Laboratory of Intelligent Information Processing and Real-time Industrial System, Wuhan, 430065, China"
+    },
+    {
+        "title": "Optimal PAC-Bayesian Posteriors for Stochastic Classifiers and their use for Choice of SVM Regularization Parameter",
+        "aff": "Indian Institute of Technology Bombay, Mumbai, India; Indian Institute of Technology Bombay, Mumbai, India"
+    },
+    {
+        "title": "Prediction of Crowd Flow in City Complex with Missing Data",
+        "aff": "University of Science and Technology of China; University of Science and Technology of China; Kehang Technology and Information; University of Science and Technology of China; China People\u2019s Police University; Kehang Technology and Information; University of Science and Technology of China"
+    },
+    {
+        "title": "Random Projection in Neural Episodic Control",
+        "aff": "Kanazawa University, Ishikawa, Japan; Kanazawa University, Ishikawa, Japan"
+    },
+    {
+        "title": "Real-time tree search with pessimistic scenarios: Winning the NeurIPS 2018 Pommerman Competition",
+        "aff": "IBM Research - Tokyo; IBM Research - Tokyo"
+    },
+    {
+        "title": "Realistic Image Generation using Region-phrase Attention",
+        "aff": "Faculty of Engineering and IT, University of Technology Sydney; Faculty of Engineering and IT, University of Technology Sydney; NSW Data Analytics Centre"
+    },
+    {
+        "title": "Regularizing Neural Networks via Stochastic Branch Layers",
+        "aff": "Computer Vision Lab, CSE, POSTECH + Kakao Corporation; Computer Vision Lab, CSE, POSTECH + Computer Vision Lab, ECE & ASRI, Seoul National University; Computer Vision Lab, ECE & ASRI, Seoul National University + The Neural Processing Research Center; Computer Vision Lab, CSE, POSTECH + The Neural Processing Research Center"
+    },
+    {
+        "title": "ResNet and Batch-normalization Improve Data Separability",
+        "aff": "Nara Institute of Science and Technology, Nara 630-0192, Japan; Nara Institute of Science and Technology, Nara 630-0192, Japan"
+    },
+    {
+        "title": "SDC-causing Error Detection Based on Lightweight Vulnerability Prediction",
+        "aff": "Nanjing University of Aeronautics and Astronautics, Nanjing, China; Nanjing University of Aeronautics and Astronautics, Nanjing, China; Nanjing University of Aeronautics and Astronautics, Nanjing, China; Key Lab of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, Beijing 100190, China; Nanjing University of Posts and Telecommunications, Nanjing, China"
+    },
+    {
+        "title": "SPCDet: Enhancing Object Detection with Combined Feature Fusing",
+        "aff": ";;"
+    },
+    {
+        "title": "SPoD-Net: Fast Recovery of Microscopic Images Using Learned ISTA",
+        "aff": "Osaka University, Japan; National Taiwan University, Taiwan + Osaka University, Japan; Osaka University, Japan; Osaka University, Japan; Osaka University, Japan"
+    },
+    {
+        "title": "Self-Paced Multi-Label Learning with Diversity",
+        "aff": "Department of Computer Engineering, University of Kurdistan, Sanandaj, Iran; Department of Computer Engineering, University of Kurdistan, Sanandaj, Iran; Department of Computer Engineering, University of Kurdistan, Sanandaj, Iran; School of Engineering, RMIT University, Melbourne, Australia; Department of Computer Engineering, University of Kurdistan, Sanandaj, Iran"
+    },
+    {
+        "title": "Self-Supervised Deep Multi-View Subspace Clustering",
+        "aff": "Beijing Jiaotong University, Beijing, China; Beijing Jiaotong University, Beijing, China; Beijing Jiaotong University, Beijing, China; Beijing Jiaotong University, Beijing, China"
+    },
+    {
+        "title": "Self-Weighted Multi-View Clustering with Deep Matrix Factorization",
+        "aff": "School of Software, Dalian University of Technology, Dalian, China; School of Software, Dalian University of Technology, Dalian, China; School of Software, Dalian University of Technology, Dalian, China; School of Software, Dalian University of Technology, Dalian, China"
+    },
+    {
+        "title": "Separate Loss for Basic and Compound Facial Expression Recognition in the Wild",
+        "aff": "Harbin Institute of Technology Shenzhen, Shenzhen, China; Harbin Institute of Technology Shenzhen, Shenzhen, China; The Chinese University of Hong Kong Shenzhen, Shenzhen, China + University of Science and Technology of China, Hefei, China; Harbin Institute of Technology Shenzhen, Shenzhen, China"
+    },
+    {
+        "title": "Software Component Prediction for Bug Reports",
+        "aff": "Adobe Inc., Mclean, USA; Adobe Inc., Mclean, USA"
+    },
+    {
+        "title": "Stochastic Gradient Trees",
+        "aff": "School of Informatics, University of Edinburgh, Edinburgh, United Kingdom; Department of Computer Science, University of Waikato, Hamilton, New Zealand; Department of Computer Science, University of Waikato, Hamilton, New Zealand"
+    },
+    {
+        "title": "Surface Reconstruction based on Self-Merging Octree with Deep Learning",
+        "aff": "School of Data Science and Technology, North University of China, Taiyuan, 030051, China; School of Data Science and Technology, North University of China, Taiyuan, 030051, China; School of Data Science and Technology, North University of China, Taiyuan, 030051, China; School of Data Science and Technology, North University of China, Taiyuan, 030051, China; School of Data Science and Technology, North University of China, Taiyuan, 030051, China"
+    },
+    {
+        "title": "Text Length Adaptation in Sentiment Classification",
+        "aff": "University of Edinburgh, UK; Samsung Electronics, South Korea; Yonsei University, South Korea"
+    },
+    {
+        "title": "Towards Governing Agent\u2019s Efficacy: Action-Conditional $\u03b2$-VAE for Deep Transparent Reinforcement Learning",
+        "aff": "Seoul National University, Seoul, Korea; Seoul National University, Seoul, Korea; Seoul National University, Seoul, Korea; Seoul National University, Seoul, Korea"
+    },
+    {
+        "title": "Trust Region Sequential Variational Inference",
+        "aff": "Graduate School of AI, KAIST, Daejeon, Republic of Korea + School of Computing, KAIST, Republic of Korea; School of Computing, KAIST, Republic of Korea; School of Computing, KAIST, Republic of Korea; MILA, McGill University, Canada; School of Computing, KAIST, Republic of Korea; Graduate School of AI, KAIST, Daejeon, Republic of Korea + School of Computing, KAIST, Republic of Korea"
+    },
+    {
+        "title": "Unified Policy Optimization for Robust Reinforcement Learning",
+        "aff": "Tsinghua University, Beijing; Microsoft Research, Beijing; Microsoft Research, Beijing; Microsoft Research, Beijing; Tsinghua University, Beijing"
+    },
+    {
+        "title": "Unpaired Data based Cross-domain Synthesis and Segmentation Using Attention Neural Network",
+        "aff": "College of Computer Science and Technology, Wuhan University of Science and technology, Wuhan, 430065, China + Hubei Province Key Laboratory of Intelligent Information Processing and Real-time Industrial System, Wuhan, 430065, China; College of Computer Science and Technology, Wuhan University of Science and technology, Wuhan, 430065, China + Hubei Province Key Laboratory of Intelligent Information Processing and Real-time Industrial System, Wuhan, 430065, China; College of Computer Science and Technology, Wuhan University of Science and technology, Wuhan, 430065, China + Hubei Province Key Laboratory of Intelligent Information Processing and Real-time Industrial System, Wuhan, 430065, China; Information Technology Center, Wenzhou Medical University, 325035, China"
+    },
+    {
+        "title": "Variational Conditional GAN for Fine-grained Controllable Image Generation",
+        "aff": "Southeast University, Nanjing 211189, China; Southeast University, Nanjing 211189, China; University of Warwick, Coventry CV4 7AL, UK"
+    },
+    {
+        "title": "Variational Inference from Ranked Samples with Features",
+        "aff": "Department of Electrical and Computer Engineering, Northeastern University, MA, USA; Department of Electrical and Computer Engineering, Northeastern University, MA, USA; Department of Electrical and Computer Engineering, Northeastern University, MA, USA; Department of Radiology, Massachusetts General Hospital, MA, USA; Department of Ophthalmology, Casey Eye Institute, Oregon Health &Science University, OR, USA; Department of Ophthalmology, Casey Eye Institute, Oregon Health &Science University, OR, USA; Department of Ophthalmology, Casey Eye Institute, Oregon Health &Science University, OR, USA; Department of Electrical and Computer Engineering, Northeastern University, MA, USA"
+    },
+    {
+        "title": "Zero-shot Domain Adaptation Based on Attribute Information",
+        "aff": "The University of Tokyo + RIKEN Center for Advanced Intelligence Project + NEC Data Science Research Laboratories; Future University of Hakodate + RIKEN Center for Advanced Intelligence Project; RIKEN Center for Advanced Intelligence Project + The University of Tokyo"
+    }
+]

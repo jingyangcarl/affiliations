@@ -1,0 +1,3762 @@
+[
+    {
+        "title": "2-point RANSAC for scene image matching under large viewpoint changes",
+        "aff": ""
+    },
+    {
+        "title": "3D Convolutional Neural Networks for landing zone detection from LiDAR",
+        "aff": ""
+    },
+    {
+        "title": "3D M-Blocks: Self-reconfiguring robots capable of locomotion via pivoting in three dimensions",
+        "aff": ""
+    },
+    {
+        "title": "3D object pose detection using foreground/background segmentation",
+        "aff": ""
+    },
+    {
+        "title": "3D shape visualization of curved needles in tissue from 2D ultrasound images using RANSAC",
+        "aff": ""
+    },
+    {
+        "title": "3D ultrasound-guided robotic steering of a flexible needle via visual servoing",
+        "aff": ""
+    },
+    {
+        "title": "3D-reconstruction of indoor environments from human activity",
+        "aff": ""
+    },
+    {
+        "title": "A Distributed Robot Garden System",
+        "aff": ""
+    },
+    {
+        "title": "A LLE-HMM-based framework for recognizing human gait movement from EMG",
+        "aff": ""
+    },
+    {
+        "title": "A Power-Performance Approach to Comparing Sensor Families, with application to comparing neuromorphic to traditional vision sensors",
+        "aff": ""
+    },
+    {
+        "title": "A bidirectional invariant representation of motion for gesture recognition and reproduction",
+        "aff": ""
+    },
+    {
+        "title": "A clutch mechanism for switching between position and stiffness control of a variable stiffness actuator",
+        "aff": ""
+    },
+    {
+        "title": "A compact spherical RGBD keyframe-based representation",
+        "aff": ""
+    },
+    {
+        "title": "A comparison of braking strategies for elastic joint robots",
+        "aff": ""
+    },
+    {
+        "title": "A comparison of series and parallel elasticity in a monoped hopper",
+        "aff": ""
+    },
+    {
+        "title": "A convex relaxation for approximate global optimization in simultaneous localization and mapping",
+        "aff": ""
+    },
+    {
+        "title": "A cooperative control framework for haptic guidance of bimanual surgical tasks based on Learning From Demonstration",
+        "aff": ""
+    },
+    {
+        "title": "A coupled discrete-event and motion planning methodology for automated safety assessment in construction projects",
+        "aff": ""
+    },
+    {
+        "title": "A distributed formation-based odor source localization algorithm - design, implementation, and wind tunnel evaluation",
+        "aff": ""
+    },
+    {
+        "title": "A distributed multi-robot approach for the detection and tracking of multiple dynamic anomalies",
+        "aff": ""
+    },
+    {
+        "title": "A distributed noise-resistant Particle Swarm Optimization algorithm for high-dimensional multi-robot learning",
+        "aff": ""
+    },
+    {
+        "title": "A dynamic routing strategy for the traffic control of AGVs in automatic warehouses",
+        "aff": ""
+    },
+    {
+        "title": "A dynamically consistent hierarchical control architecture for robotic-assisted tele-echography with motion and contact dynamics driven by a 3D time-of-flight camera and a force sensor",
+        "aff": ""
+    },
+    {
+        "title": "A fast, modular scene understanding system using context-aware object detection",
+        "aff": ""
+    },
+    {
+        "title": "A fixed-dimensional 3D shape representation for matching partially observed objects in street scenes",
+        "aff": ""
+    },
+    {
+        "title": "A force-based bilateral teleoperation framework for aerial robots in contact with the environment",
+        "aff": ""
+    },
+    {
+        "title": "A framework for end-user instruction of a robot assistant for manufacturing",
+        "aff": ""
+    },
+    {
+        "title": "A framework for infrastructure-free warehouse navigation",
+        "aff": ""
+    },
+    {
+        "title": "A friction-model-based framework for Reinforcement Learning of robotic tasks in non-rigid environments",
+        "aff": ""
+    },
+    {
+        "title": "A general algorithm for exploration with Gaussian processes in complex, unknown environments",
+        "aff": ""
+    },
+    {
+        "title": "A general framework for open-loop pivoting",
+        "aff": ""
+    },
+    {
+        "title": "A general technique for fast comprehensive multi-root planning on graphs by coloring vertices and deferring edges",
+        "aff": ""
+    },
+    {
+        "title": "A heuristic approach to finding diverse short paths",
+        "aff": ""
+    },
+    {
+        "title": "A hybrid actuator system for single particle manipulation on a microfluidic chip",
+        "aff": ""
+    },
+    {
+        "title": "A jumping robot using soft pneumatic actuator",
+        "aff": ""
+    },
+    {
+        "title": "A kinematic controller for human-robot handshaking using internal motion adaptation",
+        "aff": ""
+    },
+    {
+        "title": "A learning-based approach for evaluating scene recognizability of a view",
+        "aff": ""
+    },
+    {
+        "title": "A low-cost robot using omni-directional vision enables insect-like behaviors",
+        "aff": ""
+    },
+    {
+        "title": "A mechanics-based model for simulation and control of flexible needle insertion in soft tissue",
+        "aff": ""
+    },
+    {
+        "title": "A miniature surface tension-driven robot mimicking the water-surface locomotion of water strider",
+        "aff": ""
+    },
+    {
+        "title": "A miniaturised robotic probe for real-time intraoperative fusion of ultrasound and endomicroscopy",
+        "aff": ""
+    },
+    {
+        "title": "A mobile self-leveling landing platform for VTOL UAVs",
+        "aff": ""
+    },
+    {
+        "title": "A model predictive control approach for the Partner Ballroom Dance Robot",
+        "aff": ""
+    },
+    {
+        "title": "A motion planning approach to automatic obstacle avoidance during concentric tube robot teleoperation",
+        "aff": ""
+    },
+    {
+        "title": "A multi-level motion controller for low-cost Underwater Gliders",
+        "aff": ""
+    },
+    {
+        "title": "A multi-sensory mechatronic device for localizing tumors in minimally invasive interventions",
+        "aff": ""
+    },
+    {
+        "title": "A multilayer control for multirotor UAVs equipped with a servo robot arm",
+        "aff": ""
+    },
+    {
+        "title": "A new actuator for on-orbit inspection",
+        "aff": ""
+    },
+    {
+        "title": "A new adaptive frequency oscillator for gait assistance",
+        "aff": ""
+    },
+    {
+        "title": "A new algebraic approach for the description of robotic manipulation tasks",
+        "aff": ""
+    },
+    {
+        "title": "A new model for self-organized robotic clustering: Understanding boundary induced densities and cluster compactness",
+        "aff": ""
+    },
+    {
+        "title": "A non-rigid point and normal registration algorithm with applications to learning from demonstrations",
+        "aff": ""
+    },
+    {
+        "title": "A novel approach to dynamic movement imitation based on quadratic programming",
+        "aff": ""
+    },
+    {
+        "title": "A novel bridge section model endowed with actively controlled flap arrays mitigating wind impact",
+        "aff": ""
+    },
+    {
+        "title": "A novel degree of freedom in flapping wings shows promise for a dual aerial/aquatic vehicle propulsor",
+        "aff": ""
+    },
+    {
+        "title": "A novel marker for estimating the pose of a CT-guided robotic device using a single slice",
+        "aff": ""
+    },
+    {
+        "title": "A novel method for measuring the coupled linear and angular motions of XY\u0398-type flexure-based manipulators",
+        "aff": ""
+    },
+    {
+        "title": "A novel underactuated robotic finger for withstanding impacts of non-cooperative object capture",
+        "aff": ""
+    },
+    {
+        "title": "A novel volumetric display using fog emitter matrix",
+        "aff": ""
+    },
+    {
+        "title": "A passively sprawling miniature legged robot",
+        "aff": ""
+    },
+    {
+        "title": "A position generation algorithm utilizing a biomechanical model for robot-human object handover",
+        "aff": ""
+    },
+    {
+        "title": "A predictive model for narrow passage path planner by using Support Vector Machine in changing environments",
+        "aff": ""
+    },
+    {
+        "title": "A pressure-redistributing insole using soft sensors and actuators",
+        "aff": ""
+    },
+    {
+        "title": "A primal-dual framework for real-time dense RGB-D scene flow",
+        "aff": ""
+    },
+    {
+        "title": "A proposal of a light-weight walking assist wear using PVC gel artificial muscles",
+        "aff": ""
+    },
+    {
+        "title": "A reconfiguration strategy for Reconfigurable Cable-Driven Parallel Robots",
+        "aff": ""
+    },
+    {
+        "title": "A robotic bipedal model for human walking with slips",
+        "aff": ""
+    },
+    {
+        "title": "A robotic exoskeleton for rehabilitation and assessment of the upper limb following incomplete spinal cord injury",
+        "aff": ""
+    },
+    {
+        "title": "A scalable approach for understanding the visual structures of hand grasps",
+        "aff": ""
+    },
+    {
+        "title": "A scheme for manipulating a passive object using an active plate",
+        "aff": ""
+    },
+    {
+        "title": "A self organization approach to goal-directed multimodal locomotion based on Attractor Selection Mechanism",
+        "aff": ""
+    },
+    {
+        "title": "A self stabilizing underwater sub-surface inspection robot using hydrodynamic ground effect",
+        "aff": ""
+    },
+    {
+        "title": "A self-deployable origami structure with locking mechanism induced by buckling effect",
+        "aff": ""
+    },
+    {
+        "title": "A single-actuator prosthetic hand using a continuum differential mechanism",
+        "aff": ""
+    },
+    {
+        "title": "A soft exoskeleton for hand assistive and rehabilitation application using pneumatic actuators with variable stiffness",
+        "aff": ""
+    },
+    {
+        "title": "A solar-powered hand-launchable UAV for low-altitude multi-day continuous flight",
+        "aff": ""
+    },
+    {
+        "title": "A spherical-magnet end-effector for robotic magnetic manipulation",
+        "aff": ""
+    },
+    {
+        "title": "A stochastic dynamic motion planning algorithm for object-throwing",
+        "aff": ""
+    },
+    {
+        "title": "A streamlined nonlinear path following kinematic controller",
+        "aff": ""
+    },
+    {
+        "title": "A taxonomy of human grasping behavior suitable for transfer to robotic hands",
+        "aff": ""
+    },
+    {
+        "title": "A time-optimal bounded velocity path-following controller for generic Wheeled Mobile Robots",
+        "aff": ""
+    },
+    {
+        "title": "A torque-actuated dissipative spring loaded inverted pendulum model with rolling contact and its use as the template for design and dynamic behavior generation on a hexapod robot",
+        "aff": ""
+    },
+    {
+        "title": "A variational approach to online road and path segmentation with monocular vision",
+        "aff": ""
+    },
+    {
+        "title": "A virtual sensor for needle deflection estimation during soft-tissue needle insertion",
+        "aff": ""
+    },
+    {
+        "title": "A water jet thruster for an aquatic micro air vehicle",
+        "aff": ""
+    },
+    {
+        "title": "A web-based infrastructure for recording user demonstrations of mobile manipulation tasks",
+        "aff": ""
+    },
+    {
+        "title": "A wrist for needle-sized surgical robots",
+        "aff": ""
+    },
+    {
+        "title": "AERobot: An affordable one-robot-per-student system for early robotics education",
+        "aff": ""
+    },
+    {
+        "title": "AVERT: An autonomous multi-robot system for vehicle extraction and transportation",
+        "aff": ""
+    },
+    {
+        "title": "Accurate garment surface analysis using an active stereo robot head with application to dual-arm flattening",
+        "aff": ""
+    },
+    {
+        "title": "Active articulation model estimation through interactive perception",
+        "aff": ""
+    },
+    {
+        "title": "Active drifters: Towards a practical multi-robot system for ocean monitoring",
+        "aff": ""
+    },
+    {
+        "title": "Active exploration of joint dependency structures",
+        "aff": ""
+    },
+    {
+        "title": "Active exploration using trajectory optimization for robotic grasping in the presence of occlusions",
+        "aff": ""
+    },
+    {
+        "title": "Active online confidence boosting for efficient object classification",
+        "aff": ""
+    },
+    {
+        "title": "Active pose SLAM with RRT*",
+        "aff": ""
+    },
+    {
+        "title": "Active recognition and pose estimation of household objects in clutter",
+        "aff": ""
+    },
+    {
+        "title": "Active sensor networks for nuclear detection",
+        "aff": ""
+    },
+    {
+        "title": "Active vibration canceling of a cable-driven parallel robot in modal space",
+        "aff": ""
+    },
+    {
+        "title": "Adapting human motions to humanoid robots through time warping based on a general motion feasibility index",
+        "aff": ""
+    },
+    {
+        "title": "Adapting to performance variations in multi-robot coverage",
+        "aff": ""
+    },
+    {
+        "title": "Adaptive human-centered representation for activity recognition of multiple individuals from 3D point cloud sequences",
+        "aff": ""
+    },
+    {
+        "title": "Adaptive impedance control for upper limb assist exoskeleton",
+        "aff": ""
+    },
+    {
+        "title": "Adaptive neural network Dynamic Surface Control: An evaluation on the musculoskeletal robot Anthrob",
+        "aff": ""
+    },
+    {
+        "title": "Adaptive rectangular cuboids for 3D mapping",
+        "aff": ""
+    },
+    {
+        "title": "Adaptive robust wing trajectory control and force generation of flapping wing MAV",
+        "aff": ""
+    },
+    {
+        "title": "Adaptive saccade controller inspired by the primates' cerebellum",
+        "aff": ""
+    },
+    {
+        "title": "Adaptive traversability of partially occluded obstacles",
+        "aff": ""
+    },
+    {
+        "title": "Aerial manipulator with perching and door-opening capability",
+        "aff": ""
+    },
+    {
+        "title": "Affecting operator trust in intelligent multirobot surveillance systems",
+        "aff": ""
+    },
+    {
+        "title": "Affordance detection of tool parts from geometric features",
+        "aff": ""
+    },
+    {
+        "title": "Agent classification using implicit models",
+        "aff": ""
+    },
+    {
+        "title": "Algorithms for simultaneous motion control of multiple T. pyriformis cells: Model predictive control and Particle Swarm Optimization",
+        "aff": ""
+    },
+    {
+        "title": "An adaptive compliant multi-finger approach-to-grasp strategy for objects with position uncertainties",
+        "aff": ""
+    },
+    {
+        "title": "An alligator inspired modular robot",
+        "aff": ""
+    },
+    {
+        "title": "An ankle-foot prosthesis emulator with control of plantarflexion and inversion-eversion torque",
+        "aff": ""
+    },
+    {
+        "title": "An approach to base placement for effective collaboration of multiple autonomous industrial robots",
+        "aff": ""
+    },
+    {
+        "title": "An approach to specification simplification in automated manufacturing systems using invariance and inequality analysis",
+        "aff": ""
+    },
+    {
+        "title": "An automated robotic system for high-speed microinjection of Caenorhabditis elegans",
+        "aff": ""
+    },
+    {
+        "title": "An autonomous robotic assistant for drinking",
+        "aff": ""
+    },
+    {
+        "title": "An efficient cooperative deployment of robots for multiple tasks",
+        "aff": ""
+    },
+    {
+        "title": "An emotion recognition comparative study of autistic and typically-developing children using the zeno robot",
+        "aff": ""
+    },
+    {
+        "title": "An evaluation of features for classifier transfer during target handoff across aerial and ground robots",
+        "aff": ""
+    },
+    {
+        "title": "An improved modelling scheme for photometric moments with inclusion of spatial weights for visual servoing with partial appearance/disappearance",
+        "aff": ""
+    },
+    {
+        "title": "An incremental approach to learning generalizable robot tasks from human demonstration",
+        "aff": ""
+    },
+    {
+        "title": "An integrated framework for humanoid embodiment with a BCI",
+        "aff": ""
+    },
+    {
+        "title": "An invariant Linear Quadratic Gaussian controller for a simplified car",
+        "aff": ""
+    },
+    {
+        "title": "An iterative Kalman smoother for robust 3D localization on mobile and wearable devices",
+        "aff": ""
+    },
+    {
+        "title": "An online and approximate solver for POMDPs with continuous action space",
+        "aff": ""
+    },
+    {
+        "title": "An online method for tight-tolerance insertion tasks for string and rope",
+        "aff": ""
+    },
+    {
+        "title": "An optimisation-based path planner for truck-trailer systems with driving direction changes",
+        "aff": ""
+    },
+    {
+        "title": "An uncertainty-aware precision grasping process for objects with unknown dimensions",
+        "aff": ""
+    },
+    {
+        "title": "An under actuated robotic arm with adjustable stiffness shape memory polymer joints",
+        "aff": ""
+    },
+    {
+        "title": "An underactuated wearable arm-swing rehabilitator for gait training",
+        "aff": ""
+    },
+    {
+        "title": "An untethered miniature origami robot that self-folds, walks, swims, and degrades",
+        "aff": ""
+    },
+    {
+        "title": "Analysis of muscle synergy contribution on human standing-up motion using a neuro-musculoskeletal model",
+        "aff": ""
+    },
+    {
+        "title": "Analysis of rectilinear motion of a three-segment snake robot under action of dry friction",
+        "aff": ""
+    },
+    {
+        "title": "Analytical approximation for the double-stance phase of a walking robot",
+        "aff": ""
+    },
+    {
+        "title": "Analytical solution of target steady walking speed in 1-DOF limit cycle walking",
+        "aff": ""
+    },
+    {
+        "title": "Anisotropic collapsible leg spines for increased millirobot traction",
+        "aff": ""
+    },
+    {
+        "title": "Antagonistic muscle based robot control for physical interactions",
+        "aff": ""
+    },
+    {
+        "title": "Appearance-based SLAM in a network space",
+        "aff": ""
+    },
+    {
+        "title": "Approximately Optimal Computing-Budget Allocation for subset ranking",
+        "aff": ""
+    },
+    {
+        "title": "Articulating minimally invasive ultrasonic tool for robotics-assisted surgery",
+        "aff": ""
+    },
+    {
+        "title": "Asymptotically-optimal Motion Planning using lower bounds on cost",
+        "aff": ""
+    },
+    {
+        "title": "Asynchronous blind signal decomposition using tiny-length code for Visible Light Communication-based indoor localization",
+        "aff": ""
+    },
+    {
+        "title": "Attitude and altitude estimation and control on board a Flapping Wing Micro Air Vehicle",
+        "aff": ""
+    },
+    {
+        "title": "Attitude control for an Hybrid Unmanned Aerial Underwater Vehicle: A robust switched strategy with global stability",
+        "aff": ""
+    },
+    {
+        "title": "Attitude of quadrotor-like vehicles: Fuzzy modeling and control with prescribed rate of convergence",
+        "aff": ""
+    },
+    {
+        "title": "Augmenting physical state prediction through structured activity inference",
+        "aff": ""
+    },
+    {
+        "title": "Automated micro-aspiration of mouse embryo limb bud tissue",
+        "aff": ""
+    },
+    {
+        "title": "Automated robotic manipulation of individual sub-micro particles using a dual probe setup inside the scanning electron microscope",
+        "aff": ""
+    },
+    {
+        "title": "Automated robotic vitrification of embryos",
+        "aff": ""
+    },
+    {
+        "title": "Automatic bleeding frame detection in the wireless capsule endoscopy images",
+        "aff": ""
+    },
+    {
+        "title": "Automatic design of discreet discrete filters",
+        "aff": ""
+    },
+    {
+        "title": "Automatic detection of Ceratocystis wilt in Eucalyptus crops from aerial images",
+        "aff": ""
+    },
+    {
+        "title": "Automatic extrinsic calibration of multiple laser range sensors with little overlap",
+        "aff": ""
+    },
+    {
+        "title": "Automatic image scaling for place recognition in changing environments",
+        "aff": ""
+    },
+    {
+        "title": "Automatic initialization and dynamic tracking of surgical suture threads",
+        "aff": ""
+    },
+    {
+        "title": "Automatic initialization for skeleton tracking in optical motion capture",
+        "aff": ""
+    },
+    {
+        "title": "Automatic pose optimization for robotic processes",
+        "aff": ""
+    },
+    {
+        "title": "Automatic re-initialization and failure recovery for aggressive flight with a monocular vision-based quadrotor",
+        "aff": ""
+    },
+    {
+        "title": "Autonomous Underwater Vehicle localization in a spatiotemporally varying water current field",
+        "aff": ""
+    },
+    {
+        "title": "Autonomous gait selection for energy efficient walking",
+        "aff": ""
+    },
+    {
+        "title": "Autonomous model-free landing control of small-scale flybarless helicopters",
+        "aff": ""
+    },
+    {
+        "title": "Autonomous navigation of generic monocular quadcopter in natural environment",
+        "aff": ""
+    },
+    {
+        "title": "Autonomous perching and take-off on vertical walls for a quadrotor micro air vehicle",
+        "aff": ""
+    },
+    {
+        "title": "Autonomous robotic exploration using occupancy grid maps and graph SLAM based on Shannon and R\u00e9nyi Entropy",
+        "aff": ""
+    },
+    {
+        "title": "Autonomous sampling of water columns using gliding robotic fish: Control algorithms and field experiments",
+        "aff": ""
+    },
+    {
+        "title": "Autonomous underwater panel operation by GIRONA500 UVMS: A practical approach to autonomous underwater manipulation",
+        "aff": ""
+    },
+    {
+        "title": "Backstepping control with energy reduction for an over-actuated marine platform",
+        "aff": ""
+    },
+    {
+        "title": "Balance control strategy for legged robots with compliant contacts",
+        "aff": ""
+    },
+    {
+        "title": "Batch Informed Trees (BIT*): Sampling-based optimal planning via the heuristically guided search of implicit random geometric graphs",
+        "aff": ""
+    },
+    {
+        "title": "Battery-aware dynamical modeling and identification for the total thrust in multi-rotor UAVs using only an onboard accelerometer",
+        "aff": ""
+    },
+    {
+        "title": "Bayesian fusion using conditionally independent submaps for high resolution 2.5D mapping",
+        "aff": ""
+    },
+    {
+        "title": "Bayesian tactile object recognition: Learning and recognising objects using a new inexpensive tactile sensor",
+        "aff": ""
+    },
+    {
+        "title": "Beyond lowest-warping cost action selection in trajectory transfer",
+        "aff": ""
+    },
+    {
+        "title": "Beyond points: Evaluating recent 3D scan-matching algorithms",
+        "aff": ""
+    },
+    {
+        "title": "Binaural sound source localization based on generalized parametric model and two-layer matching strategy in complex environments",
+        "aff": ""
+    },
+    {
+        "title": "Binding of food materials with a tension-sensitive elastic thread",
+        "aff": ""
+    },
+    {
+        "title": "Bio-inspired non-cooperative multi-robot herding",
+        "aff": ""
+    },
+    {
+        "title": "Bio-inspired predictive orientation decomposition of skeleton trajectories for real-time human activity prediction",
+        "aff": ""
+    },
+    {
+        "title": "Biomimetic algorithms for coordinated motion: Theory and implementation",
+        "aff": ""
+    },
+    {
+        "title": "Biped gait controller for large speed variations, combining reflexes and a central pattern generator in a neuromuscular model",
+        "aff": ""
+    },
+    {
+        "title": "Bottom-up learning of object categories, action effects and logical rules: From continuous manipulative exploration to symbolic planning",
+        "aff": ""
+    },
+    {
+        "title": "Bridging the gap between discrete symbolic planning and optimization-based robot control",
+        "aff": ""
+    },
+    {
+        "title": "Building 3D mosaics from an Autonomous Underwater Vehicle, Doppler velocity log, and 2D imaging sonar",
+        "aff": ""
+    },
+    {
+        "title": "Building with drones: Accurate 3D facade reconstruction using MAVs",
+        "aff": ""
+    },
+    {
+        "title": "Calibration of industrial robots with product-of-exponential (POE) model and adaptive Neural Networks",
+        "aff": ""
+    },
+    {
+        "title": "Camera calibration correction in Shape from Inconsistent Silhouette",
+        "aff": ""
+    },
+    {
+        "title": "Cartesian task allocation for cooperative, multilateral teleoperation under time delay",
+        "aff": ""
+    },
+    {
+        "title": "Case study in non-prehensile manipulation: planning and orbital stabilization of one-directional rollings for the \u201cButterfly\u201d robot",
+        "aff": ""
+    },
+    {
+        "title": "Catalytic tubular microjet propulsion model for endovascular navigation",
+        "aff": ""
+    },
+    {
+        "title": "Chance-constrained target tracking for mobile robots",
+        "aff": ""
+    },
+    {
+        "title": "Characterization of resection dexterity in transurethral resection of bladder tumor: A kinematic study",
+        "aff": ""
+    },
+    {
+        "title": "Characterizing device dynamics for haptic manipulation and navigation",
+        "aff": ""
+    },
+    {
+        "title": "Closed loop task space control of an interleaved continuum-rigid manipulator",
+        "aff": ""
+    },
+    {
+        "title": "Coactive learning with a human expert for robotic information gathering",
+        "aff": ""
+    },
+    {
+        "title": "Collaborative human-robot manipulation of highly deformable materials",
+        "aff": ""
+    },
+    {
+        "title": "Collision-free path planning of industrial cooperating robots for aircraft fuselage production",
+        "aff": ""
+    },
+    {
+        "title": "Communication-constrained multi-AUV cooperative SLAM",
+        "aff": ""
+    },
+    {
+        "title": "Comparing the effect of different spine and leg designs for a small bounding quadruped robot",
+        "aff": ""
+    },
+    {
+        "title": "Comparison of an attitude estimator based on the Lagrange-d'Alembert principle with some state-of-the-art filters",
+        "aff": ""
+    },
+    {
+        "title": "Comparison of flight paths from fixed-wing and rotorcraft small unmanned aerial systems at SR530 mudslide Washington state",
+        "aff": ""
+    },
+    {
+        "title": "Comparison of rigid body motion trajectory descriptors for motion representation and recognition",
+        "aff": ""
+    },
+    {
+        "title": "Compensating asymmetric hysteresis for nanorobot motion control",
+        "aff": ""
+    },
+    {
+        "title": "Completely randomized RRT-connect: A case study on 3D rigid body motion planning",
+        "aff": ""
+    },
+    {
+        "title": "Compliant locomotion using whole-body control and Divergent Component of Motion tracking",
+        "aff": ""
+    },
+    {
+        "title": "Computationally efficient underwater navigational strategy in electrically heterogeneous environments using electrolocation",
+        "aff": ""
+    },
+    {
+        "title": "Computing stable contact interface for customized surgical jigs",
+        "aff": ""
+    },
+    {
+        "title": "Connected invariant sets for high-speed motion planning in partially-known environments",
+        "aff": ""
+    },
+    {
+        "title": "Conservative to confident: Treating uncertainty robustly within Learning-Based Control",
+        "aff": ""
+    },
+    {
+        "title": "Consistent ground-plane mapping: A case study utilizing low-cost sensor measurements and a satellite image",
+        "aff": ""
+    },
+    {
+        "title": "Constraint Manifold Subsearch for multirobot path planning with cooperative tasks",
+        "aff": ""
+    },
+    {
+        "title": "Construction and validation of a high fidelity simulator for a planar range sensor",
+        "aff": ""
+    },
+    {
+        "title": "Contact-consistent elastic strips for multi-contact locomotion planning of humanoid robots",
+        "aff": ""
+    },
+    {
+        "title": "Context-specific intention awareness through web query in robotic caregiving",
+        "aff": ""
+    },
+    {
+        "title": "Continuous on-board monocular-vision-based elevation mapping applied to autonomous landing of micro aerial vehicles",
+        "aff": ""
+    },
+    {
+        "title": "Control and energy considerations for a hopping monopod on rough compliant terrains",
+        "aff": ""
+    },
+    {
+        "title": "Control of a 2-DOF powered ankle-foot mechanism",
+        "aff": ""
+    },
+    {
+        "title": "Control of generalized contact motion and force in physical human-robot interaction",
+        "aff": ""
+    },
+    {
+        "title": "Control of stochastic unicycle-type robots",
+        "aff": ""
+    },
+    {
+        "title": "Controllability of complex siphons for deadlock prevention in Systems of Simple Sequential Processes with Resources",
+        "aff": ""
+    },
+    {
+        "title": "Cooperative localization and mapping of MAVs using RGB-D sensors",
+        "aff": ""
+    },
+    {
+        "title": "Cooperative localization by factor composition over a faulty low-bandwidth communication channel",
+        "aff": ""
+    },
+    {
+        "title": "Cooperative localization under message dropouts via a partially decentralized EKF scheme",
+        "aff": ""
+    },
+    {
+        "title": "Coordinated launching of an ornithopter with a hexapedal robot",
+        "aff": ""
+    },
+    {
+        "title": "Coresets for visual summarization with applications to loop closure",
+        "aff": ""
+    },
+    {
+        "title": "Curb feature based localization of a mobile robot in urban road environments",
+        "aff": ""
+    },
+    {
+        "title": "Cylindrical cam mechanism for unlimited subsequent spring recruitment in Series-Parallel Elastic Actuators",
+        "aff": ""
+    },
+    {
+        "title": "Damping control of variable damping compliant actuators",
+        "aff": ""
+    },
+    {
+        "title": "Decentralized active information acquisition: Theory and application to multi-robot SLAM",
+        "aff": ""
+    },
+    {
+        "title": "Decentralized algorithms for 3D symmetric formations in robotic networks - a contraction theory approach",
+        "aff": ""
+    },
+    {
+        "title": "Decentralized control of Partially Observable Markov Decision Processes using belief space macro-actions",
+        "aff": ""
+    },
+    {
+        "title": "Decentralized control of free ranging AGVs in warehouse environments",
+        "aff": ""
+    },
+    {
+        "title": "Decentralized cooperative mean approach to collision avoidance for nonholonomic mobile robots",
+        "aff": ""
+    },
+    {
+        "title": "Decentralized object transportation by two nonholonomic mobile robots exploiting only implicit communication",
+        "aff": ""
+    },
+    {
+        "title": "Decentralized parameter estimation and observation for cooperative mobile manipulation of an unknown load using noisy measurements",
+        "aff": ""
+    },
+    {
+        "title": "Decentralized simultaneous localization and mapping for multiple aerial vehicles using range-only sensors",
+        "aff": ""
+    },
+    {
+        "title": "Decentralized smart sensor scheduling for multiple target tracking for border surveillance",
+        "aff": ""
+    },
+    {
+        "title": "Decentralized target tracking based on multi-robot cooperative triangulation",
+        "aff": ""
+    },
+    {
+        "title": "Decision making under uncertain segmentations",
+        "aff": ""
+    },
+    {
+        "title": "Decoupled multiagent path planning via incremental sequential convex programming",
+        "aff": ""
+    },
+    {
+        "title": "Deep learning helicopter dynamics models",
+        "aff": ""
+    },
+    {
+        "title": "Dense mono reconstruction: Living with the pain of the plain plane",
+        "aff": ""
+    },
+    {
+        "title": "Dense visual-inertial navigation system for mobile robots",
+        "aff": ""
+    },
+    {
+        "title": "Depth image based gait tracking and analysis via robotic walker",
+        "aff": ""
+    },
+    {
+        "title": "Depth-based tracking with physical constraints for robot manipulation",
+        "aff": ""
+    },
+    {
+        "title": "Design analysis of a passive weight-support lower-extremity-exoskeleton with compliant knee-joint",
+        "aff": ""
+    },
+    {
+        "title": "Design and analysis of a novel quadrotor system - VOOPS",
+        "aff": ""
+    },
+    {
+        "title": "Design and analysis of an optimal hopper for use in resonance-based locomotion",
+        "aff": ""
+    },
+    {
+        "title": "Design and control of Supernumerary Robotic Limbs for balance augmentation",
+        "aff": ""
+    },
+    {
+        "title": "Design and control of a novel multi-state compliant safe joint for robotic surgery",
+        "aff": ""
+    },
+    {
+        "title": "Design and control of a wearable hand exoskeleton with force-controllable and compact actuator modules",
+        "aff": ""
+    },
+    {
+        "title": "Design and evaluation of a bio-inspired robotic hand for percutaneous coronary intervention",
+        "aff": ""
+    },
+    {
+        "title": "Design and evaluation of the Bi-directional Clutched Parallel Elastic Actuator (BIC-PEA)",
+        "aff": ""
+    },
+    {
+        "title": "Design and experimental evaluation of a skin-stretch haptic device for improved control of brain-computer interfaces",
+        "aff": ""
+    },
+    {
+        "title": "Design and implementation of an instrumented cane for gait recognition",
+        "aff": ""
+    },
+    {
+        "title": "Design investigation of a coreless tubular linear generator for a Moball: A spherical exploration robot with wind-energy harvesting capability",
+        "aff": ""
+    },
+    {
+        "title": "Design method for an anthropomorphic hand able to gesture and grasp",
+        "aff": ""
+    },
+    {
+        "title": "Design of a cable-driven active leg exoskeleton (C-ALEX) and gait training experiments with human subjects",
+        "aff": ""
+    },
+    {
+        "title": "Design of a locomotion interface for gait simulation based on belt-driven parallel mechanisms",
+        "aff": ""
+    },
+    {
+        "title": "Design of robotic fingers with human-like passive parallel compliance",
+        "aff": ""
+    },
+    {
+        "title": "Design of small, safe and robust quadrotor swarms",
+        "aff": ""
+    },
+    {
+        "title": "Design of tendon-driven mechanisms for fault tolerance from tendon-breaking by using centroid vectors",
+        "aff": ""
+    },
+    {
+        "title": "Design of two lightweight, high-bandwidth torque-controlled ankle exoskeletons",
+        "aff": ""
+    },
+    {
+        "title": "Design principle of wing rotational hinge stiffness",
+        "aff": ""
+    },
+    {
+        "title": "Design, identification and experimental testing of a light-weight flexible-joint arm for aerial physical interaction",
+        "aff": ""
+    },
+    {
+        "title": "Design, modeling and control of a modular contactless wafer handling system",
+        "aff": ""
+    },
+    {
+        "title": "Designing snap-free concentric tube robots: A local bifurcation approach",
+        "aff": ""
+    },
+    {
+        "title": "Detection and species classification of young trees using machine perception for a semi-autonomous forest machine",
+        "aff": ""
+    },
+    {
+        "title": "Detection of contact force transients in robotic assembly",
+        "aff": ""
+    },
+    {
+        "title": "Determining independent contacts regions to immobilize 2D articulated objects",
+        "aff": ""
+    },
+    {
+        "title": "Developing and benchmarking show & tell robotic puppet for preschool education",
+        "aff": ""
+    },
+    {
+        "title": "Development and characterization of a dynamic smart structure providing multi-axis force sensing for robotic applications",
+        "aff": ""
+    },
+    {
+        "title": "Development and experimental validation of a force sensing needle for robotically assisted retinal vein cannulations",
+        "aff": ""
+    },
+    {
+        "title": "Development of a bipedal robot that walks like an animation character",
+        "aff": ""
+    },
+    {
+        "title": "Development of a real-time local environment stimulation system with visual feedback control",
+        "aff": ""
+    },
+    {
+        "title": "Development of an active haptic cane for gait rehabilitation",
+        "aff": ""
+    },
+    {
+        "title": "Development of an unmanned helicopter automatic barrels transportation system",
+        "aff": ""
+    },
+    {
+        "title": "Differential dynamic programming for optimal estimation",
+        "aff": ""
+    },
+    {
+        "title": "Direct visual servoing based on multiple intensity histograms",
+        "aff": ""
+    },
+    {
+        "title": "Directional efficiency in geared transmissions: Characterization of backdrivability towards improved proprioceptive control",
+        "aff": ""
+    },
+    {
+        "title": "Discovery of topical object in image collections",
+        "aff": ""
+    },
+    {
+        "title": "Distance Bound Smoothing under orientation constraints",
+        "aff": ""
+    },
+    {
+        "title": "Distance metric learning for RRT-based motion planning with constant-time inference",
+        "aff": ""
+    },
+    {
+        "title": "Distortion invariant joint-feature for visual tracking in catadioptric omnidirectional vision",
+        "aff": ""
+    },
+    {
+        "title": "Distributed centroid estimation and motion controllers for collective transport by multi-robot systems",
+        "aff": ""
+    },
+    {
+        "title": "Distributed map fusion with sporadic updates for large domains",
+        "aff": ""
+    },
+    {
+        "title": "Distributed real-time cooperative localization and mapping using an uncertainty-aware expectation maximization approach",
+        "aff": ""
+    },
+    {
+        "title": "Do limit cycles matter in the long run? Stable orbits and sliding-mass dynamics emerge in task-optimal locomotion",
+        "aff": ""
+    },
+    {
+        "title": "Domain decomposition approach for FEM quasistatic modeling and control of Continuum Robots with rigid vertebras",
+        "aff": ""
+    },
+    {
+        "title": "Dual Quaternion based modal kinematics for multisection continuum arms",
+        "aff": ""
+    },
+    {
+        "title": "Duality-based verification techniques for 2D SLAM",
+        "aff": ""
+    },
+    {
+        "title": "Dynamic ISD scheme for the AVM system - a preliminary study",
+        "aff": ""
+    },
+    {
+        "title": "Dynamic Multi-Heuristic A*",
+        "aff": ""
+    },
+    {
+        "title": "Dynamic analysis of a hybrid cable-suspended planar manipulator",
+        "aff": ""
+    },
+    {
+        "title": "Dynamic brace for correction of abnormal postures of the human spine",
+        "aff": ""
+    },
+    {
+        "title": "Dynamic model and motion planning for a pendulum-actuated spherical rolling robot",
+        "aff": ""
+    },
+    {
+        "title": "Dynamic motion phase segmentation using sEMG during countermovement jump based on hidden semi-Markov model",
+        "aff": ""
+    },
+    {
+        "title": "Dynamic nonprehensile manipulation by using active-passive hybrid joint with nonparallel axes",
+        "aff": ""
+    },
+    {
+        "title": "Dynamic programming guided exploration for sampling-based motion planning algorithms",
+        "aff": ""
+    },
+    {
+        "title": "Dynamic walking in a humanoid robot based on a 3D Actuated Dual-SLIP model",
+        "aff": ""
+    },
+    {
+        "title": "Dynamics and trajectory optimization for a soft spatial fluidic elastomer manipulator",
+        "aff": ""
+    },
+    {
+        "title": "Dynamics morphing between standing and repetitive hopping of biped robots",
+        "aff": ""
+    },
+    {
+        "title": "Dynamics-driven adaptive abstraction for reactive high-level mission and motion planning",
+        "aff": ""
+    },
+    {
+        "title": "Effects of exoskeletal stiffness in parallel with the knee on the motion of the human body center of mass during walking",
+        "aff": ""
+    },
+    {
+        "title": "Effects of master-slave tool misalignment in a teleoperated surgical robot",
+        "aff": ""
+    },
+    {
+        "title": "Efficiency of speech and iconic gesture integration for robotic and human communicators - a direct comparison",
+        "aff": ""
+    },
+    {
+        "title": "Efficient RGB-D object categorization using cascaded ensembles of randomized decision trees",
+        "aff": ""
+    },
+    {
+        "title": "Efficient and effective matching of image sequences under substantial appearance changes exploiting GPS priors",
+        "aff": ""
+    },
+    {
+        "title": "Efficient computation of multiple coupled Cosserat rod models for real-time simulation and control of parallel continuum manipulators",
+        "aff": ""
+    },
+    {
+        "title": "Efficient distributed multi-robot localization: A target tracking inspired design",
+        "aff": ""
+    },
+    {
+        "title": "Efficient high-quality motion planning by fast all-pairs r-nearest-neighbors",
+        "aff": ""
+    },
+    {
+        "title": "Efficient leader selection for translation and scale of a bearing-compass formation",
+        "aff": ""
+    },
+    {
+        "title": "Efficient measurement planning for remote gas sensing with mobile robots",
+        "aff": ""
+    },
+    {
+        "title": "Efficient mixed-integer planning for UAVs in cluttered environments",
+        "aff": ""
+    },
+    {
+        "title": "Efficient monocular pose estimation for complex 3D models",
+        "aff": ""
+    },
+    {
+        "title": "Efficient path planning for high-DOF articulated robots with adaptive dimensionality",
+        "aff": ""
+    },
+    {
+        "title": "Efficient radius neighbor search in three-dimensional point clouds",
+        "aff": ""
+    },
+    {
+        "title": "Efficient reinforcement learning for robots using informative simulated priors",
+        "aff": ""
+    },
+    {
+        "title": "Efficient visual exploration and coverage with a micro aerial vehicle in unknown environments",
+        "aff": ""
+    },
+    {
+        "title": "Elbow joint motion support for C4 level cervical cord injury patient using an exoskeleton robot",
+        "aff": ""
+    },
+    {
+        "title": "Electroplated nickel microspring and low-friction precision linear slider: A novel micro-force sensing tool",
+        "aff": ""
+    },
+    {
+        "title": "Emergency maneuver library - ensuring safe navigation in partially known environments",
+        "aff": ""
+    },
+    {
+        "title": "Encoderless position control of a two-link robot manipulator",
+        "aff": ""
+    },
+    {
+        "title": "End-tip speed maximization for noncyclic swing motion based on time reversal integral in multiple-joint robots",
+        "aff": ""
+    },
+    {
+        "title": "Energetics-informed hexapod gait transitions across terrains",
+        "aff": ""
+    },
+    {
+        "title": "Energy control for complex pendulums based on tracking of online computed force trajectories",
+        "aff": ""
+    },
+    {
+        "title": "Enhanced flatbed tow truck model for stable and safe platooning in the presences of lags, communication and sensing delays",
+        "aff": ""
+    },
+    {
+        "title": "Environment selection and hierarchical place recognition",
+        "aff": ""
+    },
+    {
+        "title": "Equating user performance among communication latency distributions and simulation fidelities for a teleoperated mobile robot",
+        "aff": ""
+    },
+    {
+        "title": "Estimating a Mean-Path from a set of 2-D curves",
+        "aff": ""
+    },
+    {
+        "title": "Estimating camera pose using Bundle Adjustment and Digital Terrain Model constraints",
+        "aff": ""
+    },
+    {
+        "title": "Estimating joint movements from observed EMG signals with multiple electrodes under sensor failure situations toward safe assistive robot control",
+        "aff": ""
+    },
+    {
+        "title": "Estimating structure of indoor scene from a single full-view image",
+        "aff": ""
+    },
+    {
+        "title": "Evaluating impact in the ROS ecosystem",
+        "aff": ""
+    },
+    {
+        "title": "Evaluation of a direct optimization method for trajectory planning of a 9-DOF redundant fruit-picking manipulator",
+        "aff": ""
+    },
+    {
+        "title": "Evaluation of finger configuration for partial caging",
+        "aff": ""
+    },
+    {
+        "title": "Event-based estimation and control for remote robot operation with reduced communication",
+        "aff": ""
+    },
+    {
+        "title": "Experience-based planning with sparse roadmap spanners",
+        "aff": ""
+    },
+    {
+        "title": "Experimental comparison of torque control methods on an ankle exoskeleton during human walking",
+        "aff": ""
+    },
+    {
+        "title": "Experimental evaluation of force control for virtual-fixture-assisted teleoperation for on-orbit manipulation of satellite thermal blanket insulation",
+        "aff": ""
+    },
+    {
+        "title": "Experimental evaluation of gripping characteristics based on frictional theory for ground grip locomotive robot on an asteroid",
+        "aff": ""
+    },
+    {
+        "title": "Experimental investigation of effect of fingertip stiffness on resistible force in grasping",
+        "aff": ""
+    },
+    {
+        "title": "Experimental validation of a drogue estimation algorithm for autonomous aerial refueling",
+        "aff": ""
+    },
+    {
+        "title": "Experiments on behavioral coordinated control of an Unmanned Aerial Vehicle manipulator system",
+        "aff": ""
+    },
+    {
+        "title": "Exploiting symmetries and extrusions for grasping household objects",
+        "aff": ""
+    },
+    {
+        "title": "Exploration and topological map building in unknown environments",
+        "aff": ""
+    },
+    {
+        "title": "Extended Cooperative Task Space for manipulation tasks of humanoid robots",
+        "aff": ""
+    },
+    {
+        "title": "Extending the Knowledge of Volumes approach to robot task planning with efficient geometric predicates",
+        "aff": ""
+    },
+    {
+        "title": "Extracting low-dimensional control variables for movement primitives",
+        "aff": ""
+    },
+    {
+        "title": "Extrinsic calibration of a 2d laser-rangefinder and a camera based on scene corners",
+        "aff": ""
+    },
+    {
+        "title": "Extrinsic calibration of a set of 2D laser rangefinders",
+        "aff": ""
+    },
+    {
+        "title": "FARLAP: Fast robust localisation using appearance priors",
+        "aff": ""
+    },
+    {
+        "title": "FBG-based polymer-molded shape sensor integrated with minimally invasive surgical robots",
+        "aff": ""
+    },
+    {
+        "title": "Fable II: Design of a modular robot for creative learning",
+        "aff": ""
+    },
+    {
+        "title": "Fair Multi-Target Tracking in Cooperative Multi-Robot systems",
+        "aff": ""
+    },
+    {
+        "title": "Fall Prediction of legged robots based on energy state and its implication of balance augmentation: A study on the humanoid",
+        "aff": ""
+    },
+    {
+        "title": "Fast LIDAR localization using multiresolution Gaussian mixture maps",
+        "aff": ""
+    },
+    {
+        "title": "Fast Monte Carlo Localization using spatial density information",
+        "aff": ""
+    },
+    {
+        "title": "Fast and robust vehicle positioning on graph-based representation of drivable maps",
+        "aff": ""
+    },
+    {
+        "title": "Fast collision detection through bounding volume hierarchies in workspace-time space for sampling-based motion planners",
+        "aff": ""
+    },
+    {
+        "title": "Fast covariance recovery in incremental nonlinear least square solvers",
+        "aff": ""
+    },
+    {
+        "title": "Fast dense stereo correspondences by binary locality sensitive hashing",
+        "aff": ""
+    },
+    {
+        "title": "Fast embedded feet pose estimation based on a depth camera for smart walker",
+        "aff": ""
+    },
+    {
+        "title": "Fast grasp quality evaluation with partial convex hull computation",
+        "aff": ""
+    },
+    {
+        "title": "Fast semantic segmentation of 3D point clouds using a dense CRF with learned parameters",
+        "aff": ""
+    },
+    {
+        "title": "Fast target prediction of human reaching motion for cooperative human-robot manipulation tasks using time series classification",
+        "aff": ""
+    },
+    {
+        "title": "Fast, continuous state path smoothing to improve navigation accuracy",
+        "aff": ""
+    },
+    {
+        "title": "Fault diagnosis and fault-tolerant control strategy for rotor failure in an octorotor",
+        "aff": ""
+    },
+    {
+        "title": "Feasibility study of a slack enabling actuator for actuating tendon-driven soft wearable robot without pretension",
+        "aff": ""
+    },
+    {
+        "title": "Feasible Center of Mass Dynamic Manipulability of humanoid robots",
+        "aff": ""
+    },
+    {
+        "title": "Feed forward incision control for laser microsurgery of soft tissue",
+        "aff": ""
+    },
+    {
+        "title": "Feedback linearization of variable stiffness joints based on twisted string actuators",
+        "aff": ""
+    },
+    {
+        "title": "Feedforward augmented sliding mode motion control of antagonistic soft pneumatic actuators",
+        "aff": ""
+    },
+    {
+        "title": "Fiberbot: A miniature crawling robot using a directional fibrillar pad",
+        "aff": ""
+    },
+    {
+        "title": "Finding answers to biological control methods using modulated patterns: An application to bio-inspired robotic fish",
+        "aff": ""
+    },
+    {
+        "title": "First demonstration of a modular and reconfigurable magnetic-manipulation system",
+        "aff": ""
+    },
+    {
+        "title": "Flight control systems of a quad tilt rotor Unmanned Aerial Vehicle for a large attitude change",
+        "aff": ""
+    },
+    {
+        "title": "Flight performance of a swashplateless micro air vehicle",
+        "aff": ""
+    },
+    {
+        "title": "Flow feature extraction for underwater robot localization: Preliminary results",
+        "aff": ""
+    },
+    {
+        "title": "Fluorescence sensor array for non-contact measurement of oxygen consumption rate of single oocyte on a microfluidic chip",
+        "aff": ""
+    },
+    {
+        "title": "Foldable and self-deployable pocket sized quadrotor",
+        "aff": ""
+    },
+    {
+        "title": "Folding and unfolding origami tessellation by reusing folding path",
+        "aff": ""
+    },
+    {
+        "title": "Force control for tissue tensioning in precise robotic laser surgery",
+        "aff": ""
+    },
+    {
+        "title": "Fractal trajectories for online non-uniform aerial coverage",
+        "aff": ""
+    },
+    {
+        "title": "From dusk till dawn: Localisation at night using artificial light sources",
+        "aff": ""
+    },
+    {
+        "title": "Fuel consumption in a driving test cycle by robotic driver considering system dynamics",
+        "aff": ""
+    },
+    {
+        "title": "Functional power grasps transferred through warping and replanning",
+        "aff": ""
+    },
+    {
+        "title": "Fusing ultra-wideband range measurements with accelerometers and rate gyroscopes for quadrocopter state estimation",
+        "aff": ""
+    },
+    {
+        "title": "Fuzzy based traversability analysis for a mobile robot on rough terrain",
+        "aff": ""
+    },
+    {
+        "title": "GP-GPIS-OPT: Grasp planning with shape uncertainty using Gaussian process implicit surfaces and Sequential Convex Programming",
+        "aff": ""
+    },
+    {
+        "title": "GPU-based proximity query processing on unstructured triangular mesh model",
+        "aff": ""
+    },
+    {
+        "title": "Gaussian reconstruction of swarm behavior from partial data",
+        "aff": ""
+    },
+    {
+        "title": "Generalized projector for task priority transitions during hierarchical control",
+        "aff": ""
+    },
+    {
+        "title": "Generalizing random-vector SLAM with random finite sets",
+        "aff": ""
+    },
+    {
+        "title": "Generating two independent rotating magnetic fields with a single magnetic dipole for the propulsion of untethered magnetic devices",
+        "aff": ""
+    },
+    {
+        "title": "Geometric probability results for bounding path quality in sampling-based roadmaps after finite computation",
+        "aff": ""
+    },
+    {
+        "title": "Gesture based human - Multi-robot swarm interaction and its application to an interactive display",
+        "aff": ""
+    },
+    {
+        "title": "Gesture recognition using hybrid generative-discriminative approach with Fisher Vector",
+        "aff": ""
+    },
+    {
+        "title": "Global connectivity control for spatially interacting multi-robot systems with unicycle kinematics",
+        "aff": ""
+    },
+    {
+        "title": "Global grasp planning using triangular meshes",
+        "aff": ""
+    },
+    {
+        "title": "Goal-oriented visual tracking of pedestrians with motion priors in semi-crowded scenes",
+        "aff": ""
+    },
+    {
+        "title": "Graph-based SLAM embedded implementation on low-cost architectures: A practical approach",
+        "aff": ""
+    },
+    {
+        "title": "Grasping strategy for moving object using Net-Structure Proximity Sensor and vision sensor",
+        "aff": ""
+    },
+    {
+        "title": "Grasping surfaces of revolution: Simultaneous pose and shape recovery from two views",
+        "aff": ""
+    },
+    {
+        "title": "Grasping without squeezing: Shear adhesion gripper with fibrillar thin film",
+        "aff": ""
+    },
+    {
+        "title": "Ground or obstacles? Detecting clear paths in vehicle navigation",
+        "aff": ""
+    },
+    {
+        "title": "Grounding spatial relations for outdoor robot navigation",
+        "aff": ""
+    },
+    {
+        "title": "Gyroscope-based video stabilisation with auto-calibration",
+        "aff": ""
+    },
+    {
+        "title": "HCMDP: A hierarchical solution to Constrained Markov Decision Processes",
+        "aff": ""
+    },
+    {
+        "title": "Harmonic analysis of a PZT poly-actuator",
+        "aff": ""
+    },
+    {
+        "title": "Hierarchical cooperative control framework of multiple quadrotor-manipulator systems",
+        "aff": ""
+    },
+    {
+        "title": "High performance full attitude control of a quadrotor on SO(3)",
+        "aff": ""
+    },
+    {
+        "title": "High resolution pressure sensing using sub-pixel shifts on low resolution load-sensing tiles",
+        "aff": ""
+    },
+    {
+        "title": "High-level learning from demonstration with conceptual spaces and subspace clustering",
+        "aff": ""
+    },
+    {
+        "title": "High-level visual features for underwater place recognition",
+        "aff": ""
+    },
+    {
+        "title": "High-performance robotic muscles from conductive nylon sewing thread",
+        "aff": ""
+    },
+    {
+        "title": "High-speed biped walking using swinging-arms based on principle of up-and-down wobbling mass",
+        "aff": ""
+    },
+    {
+        "title": "Human activity recognition using LZW-Coded Probabilistic Finite State Automata",
+        "aff": ""
+    },
+    {
+        "title": "Human feet tracking guided by locomotion model",
+        "aff": ""
+    },
+    {
+        "title": "Human-in-the-loop approach for teaching robot assembly tasks using impedance control interface",
+        "aff": ""
+    },
+    {
+        "title": "Human-robot co-navigation using anticipatory indicators of human walking motion",
+        "aff": ""
+    },
+    {
+        "title": "Hybrid automatic visual servoing scheme using defocus information for 6-DoF micropositioning",
+        "aff": ""
+    },
+    {
+        "title": "Hybrid zero dynamics based multiple shooting optimization with applications to robotic walking",
+        "aff": ""
+    },
+    {
+        "title": "IBuILD: Incremental bag of Binary words for appearance based loop closure detection",
+        "aff": ""
+    },
+    {
+        "title": "IMU-based manipulator kinematic identification",
+        "aff": ""
+    },
+    {
+        "title": "IRIS: Integrated Robotic Intraocular Snake",
+        "aff": ""
+    },
+    {
+        "title": "Image based optimisation without global consistency for constant time monocular visual SLAM",
+        "aff": ""
+    },
+    {
+        "title": "Image-based control relying on conic curves foliation for passing through a gate",
+        "aff": ""
+    },
+    {
+        "title": "Image-based mapping, global localization and position tracking using VG-RAM weightless neural networks",
+        "aff": ""
+    },
+    {
+        "title": "Impedance shaping controller for robotic applications involving interacting compliant environments and compliant robot bases",
+        "aff": ""
+    },
+    {
+        "title": "Implementation of a task-dependent anisotropic impedance controller into a 2-DOF platform-based ankle rehabilitation robot",
+        "aff": ""
+    },
+    {
+        "title": "Improved driver modeling for human-in-the-loop vehicular control",
+        "aff": ""
+    },
+    {
+        "title": "Improving regrasp algorithms to analyze the utility of work surfaces in a workcell",
+        "aff": ""
+    },
+    {
+        "title": "In situ calibration of six-axis force-torque sensors using accelerometer measurements",
+        "aff": ""
+    },
+    {
+        "title": "Including human factors for planning comfortable paths",
+        "aff": ""
+    },
+    {
+        "title": "Incorporating frictional anisotropy in the design of a robotic snake through the exploitation of scales",
+        "aff": ""
+    },
+    {
+        "title": "Incorporating information from trusted sources to enhance urban navigation for blind travelers",
+        "aff": ""
+    },
+    {
+        "title": "Increasing allocated tasks with a time minimization algorithm for a search and rescue scenario",
+        "aff": ""
+    },
+    {
+        "title": "Incremental dense semantic stereo fusion for large-scale semantic scene reconstruction",
+        "aff": ""
+    },
+    {
+        "title": "Incremental kinesthetic teaching of end-effector and null-space motion primitives",
+        "aff": ""
+    },
+    {
+        "title": "Incremental, sensor-based motion generation for mobile manipulators in unknown, dynamic environments",
+        "aff": ""
+    },
+    {
+        "title": "Indoor human/robot localization using robust multi-modal data fusion",
+        "aff": ""
+    },
+    {
+        "title": "Inertial parameters identification and joint torques estimation with proximal force/torque sensing",
+        "aff": ""
+    },
+    {
+        "title": "Information-based reduced landmark SLAM",
+        "aff": ""
+    },
+    {
+        "title": "Information-theoretic mapping using Cauchy-Schwarz Quadratic Mutual Information",
+        "aff": ""
+    },
+    {
+        "title": "Informing ankle-foot prosthesis prescription through haptic emulation of candidate devices",
+        "aff": ""
+    },
+    {
+        "title": "Initialization techniques for 3D SLAM: A survey on rotation estimation and its use in pose graph optimization",
+        "aff": ""
+    },
+    {
+        "title": "Injected 3D electrical traces in additive manufactured parts with low melting temperature metals",
+        "aff": ""
+    },
+    {
+        "title": "Input-to-state stable approach to release the conservatism of passivity-based stable haptic interaction",
+        "aff": ""
+    },
+    {
+        "title": "Insect-machine hybrid robot: Insect walking control by sequential electrical stimulation of leg muscles",
+        "aff": ""
+    },
+    {
+        "title": "Integral Admittance Shaping for exoskeleton control",
+        "aff": ""
+    },
+    {
+        "title": "Integral action in first-order Closed-Loop Inverse Kinematics. Application to aerial manipulators",
+        "aff": ""
+    },
+    {
+        "title": "Integrated force/tactile sensing: The enabling technology for slipping detection and avoidance",
+        "aff": ""
+    },
+    {
+        "title": "Integrated path planning and power management for solar-powered unmanned ground vehicles",
+        "aff": ""
+    },
+    {
+        "title": "Integrating hybrid diagnostic reasoning in plan execution monitoring for cognitive factories with multiple robots",
+        "aff": ""
+    },
+    {
+        "title": "Integrating metric and semantic maps for vision-only automated parking",
+        "aff": ""
+    },
+    {
+        "title": "Intent aware adaptive admittance control for physical Human-Robot Interaction",
+        "aff": ""
+    },
+    {
+        "title": "Intention-aware online POMDP planning for autonomous driving in a crowd",
+        "aff": ""
+    },
+    {
+        "title": "Interaction skills for a coat-check robot: Identifying and handling the boundary components of clothes",
+        "aff": ""
+    },
+    {
+        "title": "Interactive haptic simulation of tooth extraction by a constraint-based haptic rendering approach",
+        "aff": ""
+    },
+    {
+        "title": "Introducing SLAMBench, a performance and accuracy benchmarking methodology for SLAM",
+        "aff": ""
+    },
+    {
+        "title": "Intuitive visual teleoperation for UGVs using free-look augmented reality displays",
+        "aff": ""
+    },
+    {
+        "title": "Inverse depth for accurate photometric and geometric error minimisation in RGB-D dense visual odometry",
+        "aff": ""
+    },
+    {
+        "title": "Inverse reinforcement learning of behavioral models for online-adapting navigation strategies",
+        "aff": ""
+    },
+    {
+        "title": "Inversion-free feedforward dynamic compensation of hysteresis nonlinearities in piezoelectric micro/nano-positioning actuators",
+        "aff": ""
+    },
+    {
+        "title": "Investigation of self-healing compliant actuators for robotics",
+        "aff": ""
+    },
+    {
+        "title": "Investigation on the control strategy of soft wearable robotic hand with slack enabling tendon actuator",
+        "aff": ""
+    },
+    {
+        "title": "It's not easy seeing green: Lighting-resistant stereo Visual Teach & Repeat using color-constant images",
+        "aff": ""
+    },
+    {
+        "title": "Joint tracking and non-parametric shape estimation of arbitrary extended objects",
+        "aff": ""
+    },
+    {
+        "title": "Keypoint matching by outlier pruning with consensus constraint",
+        "aff": ""
+    },
+    {
+        "title": "Kinematic analysis and design considerations for optimal base frame arrangement of humanoid shoulders",
+        "aff": ""
+    },
+    {
+        "title": "Kinematics for combined quasi-static force and motion control in multi-limbed robots",
+        "aff": ""
+    },
+    {
+        "title": "Kinetostatic analysis of the translational RPC-manipulator with different actuator and frame configurations",
+        "aff": ""
+    },
+    {
+        "title": "Kinodynamic randomized rearrangement planning via dynamic transitions between statically stable states",
+        "aff": ""
+    },
+    {
+        "title": "Know your limits: Embedding localiser performance models in teach and repeat maps",
+        "aff": ""
+    },
+    {
+        "title": "LOIND: An illumination and scale invariant RGB-D descriptor",
+        "aff": ""
+    },
+    {
+        "title": "Lab in a Droplet (LiD): Self-assembly of micro-nano structures inside a Droplet using surface tension",
+        "aff": ""
+    },
+    {
+        "title": "Large deflection shape sensing of a continuum manipulator for minimally-invasive surgery",
+        "aff": ""
+    },
+    {
+        "title": "Lazy collision checking in asymptotically-optimal motion planning",
+        "aff": ""
+    },
+    {
+        "title": "Lazy validation of Experience Graphs",
+        "aff": ""
+    },
+    {
+        "title": "Learning Predictive State Representation for in-hand manipulation",
+        "aff": ""
+    },
+    {
+        "title": "Learning by observation for surgical subtasks: Multilateral cutting of 3D viscoelastic and 2D Orthotropic Tissue Phantoms",
+        "aff": ""
+    },
+    {
+        "title": "Learning contact-rich manipulation skills with guided policy search",
+        "aff": ""
+    },
+    {
+        "title": "Learning driving styles for autonomous vehicles from demonstration",
+        "aff": ""
+    },
+    {
+        "title": "Learning force-based manipulation of deformable objects from multiple demonstrations",
+        "aff": ""
+    },
+    {
+        "title": "Learning inverse dynamics models with contacts",
+        "aff": ""
+    },
+    {
+        "title": "Learning legged swimming gaits from experience",
+        "aff": ""
+    },
+    {
+        "title": "Learning models for following natural language directions in unknown environments",
+        "aff": ""
+    },
+    {
+        "title": "Learning movement primitives for force interaction tasks",
+        "aff": ""
+    },
+    {
+        "title": "Learning multiple collaborative tasks with a mixture of Interaction Primitives",
+        "aff": ""
+    },
+    {
+        "title": "Learning non-holonomic object models for mobile manipulation",
+        "aff": ""
+    },
+    {
+        "title": "Learning null space projections",
+        "aff": ""
+    },
+    {
+        "title": "Learning symbolic representations of actions from human demonstrations",
+        "aff": ""
+    },
+    {
+        "title": "Learning the shape of image moments for optimal 3D structure estimation",
+        "aff": ""
+    },
+    {
+        "title": "Learning the spatial semantics of manipulation actions through preposition grounding",
+        "aff": ""
+    },
+    {
+        "title": "Learning the tactile signatures of prototypical object parts for robust part-based grasping of novel objects",
+        "aff": ""
+    },
+    {
+        "title": "Learning to assess terrain from human demonstration using an introspective Gaussian-process classifier",
+        "aff": ""
+    },
+    {
+        "title": "Leg muscle activation evoked by floor stiffness perturbations: A novel approach to robot-assisted gait rehabilitation",
+        "aff": ""
+    },
+    {
+        "title": "Let's talk: Autonomous conflict resolution for robots carrying out individual high-level tasks in a shared workspace",
+        "aff": ""
+    },
+    {
+        "title": "Leveraged non-stationary Gaussian process regression for autonomous robot navigation",
+        "aff": ""
+    },
+    {
+        "title": "Leveraging big data for grasp planning",
+        "aff": ""
+    },
+    {
+        "title": "Leveraging experience for large-scale LIDAR localisation in changing cities",
+        "aff": ""
+    },
+    {
+        "title": "Leveraging image-based prior in cross-season place recognition",
+        "aff": ""
+    },
+    {
+        "title": "LexTOR: Lexicographic teach optimize and repeat based on user preferences",
+        "aff": ""
+    },
+    {
+        "title": "Libra3D: Body weight estimation for emergency patients in clinical environments with a 3D structured light sensor",
+        "aff": ""
+    },
+    {
+        "title": "Lifetime estimation of events from Dynamic Vision Sensors",
+        "aff": ""
+    },
+    {
+        "title": "Lily: A miniature floating robotic platform for programmable stochastic self-assembly",
+        "aff": ""
+    },
+    {
+        "title": "Limbless locomotors that turn in place",
+        "aff": ""
+    },
+    {
+        "title": "Local motion planning for collaborative multi-robot manipulation of deformable objects",
+        "aff": ""
+    },
+    {
+        "title": "Local online planning of coordinated manipulation motion",
+        "aff": ""
+    },
+    {
+        "title": "Local policies for efficiently patrolling a triangulated region by a robot swarm",
+        "aff": ""
+    },
+    {
+        "title": "Localization on OpenStreetMap data using a 3D laser scanner",
+        "aff": ""
+    },
+    {
+        "title": "Localizing the object contact through matching tactile features with visual map",
+        "aff": ""
+    },
+    {
+        "title": "Location graphs for visual place recognition",
+        "aff": ""
+    },
+    {
+        "title": "Location utility-based map reduction",
+        "aff": ""
+    },
+    {
+        "title": "Locomotion and elastodynamics model of an underwater shell-like soft robot",
+        "aff": ""
+    },
+    {
+        "title": "Locomotive reduction for snake robots",
+        "aff": ""
+    },
+    {
+        "title": "Long-term topological place learning",
+        "aff": ""
+    },
+    {
+        "title": "Low-cost backdrivable motor control based on feed-forward/feed-back friction compensation",
+        "aff": ""
+    },
+    {
+        "title": "Low-cost, fast and accurate reconstruction of robotic and human postures via IMU measurements",
+        "aff": ""
+    },
+    {
+        "title": "M3RSM: Many-to-many multi-resolution scan matching",
+        "aff": ""
+    },
+    {
+        "title": "MPDM: Multipolicy decision-making in dynamic, uncertain environments for autonomous driving",
+        "aff": ""
+    },
+    {
+        "title": "MRI compatibility of lower-extremity motion simulator: LoMS",
+        "aff": ""
+    },
+    {
+        "title": "Magnetically actuated and guided milli-gripper for medical applications",
+        "aff": ""
+    },
+    {
+        "title": "Magneto-Rheological actuators for haptic devices: Design, modeling, control, and validation of a prototype clutch",
+        "aff": ""
+    },
+    {
+        "title": "Manipulation planning with contacts for an extensible elastic rod by sampling on the submanifold of static equilibrium configurations",
+        "aff": ""
+    },
+    {
+        "title": "Map API - scalable decentralized map building for robots",
+        "aff": ""
+    },
+    {
+        "title": "Maximal Output Admissible set for limit cycle controller of humanoid robot",
+        "aff": ""
+    },
+    {
+        "title": "Maximizing fisher information using discrete mechanics and projection-based trajectory optimization",
+        "aff": ""
+    },
+    {
+        "title": "Maximum likelihood remission calibration for groups of heterogeneous laser scanners",
+        "aff": ""
+    },
+    {
+        "title": "Measurement of shear and slip with a GelSight tactile sensor",
+        "aff": ""
+    },
+    {
+        "title": "Mechanical design of a gravity-balancing wearable exoskeleton for the motion enhancement of human upper limb",
+        "aff": ""
+    },
+    {
+        "title": "Mechanical design, modelling and control of a novel aerial manipulator",
+        "aff": ""
+    },
+    {
+        "title": "Mechanism and control of robotic arm using rotational counterweights",
+        "aff": ""
+    },
+    {
+        "title": "Meshing hybrid zero dynamics for rough terrain walking",
+        "aff": ""
+    },
+    {
+        "title": "Mimicking human walking with 5-link model using HZD controller",
+        "aff": ""
+    },
+    {
+        "title": "Minimalistic sensor design in visual-inertial structure from motion",
+        "aff": ""
+    },
+    {
+        "title": "Mixed Integer Quadratic Program trajectory generation for a quadrotor with a cable-suspended payload",
+        "aff": ""
+    },
+    {
+        "title": "Mobile manufacturing of large structures",
+        "aff": ""
+    },
+    {
+        "title": "Model predictive control for tilt recovery of an omnidirectional wheeled humanoid robot",
+        "aff": ""
+    },
+    {
+        "title": "Model predictive control of underactuated bipedal robotic walking",
+        "aff": ""
+    },
+    {
+        "title": "Model-based 3D object recognition and fetching by a 7-DoF robot with online obstacle avoidance for factory automation",
+        "aff": ""
+    },
+    {
+        "title": "Model-based dynamic gait generation for a leg-wheel transformable robot",
+        "aff": ""
+    },
+    {
+        "title": "Model-based feed-forward and setpoint generation in a multi-robot sewing cell",
+        "aff": ""
+    },
+    {
+        "title": "Model-based feedforward position control of constant curvature continuum robots using feedback linearization",
+        "aff": ""
+    },
+    {
+        "title": "Modeling and closed-loop control of electromagnetic manipulation of a microparticle",
+        "aff": ""
+    },
+    {
+        "title": "Modeling and steering of a novel actuated-tip needle through a soft-tissue simulant using Fiber Bragg Grating sensors",
+        "aff": ""
+    },
+    {
+        "title": "Modeling compliant grasps exploiting environmental constraints",
+        "aff": ""
+    },
+    {
+        "title": "Modeling of movement control architectures based on motion primitives using domain-specific languages",
+        "aff": ""
+    },
+    {
+        "title": "Modeling robot's world with minimal effort",
+        "aff": ""
+    },
+    {
+        "title": "Modeling rolling gaits of a snake robot",
+        "aff": ""
+    },
+    {
+        "title": "Modeling, control and design optimization for a fully-actuated hexarotor aerial vehicle with tilted propellers",
+        "aff": ""
+    },
+    {
+        "title": "Modelling and control of optical manipulation for cell rotation",
+        "aff": ""
+    },
+    {
+        "title": "Modifying the kinematic structure of an anthropomorphic arm to improve fault tolerance",
+        "aff": ""
+    },
+    {
+        "title": "Modular snake robot velocity for side-winding gaits",
+        "aff": ""
+    },
+    {
+        "title": "Monocular Localization of a moving person onboard a Quadrotor MAV",
+        "aff": ""
+    },
+    {
+        "title": "Monocular image space tracking on a computationally limited MAV",
+        "aff": ""
+    },
+    {
+        "title": "Motion planning and irreducible trajectories",
+        "aff": ""
+    },
+    {
+        "title": "Motion planning of drifting vehicle with friction model considering nonholonomic constraint",
+        "aff": ""
+    },
+    {
+        "title": "Motion-based calibration of multimodal sensor arrays",
+        "aff": ""
+    },
+    {
+        "title": "Movement primitives via optimization",
+        "aff": ""
+    },
+    {
+        "title": "Multi-UAV exploration with limited communication and battery",
+        "aff": ""
+    },
+    {
+        "title": "Multi-band Hough Forests for detecting humans with Reflective Safety Clothing from mobile machinery",
+        "aff": ""
+    },
+    {
+        "title": "Multi-joint soft exosuit for gait assistance",
+        "aff": ""
+    },
+    {
+        "title": "Multi-modal localization algorithm for catheter interventions",
+        "aff": ""
+    },
+    {
+        "title": "Multi-robot grasp planning for sequential assembly operations",
+        "aff": ""
+    },
+    {
+        "title": "Multi-robot long-term persistent coverage with fuel constrained robots",
+        "aff": ""
+    },
+    {
+        "title": "Multi-robot task planning and sequencing using the SAT-TSP language",
+        "aff": ""
+    },
+    {
+        "title": "Multi-scale perception and path planning on probabilistic obstacle maps",
+        "aff": ""
+    },
+    {
+        "title": "Multi-step planning for robotic manipulation",
+        "aff": ""
+    },
+    {
+        "title": "Multimodal noncontact tracking of surgical instruments",
+        "aff": ""
+    },
+    {
+        "title": "Multisensor placement in 3D environments via visibility estimation and derivative-free optimization",
+        "aff": ""
+    },
+    {
+        "title": "Needle shape estimation in soft tissue based on partial ultrasound image observation",
+        "aff": ""
+    },
+    {
+        "title": "Neural-based underwater spherical object localization through electrolocation",
+        "aff": ""
+    },
+    {
+        "title": "New STIFF-FLOP module construction idea for improved actuation and sensing",
+        "aff": ""
+    },
+    {
+        "title": "New brooms sweep clean - an autonomous robotic cleaning assistant for professional office cleaning",
+        "aff": ""
+    },
+    {
+        "title": "New motorized micromanipulator for robot-assisted laser phonomicrosurgery",
+        "aff": ""
+    },
+    {
+        "title": "New reachability trees for unbounded Petri nets",
+        "aff": ""
+    },
+    {
+        "title": "Non-linear robust control for inverted-pendulum 2D walking",
+        "aff": ""
+    },
+    {
+        "title": "Nonlinear observer-based tracking control of link stress and elevation for a tethered aerial robot using inertial-only measurements",
+        "aff": ""
+    },
+    {
+        "title": "Nonprehensile whole arm rearrangement planning on physics manifolds",
+        "aff": ""
+    },
+    {
+        "title": "Novel pairwise coupled kinematic solution for algebraic angular acceleration estimation of serial link manipulators",
+        "aff": ""
+    },
+    {
+        "title": "Now or later? Predicting and maximising success of navigation actions from long-term experience",
+        "aff": ""
+    },
+    {
+        "title": "Object classification using dictionary learning and RGB-D covariance descriptors",
+        "aff": ""
+    },
+    {
+        "title": "Object conveyance control algorithms with spatially changeable end target location using Large-Scale Actuator Networks",
+        "aff": ""
+    },
+    {
+        "title": "Object-level impedance control for dexterous manipulation with contact uncertainties using an LMI-based approach",
+        "aff": ""
+    },
+    {
+        "title": "Observability in topology-constrained multi-robot target tracking",
+        "aff": ""
+    },
+    {
+        "title": "Observability, identifiability and sensitivity of vision-aided inertial navigation",
+        "aff": ""
+    },
+    {
+        "title": "Obstacle crossing of a real, compliant robot based on local evasion movements and averaging of stance heights using singular value decomposition",
+        "aff": ""
+    },
+    {
+        "title": "Omnidirectional-vision-based estimation for containment detection of a robotic mower",
+        "aff": ""
+    },
+    {
+        "title": "On air-to-water radio communication between UAVs and water sensor networks",
+        "aff": ""
+    },
+    {
+        "title": "On autonomous cooperative Underwater Floating Manipulation Systems",
+        "aff": ""
+    },
+    {
+        "title": "On embeddability of modular robot designs",
+        "aff": ""
+    },
+    {
+        "title": "On handing down our tools to robots: Single-phase kinesthetic teaching for dynamic in-contact tasks",
+        "aff": ""
+    },
+    {
+        "title": "On quartically-solvable robots",
+        "aff": ""
+    },
+    {
+        "title": "On some practical reactionless motion tasks with a free-floating space robot",
+        "aff": ""
+    },
+    {
+        "title": "On the feasibility of heart motion compensation on the daVinci\u00ae surgical robot for coronary artery bypass surgery: Implementation and user studies",
+        "aff": ""
+    },
+    {
+        "title": "On the monotonicity of optimality criteria during exploration in active SLAM",
+        "aff": ""
+    },
+    {
+        "title": "On the role duality and switching in human-robot cooperation: An adaptive approach",
+        "aff": ""
+    },
+    {
+        "title": "On the role of robot configuration in Cartesian stiffness control",
+        "aff": ""
+    },
+    {
+        "title": "On the value of information in a differential pursuit-evasion game",
+        "aff": ""
+    },
+    {
+        "title": "On-chip measurement of cellular mechanical properties using moir\u00e9 fringe",
+        "aff": ""
+    },
+    {
+        "title": "On-line reconstruction based predictive display in unknown environment",
+        "aff": ""
+    },
+    {
+        "title": "On-the-spot calibration of microphone array Transfer Functions for robot audition",
+        "aff": ""
+    },
+    {
+        "title": "Online Bayesian changepoint detection for articulated motion models",
+        "aff": ""
+    },
+    {
+        "title": "Online SLAM with any-time self-calibration and automatic change detection",
+        "aff": ""
+    },
+    {
+        "title": "Online deformation of optimal trajectories for constrained nonprehensile manipulation",
+        "aff": ""
+    },
+    {
+        "title": "Online iterative learning control of zero-moment point for biped walking stabilization",
+        "aff": ""
+    },
+    {
+        "title": "Online motion planning for failure recovery of modular robotic systems",
+        "aff": ""
+    },
+    {
+        "title": "Online novelty-based visual obstacle detection for field robotics",
+        "aff": ""
+    },
+    {
+        "title": "Online path planning for autonomous underwater vehicles in unknown environments",
+        "aff": ""
+    },
+    {
+        "title": "Online self-supervised monocular visual odometry for ground vehicles",
+        "aff": ""
+    },
+    {
+        "title": "Online unsupervised terrain classification for a compliant tensegrity robot using a mixture of echo state networks",
+        "aff": ""
+    },
+    {
+        "title": "Open-EASE",
+        "aff": ""
+    },
+    {
+        "title": "OpenSoT: A whole-body control library for the compliant humanoid robot COMAN",
+        "aff": ""
+    },
+    {
+        "title": "Operating an unknown drawer using an aerial manipulator",
+        "aff": ""
+    },
+    {
+        "title": "Operation of the ballbot on slopes and with center-of-mass offsets",
+        "aff": ""
+    },
+    {
+        "title": "Optical micromanipulation of multiple groups of cells",
+        "aff": ""
+    },
+    {
+        "title": "Optically addressing microscopic bioactuators for real-time control",
+        "aff": ""
+    },
+    {
+        "title": "Optimal contact force distribution for compliant humanoid robots in whole-body loco-manipulation tasks",
+        "aff": ""
+    },
+    {
+        "title": "Optimal control of stochastic coverage strategies for robotic swarms",
+        "aff": ""
+    },
+    {
+        "title": "Optimal control-on-request: An application in real-time assistive balance control",
+        "aff": ""
+    },
+    {
+        "title": "Optimal design of a physical assistive device to support sit-to-stand motions",
+        "aff": ""
+    },
+    {
+        "title": "Optimal excitation and identification of the dynamic model of robotic systems with compliant actuators",
+        "aff": ""
+    },
+    {
+        "title": "Optimal gain schedules for visuomotor skill training using error-augmented feedback",
+        "aff": ""
+    },
+    {
+        "title": "Optimal motion planning for a tethered robot: Efficient preprocessing for fast shortest paths queries",
+        "aff": ""
+    },
+    {
+        "title": "Optimal needle grasp selection for automatic execution of suturing tasks in robotic minimally invasive surgery",
+        "aff": ""
+    },
+    {
+        "title": "Optimal sampling-based Feedback Motion Trees among obstacles for controllable linear systems with linear constraints",
+        "aff": ""
+    },
+    {
+        "title": "Optimal sampling-based motion planning under differential constraints: The driftless case",
+        "aff": ""
+    },
+    {
+        "title": "Optimal sensing via multi-armed bandit relaxations in mixed observability domains",
+        "aff": ""
+    },
+    {
+        "title": "Optimal use of arm-swing for bipedal walking control",
+        "aff": ""
+    },
+    {
+        "title": "Optimally observable and minimal cardinality monocular SLAM",
+        "aff": ""
+    },
+    {
+        "title": "Optimism-driven exploration for nonlinear systems",
+        "aff": ""
+    },
+    {
+        "title": "Optimization of ultrasound image quality via visual servoing",
+        "aff": ""
+    },
+    {
+        "title": "Origami-inspired printable tele-micromanipulation system",
+        "aff": ""
+    },
+    {
+        "title": "Ouroboros: Using potential field in unexplored regions to close loops",
+        "aff": ""
+    },
+    {
+        "title": "PASP: Policy based approach for sensor planning",
+        "aff": ""
+    },
+    {
+        "title": "PX4: A node-based multithreaded open source robotics framework for deeply embedded platforms",
+        "aff": ""
+    },
+    {
+        "title": "Parallel composition of templates for tail-energized planar hopping",
+        "aff": ""
+    },
+    {
+        "title": "Parallel elastic actuation for efficient large payload locomotion",
+        "aff": ""
+    },
+    {
+        "title": "Paramagnetic microparticles sliding on a surface: Characterization and closed-loop motion control",
+        "aff": ""
+    },
+    {
+        "title": "Pareto efficiency in synthesizing shared autonomy policies with temporal logic constraints",
+        "aff": ""
+    },
+    {
+        "title": "Particle computation: Device fan-out and binary memory",
+        "aff": ""
+    },
+    {
+        "title": "Passive stability of vehicles without angular momentum including quadrotors and ornithopters",
+        "aff": ""
+    },
+    {
+        "title": "Passive-dynamic leg design for agile robots",
+        "aff": ""
+    },
+    {
+        "title": "Passively adjustable gear based on twisted string actuator: Concept, model and evaluation",
+        "aff": ""
+    },
+    {
+        "title": "Passivity of virtual free-floating dynamics rendered on robotic facilities",
+        "aff": ""
+    },
+    {
+        "title": "Path-guided artificial potential fields with stochastic reachable sets for motion planning in highly dynamic environments",
+        "aff": ""
+    },
+    {
+        "title": "Patterned compliance in robotic finger pads for versatile surface usage in dexterous manipulation",
+        "aff": ""
+    },
+    {
+        "title": "Pedaling assistive control method of cycling wheelchair for hemiplegia patients",
+        "aff": ""
+    },
+    {
+        "title": "Pedestrian detection with a Large-Field-Of-View deep network",
+        "aff": ""
+    },
+    {
+        "title": "Person tracking and following with 2D laser scanners",
+        "aff": ""
+    },
+    {
+        "title": "Phase space planning and optimization of foot placements in rough planar terrains",
+        "aff": ""
+    },
+    {
+        "title": "PhongPD: Gradient-continuous penetration metric for polygonal models using Phong projection",
+        "aff": ""
+    },
+    {
+        "title": "Photoacoustic image guidance for robot-assisted skull base surgery",
+        "aff": ""
+    },
+    {
+        "title": "Physics-based hand interaction with virtual objects",
+        "aff": ""
+    },
+    {
+        "title": "Physics-based trajectory optimization for grasping in cluttered environments",
+        "aff": ""
+    },
+    {
+        "title": "Plan execution monitoring through detection of unmet expectations about action outcomes",
+        "aff": ""
+    },
+    {
+        "title": "Plan folding motion for rigid self-folding machine via discrete domain sampling",
+        "aff": ""
+    },
+    {
+        "title": "PlanIt: A crowdsourcing approach for learning to plan paths from large scale preference feedback",
+        "aff": ""
+    },
+    {
+        "title": "Plane estimation by active vision from point features and image moments",
+        "aff": ""
+    },
+    {
+        "title": "Planning COM trajectory with variable height and foot position with reactive stepping for humanoid robots",
+        "aff": ""
+    },
+    {
+        "title": "Planning and execution of dynamic whole-body locomotion for a hydraulic quadruped on challenging terrain",
+        "aff": ""
+    },
+    {
+        "title": "Planning finger movements to lift up deformable 2D objects",
+        "aff": ""
+    },
+    {
+        "title": "Planning for decentralized control of multiple robots under uncertainty",
+        "aff": ""
+    },
+    {
+        "title": "Planning for multi-agent teams with leader switching",
+        "aff": ""
+    },
+    {
+        "title": "Planning grasp strategies That Exploit Environmental Constraints",
+        "aff": ""
+    },
+    {
+        "title": "Planning on searching occluded target object with a mobile robot manipulator",
+        "aff": ""
+    },
+    {
+        "title": "Planning routes of continuous illumination and traversable slope using connected component analysis",
+        "aff": ""
+    },
+    {
+        "title": "Planning the motion of a sliding and rolling sphere",
+        "aff": ""
+    },
+    {
+        "title": "Platform design and tethered flight of a motor-driven flapping-wing system",
+        "aff": ""
+    },
+    {
+        "title": "Pneumatically driven handheld forceps with force display operated by motion sensor",
+        "aff": ""
+    },
+    {
+        "title": "Point-to-point motion control of a unicycle robot: Design, implementation, and validation",
+        "aff": ""
+    },
+    {
+        "title": "Pole-like object detection and classification from urban point clouds",
+        "aff": ""
+    },
+    {
+        "title": "Power analysis of a series elastic actuator for ankle joint gait rehabilitation",
+        "aff": ""
+    },
+    {
+        "title": "Practical, stretchable smart skin sensors for contact-aware robots in safe and collaborative interactions",
+        "aff": ""
+    },
+    {
+        "title": "Precise quadrotor autonomous landing with SRUKF vision perception",
+        "aff": ""
+    },
+    {
+        "title": "Predicting human reaching motion in collaborative tasks using Inverse Optimal Control and iterative re-planning",
+        "aff": ""
+    },
+    {
+        "title": "Predictive exploration considering previously mapped environments",
+        "aff": ""
+    },
+    {
+        "title": "Predictive motion planning for AUVs subject to strong time-varying currents and forecasting uncertainties",
+        "aff": ""
+    },
+    {
+        "title": "Preference-balancing motion planning under stochastic disturbances",
+        "aff": ""
+    },
+    {
+        "title": "Printable monolithic hexapod robot driven by soft actuator",
+        "aff": ""
+    },
+    {
+        "title": "Prioritized Inverse Kinematics with Multiple Task Definitions",
+        "aff": ""
+    },
+    {
+        "title": "Prioritized group navigation with Formation Velocity Obstacles",
+        "aff": ""
+    },
+    {
+        "title": "Prioritized optimal control: A hierarchical differential dynamic programming approach",
+        "aff": ""
+    },
+    {
+        "title": "Probabilistic road context inference for autonomous vehicles",
+        "aff": ""
+    },
+    {
+        "title": "Propositional Temporal Logic for planning in an embedded Concurrent Autonomous Agent",
+        "aff": ""
+    },
+    {
+        "title": "Propulsive force of a magnetic, MRI - based swimmer",
+        "aff": ""
+    },
+    {
+        "title": "Protection of wide-range QCR load sensor using robust outer case for stable detection of biosignals",
+        "aff": ""
+    },
+    {
+        "title": "Prototype design of medical round supporting robot \u201cTerapio\u201d",
+        "aff": ""
+    },
+    {
+        "title": "Pseudo-rigid-body model and kinematic analysis of MRI-actuated catheters",
+        "aff": ""
+    },
+    {
+        "title": "Pulley friction compensation for winch-integrated cable force measurement and verification on a cable-driven parallel robot",
+        "aff": ""
+    },
+    {
+        "title": "Pushbroom stereo for high-speed navigation in cluttered environments",
+        "aff": ""
+    },
+    {
+        "title": "Quadrotor landing on an inclined platform of a moving ground vehicle",
+        "aff": ""
+    },
+    {
+        "title": "Qualitative analysis of POMDPs with temporal logic specifications for robotics applications",
+        "aff": ""
+    },
+    {
+        "title": "Quasi-direct nonprehensile catching with uncertain object states",
+        "aff": ""
+    },
+    {
+        "title": "Quiet (nearly collisionless) robotic walking",
+        "aff": ""
+    },
+    {
+        "title": "REACH - Realtime crowd tracking using a hybrid motion model",
+        "aff": ""
+    },
+    {
+        "title": "RGB-D object recognition and pose estimation based on pre-trained convolutional neural network features",
+        "aff": ""
+    },
+    {
+        "title": "RGBD relocalisation using pairwise geometry and concise key point sets",
+        "aff": ""
+    },
+    {
+        "title": "ROS-based online robot programming for remote education and training",
+        "aff": ""
+    },
+    {
+        "title": "Radar and vision sensors calibration for outdoor 3D reconstruction",
+        "aff": ""
+    },
+    {
+        "title": "Range sensor and silhouette fusion for high-quality 3D Scanning",
+        "aff": ""
+    },
+    {
+        "title": "Reachable volume RRT",
+        "aff": ""
+    },
+    {
+        "title": "Reactive avoidance using embedded stereo vision for MAV flight",
+        "aff": ""
+    },
+    {
+        "title": "Reactive motion planning and control for compliant and constraint-based task execution",
+        "aff": ""
+    },
+    {
+        "title": "Real-time control of soft-robots using asynchronous finite element modeling",
+        "aff": ""
+    },
+    {
+        "title": "Real-time distributed configuration discovery of modular self-reconfigurable robots",
+        "aff": ""
+    },
+    {
+        "title": "Real-time full-body human gender recognition in (RGB)-D data",
+        "aff": ""
+    },
+    {
+        "title": "Real-time grasp detection using convolutional neural networks",
+        "aff": ""
+    },
+    {
+        "title": "Real-time image de-blurring and image processing for a robotic vision system",
+        "aff": ""
+    },
+    {
+        "title": "Real-time onboard 6DoF localization of an indoor MAV in degraded visual environments using a RGB-D camera",
+        "aff": ""
+    },
+    {
+        "title": "Real-time tracking of deformable target in 3D ultrasound images",
+        "aff": ""
+    },
+    {
+        "title": "Realizing underactuated bipedal walking with torque controllers via the ideal model resolved motion method",
+        "aff": ""
+    },
+    {
+        "title": "Reconfiguration planning for pivoting cube modular robots",
+        "aff": ""
+    },
+    {
+        "title": "Reducing FPGA algorithm area by avoiding redundant computation",
+        "aff": ""
+    },
+    {
+        "title": "Reducing hardware experiments for model learning and policy optimization",
+        "aff": ""
+    },
+    {
+        "title": "Reduction of off-tracking effects in an n-trailer emulated through a multi-agent robot mobile system",
+        "aff": ""
+    },
+    {
+        "title": "Redundancy resolution for dual-arm robots inspired by human asymmetric bimanual action: Formulation and experiments",
+        "aff": ""
+    },
+    {
+        "title": "Registration of planar virtual fixtures by using augmented reality with dynamic textures",
+        "aff": ""
+    },
+    {
+        "title": "Regrasping and unfolding of garments using predictive thin shell modeling",
+        "aff": ""
+    },
+    {
+        "title": "Reliable and lightweight primary flight control actuation using magneto-rheological clutches in slippage",
+        "aff": ""
+    },
+    {
+        "title": "Reliable kinect-based navigation in large indoor environments",
+        "aff": ""
+    },
+    {
+        "title": "Remote electromagnetic vibration of steerable needles for imaging in power Doppler ultrasound",
+        "aff": ""
+    },
+    {
+        "title": "Rendezvous with bearing-only information and limited sensing range",
+        "aff": ""
+    },
+    {
+        "title": "Retrieving experience: Interactive instance-based learning methods for building robot companions",
+        "aff": ""
+    },
+    {
+        "title": "RoboFlow: A flow-based visual programming language for mobile manipulation tasks",
+        "aff": ""
+    },
+    {
+        "title": "RoboSherlock: Unstructured information processing for robot perception",
+        "aff": ""
+    },
+    {
+        "title": "Robot Programming by Demonstration with situated spatial language understanding",
+        "aff": ""
+    },
+    {
+        "title": "Robot navigation using human cues: A robot navigation system for symbolic goal-directed exploration",
+        "aff": ""
+    },
+    {
+        "title": "Robot, organize my shelves! Tidying up objects by predicting user preferences",
+        "aff": ""
+    },
+    {
+        "title": "Robot-inspired biology: The compound-wave control template",
+        "aff": ""
+    },
+    {
+        "title": "Robotic agent programming in TeleoR",
+        "aff": ""
+    },
+    {
+        "title": "Robotic cognitive behavior control based on biology-inspired Episodic memory",
+        "aff": ""
+    },
+    {
+        "title": "Robotic force estimation using dithering to decrease the low velocity friction uncertainties",
+        "aff": ""
+    },
+    {
+        "title": "Robotic manipulation of a biological cell using multiple optical traps",
+        "aff": ""
+    },
+    {
+        "title": "Robotic manipulation of micro/nanoparticles using optical tweezers with velocity constraints and stochastic perturbations",
+        "aff": ""
+    },
+    {
+        "title": "Robotic simulation of dynamic plume tracking by Unmanned Surface Vessels",
+        "aff": ""
+    },
+    {
+        "title": "Robotic wheelchair using a high accuracy visual marker LentiBar and its application to door crossing navigation",
+        "aff": ""
+    },
+    {
+        "title": "Robust 3D tracking of unknown objects",
+        "aff": ""
+    },
+    {
+        "title": "Robust adaptive control of quadrotor unmanned aerial vehicle with uncertainty",
+        "aff": ""
+    },
+    {
+        "title": "Robust aerial object tracking in images with lens flare",
+        "aff": ""
+    },
+    {
+        "title": "Robust ground plane tracking in cluttered environments from egocentric stereo vision",
+        "aff": ""
+    },
+    {
+        "title": "Robust inference for visual-inertial sensor fusion",
+        "aff": ""
+    },
+    {
+        "title": "Robust model-free formation control with prescribed performance for nonlinear multi-agent systems",
+        "aff": ""
+    },
+    {
+        "title": "Robust spring mass model running for a physical bipedal robot",
+        "aff": ""
+    },
+    {
+        "title": "Robust stabilization of rigid body attitude motion in the presence of a stochastic input torque",
+        "aff": ""
+    },
+    {
+        "title": "Robust state estimation for Micro Aerial Vehicles based on system dynamics",
+        "aff": ""
+    },
+    {
+        "title": "Robust three-finger three-parameter caging of convex polygons",
+        "aff": ""
+    },
+    {
+        "title": "Robust trajectory design for object throwing based on sensitivity for model uncertainties",
+        "aff": ""
+    },
+    {
+        "title": "RodBot: A rolling microrobot for micromanipulation",
+        "aff": ""
+    },
+    {
+        "title": "Role adaptation of human and robot in collaborative tasks",
+        "aff": ""
+    },
+    {
+        "title": "Running beyond the bio-inspired regime",
+        "aff": ""
+    },
+    {
+        "title": "SEA force/torque servo control with model-based robust motion control and link-side motion feedback",
+        "aff": ""
+    },
+    {
+        "title": "SELECTSCRIPT: A query language for robotic world models and simulations",
+        "aff": ""
+    },
+    {
+        "title": "SMARTPIG: Simultaneous mosaicking and resectioning through planar image graphs",
+        "aff": ""
+    },
+    {
+        "title": "SNAPCAT-3D: Calibrating networks of 3D range sensors for pedestrian tracking",
+        "aff": ""
+    },
+    {
+        "title": "Safe motion using viability kernels",
+        "aff": ""
+    },
+    {
+        "title": "Safe trajectory planning for multiple aerial vehicles with Segmentation-adaptive Pseudospectral collocation",
+        "aff": ""
+    },
+    {
+        "title": "Safety control of robots under Computed Torque control using reachable sets",
+        "aff": ""
+    },
+    {
+        "title": "Saliency-based object discovery on RGB-D data with a late-fusion approach",
+        "aff": ""
+    },
+    {
+        "title": "Salient regions detection for indoor robots using RGB-D data",
+        "aff": ""
+    },
+    {
+        "title": "Sample-based motion planning for robot manipulators with closed kinematic chains",
+        "aff": ""
+    },
+    {
+        "title": "Scale-reconstructable Structure from Motion using refraction with a single camera",
+        "aff": ""
+    },
+    {
+        "title": "Scaling controllable adhesives to grapple floating objects in space",
+        "aff": ""
+    },
+    {
+        "title": "Scheduled perception for energy-efficient path following",
+        "aff": ""
+    },
+    {
+        "title": "Scheduling and motion planning for autonomous grain carts",
+        "aff": ""
+    },
+    {
+        "title": "Segmentation and classification using active contours based superellipse fitting on side scan sonar images for marine demining",
+        "aff": ""
+    },
+    {
+        "title": "Segmentation performance in tracking deformable objects via WNNs",
+        "aff": ""
+    },
+    {
+        "title": "Selective stiffening of soft actuators based on jamming",
+        "aff": ""
+    },
+    {
+        "title": "Self-folding and self-actuating robots: A pneumatic approach",
+        "aff": ""
+    },
+    {
+        "title": "Self-stabilization of 3D walking via vertical oscillations of the hip",
+        "aff": ""
+    },
+    {
+        "title": "Self-supervised learning of grasp dependent tool affordances on the iCub Humanoid robot",
+        "aff": ""
+    },
+    {
+        "title": "Self-triggered collision avoidance control for multi-vehicle systems",
+        "aff": ""
+    },
+    {
+        "title": "Self-tuning M-estimators",
+        "aff": ""
+    },
+    {
+        "title": "Semantic octree: Unifying recognition, reconstruction and representation via an octree constrained higher order MRF",
+        "aff": ""
+    },
+    {
+        "title": "Semantic representation for navigation in large-scale environments",
+        "aff": ""
+    },
+    {
+        "title": "Semantically guided location recognition for outdoors scenes",
+        "aff": ""
+    },
+    {
+        "title": "Semi-autonomous simulated brain tumor ablation with RAVENII Surgical Robot using behavior tree",
+        "aff": ""
+    },
+    {
+        "title": "Sense and avoid for Unmanned Aerial Vehicles using ADS-B",
+        "aff": ""
+    },
+    {
+        "title": "Sensitivity study for object reconstruction using a network of time-of-flight depth sensors",
+        "aff": ""
+    },
+    {
+        "title": "Sensor coverage robot swarms using local sensing without metric information",
+        "aff": ""
+    },
+    {
+        "title": "Sensor fusion for semantic segmentation of urban scenes",
+        "aff": ""
+    },
+    {
+        "title": "Sensor-aided teleoperated grasping of transparent objects",
+        "aff": ""
+    },
+    {
+        "title": "Sensory substitution of force and torque using 6-DoF tangential and normal skin deformation feedback",
+        "aff": ""
+    },
+    {
+        "title": "Sequence-level object candidates based on saliency for generic object recognition on mobile systems",
+        "aff": ""
+    },
+    {
+        "title": "Servoing across object instances: Visual servoing for object category",
+        "aff": ""
+    },
+    {
+        "title": "Shadow compensation for outdoor perception",
+        "aff": ""
+    },
+    {
+        "title": "Shortest path for aerial vehicles in heterogeneous environment using RRT*",
+        "aff": ""
+    },
+    {
+        "title": "Simplified adaptive path planning for percutaneous needle insertions",
+        "aff": ""
+    },
+    {
+        "title": "Simulation tools for model-based robotics: Comparison of Bullet, Havok, MuJoCo, ODE and PhysX",
+        "aff": ""
+    },
+    {
+        "title": "Simultaneous estimation of aerodynamic and contact forces in flying robots: Applications to metric wind estimation and collision detection",
+        "aff": ""
+    },
+    {
+        "title": "Simultaneous estimation of shape and motion of an asteroid for automatic navigation",
+        "aff": ""
+    },
+    {
+        "title": "Simultaneous localization and mapping with infinite planes",
+        "aff": ""
+    },
+    {
+        "title": "Simultaneous localization, mapping, and manipulation for unsupervised object discovery",
+        "aff": ""
+    },
+    {
+        "title": "Simultaneous myoelectric control of a robot arm using muscle synergy-inspired inputs from high-density electrode grids",
+        "aff": ""
+    },
+    {
+        "title": "Sit-to-stand assistance with a balancing mobile robot",
+        "aff": ""
+    },
+    {
+        "title": "Six-stator spherical induction motor for balancing mobile robots",
+        "aff": ""
+    },
+    {
+        "title": "Smooth stabilisation of nonholonomic robots subject to disturbances",
+        "aff": ""
+    },
+    {
+        "title": "Smooth transition-based control of encounter-type haptic devices",
+        "aff": ""
+    },
+    {
+        "title": "Snakeboard motion planning with viscous friction and skidding",
+        "aff": ""
+    },
+    {
+        "title": "Soft oral interventional rehabilitation robot based on low-profile soft pneumatic actuator",
+        "aff": ""
+    },
+    {
+        "title": "Soft robotic glove for hand rehabilitation and task specific training",
+        "aff": ""
+    },
+    {
+        "title": "Sparse Depth Odometry: 3D keypoint based pose estimation from dense depth data",
+        "aff": ""
+    },
+    {
+        "title": "Sparse Gaussian process regression for compliant, real-time robot control",
+        "aff": ""
+    },
+    {
+        "title": "Spatial kinematic modeling of a long and thin continuum robotic cable",
+        "aff": ""
+    },
+    {
+        "title": "Speeding up heuristic computation in planning with Experience Graphs",
+        "aff": ""
+    },
+    {
+        "title": "Spike time based unsupervised learning of receptive fields for event-driven vision",
+        "aff": ""
+    },
+    {
+        "title": "Stability of surface contacts for humanoid robots: Closed-form formulae of the Contact Wrench Cone for rectangular support areas",
+        "aff": ""
+    },
+    {
+        "title": "Stabilizing task-based omnidirectional quadruped locomotion with Virtual Model Control",
+        "aff": ""
+    },
+    {
+        "title": "Stance selection for humanoid grasping tasks by inverse reachability maps",
+        "aff": ""
+    },
+    {
+        "title": "State estimation for dynamic systems with intermittent contact",
+        "aff": ""
+    },
+    {
+        "title": "Stigmergy at work: Planning and navigation for a service robot on an RFID floor",
+        "aff": ""
+    },
+    {
+        "title": "Stochastic Tree Search with Useful Cycles for patrolling problems",
+        "aff": ""
+    },
+    {
+        "title": "Structural inspection path planning via iterative viewpoint resampling with application to aerial robotics",
+        "aff": ""
+    },
+    {
+        "title": "Structured low-rank matrix approximation in Gaussian process regression for autonomous robot navigation",
+        "aff": ""
+    },
+    {
+        "title": "Supervised Remote Robot with Guided Autonomy and Teleoperation (SURROGATE): A framework for whole-body manipulation",
+        "aff": ""
+    },
+    {
+        "title": "Supervisor design and simplification for Automated Manufacturing Systems using colored Petri nets",
+        "aff": ""
+    },
+    {
+        "title": "Supervisors and their simplification in automated manufacturing systems via Petri nets",
+        "aff": ""
+    },
+    {
+        "title": "Surface classification for sensor deployment from UAV landings",
+        "aff": ""
+    },
+    {
+        "title": "Surgical tool pose estimation from monocular endoscopic videos",
+        "aff": ""
+    },
+    {
+        "title": "Swarm-inspired transportation of biological cells using saturation-controlled optical tweezers",
+        "aff": ""
+    },
+    {
+        "title": "Switched fuzzy-PD control of contact forces in robotic micromanipulation of Drosophila larvae",
+        "aff": ""
+    },
+    {
+        "title": "Symmetries and reduction for multi-agent control",
+        "aff": ""
+    },
+    {
+        "title": "System design and locomotion of SUPERball, an untethered tensegrity robot",
+        "aff": ""
+    },
+    {
+        "title": "Tackling friction - an analytical modeling approach to understanding friction in single tendon driven continuum manipulators",
+        "aff": ""
+    },
+    {
+        "title": "Tact: Design and performance of an open-source, affordable, myoelectric prosthetic hand",
+        "aff": ""
+    },
+    {
+        "title": "Tactile proprioceptive input in robotic rehabilitation after stroke",
+        "aff": ""
+    },
+    {
+        "title": "Tandem stance avoidance using adaptive and asymmetric admittance control for fall prevention",
+        "aff": ""
+    },
+    {
+        "title": "Task scheduling for mobile robots using interval algebra",
+        "aff": ""
+    },
+    {
+        "title": "Task specific cooperative grasp planning for decentralized multi-robot systems",
+        "aff": ""
+    },
+    {
+        "title": "Task-constrained motion planning for underactuated robots",
+        "aff": ""
+    },
+    {
+        "title": "Task-dependent distribution and constrained optimization of via-points for smooth robot motions",
+        "aff": ""
+    },
+    {
+        "title": "Task-oriented planning for manipulating articulated mechanisms under model uncertainty",
+        "aff": ""
+    },
+    {
+        "title": "Teleoperated versus open needle driving: Kinematic analysis of experienced surgeons and novice users",
+        "aff": ""
+    },
+    {
+        "title": "Temporal integration of feature correspondences for enhanced recognition in cluttered and dynamic environments",
+        "aff": ""
+    },
+    {
+        "title": "Temporal smearing compensation in reverberant environment for speech-based human-robot interaction",
+        "aff": ""
+    },
+    {
+        "title": "Tendon and pressure actuation for a bio-inspired manipulator based on an antagonistic principle",
+        "aff": ""
+    },
+    {
+        "title": "Tendons, concentric tubes, and a bevel tip: Three steerable robots in one transoral lung access system",
+        "aff": ""
+    },
+    {
+        "title": "Terrain traversability prediction by imaging thermal transients",
+        "aff": ""
+    },
+    {
+        "title": "The Affordance Template ROS package for robot task programming",
+        "aff": ""
+    },
+    {
+        "title": "The Arched Flexure VSA: A compact variable stiffness actuator with large stiffness range",
+        "aff": ""
+    },
+    {
+        "title": "The Coordinate Particle Filter - a novel Particle Filter for high dimensional systems",
+        "aff": ""
+    },
+    {
+        "title": "The Dynamics Projection Filter (DPF) - real-time nonlinear trajectory optimization using projection operators",
+        "aff": ""
+    },
+    {
+        "title": "The Extended Velocity Obstacle and applying ORCA in the real world",
+        "aff": ""
+    },
+    {
+        "title": "The GRITSBot in its natural habitat - A multi-robot testbed",
+        "aff": ""
+    },
+    {
+        "title": "The OOS-SIM: An on-ground simulation facility for on-orbit servicing robotic operations",
+        "aff": ""
+    },
+    {
+        "title": "The Reaction Mass Biped: Equations of motion, hybrid model for walking and trajectory tracking control",
+        "aff": ""
+    },
+    {
+        "title": "The design and evaluation of a cooperative handheld robot",
+        "aff": ""
+    },
+    {
+        "title": "The exponential map for the group of similarity transformations and applications to motion interpolation",
+        "aff": ""
+    },
+    {
+        "title": "The free configuration space of a Kirchhoff elastic rod is path-connected",
+        "aff": ""
+    },
+    {
+        "title": "The gist of maps - summarizing experience for lifelong localization",
+        "aff": ""
+    },
+    {
+        "title": "The kinematics of cable-driven parallel robots with sagging cables: preliminary results",
+        "aff": ""
+    },
+    {
+        "title": "The planner ensemble: Motion planning by executing diverse algorithms",
+        "aff": ""
+    },
+    {
+        "title": "The synchronization problem for information exchange between aerial robots under communication constraints",
+        "aff": ""
+    },
+    {
+        "title": "Therapist-in-the-Loop robotics-assisted mirror rehabilitation therapy: An Assist-as-Needed framework",
+        "aff": ""
+    },
+    {
+        "title": "Thin and active fixture to hold finger for easy attachment and comfort of grasping support exoskeleton",
+        "aff": ""
+    },
+    {
+        "title": "Three-dimensional magnetic assembly of alginate microfibers using microfluidic \u201cprinting\u201d method",
+        "aff": ""
+    },
+    {
+        "title": "Tightly-coupled monocular visual-inertial fusion for autonomous flight of rotorcraft MAVs",
+        "aff": ""
+    },
+    {
+        "title": "Time-varying automated manufacturing systems and their event-based control: A Petri net approach",
+        "aff": ""
+    },
+    {
+        "title": "Tip-over prevention: Adaptive control development and experimentation",
+        "aff": ""
+    },
+    {
+        "title": "Tire longitudinal grip estimation for improved safety of vehicles in off-road conditions",
+        "aff": ""
+    },
+    {
+        "title": "Tissue compliance determination using a da Vinci instrument",
+        "aff": ""
+    },
+    {
+        "title": "Tissue discrimination based on vibratory sense in robot-assisted spine surgery",
+        "aff": ""
+    },
+    {
+        "title": "Too much TV is bad: Dense reconstruction from sparse laser with non-convex regularisation",
+        "aff": ""
+    },
+    {
+        "title": "Torsion MACCEPA: A novel compact compliant actuator designed around the drive axis",
+        "aff": ""
+    },
+    {
+        "title": "Touch-down angle control for spring-mass walking",
+        "aff": ""
+    },
+    {
+        "title": "Toward a real-time framework for solving the kinodynamic motion planning problem",
+        "aff": ""
+    },
+    {
+        "title": "Toward asymptotically optimal motion planning for kinodynamic systems using a two-point boundary value problem solver",
+        "aff": ""
+    },
+    {
+        "title": "Toward ice-relative navigation of underwater robotic vehicles under moving sea ice: Experimental evaluation in the Arctic sea",
+        "aff": ""
+    },
+    {
+        "title": "Toward image-based visual servoing for cooperative aerial manipulation",
+        "aff": ""
+    },
+    {
+        "title": "Toward rapid prototyping of miniature Capsule Robots",
+        "aff": ""
+    },
+    {
+        "title": "Toward step-by-step synthesis of stable gaits for underactuated compliant legged robots",
+        "aff": ""
+    },
+    {
+        "title": "Toward tissue penetration by MRI-powered millirobots using a self-assembled Gauss gun",
+        "aff": ""
+    },
+    {
+        "title": "Towards a data-driven approach to human preferences in motion planning",
+        "aff": ""
+    },
+    {
+        "title": "Towards a robotic-assisted cartography of the colon: A proof of concept",
+        "aff": ""
+    },
+    {
+        "title": "Towards automated surgical skill evaluation of endovascular catheterization tasks based on force and motion signatures",
+        "aff": ""
+    },
+    {
+        "title": "Towards balance recovery control for lower body exoskeleton robots with Variable Stiffness Actuators: Spring-loaded flywheel model",
+        "aff": ""
+    },
+    {
+        "title": "Towards high frequency actuation of SMA spring for the neurosurgical robot - MINIR-II",
+        "aff": ""
+    },
+    {
+        "title": "Towards learning hierarchical skills for multi-phase manipulation tasks",
+        "aff": ""
+    },
+    {
+        "title": "Towards life-long visual localization using an efficient matching of binary sequences from images",
+        "aff": ""
+    },
+    {
+        "title": "Towards manipulation planning with temporal logic specifications",
+        "aff": ""
+    },
+    {
+        "title": "Towards model-predictive control for aerial pick-and-place",
+        "aff": ""
+    },
+    {
+        "title": "Towards orbital based global rover localization",
+        "aff": ""
+    },
+    {
+        "title": "Towards real-time under-ice acoustic navigation at mesoscale ranges",
+        "aff": ""
+    },
+    {
+        "title": "Towards self-assembled structures with mobile climbing robots",
+        "aff": ""
+    },
+    {
+        "title": "Tracking a magnetically guided catheter with a single rotating C-Arm",
+        "aff": ""
+    },
+    {
+        "title": "Tracking benchmark and evaluation for manipulation tasks",
+        "aff": ""
+    },
+    {
+        "title": "Tracking handheld object using three layer RGB-D image space",
+        "aff": ""
+    },
+    {
+        "title": "Trajectory generation for immediate path-accurate jerk-limited stopping of industrial robots",
+        "aff": ""
+    },
+    {
+        "title": "Traversability analysis for mobile robots in outdoor environments: A semi-supervised learning approach based on 3D-lidar data",
+        "aff": ""
+    },
+    {
+        "title": "Traversable region detection with a learning framework",
+        "aff": ""
+    },
+    {
+        "title": "TriggerSync: A time synchronisation tool",
+        "aff": ""
+    },
+    {
+        "title": "Two steps is enough: No need to plan far ahead for walking balance",
+        "aff": ""
+    },
+    {
+        "title": "UAV fall detection from a dynamic perch using Instantaneous Centers of Rotation and inertial sensing",
+        "aff": ""
+    },
+    {
+        "title": "Understanding the geometry of workspace obstacles in Motion Optimization",
+        "aff": ""
+    },
+    {
+        "title": "Underwater electric current communication of robotic fish: Design and experimental results",
+        "aff": ""
+    },
+    {
+        "title": "Underwater robot-object contact perception using machine learning on force/torque sensor feedback",
+        "aff": ""
+    },
+    {
+        "title": "Unified motion control for dynamic quadrotor maneuvers demonstrated on slung load and rotor failure tasks",
+        "aff": ""
+    },
+    {
+        "title": "Unified passivity-based Cartesian force/impedance control for rigid and flexible joint robots via task-energy tanks",
+        "aff": ""
+    },
+    {
+        "title": "Unsupervised learning of multi-hypothesized pick-and-place task templates via crowdsourcing",
+        "aff": ""
+    },
+    {
+        "title": "Unsupervised part-based scene modeling for visual robot localization",
+        "aff": ""
+    },
+    {
+        "title": "Unsupervised robot learning to predict person motion",
+        "aff": ""
+    },
+    {
+        "title": "Use of the nonlinear observability rank condition for improved parametric estimation",
+        "aff": ""
+    },
+    {
+        "title": "Using parallel stiffness to achieve improved locomotive efficiency with the Sandia STEPPR robot",
+        "aff": ""
+    },
+    {
+        "title": "Using synergies in dual-arm manipulation tasks",
+        "aff": ""
+    },
+    {
+        "title": "Using tactile sensation for learning contact knowledge: Discriminate collision from physical interaction",
+        "aff": ""
+    },
+    {
+        "title": "Using vanishing points to improve visual-inertial odometry",
+        "aff": ""
+    },
+    {
+        "title": "VIBI: Assistive vision-based interface for robot manipulation",
+        "aff": ""
+    },
+    {
+        "title": "Variable-speed quadrupedal bounding using impulse planning: Untethered high-speed 3D Running of MIT Cheetah 2",
+        "aff": ""
+    },
+    {
+        "title": "Vehicle state prediction for outdoor autonomous high-speed off-road UGVs",
+        "aff": ""
+    },
+    {
+        "title": "Vertical dry adhesive climbing with a 100\u00d7 bodyweight payload",
+        "aff": ""
+    },
+    {
+        "title": "ViMbot: Design and control of a new magnet robot actuated by an external vibrating magnetic field",
+        "aff": ""
+    },
+    {
+        "title": "Viewpoint simulation for camera pose estimation from an unstructured scene model",
+        "aff": ""
+    },
+    {
+        "title": "Virtual Rigid Bodies for coordinated agile maneuvering of teams of micro aerial vehicles",
+        "aff": ""
+    },
+    {
+        "title": "Vision-based 3D motion reconstruction of octopus arm swimming and comparison with an 8-arm underwater robot",
+        "aff": ""
+    },
+    {
+        "title": "Visual chunking: A list prediction framework for region-based object detection",
+        "aff": ""
+    },
+    {
+        "title": "Visual servoing when visual information is missing: Experimental comparison of visual feature prediction schemes",
+        "aff": ""
+    },
+    {
+        "title": "Visual-lidar odometry and mapping: low-drift, robust, and fast",
+        "aff": ""
+    },
+    {
+        "title": "Wearable soft artificial skin for hand motion detection with embedded microfluidic strain sensing",
+        "aff": ""
+    },
+    {
+        "title": "What should I landmark? Entropy of normals in depth juts for place recognition in changing environments using RGB-D data",
+        "aff": ""
+    },
+    {
+        "title": "When to do your own thing: Analysis of cost uncertainties in multi-robot task allocation at run-time",
+        "aff": ""
+    },
+    {
+        "title": "Where to park? minimizing the expected time to find a parking space",
+        "aff": ""
+    },
+    {
+        "title": "Where's waldo at time t ? using spatio-temporal models for mobile robot search",
+        "aff": ""
+    },
+    {
+        "title": "Whole-body multi-modal semi-autonomous teleoperation of mobile manipulator systems",
+        "aff": ""
+    },
+    {
+        "title": "Whole-body pushing manipulation with contact posture planning of large and heavy object for humanoid robot",
+        "aff": ""
+    },
+    {
+        "title": "Whole-body self-calibration via graph-optimization and automatic configuration selection",
+        "aff": ""
+    },
+    {
+        "title": "WiFi based communication and localization of an autonomous mobile robot for refinery inspection",
+        "aff": ""
+    },
+    {
+        "title": "Wireless map-based handoffs for mobile robots",
+        "aff": ""
+    },
+    {
+        "title": "Wireless obstacle detection and characterization by multimodal helical nanoswimmers",
+        "aff": ""
+    },
+    {
+        "title": "Wisdom of the swarm for cooperative decision-making in human-swarm interaction",
+        "aff": ""
+    },
+    {
+        "title": "Work smart, not hard: Recalling relevant experiences for vast-scale but time-constrained localisation",
+        "aff": ""
+    },
+    {
+        "title": "Wrapping a target with a tethered projectile",
+        "aff": ""
+    },
+    {
+        "title": "Zig-zag wanderer: Towards adaptive tracking of time-varying coherent structures in the ocean",
+        "aff": ""
+    },
+    {
+        "title": "\u03bcTugs: Enabling microrobots to deliver macro forces with controllable adhesives",
+        "aff": ""
+    },
+    {
+        "title": "\u201cHold-and-manipulate\u201d with a single hand being assisted by wearable extra fingers",
+        "aff": ""
+    },
+    {
+        "title": "\u21121 adaptive control of parallel kinematic manipulators: Design and real-time experiments",
+        "aff": ""
+    }
+]

@@ -1,25 +1,5 @@
 [
     {
-        "title": "$D^{3}$-Human: Dynamic Disentangled Digital Human from Monocular Video",
-        "aff": ""
-    },
-    {
-        "title": "$Neuron$: Learning Context-Aware Evolving Representations for Zero-Shot Skeleton Action Recognition",
-        "aff": ""
-    },
-    {
-        "title": "$ShiftwiseConv$: Small Convolutional Kernel with Large Kernel Effect",
-        "aff": ""
-    },
-    {
-        "title": "$\\beta$-FFT: Nonlinear Interpolation and Differentiated Training Strategies for Semi-Supervised Medical Image Segmentation",
-        "aff": ""
-    },
-    {
-        "title": "$\\textit{Early-Bird Diffusion}$: Investigating and Leveraging Timestep-Aware Early-Bird Tickets in Diffusion Models for Efficient Training",
-        "aff": ""
-    },
-    {
         "title": "2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification",
         "aff": ""
     },
@@ -72,7 +52,11 @@
         "aff": ""
     },
     {
-        "title": "3D-MVP: 3D Multiview Pretraining for Robotic Manipulation",
+        "title": "3D-MVP: 3D Multiview Pretraining for Manipulation",
+        "aff": ""
+    },
+    {
+        "title": "3D-Mem: 3D Scene Memory for Embodied Exploration and Reasoning",
         "aff": ""
     },
     {
@@ -81,10 +65,6 @@
     },
     {
         "title": "3DEnhancer: Consistent Multi-View Diffusion for 3D Enhancement",
-        "aff": ""
-    },
-    {
-        "title": "3DFastEdit: Training-Free Fast and Controllable 3D Editing",
         "aff": ""
     },
     {
@@ -116,7 +96,7 @@
         "aff": ""
     },
     {
-        "title": "4Real-Video: Learning Generalizable Photo-realistic 4D Video Diffusion",
+        "title": "4Real-Video: Learning Generalizable Photo-Realistic 4D Video Diffusion",
         "aff": ""
     },
     {
@@ -129,10 +109,6 @@
     },
     {
         "title": "A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training",
-        "aff": ""
-    },
-    {
-        "title": "A Compound 3D-Informed Design toward Spatially-Intelligent Large Multimodal Models",
         "aff": ""
     },
     {
@@ -168,11 +144,11 @@
         "aff": ""
     },
     {
-        "title": "A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models",
+        "title": "A Lightweight UDF Learning Framework for 3D Reconstruction Based on Local Shape Functions",
         "aff": ""
     },
     {
-        "title": "A Lightweight UDF Learning Framework for 3D Reconstruction Based on Local Shape Functions",
+        "title": "A New Statistical Model of Star Speckles for Learning to Detect and Characterize Exoplanets in Direct Imaging Observations",
         "aff": ""
     },
     {
@@ -180,7 +156,7 @@
         "aff": ""
     },
     {
-        "title": "A Polarization-aided Transformer for Image Deblurring via Motion Vector Decomposition",
+        "title": "A Polarization-Aided Transformer for Image Deblurring via Motion Vector Decomposition",
         "aff": ""
     },
     {
@@ -204,7 +180,7 @@
         "aff": ""
     },
     {
-        "title": "A Stitch in Time Saves Nine: Small VLM is a Precise Guidance for accelerating Large VLMs",
+        "title": "A Stitch in Time Saves Nine: Small VLM is a Precise Guidance for Accelerating Large VLMs",
         "aff": ""
     },
     {
@@ -240,11 +216,7 @@
         "aff": ""
     },
     {
-        "title": "A new statistical model of star speckles for learning to detect and characterize exoplanets in direct imaging observations",
-        "aff": ""
-    },
-    {
-        "title": "A$^\\text{T}$A: Adaptive Transformation Agent for Text-Guided Subject-Position Variable Background Inpainting",
+        "title": "A Universal Scale-Adaptive Deformable Transformer for Image Restoration across Diverse Artifacts",
         "aff": ""
     },
     {
@@ -256,7 +228,7 @@
         "aff": ""
     },
     {
-        "title": "AA-CLIP: Enhancing Zero-shot Anomaly Detection via Anomaly-Aware CLIP",
+        "title": "AA-CLIP: Enhancing Zero-Shot Anomaly Detection via Anomaly-Aware CLIP",
         "aff": ""
     },
     {
@@ -284,7 +256,7 @@
         "aff": ""
     },
     {
-        "title": "ADD: A General Attribution-Driven Data Augmentation Framework for Boosting Image Super-Resolution",
+        "title": "ADD: Attribution-Driven Data Augmentation Framework for Boosting Image Super-Resolution",
         "aff": ""
     },
     {
@@ -312,11 +284,11 @@
         "aff": ""
     },
     {
-        "title": "AIpparel: A Large Multimodal Generative Model for Digital Garments",
+        "title": "AIpparel: A Multimodal Foundation Model for Digital Garments",
         "aff": ""
     },
     {
-        "title": "AKiRa: Augmentation Kit on Rays for optical video generation",
+        "title": "AKiRa: Augmentation Kit on Rays for Optical Video Generation",
         "aff": ""
     },
     {
@@ -340,11 +312,15 @@
         "aff": ""
     },
     {
+        "title": "APT: Adaptive Personalized Training for Diffusion Models with Limited Data",
+        "aff": ""
+    },
+    {
         "title": "AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion",
         "aff": ""
     },
     {
-        "title": "ARKit LabelMaker: A New Scale for Indoor 3D Scene Understanding Download PDF",
+        "title": "ARKit LabelMaker: A New Scale for Indoor 3D Scene Understanding",
         "aff": ""
     },
     {
@@ -365,6 +341,10 @@
     },
     {
         "title": "ASIGN: An Anatomy-aware Spatial Imputation Graphic Network for 3D Spatial Transcriptomics",
+        "aff": ""
+    },
+    {
+        "title": "ATA: Adaptive Transformation Agent for Text-Guided Subject-Position Variable Background Inpainting",
         "aff": ""
     },
     {
@@ -396,7 +376,7 @@
         "aff": ""
     },
     {
-        "title": "Accelerating Multimodel Large Language Models by Searching Optimal Vision Token Reduction",
+        "title": "Accelerating Multimodal Large Language Models by Searching Optimal Vision Token Reduction",
         "aff": ""
     },
     {
@@ -440,11 +420,11 @@
         "aff": ""
     },
     {
-        "title": "AdaCM$^2$: On Understanding Extremely Long-Term Video with Adaptive Cross-Modality Memory Reduction",
+        "title": "AdaCM^2: On Understanding Extremely Long-Term Video with Adaptive Cross-Modality Memory Reduction",
         "aff": ""
     },
     {
-        "title": "AdaDARE-$\\gamma$: Balancing Stability and Plasticity in Multi-modal LLMs through Efficient Adaptation",
+        "title": "AdaDARE-gamma: Balancing Stability and Plasticity in Multi-modal LLMs through Efficient Adaptation",
         "aff": ""
     },
     {
@@ -492,7 +472,7 @@
         "aff": ""
     },
     {
-        "title": "Adaptive Non-Uniform Timestep Sampling for Diffusion Model Training",
+        "title": "Adaptive Non-Uniform Timestep Sampling for Accelerating Diffusion Model Training",
         "aff": ""
     },
     {
@@ -520,10 +500,6 @@
         "aff": ""
     },
     {
-        "title": "Advancing Fine-Grained Compositional Alignment in Video-Text Models",
-        "aff": ""
-    },
-    {
         "title": "Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models",
         "aff": ""
     },
@@ -536,7 +512,7 @@
         "aff": ""
     },
     {
-        "title": "Advancing Myopia To Holism: Fully Contrastive Language\u2013Image Pre-training",
+        "title": "Advancing Myopia To Holism: Fully Contrastive Language-Image Pre-training",
         "aff": ""
     },
     {
@@ -556,7 +532,7 @@
         "aff": ""
     },
     {
-        "title": "AeSPa : Attention-guided Self-supervised Parallel imaging for MRI Reconstruction",
+        "title": "AeSPa : Attention-guided Self-supervised Parallel Imaging for MRI Reconstruction",
         "aff": ""
     },
     {
@@ -584,7 +560,7 @@
         "aff": ""
     },
     {
-        "title": "Alias-free Latent Diffusion Models: Improving Fractional Shift Equivariance of Diffusion Latent Space",
+        "title": "Alias-Free Latent Diffusion Models: Improving Fractional Shift Equivariance of Diffusion Latent Space",
         "aff": ""
     },
     {
@@ -592,7 +568,7 @@
         "aff": ""
     },
     {
-        "title": "Align-KD: Distilling Cross-Modal Alignment Knowledge for Mobile Vision-Language Model",
+        "title": "Align-KD: Distilling Cross-Modal Alignment Knowledge for Mobile Vision-Language Large Model Enhancement",
         "aff": ""
     },
     {
@@ -612,7 +588,7 @@
         "aff": ""
     },
     {
-        "title": "All-Day Multi-Camera Muti-Target Tracking",
+        "title": "All-Day Multi-Camera Multi-Target Tracking",
         "aff": ""
     },
     {
@@ -656,7 +632,7 @@
         "aff": ""
     },
     {
-        "title": "AniGrad: Anisotropic Gradient-Adaptive Resolution for 3D Reconstruction From Monocular Video",
+        "title": "AniGrad: Anisotropic Gradient-Adaptive Sampling for 3D Reconstruction From Monocular Video",
         "aff": ""
     },
     {
@@ -664,7 +640,7 @@
         "aff": ""
     },
     {
-        "title": "AniMo: Species-aware Model for Text-driven Animal Motion Generation",
+        "title": "AniMo: Species-Aware Model for Text-Driven Animal Motion Generation",
         "aff": ""
     },
     {
@@ -672,15 +648,11 @@
         "aff": ""
     },
     {
-        "title": "AnimateAnything: Consistent and Controllable Animation for video generation",
+        "title": "AnimateAnything: Consistent and Controllable Animation for Video Generation",
         "aff": ""
     },
     {
         "title": "Annotation Ambiguity Aware Semi-Supervised Medical Image Segmentation",
-        "aff": ""
-    },
-    {
-        "title": "Anomaly Anything: Promptable Unseen Visual Anomaly Generation",
         "aff": ""
     },
     {
@@ -704,11 +676,7 @@
         "aff": ""
     },
     {
-        "title": "Any6DPose: Model-free 6D Pose Estimation of Novel Objects",
-        "aff": ""
-    },
-    {
-        "title": "AnyAttack: Targeted Adversarial Attacks on Vision-Language Models Toward Any Images",
+        "title": "Any6D: Model-free 6D Pose Estimation of Novel Object",
         "aff": ""
     },
     {
@@ -732,11 +700,15 @@
         "aff": ""
     },
     {
-        "title": "AnySat: An Earth Observation Model for Any Modalities, Resolutions, and Scales",
+        "title": "AnySat: One Earth Observation Model for Many Resolutions, Scales, and Modalities",
         "aff": ""
     },
     {
-        "title": "Apollo: An Exploration of Video Understanding in Large Multi-Modal Models",
+        "title": "Anyattack: Towards Large-scale Self-supervised Adversarial Attacks on Vision-language Models",
+        "aff": ""
+    },
+    {
+        "title": "Apollo: An Exploration of Video Understanding in Large Multimodal Models",
         "aff": ""
     },
     {
@@ -748,7 +720,7 @@
         "aff": ""
     },
     {
-        "title": "Arc2Avatar: Generating Expressive 3D Avatars from a single image via ID Guidance",
+        "title": "Arc2Avatar: Generating Expressive 3D Avatars from a Single Image via ID Guidance",
         "aff": ""
     },
     {
@@ -780,7 +752,7 @@
         "aff": ""
     },
     {
-        "title": "ArtiFade: Learning to Generate High-quality Subject from Blemished Image",
+        "title": "ArtiFade: Learning to Generate High-quality Subject from Blemished Images",
         "aff": ""
     },
     {
@@ -788,7 +760,7 @@
         "aff": ""
     },
     {
-        "title": "Articulated Motion Distillation from Video Diffusion Models",
+        "title": "Articulated Kinematics Distillation from Video Diffusion Models",
         "aff": ""
     },
     {
@@ -864,7 +836,7 @@
         "aff": ""
     },
     {
-        "title": "Auto-Enocded Supervision for Perceptual Image Super-Resolution",
+        "title": "Auto-Encoded Supervision for Perceptual Image Super-Resolution",
         "aff": ""
     },
     {
@@ -872,7 +844,7 @@
         "aff": ""
     },
     {
-        "title": "AutoPresent: Designing Structured Visuals From Scratch",
+        "title": "AutoPresent: Designing Structured Visuals from Scratch",
         "aff": ""
     },
     {
@@ -888,11 +860,11 @@
         "aff": ""
     },
     {
-        "title": "Automated Joint Structured Pruning and Quantization for Efficient Neural Network Training and Compression",
+        "title": "Automated Proof of Polynomial Inequalities via Reinforcement Learning",
         "aff": ""
     },
     {
-        "title": "Automated Proof of Polynomial Inequalities via Reinforcement Learning",
+        "title": "Automatic Joint Structured Pruning and Quantization for Efficient Neural Network Training and Compression",
         "aff": ""
     },
     {
@@ -928,10 +900,6 @@
         "aff": ""
     },
     {
-        "title": "BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation",
-        "aff": ""
-    },
-    {
         "title": "BEVDiffuser: Plug-and-Play Diffusion Model for BEV Denoising with Ground-Truth Guidance",
         "aff": ""
     },
@@ -960,7 +928,7 @@
         "aff": ""
     },
     {
-        "title": "BIOMEDICA: An Open Biomedical Image-Caption Archive with Vision-Language Models derived from Scientific Literature",
+        "title": "BIOMEDICA: An Open Biomedical Image-Caption Archive, Dataset, and Vision-Language Models Derived from Scientific Literature",
         "aff": ""
     },
     {
@@ -968,7 +936,7 @@
         "aff": ""
     },
     {
-        "title": "BLADE: Single-view Body Mesh Learning through Accurate Depth Estimation",
+        "title": "BLADE: Single-view Body Mesh Estimation through Accurate Depth Estimation",
         "aff": ""
     },
     {
@@ -984,7 +952,7 @@
         "aff": ""
     },
     {
-        "title": "BWFormer: Building Wireframe Reconstruction from airborne LiDAR point clouds with Transformer",
+        "title": "BWFormer: Building Wireframe Reconstruction from Airborne LiDAR Point Cloud with Transformer",
         "aff": ""
     },
     {
@@ -1060,7 +1028,7 @@
         "aff": ""
     },
     {
-        "title": "Beyond Words: Augmenting Discriminative Richness via Diffusions in Unsupervised Prompt learning",
+        "title": "Beyond Words: Augmenting Discriminative Richness via Diffusions in Unsupervised Prompt Learning",
         "aff": ""
     },
     {
@@ -1080,11 +1048,11 @@
         "aff": ""
     },
     {
-        "title": "Binarized Neural Network for Multi-spectral Image Fusion",
+        "title": "Binarized Mamba-Transformer for Lightweight Quad Bayer HybridEVS Demosaicing",
         "aff": ""
     },
     {
-        "title": "Binarized Semantic Mamba-Transformer for Lightweight Quad Bayer HybridEVS Demosaicing",
+        "title": "Binarized Neural Network for Multi-spectral Image Fusion",
         "aff": ""
     },
     {
@@ -1108,7 +1076,7 @@
         "aff": ""
     },
     {
-        "title": "Black Swan: Abductive and Defeasible Video Reasoning in Unexpected Events",
+        "title": "Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events",
         "aff": ""
     },
     {
@@ -1121,10 +1089,6 @@
     },
     {
         "title": "Blind Bitstream-corrupted Video Recovery via Metadata-guided Diffusion Model",
-        "aff": ""
-    },
-    {
-        "title": "Blind-Spot Real-world Image Denoising via Implicit Neural Pixel Resampling",
         "aff": ""
     },
     {
@@ -1180,10 +1144,6 @@
         "aff": ""
     },
     {
-        "title": "Boosting Video Quality Assessment via Saliency-guided Local Perception",
-        "aff": ""
-    },
-    {
         "title": "Boosting the Dual-Stream Architecture in Ultra-High Resolution Segmentation with Resolution-Biased Uncertainty Estimation",
         "aff": ""
     },
@@ -1232,7 +1192,7 @@
         "aff": ""
     },
     {
-        "title": "Bridging the Gap between Diffusion Models and Universal Quantization for Image Compression",
+        "title": "Bridging the Gap between Gaussian Diffusion Models and Universal Quantization for Image Compression",
         "aff": ""
     },
     {
@@ -1244,7 +1204,7 @@
         "aff": ""
     },
     {
-        "title": "Buffer Anytime: Zero-Shot Video Depth and Normal from Single-View Priors",
+        "title": "Buffer Anytime: Zero-Shot Video Depth and Normal from Image Priors",
         "aff": ""
     },
     {
@@ -1252,11 +1212,7 @@
         "aff": ""
     },
     {
-        "title": "Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs or Effective Long Video Analysis with LLMs",
-        "aff": ""
-    },
-    {
-        "title": "Bundle Sampling: Revisiting Plenoptic Sampling Theory for Efficient Generalizable Neural Radiance Field",
+        "title": "Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs for Effective Long Video Analysis with LLMs",
         "aff": ""
     },
     {
@@ -1280,7 +1236,7 @@
         "aff": ""
     },
     {
-        "title": "CALICO: Multi-Image Pixel-Grounded Object Comparison by Parts with Large Language Models",
+        "title": "CALICO: Part-Focused Semantic Co-Segmentation with Large Vision-Language Models",
         "aff": ""
     },
     {
@@ -1332,15 +1288,11 @@
         "aff": ""
     },
     {
-        "title": "CG-IR: Curved Gaussian Splatting for Inverse Rendering",
-        "aff": ""
-    },
-    {
         "title": "CGMatch: A Different Perspective of Semi-supervised Learning",
         "aff": ""
     },
     {
-        "title": "CH$_3$Depth: Efficient and Flexible Depth Foundation Model with Flow Matching",
+        "title": "CH3Depth: Efficient and Flexible Depth Foundation Model with Flow Matching",
         "aff": ""
     },
     {
@@ -1388,7 +1340,7 @@
         "aff": ""
     },
     {
-        "title": "COBRA: COmBinatorial Retrieval Augmentation for Few-Shot Learning",
+        "title": "COBRA: COmBinatorial Retrieval Augmentation for Few-Shot Adaptation",
         "aff": ""
     },
     {
@@ -1400,7 +1352,7 @@
         "aff": ""
     },
     {
-        "title": "COSMOS: Cross-Modality Self-Distillation for Vision Language Pretraining",
+        "title": "COSMOS: Cross-Modality Self-Distillation for Vision Language Pre-training",
         "aff": ""
     },
     {
@@ -1417,6 +1369,10 @@
     },
     {
         "title": "CSC-PA: Cross-image Semantic Correlation via Prototype Attentions for Single-network Semi-supervised Breast Tumor Segmentation",
+        "aff": ""
+    },
+    {
+        "title": "CTRL-D: Controllable Dynamic 3D Scene Editing with Personalized 2D Diffusion",
         "aff": ""
     },
     {
@@ -1448,7 +1404,7 @@
         "aff": ""
     },
     {
-        "title": "Camera resection from known line pencils and a radially distorted scanline",
+        "title": "Camera Resection from Known Line Pencils and a Radially Distorted Scanline",
         "aff": ""
     },
     {
@@ -1460,7 +1416,7 @@
         "aff": ""
     },
     {
-        "title": "Can Large Vision-Language Models Correct Grounding Errors By Themselves?",
+        "title": "Can Large Vision-Language Models Correct Semantic Grounding Errors By Themselves?",
         "aff": ""
     },
     {
@@ -1472,7 +1428,7 @@
         "aff": ""
     },
     {
-        "title": "Can't Slow me Down: Learning Robust and Hardware-Adaptive Object Detectors against Latency Attacks for Edge Devices",
+        "title": "Can't Slow Me Down: Learning Robust and Hardware-Adaptive Object Detectors against Latency Attacks for Edge Devices",
         "aff": ""
     },
     {
@@ -1524,7 +1480,7 @@
         "aff": ""
     },
     {
-        "title": "Charm: The Missing Piece in ViT fine-tuning for Image Aesthetic Assessment",
+        "title": "Charm: The Missing Piece in ViT Fine-Tuning for Image Aesthetic Assessment",
         "aff": ""
     },
     {
@@ -1537,10 +1493,6 @@
     },
     {
         "title": "ChatGarment: Garment Estimation, Generation and Editing via Large Language Models",
-        "aff": ""
-    },
-    {
-        "title": "ChatGen: A Unified Model for Interactive Multimodal Generation as We Chat",
         "aff": ""
     },
     {
@@ -1560,7 +1512,7 @@
         "aff": ""
     },
     {
-        "title": "Cheb-GR: Rethinking k-nearest neighbor search in Re-ranking for Person Re-identification",
+        "title": "Cheb-GR: Rethinking K-nearest Neighbor Search in Re-ranking for Person Re-identification",
         "aff": ""
     },
     {
@@ -1576,7 +1528,7 @@
         "aff": ""
     },
     {
-        "title": "Circumventing shortcuts in audio-visual deepfake detection datasets with unsupervised learning",
+        "title": "Circumventing Shortcuts in Audio-visual Deepfake Detection Datasets with Unsupervised Learning",
         "aff": ""
     },
     {
@@ -1588,7 +1540,7 @@
         "aff": ""
     },
     {
-        "title": "Classifier-Free Guidance inside the Attraction Basin May Cause Memorization",
+        "title": "Classifier-Free Guidance Inside the Attraction Basin May Cause Memorization",
         "aff": ""
     },
     {
@@ -1604,7 +1556,7 @@
         "aff": ""
     },
     {
-        "title": "ClearSight: Visual Signal Enhancement for Object Hallucination Mitigation in Multimodal Large language Models",
+        "title": "ClearSight: Visual Signal Enhancement for Object Hallucination Mitigation in Multimodal Large Language Models",
         "aff": ""
     },
     {
@@ -1652,7 +1604,7 @@
         "aff": ""
     },
     {
-        "title": "CoMapGS: Covisiblility Map-based Gaussian Splatting for Sparse Novel View Synthesis",
+        "title": "CoMapGS: Covisibility Map-based Gaussian Splatting for Sparse Novel View Synthesis",
         "aff": ""
     },
     {
@@ -1688,7 +1640,7 @@
         "aff": ""
     },
     {
-        "title": "Coeff-Tuning: A Filter Subspace View for Tuning Attention-Based Large Models",
+        "title": "Coeff-Tuning: A Graph Filter Subspace View for Tuning Attention-Based Large Models",
         "aff": ""
     },
     {
@@ -1700,7 +1652,7 @@
         "aff": ""
     },
     {
-        "title": "Collaborative Decoding Makes Visual Autoregressive Modeling Efficient",
+        "title": "Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient",
         "aff": ""
     },
     {
@@ -1709,10 +1661,6 @@
     },
     {
         "title": "Color Alignment in Diffusion",
-        "aff": ""
-    },
-    {
-        "title": "Color Conditional Generation with Sliced Wasserstein Distance",
         "aff": ""
     },
     {
@@ -1740,7 +1688,7 @@
         "aff": ""
     },
     {
-        "title": "Compass Control: Multi-Object Orientation Control for Text-to-Image Generation",
+        "title": "Compass Control: Multi Object Orientation Control for Text-to-Image Generation",
         "aff": ""
     },
     {
@@ -1764,7 +1712,7 @@
         "aff": ""
     },
     {
-        "title": "Compositional Multi-Label Universal Perturbations",
+        "title": "Compositional Targeted Multi-Label Universal Perturbations",
         "aff": ""
     },
     {
@@ -1776,10 +1724,6 @@
         "aff": ""
     },
     {
-        "title": "Computational Efficient and Recognition Friendly 3D Point Cloud Privacy Protection",
-        "aff": ""
-    },
-    {
         "title": "ConMo: Controllable Motion Disentanglement and Recomposition for Zero-Shot Motion Transfer",
         "aff": ""
     },
@@ -1788,15 +1732,15 @@
         "aff": ""
     },
     {
-        "title": "Concept Lancet: Representation Decomposition and Transplant for Diffusion-Based Image Editing",
-        "aff": ""
-    },
-    {
-        "title": "Concept Preservation and Unbinding in Continual Diffusion Customization",
+        "title": "Concept Lancet: Image Editing with Compositional Representation Transplant",
         "aff": ""
     },
     {
         "title": "Concept Replacer: Replacing Sensitive Concepts in Diffusion Models via Precision Localization",
+        "aff": ""
+    },
+    {
+        "title": "ConceptGuard: Continual Personalized Text-to-Image Generation with Forgetting and Confusion Mitigation",
         "aff": ""
     },
     {
@@ -1860,7 +1804,7 @@
         "aff": ""
     },
     {
-        "title": "Continuous Crowd Behavior Generation",
+        "title": "Continuous Locomotive Crowd Behavior Generation",
         "aff": ""
     },
     {
@@ -1876,10 +1820,6 @@
         "aff": ""
     },
     {
-        "title": "Controllable Dynamic 3D Scene Editing with Personalized 2D Diffusion",
-        "aff": ""
-    },
-    {
         "title": "Controllable Human Image Generation with Personalized Multi-Garments",
         "aff": ""
     },
@@ -1892,7 +1832,7 @@
         "aff": ""
     },
     {
-        "title": "CorrBEV:Multi-View 3D Object Detection by Correlation Learning with Multi-modal Prototypes",
+        "title": "CorrBEV: Multi-View 3D Object Detection by Correlation Learning with Multi-modal Prototypes",
         "aff": ""
     },
     {
@@ -1900,7 +1840,7 @@
         "aff": ""
     },
     {
-        "title": "Correlative and Discriminative Label Grouping for Multi-Label VPT",
+        "title": "Correlative and Discriminative Label Grouping for Multi-Label Visual Prompt Tuning",
         "aff": ""
     },
     {
@@ -1912,11 +1852,7 @@
         "aff": ""
     },
     {
-        "title": "Crafting a Miniature Interactive World from a Single Image",
-        "aff": ""
-    },
-    {
-        "title": "CraftsMan: High-fidelity Mesh Generation with 3D Native Generation and Interactive Geometry Refiner",
+        "title": "CraftsMan3D: High-fidelity Mesh Generation with 3D Native Diffusion and Interactive Geometry Refiner",
         "aff": ""
     },
     {
@@ -1940,15 +1876,11 @@
         "aff": ""
     },
     {
-        "title": "Cross-Modal Distillation for 2D/3D Multi-Object Discovery from 2D motion",
+        "title": "Cross-Modal Distillation for 2D/3D Multi-Object Discovery from 2D Motion",
         "aff": ""
     },
     {
         "title": "Cross-Modal Interactive Perception Network with Mamba for Lung Tumor Segmentation in PET-CT Images",
-        "aff": ""
-    },
-    {
-        "title": "Cross-Modal Space-Time Correspondence as a Contrastive Random Walk",
         "aff": ""
     },
     {
@@ -2008,10 +1940,6 @@
         "aff": ""
     },
     {
-        "title": "D$^2$iT: Dynamic Diffusion Transformer for Accurate Image Generation",
-        "aff": ""
-    },
-    {
         "title": "D2SP: Dynamic Dual-Stage Purification Framework for Dual Noise Mitigation in Vision-based Affective Recognition.",
         "aff": ""
     },
@@ -2028,15 +1956,11 @@
         "aff": ""
     },
     {
-        "title": "DAR: Scalable Autoregressive Monocular Depth Estimation",
-        "aff": ""
-    },
-    {
         "title": "DART: Disease-aware Image-Text Alignment and Self-correcting Re-alignment for Trustworthy Radiology Report Generation",
         "aff": ""
     },
     {
-        "title": "DCEvo: Discriminative Cross-dimensional Evolutionary Learning for Infrared and Visible Image Fusion",
+        "title": "DCEvo: Discriminative Cross-Dimensional Evolutionary Learning for Infrared and Visible Image Fusion",
         "aff": ""
     },
     {
@@ -2072,10 +1996,6 @@
         "aff": ""
     },
     {
-        "title": "DICE: Discrete Inversion Enabling Controllable Editing for Masked Generative Models",
-        "aff": ""
-    },
-    {
         "title": "DIFFER: Disentangling Identity Features via Semantic Cues for Clothes-Changing Person Re-ID",
         "aff": ""
     },
@@ -2092,7 +2012,7 @@
         "aff": ""
     },
     {
-        "title": "DIV-FF: Dynamic Image-Video Feature Fields For Environment Understanding in Egocentric Video",
+        "title": "DIV-FF: Dynamic Image-Video Feature Fields For Environment Understanding in Egocentric Videos",
         "aff": ""
     },
     {
@@ -2156,7 +2076,11 @@
         "aff": ""
     },
     {
-        "title": "DTOS: Dynamic Time Object Sensing with Multimodal Large Language Model",
+        "title": "DTOS: Dynamic Time Object Sensing with Large Multimodal Model",
+        "aff": ""
+    },
+    {
+        "title": "DUNE: Distilling a Universal Encoder from Heterogeneous 2D and 3D Teachers",
         "aff": ""
     },
     {
@@ -2169,6 +2093,14 @@
     },
     {
         "title": "DViN: Dynamic Visual Routing Network for Weakly Supervised Referring Expression Comprehension",
+        "aff": ""
+    },
+    {
+        "title": "D^2iT: Dynamic Diffusion Transformer for Accurate Image Generation",
+        "aff": ""
+    },
+    {
+        "title": "D^3-Human: Dynamic Disentangled Digital Human from Monocular Video",
         "aff": ""
     },
     {
@@ -2212,10 +2144,6 @@
         "aff": ""
     },
     {
-        "title": "De$^2$Gaze: Deformable and Decoupled Representation Learning for 3D Gaze Estimation",
-        "aff": ""
-    },
-    {
         "title": "DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception",
         "aff": ""
     },
@@ -2245,6 +2173,10 @@
     },
     {
         "title": "DeSplat: Decomposed Gaussian Splatting for Distractor-Free Rendering",
+        "aff": ""
+    },
+    {
+        "title": "De^2Gaze: Deformable and Decoupled Representation Learning for 3D Gaze Estimation",
         "aff": ""
     },
     {
@@ -2304,10 +2236,6 @@
         "aff": ""
     },
     {
-        "title": "Deep Multi-View Multi-Label Learning with Incomplete Views and Noisy Labels",
-        "aff": ""
-    },
-    {
         "title": "DeepCompress-ViT: Rethinking Model Compression to Enhance Efficiency of Vision Transformers at the Edge",
         "aff": ""
     },
@@ -2364,6 +2292,10 @@
         "aff": ""
     },
     {
+        "title": "Depth-Guided Bundle Sampling for Efficient Generalizable Neural Radiance Field Reconstruction",
+        "aff": ""
+    },
+    {
         "title": "DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos",
         "aff": ""
     },
@@ -2392,10 +2324,6 @@
         "aff": ""
     },
     {
-        "title": "Designing Scale-Wise Transformers for Text-to-Image Synthesis",
-        "aff": ""
-    },
-    {
         "title": "Detail-Preserving Latent Diffusion for Stable Shadow Removal",
         "aff": ""
     },
@@ -2420,7 +2348,7 @@
         "aff": ""
     },
     {
-        "title": "Detecting Out-of-Distribution through the Lens of Neural Collapse",
+        "title": "Detecting Out-of-Distribution Through the Lens of Neural Collapse",
         "aff": ""
     },
     {
@@ -2428,11 +2356,11 @@
         "aff": ""
     },
     {
-        "title": "Deterministic Certification of Graph Neural Networks against Poisoning Attacks with Arbitrary Perturbations",
+        "title": "Deterministic Certification of Graph Neural Networks against Graph Poisoning Attacks with Arbitrary Perturbations",
         "aff": ""
     },
     {
-        "title": "Deterministic Image-to-Image Translations via Brownian Bridge Denoising Models with Dual Approximators",
+        "title": "Deterministic Image-to-Image Translation via Denoising Brownian Bridge Models with Dual Approximators",
         "aff": ""
     },
     {
@@ -2448,11 +2376,11 @@
         "aff": ""
     },
     {
-        "title": "DexDiffuser: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation",
+        "title": "DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness",
         "aff": ""
     },
     {
-        "title": "DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness",
+        "title": "DexHandDiff: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation",
         "aff": ""
     },
     {
@@ -2492,7 +2420,7 @@
         "aff": ""
     },
     {
-        "title": "DifIISR: Diffusion Model with Gradient Guidance for Infrared Image Super-Resolution",
+        "title": "DifIISR: A Diffusion Model with Gradient Guidance for Infrared Image Super-Resolution",
         "aff": ""
     },
     {
@@ -2500,7 +2428,7 @@
         "aff": ""
     },
     {
-        "title": "Diff2Flow: Bridging the Gap between Diffusion and Flow Matching with Minimal Cost",
+        "title": "Diff2Flow: Training Flow Matching Models via Diffusion Model Alignment",
         "aff": ""
     },
     {
@@ -2508,15 +2436,15 @@
         "aff": ""
     },
     {
-        "title": "DiffDNO: Diffusion Fourier Neural Operator",
+        "title": "DiffFNO: Diffusion Fourier Neural Operator",
         "aff": ""
     },
     {
-        "title": "DiffLO: Semantic-Aware LiDAR Odometry with Diffusion-based Refinement",
+        "title": "DiffLO: Semantic-Aware LiDAR Odometry with Diffusion-Based Refinement",
         "aff": ""
     },
     {
-        "title": "DiffLocks: Reconstructing 3D Hair from a Single Image using Diffusion Models",
+        "title": "DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models",
         "aff": ""
     },
     {
@@ -2528,11 +2456,11 @@
         "aff": ""
     },
     {
-        "title": "DiffVsgg: Diffusion-based Online Video Scene Graph Generation",
+        "title": "DiffVsgg: Diffusion-Driven Online Video Scene Graph Generation",
         "aff": ""
     },
     {
-        "title": "Difference Inversion : Interpolate and Isolate the Difference with Token Consistency for Image Analogy Generation",
+        "title": "Difference Inversion: Interpolate and Isolate the Difference with Token Consistency for Image Analogy Generation",
         "aff": ""
     },
     {
@@ -2544,7 +2472,7 @@
         "aff": ""
     },
     {
-        "title": "Diffusion Model is Effectively its Own Teacher",
+        "title": "Diffusion Model is Effectively Its Own Teacher",
         "aff": ""
     },
     {
@@ -2580,7 +2508,7 @@
         "aff": ""
     },
     {
-        "title": "Dinomaly: The $Less~Is~More$ Philosophy in Multi-Class Unsupervised Anomaly Detection",
+        "title": "Dinomaly: The Less Is More Philosophy in Multi-Class Unsupervised Anomaly Detection",
         "aff": ""
     },
     {
@@ -2609,10 +2537,6 @@
     },
     {
         "title": "Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observations",
-        "aff": ""
-    },
-    {
-        "title": "Discriminative Fine-tuning of LVLMs",
         "aff": ""
     },
     {
@@ -2696,7 +2620,11 @@
         "aff": ""
     },
     {
-        "title": "Do ImageNet-trained models learn shortcuts? The impact of frequency shortcuts on generalization",
+        "title": "Do Computer Vision Foundation Models Learn the Low-level Characteristics of the Human Visual System?",
+        "aff": ""
+    },
+    {
+        "title": "Do ImageNet-trained Models Learn Shortcuts? The Impact of Frequency Shortcuts on Generalization",
         "aff": ""
     },
     {
@@ -2713,10 +2641,6 @@
     },
     {
         "title": "Do Your Best and Get Enough Rest for Continual Learning",
-        "aff": ""
-    },
-    {
-        "title": "Do computer vision foundation models learn the low-level characteristics of the human visual system?",
         "aff": ""
     },
     {
@@ -2860,11 +2784,11 @@
         "aff": ""
     },
     {
-        "title": "Dual Prompting for Image Restoration across Full-Scene with Diffusion Transformers",
+        "title": "Dual Prompting Image Restoration with Diffusion Transformers",
         "aff": ""
     },
     {
-        "title": "Dual Semantic Guidence for Open Vocabulary Semantic Segmentation",
+        "title": "Dual Semantic Guidance for Open Vocabulary Semantic Segmentation",
         "aff": ""
     },
     {
@@ -2924,6 +2848,10 @@
         "aff": ""
     },
     {
+        "title": "DynScene: Scalable Generation of Dynamic Robotic Manipulation Scenes for Embodied AI",
+        "aff": ""
+    },
+    {
         "title": "DynaMoDe-NeRF: Motion-aware Deblurring Neural Radiance Field for Dynamic Scenes",
         "aff": ""
     },
@@ -2945,6 +2873,10 @@
     },
     {
         "title": "Dynamic Integration of Task-Specific Adapters for Class Incremental Learning",
+        "aff": ""
+    },
+    {
+        "title": "Dynamic Motion Blending for Versatile Motion Editing",
         "aff": ""
     },
     {
@@ -3028,6 +2960,10 @@
         "aff": ""
     },
     {
+        "title": "ETAP: Event-based Tracking of Any Point",
+        "aff": ""
+    },
+    {
         "title": "EVOS: Efficient Implicit Neural Training via EVOlutionary Selector",
         "aff": ""
     },
@@ -3041,6 +2977,10 @@
     },
     {
         "title": "EZSR: Event-based Zero-Shot Recognition",
+        "aff": ""
+    },
+    {
+        "title": "Early-Bird Diffusion: Investigating and Leveraging Timestep-Aware Early-Bird Tickets in Diffusion Models for Efficient Training",
         "aff": ""
     },
     {
@@ -3068,7 +3008,7 @@
         "aff": ""
     },
     {
-        "title": "EchoONE: Segmenting Multiple echocardiography Planes in One Model",
+        "title": "EchoONE: Segmenting Multiple Echocardiography Planes in One Model",
         "aff": ""
     },
     {
@@ -3132,6 +3072,10 @@
         "aff": ""
     },
     {
+        "title": "Efficient Depth Estimation for Unstable Stereo Camera Systems on AR Glasses",
+        "aff": ""
+    },
+    {
         "title": "Efficient Diffusion as Low Light Enhancer",
         "aff": ""
     },
@@ -3148,7 +3092,7 @@
         "aff": ""
     },
     {
-        "title": "Efficient Long Video Tokenization via Coordinated-based Patch Reconstruction",
+        "title": "Efficient Long Video Tokenization via Coordinate-based Patch Reconstruction",
         "aff": ""
     },
     {
@@ -3180,11 +3124,7 @@
         "aff": ""
     },
     {
-        "title": "Efficient stereo depth estimation model for wearable augmented reality devices",
-        "aff": ""
-    },
-    {
-        "title": "EfficientLLaVA:Generalizable Auto-Pruning for Large Vision-language Models",
+        "title": "EfficientLLaVA: Generalizable Auto-Pruning for Large Vision-language Models",
         "aff": ""
     },
     {
@@ -3216,15 +3156,11 @@
         "aff": ""
     },
     {
-        "title": "Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning",
-        "aff": ""
-    },
-    {
         "title": "EigenGS Representation: From Eigenspace to Gaussian Image Space",
         "aff": ""
     },
     {
-        "title": "Electromyography-Informed Facial Expression Reconstruction For Physiological-Based Synthesis and Analysis",
+        "title": "Electromyography-Informed Facial Expression Reconstruction for Physiological-Based Synthesis and Analysis",
         "aff": ""
     },
     {
@@ -3348,6 +3284,10 @@
         "aff": ""
     },
     {
+        "title": "Enhancing Video-LLM Reasoning via Agent-of-Thoughts Distillation",
+        "aff": ""
+    },
+    {
         "title": "Enhancing Virtual Try-On with Synthetic Pairs and Error-Aware Noise Scheduling",
         "aff": ""
     },
@@ -3372,11 +3312,15 @@
         "aff": ""
     },
     {
+        "title": "EnvGS: Modeling View-Dependent Appearance with Environment Gaussian",
+        "aff": ""
+    },
+    {
         "title": "EnvPoser: Environment-aware Realistic Human Motion Estimation from Sparse Observations with Uncertainty Modeling",
         "aff": ""
     },
     {
-        "title": "EquiPose: Exploiting Equivariance for Relative Camera Pose Estimation",
+        "title": "EquiPose: Exploiting Permutation Equivariance for Relative Camera Pose Estimation",
         "aff": ""
     },
     {
@@ -3420,23 +3364,15 @@
         "aff": ""
     },
     {
-        "title": "Evaluating generated 3D assets using multiview Large Language Models",
-        "aff": ""
-    },
-    {
         "title": "Event Ellipsometer: Event-based Mueller-Matrix Video Imaging",
         "aff": ""
     },
     {
-        "title": "Event fields: Capturing light fields at high speed, resolution, and dynamic range",
+        "title": "Event Fields: Capturing Light Fields at High Speed, Resolution, and Dynamic Range",
         "aff": ""
     },
     {
         "title": "Event-Equalized Dense Video Captioning",
-        "aff": ""
-    },
-    {
-        "title": "Event-based Tracking of Any Point with Motion-Robust Correlation Features",
         "aff": ""
     },
     {
@@ -3480,15 +3416,15 @@
         "aff": ""
     },
     {
-        "title": "Explain in Diffusion: Explaining a Classifier with Diffusion Semantics",
-        "aff": ""
-    },
-    {
         "title": "Explainable Saliency: Articulating Reasoning with Contextual Prioritization",
         "aff": ""
     },
     {
         "title": "Explaining Domain Shifts in Language: Concept Erasing for Interpretable Image Classification",
+        "aff": ""
+    },
+    {
+        "title": "Explaining in Diffusion: Explaining a Classifier with Diffusion Semantics",
         "aff": ""
     },
     {
@@ -3556,7 +3492,7 @@
         "aff": ""
     },
     {
-        "title": "Exposure-slot: Exposure-centric representations learning with Slot-in-Slot Attention for Region-aware Exposure Correction",
+        "title": "Exposure-slot: Exposure-centric Representations Learning with Slot-in-Slot Attention for Region-aware Exposure Correction",
         "aff": ""
     },
     {
@@ -3588,7 +3524,7 @@
         "aff": ""
     },
     {
-        "title": "FASTer: Focal token Acquiring-and-Scaling Transformer for Long-term 3D Objection Detection.",
+        "title": "FASTer: Focal token Acquiring-and-Scaling Transformer for Long-term 3D Objection Detection",
         "aff": ""
     },
     {
@@ -3600,7 +3536,7 @@
         "aff": ""
     },
     {
-        "title": "FFR:Frequecny Feature Rectification for Weakly Supervised Semantic Segmentation",
+        "title": "FFR: Frequency Feature Rectification for Weakly Supervised Semantic Segmentation",
         "aff": ""
     },
     {
@@ -3608,7 +3544,7 @@
         "aff": ""
     },
     {
-        "title": "FG$^2$: Fine-Grained Cross-View Localization by Fine-Grained Feature Matching",
+        "title": "FG^2: Fine-Grained Cross-View Localization by Fine-Grained Feature Matching",
         "aff": ""
     },
     {
@@ -3676,7 +3612,7 @@
         "aff": ""
     },
     {
-        "title": "FSboard: Over 3 million characters of ASL fingerspelling collected via smartphones",
+        "title": "FSboard: Over 3 Million Characters of ASL Fingerspelling Collected via Smartphones",
         "aff": ""
     },
     {
@@ -3708,15 +3644,11 @@
         "aff": ""
     },
     {
-        "title": "Fast Convergence of Diffusion Transformers in a Better High-Dimensional Latent Space",
-        "aff": ""
-    },
-    {
         "title": "Fast and Accurate Gigapixel Pathological Image Classification with Hierarchical Distillation Multi-Instance Learning",
         "aff": ""
     },
     {
-        "title": "Fast3R: 3D Reconstruction of 1000+ Images in a Single Pass",
+        "title": "Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass",
         "aff": ""
     },
     {
@@ -3780,10 +3712,6 @@
         "aff": ""
     },
     {
-        "title": "Federated Semi-Supervised Learning via Pseudo-Correction utilizing Confidence Discrepancy",
-        "aff": ""
-    },
-    {
         "title": "FeedEdit: Text-Based Image Editing with Dynamic Feedback Regulation",
         "aff": ""
     },
@@ -3792,7 +3720,7 @@
         "aff": ""
     },
     {
-        "title": "Few-Shot Recognition via Stage-wise Retrieval-Augmented Finetuning",
+        "title": "Few-Shot Recognition via Stage-Wise Retrieval-Augmented Finetuning",
         "aff": ""
     },
     {
@@ -3872,7 +3800,7 @@
         "aff": ""
     },
     {
-        "title": "Flash-Split: 2D Reflection Removal with Flash Cues and Latent Separation",
+        "title": "Flash-Split: 2D Reflection Removal with Flash Cues and Latent Diffusion Separation",
         "aff": ""
     },
     {
@@ -3884,11 +3812,11 @@
         "aff": ""
     },
     {
-        "title": "FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression",
+        "title": "FlashSloth : Lightning Multimodal Large Language Models via Embedded Visual Compression",
         "aff": ""
     },
     {
-        "title": "FlexDrive: Toward Trajectory Flexibility in Driving Scene Reconstruction and Rendering",
+        "title": "FlexDrive: Toward Trajectory Flexibility in Driving Scene Gaussian Splatting Reconstruction and Rendering",
         "aff": ""
     },
     {
@@ -3904,11 +3832,11 @@
         "aff": ""
     },
     {
-        "title": "Flexible Group Count Enables Hassle-Free Structured Pruning",
+        "title": "Flexible Frame Selection for Efficient Video Reasoning",
         "aff": ""
     },
     {
-        "title": "Flexible Selection for Efficient Video Reasoning",
+        "title": "Flexible Group Count Enables Hassle-Free Structured Pruning",
         "aff": ""
     },
     {
@@ -3936,7 +3864,7 @@
         "aff": ""
     },
     {
-        "title": "Flowing from Words to Pixels: A Framework for Cross-Modality Evolution",
+        "title": "Flowing from Words to Pixels: A Noise-Free Framework for Cross-Modality Evolution",
         "aff": ""
     },
     {
@@ -3948,7 +3876,7 @@
         "aff": ""
     },
     {
-        "title": "FluxSpace: Disentangled Image Editing in Rectified Flow Models",
+        "title": "FluxSpace: Disentangled Semantic Editing in Rectified Flow Models",
         "aff": ""
     },
     {
@@ -4000,6 +3928,10 @@
         "aff": ""
     },
     {
+        "title": "FoundationStereo: Zero-Shot Stereo Matching",
+        "aff": ""
+    },
+    {
         "title": "Foundations of the Theory of Performance-Based Ranking",
         "aff": ""
     },
@@ -4008,7 +3940,7 @@
         "aff": ""
     },
     {
-        "title": "Fractal Calibration for long-tailed object detection",
+        "title": "Fractal Calibration for Long-tailed Object Detection",
         "aff": ""
     },
     {
@@ -4020,15 +3952,19 @@
         "aff": ""
     },
     {
-        "title": "Free-form Generation Enhances Challenging Clothed Human Modeling",
-        "aff": ""
-    },
-    {
         "title": "Free-viewpoint Human Animation with Pose-correlated Reference Selection",
         "aff": ""
     },
     {
         "title": "Free360: Layered Gaussian Splatting for Unbounded 360-Degree View Synthesis from Extremely Sparse and Unposed Views",
+        "aff": ""
+    },
+    {
+        "title": "FreeCloth: Free-form Generation Enhances Challenging Clothed Human Modeling",
+        "aff": ""
+    },
+    {
+        "title": "FreeGave: 3D Physics Learning from Dynamic Videos by Gaussian Velocity",
         "aff": ""
     },
     {
@@ -4044,7 +3980,7 @@
         "aff": ""
     },
     {
-        "title": "FreeTimeGS: Free Gaussians at Anytime Anywhere for Dynamic Scene Reconstruction",
+        "title": "FreeTimeGS: Free Gaussian Primitives at Anytime Anywhere for Dynamic Scene Reconstruction",
         "aff": ""
     },
     {
@@ -4100,7 +4036,7 @@
         "aff": ""
     },
     {
-        "title": "From Slow Bidirectional to Fast Causal Video Generator",
+        "title": "From Slow Bidirectional to Fast Autoregressive Video Diffusion Models",
         "aff": ""
     },
     {
@@ -4132,7 +4068,7 @@
         "aff": ""
     },
     {
-        "title": "Functionality understanding and segmentation in 3D scenes",
+        "title": "Functionality Understanding and Segmentation in 3D Scenes",
         "aff": ""
     },
     {
@@ -4144,6 +4080,10 @@
         "aff": ""
     },
     {
+        "title": "GA3CE: Unconstrained 3D Gaze Estimation with Gaze-Aware 3D Context Encoding",
+        "aff": ""
+    },
+    {
         "title": "GAF: Gaussian Avatar Reconstruction from Monocular Videos via Multi-view Diffusion",
         "aff": ""
     },
@@ -4152,7 +4092,7 @@
         "aff": ""
     },
     {
-        "title": "GBC: Generalizable Gaussian-Based Clothed Human Digitalization",
+        "title": "GBC-Splat: Generalizable Gaussian-Based Clothed Human Digitalization under Sparse RGB Cameras",
         "aff": ""
     },
     {
@@ -4172,7 +4112,7 @@
         "aff": ""
     },
     {
-        "title": "GEM: A Generalizable Ego-vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control",
+        "title": "GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control",
         "aff": ""
     },
     {
@@ -4181,6 +4121,10 @@
     },
     {
         "title": "GENIUS: A Generative Framework for Universal Multimodal Search",
+        "aff": ""
+    },
+    {
+        "title": "GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation",
         "aff": ""
     },
     {
@@ -4193,6 +4137,10 @@
     },
     {
         "title": "GG-SSMs: Graph-Generating State Space Models",
+        "aff": ""
+    },
+    {
+        "title": "GIF: Generative Inspiration for Face Recognition at Scale",
         "aff": ""
     },
     {
@@ -4209,10 +4157,6 @@
     },
     {
         "title": "GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation",
-        "aff": ""
-    },
-    {
-        "title": "GLane3D : Detecting Lanes with Graph of 3D Keypoints",
         "aff": ""
     },
     {
@@ -4252,15 +4196,11 @@
         "aff": ""
     },
     {
-        "title": "GS-2DGS: Geometrically supervised 2DGS for reflective object reconstruction",
+        "title": "GS-2DGS: Geometrically Supervised 2DGS for Reflective Object Reconstruction",
         "aff": ""
     },
     {
-        "title": "GS-DiT: Advancing Video Generation with Pseudo 4D Gaussian Fields through Efficient Dense 3D Point Tracking",
-        "aff": ""
-    },
-    {
-        "title": "GSTAR: Gaussian Surface Tracking and Reconstruction",
+        "title": "GS-DiT: Advancing Video Generation with Dynamic 3D Gaussian Fields through Efficient Dense 3D Point Tracking",
         "aff": ""
     },
     {
@@ -4280,7 +4220,15 @@
         "aff": ""
     },
     {
+        "title": "GarmentPile: Point-Level Visual Affordance Guided Retrieval and Adaptation for Cluttered Garments Manipulation",
+        "aff": ""
+    },
+    {
         "title": "GauCho: Gaussian Distributions with Cholesky Decomposition for Oriented Object Detection",
+        "aff": ""
+    },
+    {
+        "title": "GauSTAR: Gaussian Surface Tracking and Reconstruction",
         "aff": ""
     },
     {
@@ -4308,7 +4256,7 @@
         "aff": ""
     },
     {
-        "title": "Gaussian World Model for Streaming 3D Occupancy Prediction",
+        "title": "GaussianFormer-2: Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction",
         "aff": ""
     },
     {
@@ -4321,6 +4269,10 @@
     },
     {
         "title": "GaussianUDF: Inferring Unsigned Distance Functions through 3D Gaussian Splatting",
+        "aff": ""
+    },
+    {
+        "title": "GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction",
         "aff": ""
     },
     {
@@ -4340,19 +4292,19 @@
         "aff": ""
     },
     {
+        "title": "Gen3DEval: Using vLLMs for Automatic Evaluation of Generated 3D Objects",
+        "aff": ""
+    },
+    {
         "title": "GenAssets: Generating in-the-wild 3D Assets in Latent Space",
         "aff": ""
     },
     {
-        "title": "GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration",
+        "title": "GenDeg: Diffusion-based Degradation Synthesis for Generalizable All-In-One Image Restoration",
         "aff": ""
     },
     {
-        "title": "GenFusion: Closing the loop between Reconstruction and Generation via Videos",
-        "aff": ""
-    },
-    {
-        "title": "GenManip: A Simulation Platform for Generalizable TableTop Manipulation in the Era of MLLM",
+        "title": "GenFusion: Closing the Loop between Reconstruction and Generation via Videos",
         "aff": ""
     },
     {
@@ -4372,7 +4324,7 @@
         "aff": ""
     },
     {
-        "title": "Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model",
+        "title": "Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Models",
         "aff": ""
     },
     {
@@ -4404,10 +4356,6 @@
         "aff": ""
     },
     {
-        "title": "Generating a Five-Second Video within Five Seconds on a Mobile Device",
-        "aff": ""
-    },
-    {
         "title": "Generative Densification: Learning to Densify Gaussians for High-Fidelity Generalizable 3D Reconstruction",
         "aff": ""
     },
@@ -4432,7 +4380,7 @@
         "aff": ""
     },
     {
-        "title": "Generative Modeling of Class Probability for Multi Modal Representation Learning",
+        "title": "Generative Modeling of Class Probability for Multi-Modal Representation Learning",
         "aff": ""
     },
     {
@@ -4520,7 +4468,7 @@
         "aff": ""
     },
     {
-        "title": "Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise Flow",
+        "title": "Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise",
         "aff": ""
     },
     {
@@ -4532,7 +4480,7 @@
         "aff": ""
     },
     {
-        "title": "Goku: Generative Flow Kit for Unified Image-Video Creation",
+        "title": "Goku: Flow Based Video Generative Foundation Models",
         "aff": ""
     },
     {
@@ -4553,6 +4501,10 @@
     },
     {
         "title": "Graph Neural Network Combining Event Stream and Periodic Aggregation for Low-Latency Event-based Vision",
+        "aff": ""
+    },
+    {
+        "title": "Graph-Based 3D Lane Detection from Monocular Images",
         "aff": ""
     },
     {
@@ -4624,15 +4576,19 @@
         "aff": ""
     },
     {
+        "title": "HERA: Hybrid Explicit Representation for Ultra-Realistic Head Avatars",
+        "aff": ""
+    },
+    {
         "title": "HIIF: Hierarchical Encoding based Implicit Image Function for Continuous Super-resolution",
         "aff": ""
     },
     {
-        "title": "HMAR: Efficient Hierarchical Masked AutoRegressive Image Generation",
+        "title": "HMAR: Efficient Hierarchical Masked Auto-Regressive Image Generation",
         "aff": ""
     },
     {
-        "title": "HOIGPT: Learning Long Sequence Hand-Object Interaction with Language Models",
+        "title": "HOIGPT: Learning Long-Sequence Hand-Object Interaction with Language Models",
         "aff": ""
     },
     {
@@ -4680,7 +4636,7 @@
         "aff": ""
     },
     {
-        "title": "HVI: A New color space for Low-light Image Enhancement",
+        "title": "HVI: A New Color Space for Low-light Image Enhancement",
         "aff": ""
     },
     {
@@ -4689,6 +4645,10 @@
     },
     {
         "title": "HalLoc: Token-level Localization of Hallucinations for Vision Language Models",
+        "aff": ""
+    },
+    {
+        "title": "Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Video Diffusion Transformer",
         "aff": ""
     },
     {
@@ -4720,7 +4680,7 @@
         "aff": ""
     },
     {
-        "title": "Harnessing Global-local Collaborative Adversarial Perturbation for Anti-Customization",
+        "title": "Harnessing Global-Local Collaborative Adversarial Perturbation for Anti-Customization",
         "aff": ""
     },
     {
@@ -4749,10 +4709,6 @@
     },
     {
         "title": "Heterogeneous Skeleton-Based Action Representation Learning",
-        "aff": ""
-    },
-    {
-        "title": "Heterogeneous Teacher Distillation",
         "aff": ""
     },
     {
@@ -4808,10 +4764,6 @@
         "aff": ""
     },
     {
-        "title": "Hierarchy-Aware Evaluation of Free-Form Predictions From Vision-And-Language Models",
-        "aff": ""
-    },
-    {
         "title": "High Dynamic Range Video Compression: A Large-Scale Benchmark Dataset and A Learned Bit-depth Scalable Compression Algorithm",
         "aff": ""
     },
@@ -4837,10 +4789,6 @@
     },
     {
         "title": "Higher-Order Ratio Cycles for Fast and Globally Optimal Shape Matching",
-        "aff": ""
-    },
-    {
-        "title": "Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks",
         "aff": ""
     },
     {
@@ -4872,7 +4820,7 @@
         "aff": ""
     },
     {
-        "title": "HotSpot: Screened Poisson Equation for Signed Distance Function Optimization",
+        "title": "HotSpot: Signed Distance Function Optimization with an Asymptotically Sufficient Condition",
         "aff": ""
     },
     {
@@ -4888,15 +4836,11 @@
         "aff": ""
     },
     {
-        "title": "HuPerFlow: A Comprehensive Benchmark for Human vs. Machine Motion Estimation",
+        "title": "HuPerFlow: A Comprehensive Benchmark for Human vs. Machine Motion Estimation Comparison",
         "aff": ""
     },
     {
         "title": "Human Motion Instruction Tuning",
-        "aff": ""
-    },
-    {
-        "title": "Human-Aligned Video Generation Benchmark",
         "aff": ""
     },
     {
@@ -4916,11 +4860,11 @@
         "aff": ""
     },
     {
-        "title": "Hybrid Concept Bottleneck Models",
+        "title": "Hunyuan-Portrait: Implicit Condition Control for Enhanced Portrait Animation",
         "aff": ""
     },
     {
-        "title": "Hybrid Explicit Representation for Ultra-Realistic Head Avatars",
+        "title": "Hybrid Concept Bottleneck Models",
         "aff": ""
     },
     {
@@ -5004,11 +4948,11 @@
         "aff": ""
     },
     {
-        "title": "ICE: Intrinsic Concept Extraction From a Single Image via Diffusion Models",
+        "title": "IAAO: Interactive Affordance Learning for Articulated Objects in 3D Environments",
         "aff": ""
     },
     {
-        "title": "ICFace: Identity Code for Face Recognition at Scale",
+        "title": "ICE: Intrinsic Concept Extraction from a Single Image via Diffusion Models",
         "aff": ""
     },
     {
@@ -5044,7 +4988,7 @@
         "aff": ""
     },
     {
-        "title": "IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos",
+        "title": "IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular VideosC",
         "aff": ""
     },
     {
@@ -5065,10 +5009,6 @@
     },
     {
         "title": "IRIS: Inverse Rendering of Indoor Scenes from Low Dynamic Range Images",
-        "aff": ""
-    },
-    {
-        "title": "ISMimic: Learning Basketball Interaction Skills from Demonstrations",
         "aff": ""
     },
     {
@@ -5104,10 +5044,6 @@
         "aff": ""
     },
     {
-        "title": "ImPortrait: Implicit Condition Control for Enhanced Portrait Animation",
-        "aff": ""
-    },
-    {
         "title": "ImViD: Immersive Volumetric Videos for Enhanced VR Engagement",
         "aff": ""
     },
@@ -5128,19 +5064,15 @@
         "aff": ""
     },
     {
-        "title": "Image Re-ranking with Long-Context Sequence Modeling",
-        "aff": ""
-    },
-    {
         "title": "Image Reconstruction from Readout-Multiplexed Single-Photon Detector Arrays",
         "aff": ""
     },
     {
-        "title": "Image is All You Need to Empower Large-scale Diffusion Models for In-Domain Generation",
+        "title": "Image Referenced Sketch Colorization Based on Animation Creation Workflow",
         "aff": ""
     },
     {
-        "title": "Image-Referenced Sketch Colorization Based on Animation Creation Workflow",
+        "title": "Image is All You Need to Empower Large-scale Diffusion Models for In-Domain Generation",
         "aff": ""
     },
     {
@@ -5172,11 +5104,11 @@
         "aff": ""
     },
     {
-        "title": "Improved Video VAE for Latent Video Diffusion Model",
+        "title": "Improved Monocular Depth Prediction Using Distance Transform Over Pre-semantic Contours with Self-supervised Neural Networks",
         "aff": ""
     },
     {
-        "title": "Improved monocular depth prediction using distance transform over pre-semantic contours with self-supervised neural networks",
+        "title": "Improved Video VAE for Latent Video Diffusion Model",
         "aff": ""
     },
     {
@@ -5224,7 +5156,7 @@
         "aff": ""
     },
     {
-        "title": "Improving the Training of Data Efficient GANs via Quality Aware Dynamic Discriminator Rejection Sampling",
+        "title": "Improving the Training of Data-Efficient GANs via Quality Aware Dynamic Discriminator Rejection Sampling",
         "aff": ""
     },
     {
@@ -5340,7 +5272,7 @@
         "aff": ""
     },
     {
-        "title": "InterMimic: Towards Learning Universal Human-Object Interaction Skills from Imperfect Motion Capture",
+        "title": "InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions",
         "aff": ""
     },
     {
@@ -5356,10 +5288,6 @@
         "aff": ""
     },
     {
-        "title": "Interactive Affordance Learning for Articulated Objects in 3D Environments",
-        "aff": ""
-    },
-    {
         "title": "Interactive Medical Image Analysis with Concept-based Similarity Reasoning",
         "aff": ""
     },
@@ -5368,7 +5296,7 @@
         "aff": ""
     },
     {
-        "title": "Interleaved-modal Chain-of-Thought",
+        "title": "Interleaved-Modal Chain-of-Thought",
         "aff": ""
     },
     {
@@ -5388,10 +5316,6 @@
         "aff": ""
     },
     {
-        "title": "Inverting Flow for Image Restoration",
-        "aff": ""
-    },
-    {
         "title": "Investigating the Role of Weight Decay in Enhancing Nonconvex SGD",
         "aff": ""
     },
@@ -5404,7 +5328,7 @@
         "aff": ""
     },
     {
-        "title": "Is `Right' Right? Enhancing Object Orientation Understanding in Multimodal Language Models through Egocentric Instruction Tuning",
+        "title": "Is `Right' Right? Enhancing Object Orientation Understanding in Multimodal Large Language Models through Egocentric Instruction Tuning",
         "aff": ""
     },
     {
@@ -5468,7 +5392,7 @@
         "aff": ""
     },
     {
-        "title": "Just Dance with $\\pi$! A Poly-modal Inductor for Weakly-supervised Video Anomaly Detection",
+        "title": "Just Dance with pi! A Poly-modal Inductor for Weakly-supervised Video Anomaly Detection",
         "aff": ""
     },
     {
@@ -5488,6 +5412,10 @@
         "aff": ""
     },
     {
+        "title": "KVQ: Boosting Video Quality Assessment via Saliency-guided Local Perception",
+        "aff": ""
+    },
+    {
         "title": "Keep the Balance: A Parameter-Efficient Symmetrical Framework for RGB+X Semantic Segmentation",
         "aff": ""
     },
@@ -5496,7 +5424,7 @@
         "aff": ""
     },
     {
-        "title": "Keypoints Good for the Two-View Geometry Estimation Problem",
+        "title": "Keyframe-Guided Creative Video Inpainting",
         "aff": ""
     },
     {
@@ -5504,7 +5432,7 @@
         "aff": ""
     },
     {
-        "title": "Knowledge Bridger: Towards Training-free Missing Multi-modality Completion",
+        "title": "Knowledge Bridger: Towards Training-Free Missing Modality Completion",
         "aff": ""
     },
     {
@@ -5520,7 +5448,7 @@
         "aff": ""
     },
     {
-        "title": "L-SWAG: Layer-Sample Wise Activation with Gradients information for Zero-Shot NAS on Vision Transformers",
+        "title": "L-SWAG: Layer-Sample Wise Activation with Gradients Information for Zero-Shot NAS on Vision Transformers",
         "aff": ""
     },
     {
@@ -5528,11 +5456,15 @@
         "aff": ""
     },
     {
+        "title": "LATTE-MV: Learning to Anticipate Table Tennis Hits from Monocular Videos",
+        "aff": ""
+    },
+    {
         "title": "LC-Mamba: Local and Continuous Mamba with Shifted Windows for Frame Interpolation",
         "aff": ""
     },
     {
-        "title": "LEDiff:Latent Exposure Diffusion for HDR Generation",
+        "title": "LEDiff: Latent Exposure Diffusion for HDR Generation",
         "aff": ""
     },
     {
@@ -5541,6 +5473,10 @@
     },
     {
         "title": "LION-FS: Fast & Slow Video-Language Thinker as Online Video Assistant",
+        "aff": ""
+    },
+    {
+        "title": "LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields",
         "aff": ""
     },
     {
@@ -5572,7 +5508,11 @@
         "aff": ""
     },
     {
-        "title": "LOD-GS: Achieving Level of Details using Scalable Gaussian Soup",
+        "title": "LOCORE: Image Re-ranking with Long-Context Sequence Modeling",
+        "aff": ""
+    },
+    {
+        "title": "LOD-GS: Achieving Levels of Detail using Scalable Gaussian Soup",
         "aff": ""
     },
     {
@@ -5601,10 +5541,6 @@
     },
     {
         "title": "LUCAS: Layered Universal Codec Avatars",
-        "aff": ""
-    },
-    {
-        "title": "LUMINET: Image-based Indoor Scene Relighting via Latent Intrinsics",
         "aff": ""
     },
     {
@@ -5644,10 +5580,6 @@
         "aff": ""
     },
     {
-        "title": "Large Inverse Rendering Model for Reconstruction of Shape, Materials and Realistic Radiance Field",
-        "aff": ""
-    },
-    {
         "title": "Large Self-Supervised Models Bridge the Gap in Domain Adaptive Object Detection",
         "aff": ""
     },
@@ -5668,11 +5600,11 @@
         "aff": ""
     },
     {
-        "title": "Latent space Super-Resolution for Higher-Resolution Image Generation with Diffusion Models",
+        "title": "Latent Space Super-Resolution for Higher-Resolution Image Generation with Diffusion Models",
         "aff": ""
     },
     {
-        "title": "LatentHOI: On the Generalizable Hand Object Motion Generation with Latent Hand Diffusion",
+        "title": "LatentHOI: On the Generalizable Hand Object Motion Generation with Latent Hand Diffusion.",
         "aff": ""
     },
     {
@@ -5684,7 +5616,7 @@
         "aff": ""
     },
     {
-        "title": "Layered motion fusion: Lifting motion segmentation to 3D in egocentric videos",
+        "title": "Layered Motion Fusion: Lifting Motion Segmentation to 3D in Egocentric Videos",
         "aff": ""
     },
     {
@@ -5724,7 +5656,7 @@
         "aff": ""
     },
     {
-        "title": "Learning Class Prototype for Unified Sparse Supervised 3D Object Detection",
+        "title": "Learning Class Prototypes for Unified Sparse-Supervised 3D Object Detection",
         "aff": ""
     },
     {
@@ -5800,10 +5732,6 @@
         "aff": ""
     },
     {
-        "title": "Learning a Visual Lexicon from Diffusion Models",
-        "aff": ""
-    },
-    {
         "title": "Learning from Neighbors: Category Extrapolation for Long-Tail Learning",
         "aff": ""
     },
@@ -5820,10 +5748,6 @@
         "aff": ""
     },
     {
-        "title": "Learning to Anticipate Table Tennis Hits from Monocular Video",
-        "aff": ""
-    },
-    {
         "title": "Learning to Detect Objects from Multi-Agent LiDAR Scans without Manual Labels",
         "aff": ""
     },
@@ -5836,15 +5760,11 @@
         "aff": ""
     },
     {
-        "title": "Learning to Normalize on the SPD Manifold under Bures-Wasserstein geometry",
+        "title": "Learning to Normalize on the SPD Manifold under Bures-Wasserstein Geometry",
         "aff": ""
     },
     {
         "title": "Learning to Sample Effective and Diverse Prompts for Text-to-Image Generation",
-        "aff": ""
-    },
-    {
-        "title": "Learning with Dynamic Motion Blending for Versatile Motion Editing",
         "aff": ""
     },
     {
@@ -5872,11 +5792,11 @@
         "aff": ""
     },
     {
-        "title": "Lessons Learned from a Unifying Empirical Study of Parameter-Efficient Fine-Tuning (PEFT) in Visual Recognition",
+        "title": "Lessons and Insights from a Unifying Study of Parameter-Efficient Fine-Tuning (PEFT) in Visual Recognition",
         "aff": ""
     },
     {
-        "title": "Let Humanoid Robots Go Hiking! Integrative Skill Development over Complex Trails",
+        "title": "Let Humanoids Hike! Integrative Skill Development on Complex Trails",
         "aff": ""
     },
     {
@@ -5940,6 +5860,10 @@
         "aff": ""
     },
     {
+        "title": "LidarGait++: Learning Local Features and Size Awareness from LiDAR Point Clouds for 3D Gait Recognition",
+        "aff": ""
+    },
+    {
         "title": "Lifelong Knowledge Editing for Vision Language Models with Low-Rank Mixture-of-Experts",
         "aff": ""
     },
@@ -5960,7 +5884,7 @@
         "aff": ""
     },
     {
-        "title": "Light3R-SfM: Towards Feed-forward Structure-from-motion",
+        "title": "Light3R-SfM: Towards Feed-forward Structure-from-Motion",
         "aff": ""
     },
     {
@@ -5992,15 +5916,15 @@
         "aff": ""
     },
     {
-        "title": "LiveComment: Learn Streaming Video LLM with Speech Transcription at Scale",
-        "aff": ""
-    },
-    {
-        "title": "LiveStroke: Abstracting 3D Motion from Videos",
+        "title": "LiveCC: Learning Video LLM with Streaming Speech Transcription at Scale",
         "aff": ""
     },
     {
         "title": "LoKi: Low-dimensional KAN for Efficient Fine-tuning Image Models",
+        "aff": ""
+    },
+    {
+        "title": "LoRA Recycle: Unlocking Tuning-Free Few-Shot Adaptability in Visual Foundation Models by Recycling Pre-Tuned LoRAs",
         "aff": ""
     },
     {
@@ -6072,11 +5996,15 @@
         "aff": ""
     },
     {
+        "title": "Low-Biased General Annotated Dataset Generation",
+        "aff": ""
+    },
+    {
         "title": "Low-Rank Adaptation in Multilinear Operator Networks for Security-Preserving Incremental Learning",
         "aff": ""
     },
     {
-        "title": "Low-Rank Adaptation with Token Selection for Point Cloud Learning",
+        "title": "LumiNet: Latent Intrinsics Meets Diffusion Models for Indoor Scene Relighting",
         "aff": ""
     },
     {
@@ -6085,10 +6013,6 @@
     },
     {
         "title": "Lux Post Facto: Learning Portrait Performance Relighting with Conditional Video Diffusion and a Hybrid Dataset",
-        "aff": ""
-    },
-    {
-        "title": "M$^3$-VOS: Multi-Phase, Multi-Transition, and Multi-Scenery Video Object Segmentation",
         "aff": ""
     },
     {
@@ -6124,7 +6048,7 @@
         "aff": ""
     },
     {
-        "title": "MANTA: Diffusion Mamba for Efficient and Effective Stochastic Long-Term Dense Anticipation",
+        "title": "MANTA: Diffusion Mamba for Efficient and Effective Stochastic Long-Term Dense Action Anticipation",
         "aff": ""
     },
     {
@@ -6132,7 +6056,7 @@
         "aff": ""
     },
     {
-        "title": "MAR-3D: Progressive Masked Auto-regressor for High-Resolution 3D Genaration",
+        "title": "MAR-3D: Progressive Masked Auto-regressor for High-Resolution 3D Generation",
         "aff": ""
     },
     {
@@ -6164,11 +6088,11 @@
         "aff": ""
     },
     {
-        "title": "MC$^2$: Multi-concept Guidance for Customized Multi-concept Generation",
+        "title": "MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation",
         "aff": ""
     },
     {
-        "title": "MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation",
+        "title": "MC^2: Multi-concept Guidance for Customized Multi-concept Generation",
         "aff": ""
     },
     {
@@ -6180,7 +6104,7 @@
         "aff": ""
     },
     {
-        "title": "MEET: Towards Memory-Efficient Temporal Delta-Sigma Deep Neural Networks",
+        "title": "MEET: Towards Memory-Efficient Temporal Sparse Deep Neural Networks",
         "aff": ""
     },
     {
@@ -6228,7 +6152,7 @@
         "aff": ""
     },
     {
-        "title": "MIMO: A medical vision language model with visual referring multimodal input and pixel grounding multimodal output",
+        "title": "MIMO: A Medical Vision Language Model with Visual Referring Multimodal Input and Pixel Grounding Multimodal Output",
         "aff": ""
     },
     {
@@ -6256,11 +6180,15 @@
         "aff": ""
     },
     {
-        "title": "MM-OR: A Large Multimodal Operating Room Dataset for Semantic Understanding of High Intensity Surgical Environments",
+        "title": "MM-OR: A Large Multimodal Operating Room Dataset for Semantic Understanding of High-Intensity Surgical Environments",
         "aff": ""
     },
     {
         "title": "MMAR: Towards Lossless Multi-Modal Auto-Regressive Probabilistic Modeling",
+        "aff": ""
+    },
+    {
+        "title": "MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis",
         "aff": ""
     },
     {
@@ -6284,7 +6212,7 @@
         "aff": ""
     },
     {
-        "title": "MODfinity Unsupervised Domain Adaptation with Multimodal Information Flow Intertwining",
+        "title": "MODfinity: Unsupervised Domain Adaptation with Multimodal Information Flow Intertwining",
         "aff": ""
     },
     {
@@ -6304,6 +6232,10 @@
         "aff": ""
     },
     {
+        "title": "MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion",
+        "aff": ""
+    },
+    {
         "title": "MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving",
         "aff": ""
     },
@@ -6316,7 +6248,7 @@
         "aff": ""
     },
     {
-        "title": "MUSt3R : Multi-view Network for Stereo 3D Reconstruction",
+        "title": "MUSt3R: Multi-view Network for Stereo 3D Reconstruction",
         "aff": ""
     },
     {
@@ -6344,7 +6276,7 @@
         "aff": ""
     },
     {
-        "title": "MVPaint: 3D Texture Generation with Multi-View Consistency",
+        "title": "MVPaint: Synchronized Multi-View Diffusion for Painting Anything 3D",
         "aff": ""
     },
     {
@@ -6352,7 +6284,11 @@
         "aff": ""
     },
     {
-        "title": "MVSAnywhere: Zero Shot Multi-View Stereo",
+        "title": "MVSAnywhere: Zero-Shot Multi-View Stereo",
+        "aff": ""
+    },
+    {
+        "title": "M^3-VOS: Multi-Phase, Multi-Transition, and Multi-Scenery Video Object Segmentation",
         "aff": ""
     },
     {
@@ -6400,7 +6336,7 @@
         "aff": ""
     },
     {
-        "title": "Mamba as a Bridge: Where VFM Meets VLM for Domain-Generalized Semantic Segmentation",
+        "title": "Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation",
         "aff": ""
     },
     {
@@ -6432,7 +6368,7 @@
         "aff": ""
     },
     {
-        "title": "MambaVO: Deep Visual Odometry by Sequential Matching Refinement and Training Smoothing",
+        "title": "MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement and Training Smoothing",
         "aff": ""
     },
     {
@@ -6440,7 +6376,7 @@
         "aff": ""
     },
     {
-        "title": "MammAlps: A multi-view video dataset of wild mammals behavior monitoring in the Swiss Alps",
+        "title": "MammAlps: A Multi-view Video Behavior Monitoring Dataset of Wild Mammals in the Swiss Alps",
         "aff": ""
     },
     {
@@ -6468,10 +6404,6 @@
         "aff": ""
     },
     {
-        "title": "Mask$^2$DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation",
-        "aff": ""
-    },
-    {
         "title": "Mask-Adapter: The Devil is in the Masks for Open-Vocabulary Segmentation",
         "aff": ""
     },
@@ -6484,11 +6416,15 @@
         "aff": ""
     },
     {
+        "title": "Mask^2DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation",
+        "aff": ""
+    },
+    {
         "title": "Masked Point-Entity Contrast for Open-Vocabulary 3D Scene Understanding",
         "aff": ""
     },
     {
-        "title": "Masked Scene Modeling: Supervised-Level Performance with Self-Supervised Learning in 3D Scene Understanding",
+        "title": "Masked Scene Modeling: Narrowing the Gap Between Supervised and Self-Supervised Learning in 3D Scene Understanding",
         "aff": ""
     },
     {
@@ -6501,10 +6437,6 @@
     },
     {
         "title": "Material Anything: Generating Materials for Any 3D Object via Diffusion",
-        "aff": ""
-    },
-    {
-        "title": "MaterialFusion: High-Quality, Zero-Shot, and Controllable Material Transfer with Diffusion Models",
         "aff": ""
     },
     {
@@ -6548,7 +6480,7 @@
         "aff": ""
     },
     {
-        "title": "MeshArt: Generating Articulated Meshes with Structure-guided Transformers",
+        "title": "MeshArt: Generating Articulated Meshes with Structure-Guided Transformers",
         "aff": ""
     },
     {
@@ -6556,11 +6488,11 @@
         "aff": ""
     },
     {
-        "title": "Meta-Learning Hyperparameters for Foundation Model Adaptation in Remote-Sensing Imagery",
+        "title": "Meta-Learning Hyperparameters for Parameter Efficient Fine-Tuning",
         "aff": ""
     },
     {
-        "title": "MetaShadow: Object-Centered Shadow Detection, Removal, and Synthesis.",
+        "title": "MetaShadow: Object-Centered Shadow Detection, Removal, and Synthesis",
         "aff": ""
     },
     {
@@ -6581,6 +6513,10 @@
     },
     {
         "title": "Mimir: Improving Video Diffusion Models for Precise Text Understanding",
+        "aff": ""
+    },
+    {
+        "title": "Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch",
         "aff": ""
     },
     {
@@ -6636,11 +6572,11 @@
         "aff": ""
     },
     {
-        "title": "MixerMDM: Learnable Mixing of Human Motion Diffusion Models",
+        "title": "MixerMDM: Learnable Composition of Human Motion Diffusion Models",
         "aff": ""
     },
     {
-        "title": "Mixture of Submodule for Domain Adaptive Person Search",
+        "title": "Mixture of Submodules for Domain Adaptive Person Search",
         "aff": ""
     },
     {
@@ -6656,7 +6592,7 @@
         "aff": ""
     },
     {
-        "title": "MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation Distillation",
+        "title": "MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation based Distillation",
         "aff": ""
     },
     {
@@ -6752,10 +6688,6 @@
         "aff": ""
     },
     {
-        "title": "Monocular Depth Priors for Robust Structure-from-Motion",
-        "aff": ""
-    },
-    {
         "title": "Monocular and Generalizable Gaussian Talking Head Animation",
         "aff": ""
     },
@@ -6776,7 +6708,7 @@
         "aff": ""
     },
     {
-        "title": "Motion Modes: What Happens Next?",
+        "title": "Motion Modes: What Could Happen Next?",
         "aff": ""
     },
     {
@@ -6789,10 +6721,6 @@
     },
     {
         "title": "MotionBench: Benchmarking and Improving Fine-grained Video Motion Understanding for Vision Language Models",
-        "aff": ""
-    },
-    {
-        "title": "MotionDiT: Text-Based Human Motion Editing with Motion Similarity Prediction via Diffusion Transformers",
         "aff": ""
     },
     {
@@ -6828,7 +6756,7 @@
         "aff": ""
     },
     {
-        "title": "Mr. DETR: Multi-Route Training for Detection Transformers with Instructive Self-Attention",
+        "title": "Mr. DETR: Instructive Multi-Route Training for Detection Transformers",
         "aff": ""
     },
     {
@@ -6841,6 +6769,14 @@
     },
     {
         "title": "Multi-Group Proportional Representations for Text-to-Image Models",
+        "aff": ""
+    },
+    {
+        "title": "Multi-Label Prototype Visual Spatial Search for Weakly Supervised Semantic Segmentation",
+        "aff": ""
+    },
+    {
+        "title": "Multi-Layer Visual Feature Fusion in Multimodal LLMs: Methods, Analysis, and Best Practices",
         "aff": ""
     },
     {
@@ -6876,14 +6812,6 @@
         "aff": ""
     },
     {
-        "title": "Multi-label Prototype Visual Spatial Search for Weakly Supervised Semantic Segmentation",
-        "aff": ""
-    },
-    {
-        "title": "Multi-layer Visual Feature Fusion in Multimodal LLMs: Methods, Analysis, and Best Practices",
-        "aff": ""
-    },
-    {
         "title": "Multi-modal Contrastive Learning with Negative Sampling Calibration for Phenotypic Drug Discovery",
         "aff": ""
     },
@@ -6905,6 +6833,10 @@
     },
     {
         "title": "Multi-party Collaborative Attention Control for Image Customization",
+        "aff": ""
+    },
+    {
+        "title": "Multi-subject Open-set Personalization in Video Generation",
         "aff": ""
     },
     {
@@ -6948,10 +6880,6 @@
         "aff": ""
     },
     {
-        "title": "NGV: Neural Gaussian Velocity for 3D Physics Modeling from Dynamic Videos",
-        "aff": ""
-    },
-    {
         "title": "NLPrompt: Noise-Label Prompt Learning for Vision-Language Models",
         "aff": ""
     },
@@ -6960,7 +6888,7 @@
         "aff": ""
     },
     {
-        "title": "NSD-Imagery: A benchmark dataset for extending fMRI vision decoding methods to mental imagery",
+        "title": "NSD-Imagery: A Benchmark Dataset for Extending fMRI Vision Decoding Methods to Mental Imagery",
         "aff": ""
     },
     {
@@ -6968,7 +6896,7 @@
         "aff": ""
     },
     {
-        "title": "NTR-Gaussian: Nighttime Thermal Reconstruction with 4D Gaussian Splatting Based on Thermodynamics",
+        "title": "NTR-Gaussian: Nighttime Dynamic Thermal Reconstruction with 4D Gaussian Splatting Based on Thermodynamics",
         "aff": ""
     },
     {
@@ -7012,7 +6940,7 @@
         "aff": ""
     },
     {
-        "title": "Nested Diffusion Models using Hierarchical Latent Priors",
+        "title": "Nested Diffusion Models Using Hierarchical Latent Priors",
         "aff": ""
     },
     {
@@ -7044,6 +6972,10 @@
         "aff": ""
     },
     {
+        "title": "Neuron: Learning Context-Aware Evolving Representations for Zero-Shot Skeleton Action Recognition",
+        "aff": ""
+    },
+    {
         "title": "NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting",
         "aff": ""
     },
@@ -7060,7 +6992,7 @@
         "aff": ""
     },
     {
-        "title": "No Thing, Nothing: Highlighting Safety-Critical Classes for Robust LiDAR Semantic Segmentation",
+        "title": "No Thing, Nothing: Highlighting Safety-Critical Classes for Robust LiDAR Semantic Segmentation in Adverse Weather",
         "aff": ""
     },
     {
@@ -7108,7 +7040,7 @@
         "aff": ""
     },
     {
-        "title": "Not Just Text: Uncovering Vision Modality Threats in Image Generation Models",
+        "title": "Not Just Text: Uncovering Vision Modality Typographic Threats in Image Generation Models",
         "aff": ""
     },
     {
@@ -7140,15 +7072,15 @@
         "aff": ""
     },
     {
-        "title": "OD3R: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos",
-        "aff": ""
-    },
-    {
         "title": "ODA-GAN: Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised Learning for Virtual Immunohistochemistry Staining",
         "aff": ""
     },
     {
         "title": "ODE: Open-Set Evaluation of Hallucinations in Multimodal Large Language Models",
+        "aff": ""
+    },
+    {
+        "title": "ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos",
         "aff": ""
     },
     {
@@ -7188,7 +7120,7 @@
         "aff": ""
     },
     {
-        "title": "OVBench: How Far is Your Video-LLMs from Real-World Online Video Understanding?",
+        "title": "OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video Understanding?",
         "aff": ""
     },
     {
@@ -7252,15 +7184,11 @@
         "aff": ""
     },
     {
-        "title": "Omni-scale Context Modeling with State Space Models and Local Attention for Semantic Segmentation",
-        "aff": ""
-    },
-    {
         "title": "OmniDocBench: Benchmarking Diverse PDF Document Parsing with Comprehensive Annotations",
         "aff": ""
     },
     {
-        "title": "OmniDrive: A Holistic Vision-Language Dataset for Autonomous Driving with Counter Factual Reasoning",
+        "title": "OmniDrive: A Holistic Vision-Language Dataset for Autonomous Driving with Counterfactual Reasoning",
         "aff": ""
     },
     {
@@ -7340,11 +7268,11 @@
         "aff": ""
     },
     {
-        "title": "One for More: Conditinual Diffusion Model for Anomaly Detection",
+        "title": "One is Plenty: A Polymorphic Feature Interpreter for Immutable Heterogeneous Collaborative Perception",
         "aff": ""
     },
     {
-        "title": "One is Plenty: A Polymorphic Feature Interpreter for Immutable Heterogeneous Collaborative Perception",
+        "title": "One-Minute Video Generation with Test-Time Training",
         "aff": ""
     },
     {
@@ -7352,11 +7280,15 @@
         "aff": ""
     },
     {
-        "title": "One-shot 3D Object Canonicalization based on Geometric and Semantic Consistency",
+        "title": "One-Way Ticket: Time-Independent Unified Encoder for Distilling Text-to-Image Diffusion Models",
         "aff": ""
     },
     {
-        "title": "One-way ticket: Time-Independent Unified Encoder for Distilling Text-to-Image Diffusion Models",
+        "title": "One-for-More: Continual Diffusion Model for Anomaly Detection",
+        "aff": ""
+    },
+    {
+        "title": "One-shot 3D Object Canonicalization based on Geometric and Semantic Consistency",
         "aff": ""
     },
     {
@@ -7365,6 +7297,10 @@
     },
     {
         "title": "Online Task-Free Continual Learning via Dynamic Expansionable Memory Distribution",
+        "aff": ""
+    },
+    {
+        "title": "Online Video Understanding: OVBench and VideoChat-Online",
         "aff": ""
     },
     {
@@ -7416,11 +7352,11 @@
         "aff": ""
     },
     {
-        "title": "Optical LEGO: An Optical Imaging Dataset and Benchmark at Deeply Subwavelength Resolution",
+        "title": "Optical-Flow Guided Prompt Optimization for Coherent Video Generation",
         "aff": ""
     },
     {
-        "title": "Optical-Flow Guided Prompt Optimization for Coherent Video Generation",
+        "title": "OpticalNet: An Optical Imaging Dataset and Benchmark Beyond the Diffraction Limit",
         "aff": ""
     },
     {
@@ -7432,7 +7368,7 @@
         "aff": ""
     },
     {
-        "title": "Optimus-2: Mulitimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy",
+        "title": "Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy",
         "aff": ""
     },
     {
@@ -7480,7 +7416,7 @@
         "aff": ""
     },
     {
-        "title": "PCM : Picard Consistency Model for Fast Parallel Sampling of Diffuson Models",
+        "title": "PCM : Picard Consistency Model for Fast Parallel Sampling of Diffusion Models",
         "aff": ""
     },
     {
@@ -7492,11 +7428,15 @@
         "aff": ""
     },
     {
-        "title": "PEER pressure: Model-to-Model Regularization for Single Source Domain Generalization",
+        "title": "PEER Pressure: Model-to-Model Regularization for Single Source Domain Generalization",
         "aff": ""
     },
     {
         "title": "PERSE: Personalized 3D Generative Avatars from A Single Portrait",
+        "aff": ""
+    },
+    {
+        "title": "PGC: Physics-Based Gaussian Cloth from a Single Pose",
         "aff": ""
     },
     {
@@ -7544,7 +7484,7 @@
         "aff": ""
     },
     {
-        "title": "POMP: Physics-consistent Human Motion Prior through Phase Manifolds",
+        "title": "POMP: Physics-constrainable Motion Generative Model through Phase Manifolds",
         "aff": ""
     },
     {
@@ -7592,7 +7532,7 @@
         "aff": ""
     },
     {
-        "title": "PTDiffusion: Free Lunch for Generating Optical Illusion Hidden Pictures using Phase-Transferred Diffusion Model",
+        "title": "PTDiffusion: Free Lunch for Generating Optical Illusion Hidden Pictures with Phase-Transferred Diffusion Model",
         "aff": ""
     },
     {
@@ -7612,7 +7552,7 @@
         "aff": ""
     },
     {
-        "title": "PanDA: Towards Panoramic Depth Anything with Unlabeled Panoramas and M\\\"obius Spatial Augmentation",
+        "title": "PanDA: Towards Panoramic Depth Anything with Unlabeled Panoramas and Mobius Spatial Augmentation",
         "aff": ""
     },
     {
@@ -7632,7 +7572,7 @@
         "aff": ""
     },
     {
-        "title": "Parallel Sequence Modeling via Generalization Spatial Propagation Network",
+        "title": "Parallel Sequence Modeling via Generalized Spatial Propagation Network",
         "aff": ""
     },
     {
@@ -7660,7 +7600,7 @@
         "aff": ""
     },
     {
-        "title": "PartRM: Modeling Part-Level Dynamics with Large 4D Reconstruction Model",
+        "title": "PartRM: Modeling Part-Level Dynamics with Large Cross-State Reconstruction Model",
         "aff": ""
     },
     {
@@ -7704,15 +7644,15 @@
         "aff": ""
     },
     {
+        "title": "PerLA: Perceptive 3D Language Assistant",
+        "aff": ""
+    },
+    {
         "title": "Percept, Memory, and Imagine: World Feature Simulating for Open-Domain Unknown Object Detection",
         "aff": ""
     },
     {
         "title": "Perception Tokens Enhance Visual Reasoning in Multimodal Language Models",
-        "aff": ""
-    },
-    {
-        "title": "Perceptive 3D language assistant",
         "aff": ""
     },
     {
@@ -7740,7 +7680,7 @@
         "aff": ""
     },
     {
-        "title": "PersonaHOI: Effortlessly Improving Personalized Face with Human-Object Interaction Generation",
+        "title": "PersonaHOI: Effortlessly Improving Face Personalization in Human-Object Interaction Generation",
         "aff": ""
     },
     {
@@ -7752,19 +7692,11 @@
         "aff": ""
     },
     {
-        "title": "PhD: A ChatGPT-Prompted Visual hallucination Evaluation Dataset",
-        "aff": ""
-    },
-    {
-        "title": "PhaseScene : Dynamic Scene Generation with Phase-Specific Action Modeling for Embodied AI",
+        "title": "PhD: A ChatGPT-Prompted Visual Hallucination Evaluation Dataset",
         "aff": ""
     },
     {
         "title": "Phoenix: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction",
-        "aff": ""
-    },
-    {
-        "title": "Photorealistic Simulation-Ready Garments from a Single Pose",
         "aff": ""
     },
     {
@@ -7780,6 +7712,10 @@
         "aff": ""
     },
     {
+        "title": "PhysGen3D: Crafting a Miniature Interactive World from a Single Image",
+        "aff": ""
+    },
+    {
         "title": "PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability",
         "aff": ""
     },
@@ -7792,7 +7728,7 @@
         "aff": ""
     },
     {
-        "title": "PillarHist: Height-aware Histogram for Quantization-friendly Pillar Feature Encoder",
+        "title": "PillarHist: A Quantization-aware Pillar Feature Encoder based on Height-aware Histogram",
         "aff": ""
     },
     {
@@ -7828,10 +7764,6 @@
         "aff": ""
     },
     {
-        "title": "Plug-and-Play Proximal Restoration Priors for Single-Pixel Imaging",
-        "aff": ""
-    },
-    {
         "title": "Plug-and-Play Versatile Compressed Video Enhancement",
         "aff": ""
     },
@@ -7848,10 +7780,6 @@
         "aff": ""
     },
     {
-        "title": "Point-Level Visual Affordance Guided Retrieval and Adaptation for Cluttered Garments Manipulation",
-        "aff": ""
-    },
-    {
         "title": "Point-to-Region Loss for Semi-Supervised Point-Based Crowd Counting",
         "aff": ""
     },
@@ -7860,7 +7788,11 @@
         "aff": ""
     },
     {
-        "title": "PointSR: Self-regularized Point Supervision for Drone-view Object Detection",
+        "title": "PointLoRA: Low-Rank Adaptation with Token Selection for Point Cloud Learning",
+        "aff": ""
+    },
+    {
+        "title": "PointSR: Self-Regularized Point Supervision for Drone-View Object Detection",
         "aff": ""
     },
     {
@@ -7896,7 +7828,7 @@
         "aff": ""
     },
     {
-        "title": "PoseBH: Propotypical Multi-Dataset Training Beyond Human Pose Estimation",
+        "title": "PoseBH: Prototypical Multi-Dataset Training Beyond Human Pose Estimation",
         "aff": ""
     },
     {
@@ -7920,11 +7852,7 @@
         "aff": ""
     },
     {
-        "title": "Potential Field based Metric Learning",
-        "aff": ""
-    },
-    {
-        "title": "Potts Relaxations and Soft Self-labeling for Weakly-supervised Segmentation",
+        "title": "Potential Field Based Deep Metric Learning",
         "aff": ""
     },
     {
@@ -7932,7 +7860,11 @@
         "aff": ""
     },
     {
-        "title": "Practical solutions to the relative pose of three calibrated cameras",
+        "title": "PrEditor3D: Fast and Precise 3D Shape Editing",
+        "aff": ""
+    },
+    {
+        "title": "Practical Solutions to the Relative Pose of Three Calibrated Cameras",
         "aff": ""
     },
     {
@@ -7976,15 +7908,15 @@
         "aff": ""
     },
     {
+        "title": "ProKeR: A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models",
+        "aff": ""
+    },
+    {
         "title": "ProReflow: Progressive Reflow with Decomposed Velocity",
         "aff": ""
     },
     {
         "title": "ProbPose: A Probabilistic Approach to 2D Human Pose Estimation",
-        "aff": ""
-    },
-    {
-        "title": "Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction",
         "aff": ""
     },
     {
@@ -8036,7 +7968,7 @@
         "aff": ""
     },
     {
-        "title": "Prompt-CAM: Prompt-Class Attention Map for Fine-grained Interpretation",
+        "title": "Prompt-CAM: Making Vision Transformers Interpretable for Fine-Grained Analysis",
         "aff": ""
     },
     {
@@ -8048,7 +7980,7 @@
         "aff": ""
     },
     {
-        "title": "PromptHash:Affinity-Prompted Collaborative Cross-Modal Learning for Adaptive Hashing Retrieval",
+        "title": "PromptHash: Affinity-Prompted Collaborative Cross-Modal Learning for Adaptive Hashing Retrieval",
         "aff": ""
     },
     {
@@ -8076,15 +8008,15 @@
         "aff": ""
     },
     {
+        "title": "Proximal Algorithm Unrolling: Flexible and Efficient Reconstruction Networks for Single-Pixel Imaging",
+        "aff": ""
+    },
+    {
         "title": "ProxyTransformation: Preshaping Point Cloud Manifold With Proxy Attention For 3D Visual Grounding",
         "aff": ""
     },
     {
         "title": "Pseudo Visible Feature Fine-Grained Fusion for Thermal Object Detection",
-        "aff": ""
-    },
-    {
-        "title": "PulseCheck457: A Diagnostic Benchmark for Comprehensive Spatial Reasoning of Large Mutimodal Models",
         "aff": ""
     },
     {
@@ -8160,7 +8092,7 @@
         "aff": ""
     },
     {
-        "title": "RADIO Amplified: Improved Baselines for Agglomerative Vision Foundation Models",
+        "title": "RADIOv2.5: Improved Baselines for Agglomerative Vision Foundation Models",
         "aff": ""
     },
     {
@@ -8169,6 +8101,10 @@
     },
     {
         "title": "RANGE: Retrieval Augmented Neural Fields for Multi-Resolution Geo-Embeddings",
+        "aff": ""
+    },
+    {
+        "title": "RAP: Retrieval-Augmented Personalization for Multimodal Large Language Models",
         "aff": ""
     },
     {
@@ -8196,11 +8132,15 @@
         "aff": ""
     },
     {
-        "title": "RGBAvatar: Reduced Gaussian Blendshapes for Head Avatar Animation",
+        "title": "REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning",
         "aff": ""
     },
     {
-        "title": "RICCARDO: Radar Hits Prediction and Convolution for Target Detection with Radar-Camera Fusion",
+        "title": "RGBAvatar: Reduced Gaussian Blendshapes for Online Modeling of Head Avatars",
+        "aff": ""
+    },
+    {
+        "title": "RICCARDO: Radar Hit Prediction and Convolution for Camera-Radar 3D Object Detection",
         "aff": ""
     },
     {
@@ -8236,11 +8176,11 @@
         "aff": ""
     },
     {
-        "title": "RSAR: Restricted State Angle Resolver and Rotated SAR Benchmark",
+        "title": "ROS-SAM: High-Quality Interactive Segmentation for Remote Sensing Moving Object",
         "aff": ""
     },
     {
-        "title": "RSVOS-SAM: High-Quality Interactive Segmentation for Remote Sensing Video Object",
+        "title": "RSAR: Restricted State Angle Resolver and Rotated SAR Benchmark",
         "aff": ""
     },
     {
@@ -8268,11 +8208,11 @@
         "aff": ""
     },
     {
-        "title": "Random Conditioning for Diffusion Model Compression with Distillation",
+        "title": "Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression",
         "aff": ""
     },
     {
-        "title": "Rashomon Sets for Prototypical-Part Models: Editing Accurate Interpretable Models in Real-Time",
+        "title": "Rashomon Sets for Prototypical-Part Networks: Editing Interpretable Models in Real-Time",
         "aff": ""
     },
     {
@@ -8316,7 +8256,7 @@
         "aff": ""
     },
     {
-        "title": "ReRAW: RAW-from-RGB Image Reconstruction via Stratified Sampling for Efficient Object Detection on the Edge",
+        "title": "ReRAW: RGB-to-RAW Image Reconstruction via Stratified Sampling for Efficient Object Detection on the Edge",
         "aff": ""
     },
     {
@@ -8333,10 +8273,6 @@
     },
     {
         "title": "Real-IAD D\u00b3: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection",
-        "aff": ""
-    },
-    {
-        "title": "Real-Time Multi-Person 3D Mesh Estimation via Scale-Adaptive Tokens",
         "aff": ""
     },
     {
@@ -8372,11 +8308,11 @@
         "aff": ""
     },
     {
-        "title": "Reasoning in visual navigation of end-to-end trained agents: a dynamical systems approach",
+        "title": "Reasoning in Visual Navigation of End-to-end Trained Agents: A Dynamical Systems Approach",
         "aff": ""
     },
     {
-        "title": "Reasoning to Attend: Try to Understand How [SEG] Token Works",
+        "title": "Reasoning to Attend: Try to Understand How <SEG> Token Works",
         "aff": ""
     },
     {
@@ -8412,11 +8348,15 @@
         "aff": ""
     },
     {
+        "title": "Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models",
+        "aff": ""
+    },
+    {
         "title": "Recover and Match: Open-Vocabulary Multi-Label Recognition through Knowledge-Constrained Optimal Transport",
         "aff": ""
     },
     {
-        "title": "Recreating 1940s Tom and Jerry with Test-Time Training",
+        "title": "Recovering Dynamic 3D Sketches from Videos",
         "aff": ""
     },
     {
@@ -8445,10 +8385,6 @@
     },
     {
         "title": "Ref-GS: Directional Factorization for 2D Gaussian Splatting",
-        "aff": ""
-    },
-    {
-        "title": "Ref-GS: Modeling View-Dependent Appearance with Environment Gaussian",
         "aff": ""
     },
     {
@@ -8504,7 +8440,7 @@
         "aff": ""
     },
     {
-        "title": "Resilient Sensor Fusion under Adverse Sensor Failures via Multi-Modal Expert Fusion",
+        "title": "Resilient Sensor Fusion Under Adverse Sensor Failures via Multi-Modal Expert Fusion",
         "aff": ""
     },
     {
@@ -8516,10 +8452,6 @@
         "aff": ""
     },
     {
-        "title": "Rethink Visual-language Pretraining for Deepfake Detection: Multi-modal Interpretable Forged Face Detection",
-        "aff": ""
-    },
-    {
         "title": "Rethinking Correspondence-based Category-Level Object Pose Estimation",
         "aff": ""
     },
@@ -8528,7 +8460,7 @@
         "aff": ""
     },
     {
-        "title": "Rethinking Diffusion for Text-Driven Human Motion Generation",
+        "title": "Rethinking Diffusion for Text-Driven Human Motion Generation: Redundant Representations, Evaluation, and Masked Autoregression",
         "aff": ""
     },
     {
@@ -8568,7 +8500,7 @@
         "aff": ""
     },
     {
-        "title": "Rethinking Temporal Fusion with A Unified Gradient Descent View for 3D Semantic Occupancy Prediction",
+        "title": "Rethinking Temporal Fusion with a Unified Gradient Descent View for 3D Semantic Occupancy Prediction",
         "aff": ""
     },
     {
@@ -8580,11 +8512,11 @@
         "aff": ""
     },
     {
-        "title": "Rethinking the Adversarial Robustness of Multi-Exit Neural Networks in an Attack-Defense Game",
+        "title": "Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector",
         "aff": ""
     },
     {
-        "title": "Retrieval-Augmented Personalization for Multimodal Large Language Models",
+        "title": "Rethinking the Adversarial Robustness of Multi-Exit Neural Networks in an Attack-Defense Game",
         "aff": ""
     },
     {
@@ -8597,6 +8529,10 @@
     },
     {
         "title": "Reversible Decoupling Network for Single Image Reflection Removal",
+        "aff": ""
+    },
+    {
+        "title": "Reversing Flow for Image Restoration",
         "aff": ""
     },
     {
@@ -8616,11 +8552,11 @@
         "aff": ""
     },
     {
-        "title": "Revisiting MAE pre-training for 3D medical image segmentation",
+        "title": "Revisiting MAE Pre-training for 3D Medical Image Segmentation",
         "aff": ""
     },
     {
-        "title": "Revisiting Source-Free Domain Adaptation: Insights into Representativeness, Generalization, and Diversity",
+        "title": "Revisiting Source-Free Domain Adaptation: Insights into Representativeness, Generalization, and Variety",
         "aff": ""
     },
     {
@@ -8644,7 +8580,7 @@
         "aff": ""
     },
     {
-        "title": "RoadSocial: A Diverse Dataset and Benchmark for Road Event Understanding from Social Video Narratives",
+        "title": "RoadSocial: A Diverse VideoQA Dataset and Benchmark for Road Event Understanding from Social Video Narratives",
         "aff": ""
     },
     {
@@ -8656,7 +8592,7 @@
         "aff": ""
     },
     {
-        "title": "RoboGround: Robot Manipulation with Grounded Vision-Language Priors",
+        "title": "RoboGround: Robotic Manipulation with Grounded Vision-Language Priors",
         "aff": ""
     },
     {
@@ -8696,19 +8632,11 @@
         "aff": ""
     },
     {
-        "title": "Robust Multimodal Survival Prediction with the Latent Differentiation Conditional Variational AutoEncoder",
+        "title": "Robust Multimodal Survival Prediction with Conditional Latent Differentiation Variational AutoEncoder",
         "aff": ""
     },
     {
         "title": "Robust-MVTON: Learning Cross-Pose Feature Alignment and Fusion for Robust Multi-View Virtual Try-On",
-        "aff": ""
-    },
-    {
-        "title": "Robustness Analysis: Are Optical Flow Methods Safe to Use?",
-        "aff": ""
-    },
-    {
-        "title": "Roger: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation",
         "aff": ""
     },
     {
@@ -8724,19 +8652,15 @@
         "aff": ""
     },
     {
-        "title": "S$^3$-Face: SSS-Compliant Facial Reflectance Estimation via Diffusion Priors",
-        "aff": ""
-    },
-    {
-        "title": "S$^3$GaitNet: Learning Local Features and Size Awareness from LiDAR Point Clouds for 3D Gait Recognition",
-        "aff": ""
-    },
-    {
         "title": "S2D-LFE: Sparse-to-Dense Light Field Event Generation",
         "aff": ""
     },
     {
         "title": "S2Gaussian: Sparse-View Super-Resolution 3D Gaussian Splatting",
+        "aff": ""
+    },
+    {
+        "title": "S4-Driver: Scalable Self-Supervised Driving Multimodal Large Language Model with Spatio-Temporal Visual Representation",
         "aff": ""
     },
     {
@@ -8752,11 +8676,11 @@
         "aff": ""
     },
     {
-        "title": "SALOVA: Segment-Augmented Long Video Assistance for Targeted Retrieval and Routing in Long-Form Video Analysis",
+        "title": "SALOVA: Segment-Augmented Long Video Assistant for Targeted Retrieval and Routing in Long-Form Video Analysis",
         "aff": ""
     },
     {
-        "title": "SAM-I2V: Upgrading SAM to Support Promptable Video Segmentation with Less than 0.2\\% Training Cost",
+        "title": "SAM-I2V: Upgrading SAM to Support Promptable Video Segmentation with Less than 0.2% Training Cost",
         "aff": ""
     },
     {
@@ -8776,7 +8700,7 @@
         "aff": ""
     },
     {
-        "title": "SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation",
+        "title": "SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation",
         "aff": ""
     },
     {
@@ -8785,6 +8709,10 @@
     },
     {
         "title": "SASep: Saliency-Aware Structured Separation of Geometry and Feature for Open Set Learning on Point Clouds",
+        "aff": ""
+    },
+    {
+        "title": "SAT-HMR: Real-Time Multi-Person 3D Mesh Estimation via Scale-Adaptive Tokens",
         "aff": ""
     },
     {
@@ -8812,7 +8740,7 @@
         "aff": ""
     },
     {
-        "title": "SDGOCC: Semantic and Depth-Guided Bird\u2019s-Eye View Transformation for 3D Multimodal Occupancy Prediction",
+        "title": "SDGOCC: Semantic and Depth-Guided Bird's-Eye View Transformation for 3D Multimodal Occupancy Prediction",
         "aff": ""
     },
     {
@@ -8864,7 +8792,15 @@
         "aff": ""
     },
     {
+        "title": "SILMM: Self-Improving Large Multimodal Models for Compositional Text-to-Image Generation",
+        "aff": ""
+    },
+    {
         "title": "SINR: Sparsity Driven Compressed Implicit Neural Representations",
+        "aff": ""
+    },
+    {
+        "title": "SIR-DIFF: Sparse Image Sets Restoration with Multi-View Diffusion Model",
         "aff": ""
     },
     {
@@ -8916,7 +8852,7 @@
         "aff": ""
     },
     {
-        "title": "SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model",
+        "title": "SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Models",
         "aff": ""
     },
     {
@@ -8940,7 +8876,7 @@
         "aff": ""
     },
     {
-        "title": "SSHNet: Unsupervised Cross-modal Homography Estimation via Problem Redefinition and Split Optimization",
+        "title": "SSHNet: Unsupervised Cross-modal Homography Estimation via Problem Reformulation and Split Optimization",
         "aff": ""
     },
     {
@@ -9008,7 +8944,15 @@
         "aff": ""
     },
     {
+        "title": "SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering",
+        "aff": ""
+    },
+    {
         "title": "SVLTA: Benchmarking Vision-Language Temporal Alignment via Synthetic Video Situation",
+        "aff": ""
+    },
+    {
+        "title": "S^3-Face: SSS-Compliant Facial Reflectance Estimation via Diffusion Priors",
         "aff": ""
     },
     {
@@ -9036,7 +8980,7 @@
         "aff": ""
     },
     {
-        "title": "Satellite Observations-guided Diffusion Model for Accurate Meteorological States at Arbitrary Resolution",
+        "title": "Satellite Observations Guided Diffusion Model for Accurate Meteorological States at Arbitrary Resolution",
         "aff": ""
     },
     {
@@ -9045,6 +8989,10 @@
     },
     {
         "title": "ScaMo: Exploring the Scaling Law in Autoregressive Motion Generation Model",
+        "aff": ""
+    },
+    {
+        "title": "Scalable Autoregressive Monocular Depth Estimation",
         "aff": ""
     },
     {
@@ -9084,7 +9032,7 @@
         "aff": ""
     },
     {
-        "title": "Scenario Dreamer: Vectorized Generative Simulation Environments for Autonomous Driving",
+        "title": "Scenario Dreamer: Vectorized Latent Diffusion for Generating Driving Simulation Environments",
         "aff": ""
     },
     {
@@ -9128,7 +9076,7 @@
         "aff": ""
     },
     {
-        "title": "SciBench: Addressing Scientific Illusions in Image Synthesis",
+        "title": "Science-T2I: Addressing Scientific Illusions in Image Synthesis",
         "aff": ""
     },
     {
@@ -9160,7 +9108,7 @@
         "aff": ""
     },
     {
-        "title": "SeeGround: See and Ground for Zero-shot Open-Vocabulary 3D Visual Grounding",
+        "title": "SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding",
         "aff": ""
     },
     {
@@ -9168,11 +9116,15 @@
         "aff": ""
     },
     {
-        "title": "Seeing 3D World in A Grain of Sand",
+        "title": "Seeing A 3D World in A Grain of Sand",
         "aff": ""
     },
     {
         "title": "Seeing Far and Clearly: Mitigating Hallucinations in MLLMs with Attention Causal Decoding",
+        "aff": ""
+    },
+    {
+        "title": "Seeing More with Less: Human-like Representations in Vision Models",
         "aff": ""
     },
     {
@@ -9188,15 +9140,11 @@
         "aff": ""
     },
     {
-        "title": "Seeing more with less: human-like representations in vision models",
-        "aff": ""
-    },
-    {
         "title": "Seeing the Abstract: Translating the Abstract Language for Vision Language Models",
         "aff": ""
     },
     {
-        "title": "Seek Common Ground While Reserving Differences: Semi-supervised Image-Text Sentiment Recognition",
+        "title": "Seek Common Ground While Reserving Differences: Semi-Supervised Image-Text Sentiment Recognition",
         "aff": ""
     },
     {
@@ -9209,6 +9157,10 @@
     },
     {
         "title": "SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images",
+        "aff": ""
+    },
+    {
+        "title": "SegMAN: Omni-scale Context Modeling with State Space Models and Local Attention for Semantic Segmentation",
         "aff": ""
     },
     {
@@ -9228,7 +9180,7 @@
         "aff": ""
     },
     {
-        "title": "Segmenting Maxillofacial Structures in CBCT Volume",
+        "title": "Segmenting Maxillofacial Structures in CBCT Volumes",
         "aff": ""
     },
     {
@@ -9241,10 +9193,6 @@
     },
     {
         "title": "Self-Expansion of Pre-trained Models with Mixture of Adapters for Continual Learning",
-        "aff": ""
-    },
-    {
-        "title": "Self-Improving Large Multimodal Models for Compositional Text-to-Image Generation",
         "aff": ""
     },
     {
@@ -9261,6 +9209,10 @@
     },
     {
         "title": "Self-Supervised Learning for Color Spike Camera Reconstruction",
+        "aff": ""
+    },
+    {
+        "title": "Self-Supervised Spatial Correspondence Across Modalities",
         "aff": ""
     },
     {
@@ -9292,7 +9244,7 @@
         "aff": ""
     },
     {
-        "title": "Semantic-guided Cross-Model Prompt Learning for skeleton-based zero-shot action recognition",
+        "title": "Semantic-guided Cross-Modal Prompt Learning for Skeleton-based Zero-shot Action Recognition",
         "aff": ""
     },
     {
@@ -9316,7 +9268,7 @@
         "aff": ""
     },
     {
-        "title": "Separation of powers: On segregating knowledge from observation in LLM-enabled knowledge-based visual question answering",
+        "title": "Separation of Powers: On Segregating Knowledge from Observation in LLM-enabled Knowledge-based Visual Question Answering",
         "aff": ""
     },
     {
@@ -9364,6 +9316,10 @@
         "aff": ""
     },
     {
+        "title": "Shape and Texture: What Influences Reliable Optical Flow Estimation?",
+        "aff": ""
+    },
+    {
         "title": "ShapeShifter: 3D Variations Using Multiscale and Sparse Point-Voxel Diffusion",
         "aff": ""
     },
@@ -9381,6 +9337,10 @@
     },
     {
         "title": "Shift the Lens: Environment-Aware Unsupervised Camouflaged Object Detection",
+        "aff": ""
+    },
+    {
+        "title": "ShiftwiseConv: Small Convolutional Kernel with Large Kernel Effect",
         "aff": ""
     },
     {
@@ -9404,6 +9364,10 @@
         "aff": ""
     },
     {
+        "title": "ShowMak3r: Compositional TV Show Reconstruction",
+        "aff": ""
+    },
+    {
         "title": "ShowUI: One Vision-Language-Action Model for GUI Visual Agent",
         "aff": ""
     },
@@ -9420,15 +9384,19 @@
         "aff": ""
     },
     {
-        "title": "SimAvatar: Simulation-Ready Clothed Gaussian Avatars from Text",
+        "title": "SimAvatar: Simulation-Ready Avatars with Layered Hair and Clothing",
         "aff": ""
     },
     {
-        "title": "SimLTD: Simple Semi-Supervised Long-Tailed Object Detection",
+        "title": "SimLTD: Simple Supervised and Semi-Supervised Long-Tailed Object Detection",
         "aff": ""
     },
     {
-        "title": "SimLingo: Vision-only Closed-Loop Autonomous Driving with Grounded Language Understanding",
+        "title": "SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment",
+        "aff": ""
+    },
+    {
+        "title": "SimMotionEdit: Text-Based Human Motion Editing with Motion Similarity Prediction",
         "aff": ""
     },
     {
@@ -9440,7 +9408,7 @@
         "aff": ""
     },
     {
-        "title": "Simpler Diffusion: 1.5 FID on ImageNet512 with pixel-space diffusion",
+        "title": "Simpler Diffusion: 1.5 FID on ImageNet512 with Pixel-space Diffusion",
         "aff": ""
     },
     {
@@ -9460,7 +9428,7 @@
         "aff": ""
     },
     {
-        "title": "Six-CD: Benchmarking Concept Removals for Benign Text-to-image Diffusion Models",
+        "title": "Six-CD: Benchmarking Concept Removals for Text-to-image Diffusion Models",
         "aff": ""
     },
     {
@@ -9488,6 +9456,10 @@
         "aff": ""
     },
     {
+        "title": "SkillMimic: Learning Basketball Interaction Skills from Demonstrations",
+        "aff": ""
+    },
+    {
         "title": "Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves",
         "aff": ""
     },
@@ -9512,7 +9484,11 @@
         "aff": ""
     },
     {
-        "title": "SnapMem: Snapshot-based 3D Scene Memory for Embodied Exploration and Reasoning",
+        "title": "SnapGen-V: Generating a Five-Second Video within Five Seconds on a Mobile Device",
+        "aff": ""
+    },
+    {
+        "title": "SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training",
         "aff": ""
     },
     {
@@ -9520,7 +9496,7 @@
         "aff": ""
     },
     {
-        "title": "SoRA: Singular Value Decomposed Low-Rank Adaptation for Domain Generalizable Representation Learning",
+        "title": "SoMA: Singular Value Decomposed Minor Components Adaptation for Domain Generalizable Representation Learning",
         "aff": ""
     },
     {
@@ -9528,7 +9504,11 @@
         "aff": ""
     },
     {
-        "title": "SocialMOIF\uff1aMulti-Order Intention Fusion for Pedestrain Trajectory Prediction",
+        "title": "SocialMOIF: Multi-Order Intention Fusion for Pedestrian Trajectory Prediction",
+        "aff": ""
+    },
+    {
+        "title": "Soft Self-labeling and Potts Relaxations for Weakly-supervised Segmentation",
         "aff": ""
     },
     {
@@ -9552,15 +9532,11 @@
         "aff": ""
     },
     {
-        "title": "Sound Bridge: Association Egocentric and Exocentric Videos via Audio Cues",
+        "title": "Sound Bridge: Associating Egocentric and Exocentric Videos via Audio Cues",
         "aff": ""
     },
     {
         "title": "SoundVista: Novel-View Ambient Sound Synthesis via Visual-Acoustic Binding",
-        "aff": ""
-    },
-    {
-        "title": "Sparse Image Sets Restoration with Multi-View Diffusion Model",
         "aff": ""
     },
     {
@@ -9584,11 +9560,11 @@
         "aff": ""
     },
     {
-        "title": "Spatial-Temporal Graph Diffusion Policy with Kinematics Modeling for Bimanual Robotic Manipulation",
+        "title": "Spatial-Temporal Graph Diffusion Policy with Kinematic Modeling for Bimanual Robotic Manipulation",
         "aff": ""
     },
     {
-        "title": "Spatial-Temporal Visual Representation for Self-Supervised Motion Planning",
+        "title": "Spatial457: A Diagnostic Benchmark for 6D Spatial Reasoning of Large Mutimodal Models",
         "aff": ""
     },
     {
@@ -9597,6 +9573,10 @@
     },
     {
         "title": "SpatialDreamer: Self-supervised Stereo Video Synthesis from Monocular Input",
+        "aff": ""
+    },
+    {
+        "title": "SpatialLLM: A Compound 3D-Informed Design towards Spatially-Intelligent Large Multimodal Models",
         "aff": ""
     },
     {
@@ -9664,7 +9644,7 @@
         "aff": ""
     },
     {
-        "title": "Splatter-360: Generalizable 360$^{\\circ}$ Gaussian Splatting for Wide-baseline Panoramic Images",
+        "title": "Splatter-360: Generalizable 360 Gaussian Splatting for Wide-baseline Panoramic Images",
         "aff": ""
     },
     {
@@ -9744,10 +9724,6 @@
         "aff": ""
     },
     {
-        "title": "StereoAnything: Zero-Shot Stereo Matching",
-        "aff": ""
-    },
-    {
         "title": "StickMotion: Generating 3D Human Motions by Drawing a Stickman",
         "aff": ""
     },
@@ -9756,11 +9732,11 @@
         "aff": ""
     },
     {
-        "title": "Stop Walking in Circles! Bailing Out Early in Projected Gradient Descent",
+        "title": "Stop Learning it all to Mitigate Visual Hallucination, Focus on the Hallucination Target.",
         "aff": ""
     },
     {
-        "title": "Stop learning it all to mitigate visual hallucination, Focus on the hallucination target.",
+        "title": "Stop Walking in Circles! Bailing Out Early in Projected Gradient Descent",
         "aff": ""
     },
     {
@@ -9796,10 +9772,6 @@
         "aff": ""
     },
     {
-        "title": "Structured Artifact Removal with Scale-Adaptive Deformable Transformer",
-        "aff": ""
-    },
-    {
         "title": "Style Evolving along Chain-of-Thought for Unknown-Domain Object Detection",
         "aff": ""
     },
@@ -9808,7 +9780,7 @@
         "aff": ""
     },
     {
-        "title": "Style-Editor: Text-driven object-centric style editing",
+        "title": "Style-Editor: Text-driven Object-centric Style Editing",
         "aff": ""
     },
     {
@@ -9844,7 +9816,7 @@
         "aff": ""
     },
     {
-        "title": "Supervising Sound Localization using In-the-wild Egomotion",
+        "title": "Supervising Sound Localization by In-the-wild Egomotion",
         "aff": ""
     },
     {
@@ -9868,7 +9840,7 @@
         "aff": ""
     },
     {
-        "title": "SyncSDE: A Probabilistic Framework for Why Diffusion Synchronization Works",
+        "title": "SyncSDE: A Probabilistic Framework for Diffusion Synchronization",
         "aff": ""
     },
     {
@@ -9932,7 +9904,7 @@
         "aff": ""
     },
     {
-        "title": "TADFormer : Task-Adaptive Dynamic TransFormer for Efficient Multi-Task Learning",
+        "title": "TADFormer: Task-Adaptive Dynamic TransFormer for Efficient Multi-Task Learning",
         "aff": ""
     },
     {
@@ -9957,6 +9929,10 @@
     },
     {
         "title": "TAROT: Towards Essentially Domain-Invariant Robustness with Theoretical Justification",
+        "aff": ""
+    },
+    {
+        "title": "TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation",
         "aff": ""
     },
     {
@@ -9996,23 +9972,11 @@
         "aff": ""
     },
     {
-        "title": "TailedCore : Few-Shot Sampling for Unsupervised Long-Tail Noisy Anomaly Detection",
+        "title": "TailedCore: Few-Shot Sampling for Unsupervised Long-Tail Noisy Anomaly Detection",
         "aff": ""
     },
     {
         "title": "Take the Bull by the Horns: Learning to Segment Hard Samples",
-        "aff": ""
-    },
-    {
-        "title": "Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training",
-        "aff": ""
-    },
-    {
-        "title": "Taming Large Multimodal Agents for Ultra-low Bitrate Semantically Disentangled Image Compression",
-        "aff": ""
-    },
-    {
-        "title": "Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis",
         "aff": ""
     },
     {
@@ -10036,7 +10000,7 @@
         "aff": ""
     },
     {
-        "title": "Task Preference Optimization: Improving Multimodal Large Language Models Performance with Vision Task Alignment",
+        "title": "Task Preference Optimization: Improving Multimodal Large Language Models with Vision Task Alignment",
         "aff": ""
     },
     {
@@ -10068,7 +10032,11 @@
         "aff": ""
     },
     {
-        "title": "Teaching Large Language Models to Regress Accurate Image Quality Scores using Score Distribution",
+        "title": "Taxonomy-Aware Evaluation of Vision-Language Models",
+        "aff": ""
+    },
+    {
+        "title": "Teaching Large Language Models to Regress Accurate Image Quality Scores Using Score Distribution",
         "aff": ""
     },
     {
@@ -10116,7 +10084,7 @@
         "aff": ""
     },
     {
-        "title": "Test-time augmentation improves efficiency in conformal prediction",
+        "title": "Test-time Augmentation Improves Efficiency in Conformal Prediction",
         "aff": ""
     },
     {
@@ -10152,7 +10120,7 @@
         "aff": ""
     },
     {
-        "title": "The Change You Want To Detect: Semantic Change Detection In Earth Observation With Hybrid Data Generation",
+        "title": "The Change You Want To Detect: Semantic Change Detection In Earth Observation With Hybrid Data Generationf",
         "aff": ""
     },
     {
@@ -10184,7 +10152,7 @@
         "aff": ""
     },
     {
-        "title": "The Photographer's Eye: Teaching Multimodal Large Language Models to See, Think and Critique Like Photographers",
+        "title": "The Photographer's Eye: Teaching Multimodal Large Language Models to See, and Critique Like Photographers",
         "aff": ""
     },
     {
@@ -10200,6 +10168,10 @@
         "aff": ""
     },
     {
+        "title": "Theory-Inspired Deep Multi-View Multi-Label Learning with Incomplete Views and Noisy Labels",
+        "aff": ""
+    },
+    {
         "title": "Thin-Shell-SfT: Fine-Grained Monocular Non-rigid 3D Surface Tracking with Neural Deformation Fields",
         "aff": ""
     },
@@ -10208,7 +10180,7 @@
         "aff": ""
     },
     {
-        "title": "Thinking in Space: How Multimodal Large Language Models See, Remember and Recall Spaces",
+        "title": "Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces",
         "aff": ""
     },
     {
@@ -10232,7 +10204,7 @@
         "aff": ""
     },
     {
-        "title": "Time of the Flight of the Gaussians: Fast and Accurate Dynamic Time-of-Flight Radiance Fields",
+        "title": "Time of the Flight of the Gaussians: Optimizing Depth Indirectly in Dynamic Radiance Fields",
         "aff": ""
     },
     {
@@ -10316,10 +10288,6 @@
         "aff": ""
     },
     {
-        "title": "Towards Context-Stable and Hue-Consistent Image Inpainting",
-        "aff": ""
-    },
-    {
         "title": "Towards Continual Universal Segmentation",
         "aff": ""
     },
@@ -10333,6 +10301,10 @@
     },
     {
         "title": "Towards Efficient Foundation Model for Zero-shot Amodal Segmentation",
+        "aff": ""
+    },
+    {
+        "title": "Towards Enhanced Image Inpainting: Mitigating Unwanted Object Insertion and Preserving Color Consistency",
         "aff": ""
     },
     {
@@ -10388,7 +10360,7 @@
         "aff": ""
     },
     {
-        "title": "Towards More General Video-based Deepfake Detection through Facial Feature Guided Adaptation for Foundation Model",
+        "title": "Towards More General Video-based Deepfake Detection through Facial Component Guided Adaptation for Foundation Model",
         "aff": ""
     },
     {
@@ -10476,10 +10448,6 @@
         "aff": ""
     },
     {
-        "title": "Towards Vision Language Models For Extra-Long Video Understanding",
-        "aff": ""
-    },
-    {
         "title": "Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection",
         "aff": ""
     },
@@ -10524,15 +10492,11 @@
         "aff": ""
     },
     {
-        "title": "Training-free Video Semantic Segmentation based on Diffusion Models",
+        "title": "Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM",
         "aff": ""
     },
     {
-        "title": "Trajectory-Mamba: An Efficient Attention-Mamba Forecasting Model Based on Selective SSM",
-        "aff": ""
-    },
-    {
-        "title": "TransPixar: Advancing Text-to-Video Generation with Transparency",
+        "title": "TransPixeler: Advancing Text-to-Video Generation with Transparency",
         "aff": ""
     },
     {
@@ -10576,7 +10540,7 @@
         "aff": ""
     },
     {
-        "title": "Two by Two: Learning Cross-Task Pairwise Objects Assembly for Generalizable Robot Manipulation",
+        "title": "Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation",
         "aff": ""
     },
     {
@@ -10664,7 +10628,7 @@
         "aff": ""
     },
     {
-        "title": "Unbiased General Annotated Dataset Generation",
+        "title": "UnCommon Objects in 3D",
         "aff": ""
     },
     {
@@ -10700,10 +10664,6 @@
         "aff": ""
     },
     {
-        "title": "Unconstrained 3D gaze estimation with Gaze-Aware 3D Context Encoding",
-        "aff": ""
-    },
-    {
         "title": "Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space",
         "aff": ""
     },
@@ -10712,7 +10672,7 @@
         "aff": ""
     },
     {
-        "title": "Understanding multi-layered transmission matrices",
+        "title": "Understanding Multi-layered Transmission Matrices",
         "aff": ""
     },
     {
@@ -10720,7 +10680,7 @@
         "aff": ""
     },
     {
-        "title": "Uni4D: Unifying Large Vision Models for 4D Modeling from a Single Video",
+        "title": "Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video",
         "aff": ""
     },
     {
@@ -10736,7 +10696,7 @@
         "aff": ""
     },
     {
-        "title": "UniHOPE: A Unified Approach for Hand-Object Pose Estimation",
+        "title": "UniHOPE: A Unified Approach for Hand-Only and Hand-Object Pose Estimation",
         "aff": ""
     },
     {
@@ -10756,7 +10716,7 @@
         "aff": ""
     },
     {
-        "title": "UniPose: A Unified MultiModal Framework for Human Pose Comprehension, Generation and Editing",
+        "title": "UniPose: A Unified Multimodal Framework for Human Pose Comprehension, Generation and Editing",
         "aff": ""
     },
     {
@@ -10772,7 +10732,7 @@
         "aff": ""
     },
     {
-        "title": "UniSTD: Towards Unified Spatio-Temporal Prediction across Diverse Disciplines",
+        "title": "UniSTD: Towards Unified Spatio-Temporal Learning across Diverse Disciplines",
         "aff": ""
     },
     {
@@ -10836,19 +10796,15 @@
         "aff": ""
     },
     {
-        "title": "Unlocking Tuning-Free Few-Shot Adaptability in Visual Foundation Models by Recycling Pre-Tuned LoRAs",
-        "aff": ""
-    },
-    {
-        "title": "Unlocking Video-LLM via Agent-of-Thoughts Distillation",
-        "aff": ""
-    },
-    {
-        "title": "Unlocking the potential of unlabeled data in semi-supervised domain generalization",
+        "title": "Unlocking the Potential of Unlabeled Data in Semi-Supervised Domain Generalization",
         "aff": ""
     },
     {
         "title": "Unraveling Normal Anatomy via Fluid-Driven Anomaly Randomization",
+        "aff": ""
+    },
+    {
+        "title": "Unseen Visual Anomaly Generation",
         "aff": ""
     },
     {
@@ -10872,7 +10828,7 @@
         "aff": ""
     },
     {
-        "title": "Unveiling Visual Perception in Language Models: A Attention Head Analysis Approach",
+        "title": "Unveiling Visual Perception in Language Models: An Attention Head Analysis Approach",
         "aff": ""
     },
     {
@@ -10888,15 +10844,11 @@
         "aff": ""
     },
     {
+        "title": "Using Diffusion Priors for Video Amodal Segmentation",
+        "aff": ""
+    },
+    {
         "title": "Using Powerful Prior Knowledge of Diffusion Model in Deep Unfolding Networks for Image Compressive Sensing",
-        "aff": ""
-    },
-    {
-        "title": "Using diffusion priors for video amodal segmentation",
-        "aff": ""
-    },
-    {
-        "title": "V$^2$Dial: Unification of Video and Visual Dialog via Multimodal Experts",
         "aff": ""
     },
     {
@@ -10916,10 +10868,6 @@
         "aff": ""
     },
     {
-        "title": "VCR: Learning Appearance-Invariant Representation for Open-World Instance Segmentation",
-        "aff": ""
-    },
-    {
         "title": "VDocRAG: Retrieval-Augmented Generation over Visually-Rich Documents",
         "aff": ""
     },
@@ -10936,11 +10884,7 @@
         "aff": ""
     },
     {
-        "title": "VGGN: Visual Geometry Grounded Network",
-        "aff": ""
-    },
-    {
-        "title": "VI$^3$NR: Variance Informed Initialization for Implicit Neural Representations",
+        "title": "VGGT: Visual Geometry Grounded Transformer",
         "aff": ""
     },
     {
@@ -10948,7 +10892,7 @@
         "aff": ""
     },
     {
-        "title": "VIRES: Video Instance Repainting with Sketch and Text Guidance",
+        "title": "VIRES: Video Instance Repainting via Sketch and Text Guided Generation",
         "aff": ""
     },
     {
@@ -10964,11 +10908,15 @@
         "aff": ""
     },
     {
-        "title": "VISTREAM: Improving Computation Efficiency of Visual Perception Streaming via Law-of-Charge-Conservation Inspired Spiking Neural Network",
+        "title": "VISTREAM: Improving Computation Efficiency of Visual Streaming Perception via Law-of-Charge-Conservation Inspired Spiking Neural Network",
         "aff": ""
     },
     {
         "title": "VITED: Video Temporal Evidence Distillation",
+        "aff": ""
+    },
+    {
+        "title": "VI^3NR: Variance Informed Initialization for Implicit Neural Representations",
         "aff": ""
     },
     {
@@ -11012,6 +10960,10 @@
         "aff": ""
     },
     {
+        "title": "V^2Dial: Unification of Video and Visual Dialog via Multimodal Experts",
+        "aff": ""
+    },
+    {
         "title": "Variance-Based Membership Inference Attacks Against Large-Scale Image Captioning Models",
         "aff": ""
     },
@@ -11052,7 +11004,7 @@
         "aff": ""
     },
     {
-        "title": "VidComposition: Can MLLMs Analyze Compositions in Compiled Video?",
+        "title": "VidComposition: Can MLLMs Analyze Compositions in Compiled Videos?",
         "aff": ""
     },
     {
@@ -11061,6 +11013,10 @@
     },
     {
         "title": "VidMuse: A Simple Video-to-Music Generation Framework with Long-Short-Term Modeling",
+        "aff": ""
+    },
+    {
+        "title": "VidSeg: Training-free Video Semantic Segmentation based on Diffusion Models",
         "aff": ""
     },
     {
@@ -11092,6 +11048,10 @@
         "aff": ""
     },
     {
+        "title": "Video-Bench: Human-Aligned Video Generation Benchmark",
+        "aff": ""
+    },
+    {
         "title": "Video-ColBERT: Contextualized Late Interaction for Text-to-Video Retrieval",
         "aff": ""
     },
@@ -11108,7 +11068,7 @@
         "aff": ""
     },
     {
-        "title": "VideoAlchemy: Open-set Personalization in Video Generation",
+        "title": "Video-XL: Extra-Long Vision Language Model for Hour-Scale Video Understanding",
         "aff": ""
     },
     {
@@ -11116,7 +11076,7 @@
         "aff": ""
     },
     {
-        "title": "VideoChat-Online: Towards Online Spatial-Temporal Video Understanding via Large Video Language Models",
+        "title": "VideoComp: Advancing Fine-Grained Compositional and Temporal Alignment in Video-Text Models",
         "aff": ""
     },
     {
@@ -11164,11 +11124,7 @@
         "aff": ""
     },
     {
-        "title": "VideoRepainter: Creative Video Inpainting with Keyframe Reference",
-        "aff": ""
-    },
-    {
-        "title": "VideoSPatS: Video Spatiotemporal Splines for Disentangled Occlusion, Appearance and Motion Modeling and Editing",
+        "title": "VideoSPatS: Video SPatiotemporal Splines for Disentangled Occlusion, Appearance and Motion Modeling and Editing",
         "aff": ""
     },
     {
@@ -11180,11 +11136,15 @@
         "aff": ""
     },
     {
+        "title": "VideoWorld: Exploring Knowledge Learning from Unlabeled Videos",
+        "aff": ""
+    },
+    {
         "title": "Viewpoint Rosetta Stone: Unlocking Unpaired Ego-Exo Videos for View-invariant Representation Learning",
         "aff": ""
     },
     {
-        "title": "ViiNeuS: Volumetric Initialization for Implicit Neural Surface reconstruction of urban scenes with limited image overlap",
+        "title": "ViiNeuS: Volumetric Initialization for Implicit Neural Surface Reconstruction of Urban Scenes with Limited Image Overlap",
         "aff": ""
     },
     {
@@ -11193,10 +11153,6 @@
     },
     {
         "title": "VinaBench: Benchmark for Faithful and Consistent Visual Narratives",
-        "aff": ""
-    },
-    {
-        "title": "VirtualPCR: Compositional TV Show Reconstruction",
         "aff": ""
     },
     {
@@ -11220,7 +11176,7 @@
         "aff": ""
     },
     {
-        "title": "VisionArena: 230k Real World Image Conversations with Paired Human Preferences",
+        "title": "VisionArena: 230k Real World User-VLM Conversations with Preference Labels",
         "aff": ""
     },
     {
@@ -11232,15 +11188,15 @@
         "aff": ""
     },
     {
-        "title": "Visioner: Exploring Knowledge Learning from Raw Videos",
-        "aff": ""
-    },
-    {
         "title": "Visual Agentic AI for Spatial Reasoning with a Dynamic API",
         "aff": ""
     },
     {
         "title": "Visual Consensus Prompting for Co-Salient Object Detection",
+        "aff": ""
+    },
+    {
+        "title": "Visual Lexicon: Rich Image Features in Language Space",
         "aff": ""
     },
     {
@@ -11261,6 +11217,10 @@
     },
     {
         "title": "Visual-Instructed Degradation Diffusion for All-in-One Image Restoration",
+        "aff": ""
+    },
+    {
+        "title": "VladVA: Discriminative Fine-tuning of LVLMs",
         "aff": ""
     },
     {
@@ -11324,6 +11284,10 @@
         "aff": ""
     },
     {
+        "title": "WeGen: A Unified Model for Interactive Multimodal Generation as We Chat",
+        "aff": ""
+    },
+    {
         "title": "WeakMCN: Multi-task Collaborative Network for Weakly Supervised Referring Expression Comprehension and Segmentation",
         "aff": ""
     },
@@ -11364,7 +11328,7 @@
         "aff": ""
     },
     {
-        "title": "Where's the liability in the Generative Era? Recovery-based Black-Box Detection of AI-Generated Content",
+        "title": "Where's the Liability in the Generative Era? Recovery-based Black-Box Detection of AI-Generated Content",
         "aff": ""
     },
     {
@@ -11372,7 +11336,7 @@
         "aff": ""
     },
     {
-        "title": "WiLoR: End-to-end 3D hand localization and reconstruction in-the-wild",
+        "title": "WiLoR: End-to-end 3D Hand Localization and Reconstruction in-the-wild",
         "aff": ""
     },
     {
@@ -11432,11 +11396,15 @@
         "aff": ""
     },
     {
-        "title": "Zero-1-to-A: Zero-shot One image to Animatable Head Avatars using Video Diffusion",
+        "title": "Zero-1-to-A: Zero-Shot One Image to Animatable Head Avatars Using Video Diffusion",
         "aff": ""
     },
     {
         "title": "Zero-Shot 4D Lidar Panoptic Segmentation",
+        "aff": ""
+    },
+    {
+        "title": "Zero-Shot Blind-spot Image Denoising via Implicit Neural Sampling",
         "aff": ""
     },
     {
@@ -11476,11 +11444,11 @@
         "aff": ""
     },
     {
-        "title": "ZoomLDM: Latent Diffusion Model for multi-scale image generation",
+        "title": "ZoomLDM: Latent Diffusion Model for Multi-scale Image Generation",
         "aff": ""
     },
     {
-        "title": "_x0008_APT: Adaptive Personalized Training for Diffusion Models with Limited Data",
+        "title": "beta-FFT: Nonlinear Interpolation and Differentiated Training Strategies for Semi-Supervised Medical Image Segmentation",
         "aff": ""
     },
     {
@@ -11508,11 +11476,11 @@
         "aff": ""
     },
     {
-        "title": "pFedMixF: Personalized Federated Class-Incremental Learning with Mixture of Frequency Aggregation",
+        "title": "pFedMxF: Personalized Federated Class-Incremental Learning with Mixture of Frequency Aggregation",
         "aff": ""
     },
     {
-        "title": "uCO3D: UnCommon Objects in 3D",
+        "title": "v-CLR: View-Consistent Learning for Open-World Instance Segmentation",
         "aff": ""
     },
     {

@@ -1,0 +1,2250 @@
+[
+    {
+        "title": "A Deep Prediction Framework for Multi-Source Information via Heterogeneous GNN",
+        "aff": ""
+    },
+    {
+        "title": "A Fast Exact Algorithm to Enumerate Maximal Pseudo-cliques in Large Sparse Graphs",
+        "aff": ""
+    },
+    {
+        "title": "A Hierarchical Context Augmentation Method to Improve Retrieval-Augmented LLMs on Scientific Papers",
+        "aff": ""
+    },
+    {
+        "title": "A Hierarchical and Disentangling Interest Learning Framework for Unbiased and True News Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "A Learned Generalized Geodesic Distance Function-Based Approach for Node Feature Augmentation on Graphs",
+        "aff": ""
+    },
+    {
+        "title": "A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist",
+        "aff": ""
+    },
+    {
+        "title": "A Novel Feature Space Augmentation Method to Improve Classification Performance and Evaluation Reliability",
+        "aff": ""
+    },
+    {
+        "title": "A Novel Prompt Tuning for Graph Transformers: Tailoring Prompts to Graph Topologies",
+        "aff": ""
+    },
+    {
+        "title": "A Population-to-individual Tuning Framework for Adapting Pretrained LM to On-device User Intent Prediction",
+        "aff": ""
+    },
+    {
+        "title": "A Self-boosted Framework for Calibrated Ranking",
+        "aff": ""
+    },
+    {
+        "title": "A Unified Core Structure in Multiplex Networks: From Finding the Densest Subgraph to Modeling User Engagement",
+        "aff": ""
+    },
+    {
+        "title": "A Uniformly Bounded Correlation Function for Spatial Point Patterns",
+        "aff": ""
+    },
+    {
+        "title": "ACER: Accelerating Complex Event Recognition via Two-Phase Filtering under Range Bitmap-Based Indexes",
+        "aff": ""
+    },
+    {
+        "title": "ADSNet: Cross-Domain LTV Prediction with an Adaptive Siamese Network in Advertising",
+        "aff": ""
+    },
+    {
+        "title": "AGS-GNN: Attribute-guided Sampling for Graph Neural Network",
+        "aff": ""
+    },
+    {
+        "title": "AIM: Attributing, Interpreting, Mitigating Data Unfairness",
+        "aff": ""
+    },
+    {
+        "title": "Achieving a Better Tradeoff in Multi-stage Recommender Systems through Personalization",
+        "aff": ""
+    },
+    {
+        "title": "AdaGMLP: AdaBoosting GNN-to-MLP Knowledge Distillation",
+        "aff": ""
+    },
+    {
+        "title": "AdaRD: An Adaptive Response Denoising Framework for Robust Learner Modeling",
+        "aff": ""
+    },
+    {
+        "title": "Adapting Job Recommendations to User Preference Drift with Behavioral-Semantic Fusion Learning",
+        "aff": ""
+    },
+    {
+        "title": "Addressing Prediction Delays in Time Series Forecasting: A Continuous GRU Approach with Derivative Regularization",
+        "aff": ""
+    },
+    {
+        "title": "Addressing Shortcomings in Fair Graph Learning Datasets: Towards a New Benchmark",
+        "aff": ""
+    },
+    {
+        "title": "Ads Recommendation in a Collapsed and Entangled World",
+        "aff": ""
+    },
+    {
+        "title": "Advancing Molecule Invariant Representation via Privileged Substructure Identification",
+        "aff": ""
+    },
+    {
+        "title": "Algorithmic Fairness Generalization under Covariate and Dependence Shifts Simultaneously",
+        "aff": ""
+    },
+    {
+        "title": "All in One and One for All: A Simple yet Effective Method towards Cross-domain Graph Pretraining",
+        "aff": ""
+    },
+    {
+        "title": "An Efficient Local Search Algorithm for Large GD Advertising Inventory Allocation with Multilinear Constraints",
+        "aff": ""
+    },
+    {
+        "title": "An Efficient Subgraph GNN with Provable Substructure Counting Power",
+        "aff": ""
+    },
+    {
+        "title": "An Energy-centric Framework for Category-free Out-of-distribution Node Detection in Graphs",
+        "aff": ""
+    },
+    {
+        "title": "An Offline Meta Black-box Optimization Framework for Adaptive Design of Urban Traffic Light Management Systems",
+        "aff": ""
+    },
+    {
+        "title": "An Open and Large-Scale Dataset for Multi-Modal Climate Change-aware Crop Yield Predictions",
+        "aff": ""
+    },
+    {
+        "title": "An Unsupervised Learning Framework Combined with Heuristics for the Maximum Minimal Cut Problem",
+        "aff": ""
+    },
+    {
+        "title": "AnyLoss: Transforming Classification Metrics into Loss Functions",
+        "aff": ""
+    },
+    {
+        "title": "Approximate Matrix Multiplication over Sliding Windows",
+        "aff": ""
+    },
+    {
+        "title": "Approximating Memorization Using Loss Surface Geometry for Dataset Pruning and Summarization",
+        "aff": ""
+    },
+    {
+        "title": "Asymmetric Beta Loss for Evidence-Based Safe Semi-Supervised Multi-Label Learning",
+        "aff": ""
+    },
+    {
+        "title": "AsyncET: Asynchronous Representation Learning for Knowledge Graph Entity Typing",
+        "aff": ""
+    },
+    {
+        "title": "Asynchronous Vertical Federated Learning for Kernelized AUC Maximization",
+        "aff": ""
+    },
+    {
+        "title": "Attacking Graph Neural Networks with Bit Flips: Weisfeiler and Leman Go Indifferent",
+        "aff": ""
+    },
+    {
+        "title": "Auctions with LLM Summaries",
+        "aff": ""
+    },
+    {
+        "title": "AutoWebGLM: A Large Language Model-based Web Navigating Agent",
+        "aff": ""
+    },
+    {
+        "title": "AutoXPCR: Automated Multi-Objective Model Selection for Time Series Forecasting",
+        "aff": ""
+    },
+    {
+        "title": "Automatic Multi-Task Learning Framework with Neural Architecture Search in Recommendations",
+        "aff": ""
+    },
+    {
+        "title": "BTTackler: A Diagnosis-based Framework for Efficient Deep Learning Hyperparameter Optimization",
+        "aff": ""
+    },
+    {
+        "title": "BacktrackSTL: Ultra-Fast Online Seasonal-Trend Decomposition with Backtrack Technique",
+        "aff": ""
+    },
+    {
+        "title": "BadSampler: Harnessing the Power of Catastrophic Forgetting to Poison Byzantine-robust Federated Learning",
+        "aff": ""
+    },
+    {
+        "title": "Balanced Confidence Calibration for Graph Neural Networks",
+        "aff": ""
+    },
+    {
+        "title": "Beimingwu: A Learnware Dock System",
+        "aff": ""
+    },
+    {
+        "title": "Beyond Binary Preference: Leveraging Bayesian Approaches for Joint Optimization of Ranking and Calibration",
+        "aff": ""
+    },
+    {
+        "title": "Bi-Objective Contract Allocation for Guaranteed Delivery Advertising",
+        "aff": ""
+    },
+    {
+        "title": "Binder: Hierarchical Concept Representation through Order Embedding of Binary Vectors",
+        "aff": ""
+    },
+    {
+        "title": "BitLINK: Temporal Linkage of Address Clusters in Bitcoin Blockchain",
+        "aff": ""
+    },
+    {
+        "title": "Bivariate Decision Trees: Smaller, Interpretable, More Accurate",
+        "aff": ""
+    },
+    {
+        "title": "BoKA: Bayesian Optimization based Knowledge Amalgamation for Multi-unknown-domain Text Classification",
+        "aff": ""
+    },
+    {
+        "title": "Brant-X: A Unified Physiological Signal Alignment Framework",
+        "aff": ""
+    },
+    {
+        "title": "Bridging Items and Language: A Transition Paradigm for Large Language Model-Based Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "Bridging and Compressing Feature and Semantic Spaces for Robust Graph Neural Networks: An Information Theory Perspective",
+        "aff": ""
+    },
+    {
+        "title": "Bringing Multimodality to Amazon Visual Search System",
+        "aff": ""
+    },
+    {
+        "title": "Budgeted Multi-Armed Bandits with Asymmetric Confidence Intervals",
+        "aff": ""
+    },
+    {
+        "title": "Business Policy Experiments using Fractional Factorial Designs: Consumer Retention on DoorDash",
+        "aff": ""
+    },
+    {
+        "title": "CAFO: Feature-Centric Explanation on Time Series Classification",
+        "aff": ""
+    },
+    {
+        "title": "CASA: Clustered Federated Learning with Asynchronous Clients",
+        "aff": ""
+    },
+    {
+        "title": "CASH via Optimal Diversity for Ensemble Learning",
+        "aff": ""
+    },
+    {
+        "title": "CAT: Interpretable Concept-based Taylor Additive Models",
+        "aff": ""
+    },
+    {
+        "title": "CE-RCFR: Robust Counterfactual Regression for Consensus-Enabled Treatment Effect Estimation",
+        "aff": ""
+    },
+    {
+        "title": "CHILI: Chemically-Informed Large-scale Inorganic Nanomaterials Dataset for Advancing Graph Machine Learning",
+        "aff": ""
+    },
+    {
+        "title": "COMET: NFT Price Prediction with Wallet Profiling",
+        "aff": ""
+    },
+    {
+        "title": "CONFIDE: Contextual Finite Difference Modelling of PDEs",
+        "aff": ""
+    },
+    {
+        "title": "CURLS: Causal Rule Learning for Subgroups with Significant Treatment Effect",
+        "aff": ""
+    },
+    {
+        "title": "Calibration of Time-Series Forecasting: Detecting and Adapting Context-Driven Distribution Shift",
+        "aff": ""
+    },
+    {
+        "title": "Can Modifying Data Address Graph Domain Adaptation?",
+        "aff": ""
+    },
+    {
+        "title": "Can a Deep Learning Model be a Sure Bet for Tabular Prediction?",
+        "aff": ""
+    },
+    {
+        "title": "Capturing Homogeneous Influence among Students: Hypergraph Cognitive Diagnosis for Intelligent Education Systems",
+        "aff": ""
+    },
+    {
+        "title": "Causal Estimation of Exposure Shifts with Neural Networks and an Application to Inform Air Quality Standards in the US",
+        "aff": ""
+    },
+    {
+        "title": "Causal Machine Learning for Cost-Effective Allocation of Development Aid",
+        "aff": ""
+    },
+    {
+        "title": "Causal Subgraph Learning for Generalizable Inductive Relation Prediction",
+        "aff": ""
+    },
+    {
+        "title": "Certified Robustness on Visual Graph Matching via Searching Optimal Smoothing Range",
+        "aff": ""
+    },
+    {
+        "title": "Chaining Text-to-Image and Large Language Model: A Novel Approach for Generating Personalized e-commerce Banners",
+        "aff": ""
+    },
+    {
+        "title": "CheatAgent: Attacking LLM-Empowered Recommender Systems via LLM Agent",
+        "aff": ""
+    },
+    {
+        "title": "Choosing a Proxy Metric from Past Experiments",
+        "aff": ""
+    },
+    {
+        "title": "Chromosomal Structural Abnormality Diagnosis by Homologous Similarity",
+        "aff": ""
+    },
+    {
+        "title": "Class-incremental Learning for Time Series: Benchmark and Evaluation",
+        "aff": ""
+    },
+    {
+        "title": "Cluster-Wide Task Slowdown Detection in Cloud System",
+        "aff": ""
+    },
+    {
+        "title": "Co-Neighbor Encoding Schema: A Light-cost Structure Encoding Method for Dynamic Link Prediction",
+        "aff": ""
+    },
+    {
+        "title": "CoLiDR: Concept Learning using Aggregated Disentangled Representations",
+        "aff": ""
+    },
+    {
+        "title": "CoMAL: Contrastive Active Learning for Multi-Label Text Classification",
+        "aff": ""
+    },
+    {
+        "title": "CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "CoSLight: Co-optimizing Collaborator Selection and Decision-making to Enhance Traffic Signal Control",
+        "aff": ""
+    },
+    {
+        "title": "Communication-efficient Multi-service Mobile Traffic Prediction by Leveraging Cross-service Correlations",
+        "aff": ""
+    },
+    {
+        "title": "Compact Decomposition of Irregular Tensors for Data Compression: From Sparse to Dense to High-Order Tensors",
+        "aff": ""
+    },
+    {
+        "title": "CompanyKG: A Large-Scale Heterogeneous Graph for Company Similarity Quantification",
+        "aff": ""
+    },
+    {
+        "title": "Conditional Logical Message Passing Transformer for Complex Query Answering",
+        "aff": ""
+    },
+    {
+        "title": "Conformal Counterfactual Inference under Hidden Confounding",
+        "aff": ""
+    },
+    {
+        "title": "Conformalized Link Prediction on Graph Neural Networks",
+        "aff": ""
+    },
+    {
+        "title": "Consistency and Discrepancy-Based Contrastive Tripartite Graph Learning for Recommendations",
+        "aff": ""
+    },
+    {
+        "title": "Contextual Distillation Model for Diversified Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "Continual Collaborative Distillation for Recommender System",
+        "aff": ""
+    },
+    {
+        "title": "ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model",
+        "aff": ""
+    },
+    {
+        "title": "Controllable Multi-Behavior Recommendation for In-Game Skins with Large Sequential Model",
+        "aff": ""
+    },
+    {
+        "title": "Conversational Dueling Bandits in Generalized Linear Models",
+        "aff": ""
+    },
+    {
+        "title": "Cost-Efficient Fraud Risk Optimization with Submodularity in Insurance Claim",
+        "aff": ""
+    },
+    {
+        "title": "Counteracting Duration Bias in Video Recommendation via Counterfactual Watch Time",
+        "aff": ""
+    },
+    {
+        "title": "Counterfactual Generative Models for Time-Varying Treatments",
+        "aff": ""
+    },
+    {
+        "title": "Cross-Context Backdoor Attacks against Graph Prompt Learning",
+        "aff": ""
+    },
+    {
+        "title": "Cross-Domain LifeLong Sequential Modeling for Online Click-Through Rate Prediction",
+        "aff": ""
+    },
+    {
+        "title": "CrossLight: Offline-to-Online Reinforcement Learning for Cross-City Traffic Signal Control",
+        "aff": ""
+    },
+    {
+        "title": "Customizing Graph Neural Network for CAD Assembly Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "CutAddPaste: Time Series Anomaly Detection by Exploiting Abnormal Knowledge",
+        "aff": ""
+    },
+    {
+        "title": "DAG: Deep Adaptive and Generative $K$-Free Community Detection on Attributed Graphs",
+        "aff": ""
+    },
+    {
+        "title": "DDCDR: A Disentangle-based Distillation Framework for Cross-Domain Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "DFGNN: Dual-frequency Graph Neural Network for Sign-aware Feedback",
+        "aff": ""
+    },
+    {
+        "title": "DIET: Customized Slimming for Incompatible Networks in Sequential Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization",
+        "aff": ""
+    },
+    {
+        "title": "DPHGNN: A Dual Perspective Hypergraph Neural Networks",
+        "aff": ""
+    },
+    {
+        "title": "DPSW-Sketch: A Differentially Private Sketch Framework for Frequency Estimation over Sliding Windows",
+        "aff": ""
+    },
+    {
+        "title": "DUE: Dynamic Uncertainty-Aware Explanation Supervision via 3D Imputation",
+        "aff": ""
+    },
+    {
+        "title": "Dataset Condensation for Time Series Classification via Dual Domain Matching",
+        "aff": ""
+    },
+    {
+        "title": "Dataset Regeneration for Sequential Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "Debiased Recommendation with Noisy Feedback",
+        "aff": ""
+    },
+    {
+        "title": "Decision Focused Causal Learning for Direct Counterfactual Marketing Optimization",
+        "aff": ""
+    },
+    {
+        "title": "Decomposed Attention Segment Recurrent Neural Network for Orbit Prediction",
+        "aff": ""
+    },
+    {
+        "title": "Deep Bag-of-Words Model: An Efficient and Interpretable Relevance Architecture for Chinese E-Commerce",
+        "aff": ""
+    },
+    {
+        "title": "Deep Ensemble Shape Calibration: Multi-Field Post-hoc Calibration in Online Advertising",
+        "aff": ""
+    },
+    {
+        "title": "Dense Subgraph Discovery Meets Strong Triadic Closure",
+        "aff": ""
+    },
+    {
+        "title": "Detecting Abnormal Operations in Concentrated Solar Power Plants from Irregular Sequences of Thermal Images",
+        "aff": ""
+    },
+    {
+        "title": "Diet-ODIN: A Novel Framework for Opioid Misuse Detection with Interpretable Dietary Patterns",
+        "aff": ""
+    },
+    {
+        "title": "DiffCrime: A Multimodal Conditional Diffusion Model for Crime Risk Map Inference",
+        "aff": ""
+    },
+    {
+        "title": "Diffusion Model-based Mobile Traffic Generation with Open Data for Network Planning and Optimization",
+        "aff": ""
+    },
+    {
+        "title": "Diffusion-Based Cloud-Edge-Device Collaborative Learning for Next POI Recommendations",
+        "aff": ""
+    },
+    {
+        "title": "DiffusionE: Reasoning on Knowledge Graphs via Diffusion-based Graph Neural Networks",
+        "aff": ""
+    },
+    {
+        "title": "DipDNN: Preserving Inverse Consistency and Approximation Efficiency for Invertible Learning",
+        "aff": ""
+    },
+    {
+        "title": "DisCo: Towards Harmonious Disentanglement and Collaboration between Tabular and Semantic Space for Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "Disentangled Multi-interest Representation Learning for Sequential Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "Distributed Harmonization: Federated Clustered Batch Effect Adjustment and Generalization",
+        "aff": ""
+    },
+    {
+        "title": "Distributed Thresholded Counting with Limited Interaction",
+        "aff": ""
+    },
+    {
+        "title": "Distributional Network of Networks for Modeling Data Heterogeneity",
+        "aff": ""
+    },
+    {
+        "title": "Diverse Intra- and Inter-Domain Activity Style Fusion for Cross-Person Generalization in Activity Recognition",
+        "aff": ""
+    },
+    {
+        "title": "Divide and Denoise: Empowering Simple Models for Robust Semi-Supervised Node Classification against Label Noise",
+        "aff": ""
+    },
+    {
+        "title": "Double Correction Framework for Denoising Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "DuMapNet: An End-to-End Vectorization System for City-Scale Lane-Level Map Generation",
+        "aff": ""
+    },
+    {
+        "title": "Dual-Assessment Driven Pruning: Iterative Optimizing Layer-wise Sparsity for Large Language Model",
+        "aff": ""
+    },
+    {
+        "title": "DyGKT: Dynamic Graph Learning for Knowledge Tracing",
+        "aff": ""
+    },
+    {
+        "title": "DyPS: Dynamic Parameter Sharing in Multi-Agent Reinforcement Learning for Spatio-Temporal Resource Allocation",
+        "aff": ""
+    },
+    {
+        "title": "Dynamic Hotel Pricing at Online Travel Platforms: A Popularity and Competitiveness Aware Demand Learning Approach",
+        "aff": ""
+    },
+    {
+        "title": "Dynamic Neural Dowker Network: Approximating Persistent Homology in Dynamic Directed Graphs",
+        "aff": ""
+    },
+    {
+        "title": "Dynamic Pricing for Multi-Retailer Delivery Platforms with Additive Deep Learning and Evolutionary Optimization",
+        "aff": ""
+    },
+    {
+        "title": "D\u00f3lares or Dollars? Unraveling the Bilingual Prowess of Financial LLMs Between Spanish and English",
+        "aff": ""
+    },
+    {
+        "title": "EAGER: Two-Stream Generative Recommender with Behavior-Semantic Collaboration",
+        "aff": ""
+    },
+    {
+        "title": "EEG2Rep: Enhancing Self-supervised EEG Representation Through Informative Masked Inputs",
+        "aff": ""
+    },
+    {
+        "title": "ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems",
+        "aff": ""
+    },
+    {
+        "title": "EcoVal: An Efficient Data Valuation Framework for Machine Learning",
+        "aff": ""
+    },
+    {
+        "title": "Effective Clustering on Large Attributed Bipartite Graphs",
+        "aff": ""
+    },
+    {
+        "title": "Effective Edge-wise Representation Learning in Edge-Attributed Bipartite Graphs",
+        "aff": ""
+    },
+    {
+        "title": "Effective Generation of Feasible Solutions for Integer Programming via Guided Diffusion",
+        "aff": ""
+    },
+    {
+        "title": "Efficient Decision Rule List Learning via Unified Sequence Submodular Optimization",
+        "aff": ""
+    },
+    {
+        "title": "Efficient Discovery of Time Series Motifs under both Length Differences and Warping",
+        "aff": ""
+    },
+    {
+        "title": "Efficient Exploration of the Rashomon Set of Rule Set Models",
+        "aff": ""
+    },
+    {
+        "title": "Efficient Mixture of Experts based on Large Language Models for Low-Resource Data Preprocessing",
+        "aff": ""
+    },
+    {
+        "title": "Efficient Topology-aware Data Augmentation for High-Degree Graph Neural Networks",
+        "aff": ""
+    },
+    {
+        "title": "Efficient and Effective Anchored Densest Subgraph Search: A Convex-programming based Approach",
+        "aff": ""
+    },
+    {
+        "title": "Efficient and Effective Implicit Dynamic Graph Neural Network",
+        "aff": ""
+    },
+    {
+        "title": "Efficient and Long-Tailed Generalization for Pre-trained Vision-Language Model",
+        "aff": ""
+    },
+    {
+        "title": "Embedding Two-View Knowledge Graphs with Class Inheritance and Structural Similarity",
+        "aff": ""
+    },
+    {
+        "title": "EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis",
+        "aff": ""
+    },
+    {
+        "title": "Enabling Collaborative Test-Time Adaptation in Dynamic Environment via Federated Learning",
+        "aff": ""
+    },
+    {
+        "title": "Enhancing Asymmetric Web Search through Question-Answer Generation and Ranking",
+        "aff": ""
+    },
+    {
+        "title": "Enhancing Contrastive Learning on Graphs with Node Similarity",
+        "aff": ""
+    },
+    {
+        "title": "Enhancing E-commerce Spelling Correction with Fine-Tuned Transformer Models",
+        "aff": ""
+    },
+    {
+        "title": "Enhancing Multi-field B2B Cloud Solution Matching via Contrastive Pre-training",
+        "aff": ""
+    },
+    {
+        "title": "Enhancing On-Device LLM Inference with Historical Cloud-Based LLM Interactions",
+        "aff": ""
+    },
+    {
+        "title": "Enhancing Personalized Headline Generation via Offline Goal-conditioned Reinforcement Learning with Large Language Models",
+        "aff": ""
+    },
+    {
+        "title": "Enhancing Pre-Ranking Performance: Tackling Intermediary Challenges in Multi-Stage Cascading Recommendation Systems",
+        "aff": ""
+    },
+    {
+        "title": "EntropyStop: Unsupervised Deep Outlier Detection with Loss Entropy",
+        "aff": ""
+    },
+    {
+        "title": "Estimated Judge Reliabilities for Weighted Bradley-Terry-Luce Are Not Reliable",
+        "aff": ""
+    },
+    {
+        "title": "Evading Community Detection via Counterfactual Neighborhood Search",
+        "aff": ""
+    },
+    {
+        "title": "Expander Hierarchies for Normalized Cuts on Graphs",
+        "aff": ""
+    },
+    {
+        "title": "Explainable and Interpretable Forecasts on Non-Smooth Multivariate Time Series for Responsible Gameplay",
+        "aff": ""
+    },
+    {
+        "title": "Explanatory Model Monitoring to Understand the Effects of Feature Shifts on Performance",
+        "aff": ""
+    },
+    {
+        "title": "Explicit and Implicit Modeling via Dual-Path Transformer for Behavior Set-informed Sequential Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "Extreme Meta-classification for Large-Scale Zero-Shot Retrieval",
+        "aff": ""
+    },
+    {
+        "title": "FAST: An Optimization Framework for Fast Additive Segmentation in Transparent ML",
+        "aff": ""
+    },
+    {
+        "title": "FLAIM: AIM-based Synthetic Data Generation in the Federated Setting",
+        "aff": ""
+    },
+    {
+        "title": "FLea: Addressing Data Scarcity and Label Skew in Federated Learning via Privacy-preserving Feature Augmentation",
+        "aff": ""
+    },
+    {
+        "title": "FNSPID: A Comprehensive Financial News Dataset in Time Series",
+        "aff": ""
+    },
+    {
+        "title": "FRNet: Frequency-based Rotation Network for Long-term Time Series Forecasting",
+        "aff": ""
+    },
+    {
+        "title": "FUGNN: Harmonizing Fairness and Utility in Graph Neural Networks",
+        "aff": ""
+    },
+    {
+        "title": "Face4Rag: Factual Consistency Evaluation for Retrieval Augmented Generation in Chinese",
+        "aff": ""
+    },
+    {
+        "title": "Fair Column Subset Selection",
+        "aff": ""
+    },
+    {
+        "title": "FairMatch: Promoting Partial Label Learning by Unlabeled Samples",
+        "aff": ""
+    },
+    {
+        "title": "Fairness in Streaming Submodular Maximization Subject to a Knapsack Constraint",
+        "aff": ""
+    },
+    {
+        "title": "Fake News in Sheep\u2019s Clothing: Robust Fake News Detection Against LLM-Empowered Style Attacks",
+        "aff": ""
+    },
+    {
+        "title": "False Positives in A/B Tests",
+        "aff": ""
+    },
+    {
+        "title": "Fast Computation for the Forest Matrix of an Evolving Graph",
+        "aff": ""
+    },
+    {
+        "title": "Fast Computation of Kemeny\u2019s Constant for Directed Graphs",
+        "aff": ""
+    },
+    {
+        "title": "Fast Multidimensional Partial Fourier Transform with Automatic Hyperparameter Selection",
+        "aff": ""
+    },
+    {
+        "title": "Fast Query of Biharmonic Distance in Networks",
+        "aff": ""
+    },
+    {
+        "title": "Fast Unsupervised Deep Outlier Model Selection with Hypernetworks",
+        "aff": ""
+    },
+    {
+        "title": "Fast and Accurate Domain Adaptation for Irregular Tensor Decomposition",
+        "aff": ""
+    },
+    {
+        "title": "FaultInsight: Interpreting Hyperscale Data Center Host Faults",
+        "aff": ""
+    },
+    {
+        "title": "FedBiOT: LLM Local Fine-tuning in Federated Learning without Full Model",
+        "aff": ""
+    },
+    {
+        "title": "FedGTP: Exploiting Inter-Client Spatial Dependency in Federated Graph-based Traffic Prediction",
+        "aff": ""
+    },
+    {
+        "title": "FedNLR: Federated Learning with Neuron-wise Learning Rates",
+        "aff": ""
+    },
+    {
+        "title": "FedRoLA: Robust Federated Learning Against Model Poisoning via Layer-based Aggregation",
+        "aff": ""
+    },
+    {
+        "title": "FedSAC: Dynamic Submodel Allocation for Collaborative Fairness in Federated Learning",
+        "aff": ""
+    },
+    {
+        "title": "FedSecurity: A Benchmark for Attacks and Defenses in Federated Learning and Federated LLMs",
+        "aff": ""
+    },
+    {
+        "title": "Federated Graph Learning with Structure Proxy Alignment",
+        "aff": ""
+    },
+    {
+        "title": "FederatedScope-LLM: A Comprehensive Package for Fine-tuning Large Language Models in Federated Learning",
+        "aff": ""
+    },
+    {
+        "title": "FlexCare: Leveraging Cross-Task Synergy for Flexible Multimodal Healthcare Prediction",
+        "aff": ""
+    },
+    {
+        "title": "Flexible Graph Neural Diffusion with Latent Class Representation Learning",
+        "aff": ""
+    },
+    {
+        "title": "FoRAG: Factuality-optimized Retrieval Augmented Generation for Web-enhanced Long-form Question Answering",
+        "aff": ""
+    },
+    {
+        "title": "FreQuant: A Reinforcement-Learning based Adaptive Portfolio Optimization with Multi-frequency Decomposition",
+        "aff": ""
+    },
+    {
+        "title": "Fredformer: Frequency Debiased Transformer for Time Series Forecasting",
+        "aff": ""
+    },
+    {
+        "title": "From Supervised to Generative: A Novel Paradigm for Tabular Deep Learning with Large Language Models",
+        "aff": ""
+    },
+    {
+        "title": "From Variability to Stability: Advancing RecSys Benchmarking Practices",
+        "aff": ""
+    },
+    {
+        "title": "FusionSF: Fuse Heterogeneous Modalities in a Vector Quantized Framework for Robust Solar Power Forecasting",
+        "aff": ""
+    },
+    {
+        "title": "Future Impact Decomposition in Request-level Recommendations",
+        "aff": ""
+    },
+    {
+        "title": "GAugLLM: Improving Graph Contrastive Learning for Text-Attributed Graphs with Large Language Models",
+        "aff": ""
+    },
+    {
+        "title": "GEO: Generative Engine Optimization",
+        "aff": ""
+    },
+    {
+        "title": "GPFedRec: Graph-Guided Personalization for Federated Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "GRAM: Generative Retrieval Augmented Matching of Data Schemas in the Context of Data Security",
+        "aff": ""
+    },
+    {
+        "title": "GRILLBot In Practice: Lessons and Tradeoffs Deploying Large Language Models for Adaptable Conversational Task Assistants",
+        "aff": ""
+    },
+    {
+        "title": "Gandalf: Learning Label-label Correlations in Extreme Multi-label Classification via Label Features",
+        "aff": ""
+    },
+    {
+        "title": "Generative Auto-bidding via Conditional Diffusion Modeling",
+        "aff": ""
+    },
+    {
+        "title": "Generative Pretrained Hierarchical Transformer for Time Series Forecasting",
+        "aff": ""
+    },
+    {
+        "title": "GeoMix: Towards Geometry-Aware Data Augmentation",
+        "aff": ""
+    },
+    {
+        "title": "Geometric View of Soft Decorrelation in Self-Supervised Learning",
+        "aff": ""
+    },
+    {
+        "title": "GinAR: An End-To-End Multivariate Time Series Forecasting Model Suitable for Variable Missing",
+        "aff": ""
+    },
+    {
+        "title": "Global Human-guided Counterfactual Explanations for Molecular Properties via Reinforcement Learning",
+        "aff": ""
+    },
+    {
+        "title": "Going Where, by Whom, and at What Time: Next Location Prediction Considering User Preference and Temporal Regularity",
+        "aff": ""
+    },
+    {
+        "title": "GraSS: Combining Graph Neural Networks with Expert Knowledge for SAT Solver Selection",
+        "aff": ""
+    },
+    {
+        "title": "GradCraft: Elevating Multi-task Recommendations through Holistic Gradient Crafting",
+        "aff": ""
+    },
+    {
+        "title": "Graph Anomaly Detection with Few Labels: A Data-Centric Approach",
+        "aff": ""
+    },
+    {
+        "title": "Graph Bottlenecked Social Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "Graph Condensation for Open-World Graph Learning",
+        "aff": ""
+    },
+    {
+        "title": "Graph Cross Supervised Learning via Generalized Knowledge",
+        "aff": ""
+    },
+    {
+        "title": "Graph Data Condensation via Self-expressive Graph Structure Reconstruction",
+        "aff": ""
+    },
+    {
+        "title": "Graph Mamba: Towards Learning on Graphs with State Space Models",
+        "aff": ""
+    },
+    {
+        "title": "GraphStorm: All-in-one Graph Machine Learning Framework for Industry Applications",
+        "aff": ""
+    },
+    {
+        "title": "GraphWiz: An Instruction-Following Language Model for Graph Problems",
+        "aff": ""
+    },
+    {
+        "title": "Handling Varied Objectives by Online Decision Making",
+        "aff": ""
+    },
+    {
+        "title": "Harm Mitigation in Recommender Systems under User Preference Dynamics",
+        "aff": ""
+    },
+    {
+        "title": "Harvesting Efficient On-Demand Order Pooling from Skilled Couriers: Enhancing Graph Representation Learning for Refining Real-time Many-to-One Assignments",
+        "aff": ""
+    },
+    {
+        "title": "Hate Speech Detection with Generalizable Target-aware Fairness",
+        "aff": ""
+    },
+    {
+        "title": "Heterogeneity-Informed Meta-Parameter Learning for Spatiotemporal Time Series Forecasting",
+        "aff": ""
+    },
+    {
+        "title": "Heuristic Learning with Graph Neural Networks: A Unified Framework for Link Prediction",
+        "aff": ""
+    },
+    {
+        "title": "HiFGL: A Hierarchical Framework for Cross-silo Cross-device Federated Graph Learning",
+        "aff": ""
+    },
+    {
+        "title": "HiGPT: Heterogeneous Graph Language Model",
+        "aff": ""
+    },
+    {
+        "title": "Hierarchical Knowledge Guided Fault Intensity Diagnosis of Complex Industrial Systems",
+        "aff": ""
+    },
+    {
+        "title": "Hierarchical Linear Symbolized Tree-Structured Neural Processes",
+        "aff": ""
+    },
+    {
+        "title": "Hierarchical Neural Constructive Solver for Real-world TSP Scenarios",
+        "aff": ""
+    },
+    {
+        "title": "High-Dimensional Distributed Sparse Classification with Scalable Communication-Efficient Global Updates",
+        "aff": ""
+    },
+    {
+        "title": "How Powerful is Graph Filtering for Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "How to Avoid Jumping to Conclusions: Measuring the Robustness of Outstanding Facts in Knowledge Graphs",
+        "aff": ""
+    },
+    {
+        "title": "Hyper-Local Deformable Transformers for Text Spotting on Historical Maps",
+        "aff": ""
+    },
+    {
+        "title": "Hypformer: Exploring Efficient Transformer Fully in Hyperbolic Space",
+        "aff": ""
+    },
+    {
+        "title": "IDEA: A Flexible Framework of Certified Unlearning for Graph Neural Networks",
+        "aff": ""
+    },
+    {
+        "title": "ITPNet: Towards Instantaneous Trajectory Prediction for Autonomous Driving",
+        "aff": ""
+    },
+    {
+        "title": "Image Similarity Using an Ensemble of Context-Sensitive Models",
+        "aff": ""
+    },
+    {
+        "title": "Improved Active Covering via Density-Based Space Transformation",
+        "aff": ""
+    },
+    {
+        "title": "Improving Ego-Cluster for Network Effect Measurement",
+        "aff": ""
+    },
+    {
+        "title": "Improving Multi-modal Recommender Systems by Denoising and Aligning Multi-modal Content and User Feedback",
+        "aff": ""
+    },
+    {
+        "title": "Improving Robustness of Hyperbolic Neural Networks by Lipschitz Analysis",
+        "aff": ""
+    },
+    {
+        "title": "Improving the Consistency in Cross-Lingual Cross-Modal Retrieval with 1-to-K Contrastive Learning",
+        "aff": ""
+    },
+    {
+        "title": "ImputeFormer: Low Rankness-Induced Transformers for Generalizable Spatiotemporal Imputation",
+        "aff": ""
+    },
+    {
+        "title": "InLN: Knowledge-aware Incremental Leveling Network for Dynamic Advertising",
+        "aff": ""
+    },
+    {
+        "title": "Inductive Modeling for Realtime Cold Start Recommendations",
+        "aff": ""
+    },
+    {
+        "title": "Influence Maximization via Graph Neural Bandits",
+        "aff": ""
+    },
+    {
+        "title": "Integrating System State into Spatio Temporal Graph Neural Network for Microservice Workload Prediction",
+        "aff": ""
+    },
+    {
+        "title": "Intelligent Agents with LLM-based Process Automation",
+        "aff": ""
+    },
+    {
+        "title": "Interpretable Cascading Mixture-of-Experts for Urban Traffic Congestion Prediction",
+        "aff": ""
+    },
+    {
+        "title": "Interpretable Transformer Hawkes Processes: Unveiling Complex Interactions in Social Networks",
+        "aff": ""
+    },
+    {
+        "title": "Investigating Out-of-Distribution Generalization of GNNs: An Architecture Perspective",
+        "aff": ""
+    },
+    {
+        "title": "Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Networks",
+        "aff": ""
+    },
+    {
+        "title": "Is Aggregation the Only Choice? Federated Learning via Layer-wise Model Recombination",
+        "aff": ""
+    },
+    {
+        "title": "Item-Difficulty-Aware Learning Path Recommendation: From a Real Walking Perspective",
+        "aff": ""
+    },
+    {
+        "title": "Iterative Weak Learnability and Multi-Class AdaBoost",
+        "aff": ""
+    },
+    {
+        "title": "Joint Auction in the Online Advertising Market",
+        "aff": ""
+    },
+    {
+        "title": "Killing Two Birds with One Stone: Cross-modal Reinforced Prompting for Graph and Language Tasks",
+        "aff": ""
+    },
+    {
+        "title": "Know Your Needs Better: Towards Structured Understanding of Marketer Demands with Analogical Reasoning Augmented LLMs",
+        "aff": ""
+    },
+    {
+        "title": "Know in $AdVance:$ Linear-Complexity Forecasting of Ad Campaign Performance with Evolving User Interest",
+        "aff": ""
+    },
+    {
+        "title": "Know, Grow, Protect: Using ML for Asset Protection by preventing Overdraft Fees",
+        "aff": ""
+    },
+    {
+        "title": "Knowledge Distillation with Perturbed Loss: From a Vanilla Teacher to a Proxy Teacher",
+        "aff": ""
+    },
+    {
+        "title": "LARP: Language Audio Relational Pre-training for Cold-Start Playlist Continuation",
+        "aff": ""
+    },
+    {
+        "title": "LASCA: A Large-Scale Stable Customer Segmentation Approach to Credit Risk Assessment",
+        "aff": ""
+    },
+    {
+        "title": "LLM4DyG: Can Large Language Models Solve Spatial-Temporal Problems on Dynamic Graphs?",
+        "aff": ""
+    },
+    {
+        "title": "LPFormer: An Adaptive Graph Transformer for Link Prediction",
+        "aff": ""
+    },
+    {
+        "title": "LaDe: The First Comprehensive Last-mile Express Dataset from Industry",
+        "aff": ""
+    },
+    {
+        "title": "Label Learning Method Based on Tensor Projection",
+        "aff": ""
+    },
+    {
+        "title": "Label Shift Correction via Bidirectional Marginal Distribution Matching",
+        "aff": ""
+    },
+    {
+        "title": "Large Language Model with Curriculum Reasoning for Visual Concept Recognition",
+        "aff": ""
+    },
+    {
+        "title": "Large Language Model-driven Meta-structure Discovery in Heterogeneous Information Network",
+        "aff": ""
+    },
+    {
+        "title": "Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System",
+        "aff": ""
+    },
+    {
+        "title": "Large Scale Generative AI Text Applied to Sports and Music",
+        "aff": ""
+    },
+    {
+        "title": "Large Scale Hierarchical Industrial Demand Time-Series Forecasting incorporating Sparsity",
+        "aff": ""
+    },
+    {
+        "title": "Latent Diffusion-based Data Augmentation for Continuous-Time Dynamic Graph Model",
+        "aff": ""
+    },
+    {
+        "title": "Layer-Wise Adaptive Gradient Norm Penalizing Method for Efficient and Accurate Deep Learning",
+        "aff": ""
+    },
+    {
+        "title": "LeMon: Automating Portrait Generation for Zero-Shot Story Visualization with Multi-Character Interactions",
+        "aff": ""
+    },
+    {
+        "title": "Learn Together Stop Apart: an Inclusive Approach to Ensemble Pruning",
+        "aff": ""
+    },
+    {
+        "title": "Learning Attributed Graphlets: Predictive Graph Mining by Graphlets with Trainable Attribute",
+        "aff": ""
+    },
+    {
+        "title": "Learning Causal Networks from Episodic Data",
+        "aff": ""
+    },
+    {
+        "title": "Learning Flexible Time-windowed Granger Causality Integrating Heterogeneous Interventional Time Series Data",
+        "aff": ""
+    },
+    {
+        "title": "Learning Metrics that Maximise Power for Accelerated A/B-Tests",
+        "aff": ""
+    },
+    {
+        "title": "Learning Multi-view Molecular Representations with Structured and Unstructured Knowledge",
+        "aff": ""
+    },
+    {
+        "title": "Learning from Emergence: A Study on Proactively Inhibiting the Monosemantic Neurons of Artificial Neural Networks",
+        "aff": ""
+    },
+    {
+        "title": "Learning the Covariance of Treatment Effects Across Many Weak Experiments",
+        "aff": ""
+    },
+    {
+        "title": "Learning to Bid the Interest Rate in Online Unsecured Personal Loans",
+        "aff": ""
+    },
+    {
+        "title": "Learning to Rank for Maps at Airbnb",
+        "aff": ""
+    },
+    {
+        "title": "Leveraging Exposure Networks for Detecting Fake News Sources",
+        "aff": ""
+    },
+    {
+        "title": "Leveraging Pedagogical Theories to Understand Student Learning Process with Graph-based Reasonable Knowledge Tracing",
+        "aff": ""
+    },
+    {
+        "title": "LiGNN: Graph Neural Networks at LinkedIn",
+        "aff": ""
+    },
+    {
+        "title": "LiMAML: Personalization of Deep Recommender Models via Meta Learning",
+        "aff": ""
+    },
+    {
+        "title": "LiRank: Industrial Large Scale Ranking Models at LinkedIn",
+        "aff": ""
+    },
+    {
+        "title": "LogParser-LLM: Advancing Efficient Log Parsing with Large Language Models",
+        "aff": ""
+    },
+    {
+        "title": "Logical Reasoning with Relation Network for Inductive Knowledge Graph Completion",
+        "aff": ""
+    },
+    {
+        "title": "Long-Term Vessel Trajectory Imputation with Physics-Guided Diffusion Probabilistic Model",
+        "aff": ""
+    },
+    {
+        "title": "Lookahead: An Inference Acceleration Framework for Large Language Model with Lossless Generation Accuracy",
+        "aff": ""
+    },
+    {
+        "title": "Low Rank Multi-Dictionary Selection at Scale",
+        "aff": ""
+    },
+    {
+        "title": "Lumos: Empowering Multimodal LLMs with Scene Text Recognition",
+        "aff": ""
+    },
+    {
+        "title": "MAML-en-LLM: Model Agnostic Meta-Training of LLMs for Improved In-Context Learning",
+        "aff": ""
+    },
+    {
+        "title": "MARLP: Time-series Forecasting Control for Agricultural Managed Aquifer Recharge",
+        "aff": ""
+    },
+    {
+        "title": "MFTCoder: Boosting Code LLMs with Multitask Fine-Tuning",
+        "aff": ""
+    },
+    {
+        "title": "MGMatch: Fast Matchmaking with Nonlinear Objective and Constraints via Multimodal Deep Graph Learning",
+        "aff": ""
+    },
+    {
+        "title": "MISP: A Multimodal-based Intelligent Server Failure Prediction Model for Cloud Computing Systems",
+        "aff": ""
+    },
+    {
+        "title": "MMBee: Live Streaming Gift-Sending Recommendations via Multi-Modal Fusion and Behaviour Expansion",
+        "aff": ""
+    },
+    {
+        "title": "MSPipe: Efficient Temporal GNN Training via Staleness-Aware Pipeline",
+        "aff": ""
+    },
+    {
+        "title": "MacroHFT: Memory Augmented Context-aware Reinforcement Learning On High Frequency Trading",
+        "aff": ""
+    },
+    {
+        "title": "Make Your Home Safe: Time-aware Unsupervised User Behavior Anomaly Detection in Smart Homes via Loss-guided Mask",
+        "aff": ""
+    },
+    {
+        "title": "Making Temporal Betweenness Computation Faster and Restless",
+        "aff": ""
+    },
+    {
+        "title": "Marrying Dialogue Systems with Data Visualization: Interactive Data Visualization Generation from Natural Language Conversations",
+        "aff": ""
+    },
+    {
+        "title": "Masked LoGoNet: Fast and Accurate 3D Image Analysis for Medical Domain",
+        "aff": ""
+    },
+    {
+        "title": "Mastering Long-Tail Complexity on Graphs: Characterization, Learning, and Generalization",
+        "aff": ""
+    },
+    {
+        "title": "Max-Min Diversification with Asymmetric Distances",
+        "aff": ""
+    },
+    {
+        "title": "Maximum-Entropy Regularized Decision Transformer with Reward Relabelling for Dynamic Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "Measuring an LLM\u2019s Proficiency at using APIs : A Query Generation Strategy",
+        "aff": ""
+    },
+    {
+        "title": "MemMap: An Adaptive and Latent Memory Structure for Dynamic Graph Learning",
+        "aff": ""
+    },
+    {
+        "title": "Meta Clustering of Neural Bandits",
+        "aff": ""
+    },
+    {
+        "title": "Metric Decomposition in A/B Tests",
+        "aff": ""
+    },
+    {
+        "title": "Microservice Root Cause Analysis With Limited Observability Through Intervention Recognition in the Latent Space",
+        "aff": ""
+    },
+    {
+        "title": "Mining of Switching Sparse Networks for Missing Value Imputation in Multivariate Time Series",
+        "aff": ""
+    },
+    {
+        "title": "Mitigating Negative Transfer in Cross-Domain Recommendation via Knowledge Transferability Enhancement",
+        "aff": ""
+    },
+    {
+        "title": "Mitigating Pooling Bias in E-commerce Search via False Negative Estimation",
+        "aff": ""
+    },
+    {
+        "title": "Model-Agnostic Random Weighting for Out-of-Distribution Generalization",
+        "aff": ""
+    },
+    {
+        "title": "Modeling User Retention through Generative Flow Networks",
+        "aff": ""
+    },
+    {
+        "title": "Money Never Sleeps: Maximizing Liquidity Mining Yields in Decentralized Finance",
+        "aff": ""
+    },
+    {
+        "title": "Motif-Consistent Counterfactuals with Adversarial Refinement for Graph-level Anomaly Detection",
+        "aff": ""
+    },
+    {
+        "title": "MulSTE: A Multi-view Spatio-temporal Learning Framework with Heterogeneous Event Fusion for Demand-supply Prediction",
+        "aff": ""
+    },
+    {
+        "title": "Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks",
+        "aff": ""
+    },
+    {
+        "title": "Multi-Scale Detection of Anomalous Spatio-Temporal Trajectories in Evolving Trajectory Datasets",
+        "aff": ""
+    },
+    {
+        "title": "Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization",
+        "aff": ""
+    },
+    {
+        "title": "Multi-Task Neural Linear Bandit for Exploration in Recommender Systems",
+        "aff": ""
+    },
+    {
+        "title": "Multi-objective Learning to Rank by Model Distillation",
+        "aff": ""
+    },
+    {
+        "title": "Multi-source Unsupervised Domain Adaptation on Graphs with Transferability Modeling",
+        "aff": ""
+    },
+    {
+        "title": "Multi-task Conditional Attention Network for Conversion Prediction in Logistics Advertising",
+        "aff": ""
+    },
+    {
+        "title": "Multivariate Log-based Anomaly Detection for Distributed Database",
+        "aff": ""
+    },
+    {
+        "title": "Mutual Distillation Extracting Spatial-temporal Knowledge for Lightweight Multi-channel Sleep Stage Classification",
+        "aff": ""
+    },
+    {
+        "title": "Natural Language Explainable Recommendation with Robustness Enhancement",
+        "aff": ""
+    },
+    {
+        "title": "Nested Fusion: A Method for Learning High Resolution Latent Structure of Multi-Scale Measurement Data on Mars",
+        "aff": ""
+    },
+    {
+        "title": "Neural Collapse Anchored Prompt Tuning for Generalizable Vision-Language Models",
+        "aff": ""
+    },
+    {
+        "title": "Neural Collapse Inspired Debiased Representation Learning for Min-max Fairness",
+        "aff": ""
+    },
+    {
+        "title": "Neural Manifold Operators for Learning the Evolution of Physical Dynamics",
+        "aff": ""
+    },
+    {
+        "title": "Neural Optimization with Adaptive Heuristics for Intelligent Marketing System",
+        "aff": ""
+    },
+    {
+        "title": "Neural Retrievers are Biased Towards LLM-Generated Content",
+        "aff": ""
+    },
+    {
+        "title": "NeuroCut: A Neural Approach for Robust Graph Partitioning",
+        "aff": ""
+    },
+    {
+        "title": "Noisy Label Removal for Partial Multi-Label Learning",
+        "aff": ""
+    },
+    {
+        "title": "Non-autoregressive Generative Models for Reranking Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "NudgeRank: Digital Algorithmic Nudging for Personalized Health",
+        "aff": ""
+    },
+    {
+        "title": "OAG-Bench: A Human-Curated Benchmark for Academic Graph Mining",
+        "aff": ""
+    },
+    {
+        "title": "ORCDF: An Oversmoothing-Resistant Cognitive Diagnosis Framework for Student Learning in Online Education Systems",
+        "aff": ""
+    },
+    {
+        "title": "Offline Imitation Learning with Model-based Reverse Augmentation",
+        "aff": ""
+    },
+    {
+        "title": "Offline Reinforcement Learning for Optimizing Production Bidding Policies",
+        "aff": ""
+    },
+    {
+        "title": "On (Normalised) Discounted Cumulative Gain as an Off-Policy Evaluation Metric for Top-$n$ Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "On Early Detection of Hallucinations in Factual Question Answering",
+        "aff": ""
+    },
+    {
+        "title": "On Finding Bi-objective Pareto-optimal Fraud Prevention Rule Sets for Fintech Applications",
+        "aff": ""
+    },
+    {
+        "title": "On the Convergence of Zeroth-Order Federated Tuning for Large Language Models",
+        "aff": ""
+    },
+    {
+        "title": "One Fits All: Learning Fair Graph Neural Networks for Various Sensitive Attributes",
+        "aff": ""
+    },
+    {
+        "title": "Online Drift Detection with Maximum Concept Discrepancy",
+        "aff": ""
+    },
+    {
+        "title": "Online Preference Weight Estimation Algorithm with Vanishing Regret for Car-Hailing in Road Network",
+        "aff": ""
+    },
+    {
+        "title": "OntoType: Ontology-Guided and Pre-Trained Language Model Assisted Fine-Grained Entity Typing",
+        "aff": ""
+    },
+    {
+        "title": "Ontology Enrichment for Effective Fine-grained Entity Typing",
+        "aff": ""
+    },
+    {
+        "title": "OpenFedLLM: Training Large Language Models on Decentralized Private Data via Federated Learning",
+        "aff": ""
+    },
+    {
+        "title": "Optimized Cost Per Click in Online Advertising: A Theoretical Analysis",
+        "aff": ""
+    },
+    {
+        "title": "Optimizing Long-tailed Link Prediction in Graph Neural Networks through Structure Representation Enhancement",
+        "aff": ""
+    },
+    {
+        "title": "Optimizing Novelty of Top-k Recommendations using Large Language Models and Reinforcement Learning",
+        "aff": ""
+    },
+    {
+        "title": "Optimizing OOD Detection in Molecular Graphs: A Novel Approach with Diffusion Models",
+        "aff": ""
+    },
+    {
+        "title": "Optimizing Smartphone App Usage Prediction: A Click-Through Rate Ranking Approach",
+        "aff": ""
+    },
+    {
+        "title": "Orthogonality Matters: Invariant Time Series Representation for Out-of-distribution Classification",
+        "aff": ""
+    },
+    {
+        "title": "PAIL: Performance based Adversarial Imitation Learning Engine for Carbon Neutral Optimization",
+        "aff": ""
+    },
+    {
+        "title": "PATE: Proximity-Aware Time Series Anomaly Evaluation",
+        "aff": ""
+    },
+    {
+        "title": "PEMBOT: Pareto-Ensembled Multi-task Boosted Trees",
+        "aff": ""
+    },
+    {
+        "title": "POND: Multi-Source Time Series Domain Adaptation with Information-Aware Prompt Tuning",
+        "aff": ""
+    },
+    {
+        "title": "PSMC: Provable and Scalable Algorithms for Motif Conductance Based Graph Clustering",
+        "aff": ""
+    },
+    {
+        "title": "Path-Specific Causal Reasoning for Fairness-aware Cognitive Diagnosis",
+        "aff": ""
+    },
+    {
+        "title": "Path-based Explanation for Knowledge Graph Completion",
+        "aff": ""
+    },
+    {
+        "title": "Paths2Pair: Meta-path Based Link Prediction in Billion-Scale Commercial Heterogeneous Graphs",
+        "aff": ""
+    },
+    {
+        "title": "PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly Detection",
+        "aff": ""
+    },
+    {
+        "title": "Performative Debias with Fair-exposure Optimization Driven by Strategic Agents in Recommender Systems",
+        "aff": ""
+    },
+    {
+        "title": "Personalised Drug Identifier for Cancer Treatment with Transformers using Auxiliary Information",
+        "aff": ""
+    },
+    {
+        "title": "Personalized Federated Continual Learning via Multi-Granularity Prompt",
+        "aff": ""
+    },
+    {
+        "title": "Personalized Product Assortment with Real-time 3D Perception and Bayesian Payoff Estimation",
+        "aff": ""
+    },
+    {
+        "title": "Physics-informed Neural ODE for Post-disaster Mobility Recovery",
+        "aff": ""
+    },
+    {
+        "title": "Policy-Based Bayesian Active Causal Discovery with Deep Reinforcement Learning",
+        "aff": ""
+    },
+    {
+        "title": "PolyFormer: Scalable Node-wise Filters via Polynomial Graph Transformer",
+        "aff": ""
+    },
+    {
+        "title": "PolygonGNN: Representation Learning for Polygonal Geometries with Heterogeneous Visibility Graph",
+        "aff": ""
+    },
+    {
+        "title": "Popularity-Aware Alignment and Contrast for Mitigating Popularity Bias",
+        "aff": ""
+    },
+    {
+        "title": "Practical Single Domain Generalization via Training-time and Test-time Learning",
+        "aff": ""
+    },
+    {
+        "title": "Pre-Training Identification of Graph Winning Tickets in Adaptive Spatial-Temporal Graph Neural Networks",
+        "aff": ""
+    },
+    {
+        "title": "Pre-Training and Prompting for Few-Shot Node Classification on Text-Attributed Graphs",
+        "aff": ""
+    },
+    {
+        "title": "Pre-Training with Transferable Attention for Addressing Market Shifts in Cross-Market Sequential Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "Pre-train and Refine: Towards Higher Efficiency in K-Agnostic Community Detection without Quality Degradation",
+        "aff": ""
+    },
+    {
+        "title": "Pre-trained KPI Anomaly Detection Model Based on Disentangled Transformer",
+        "aff": ""
+    },
+    {
+        "title": "Predicting Cascading Failures with a Hyperparametric Diffusion Model",
+        "aff": ""
+    },
+    {
+        "title": "Predicting Long-term Dynamics of Complex Networks via Identifying Skeleton in Hyperbolic Space",
+        "aff": ""
+    },
+    {
+        "title": "Preventing Strategic Behaviors in Collaborative Inference for Vertical Federated Learning",
+        "aff": ""
+    },
+    {
+        "title": "Privacy-Preserved Neural Graph Databases",
+        "aff": ""
+    },
+    {
+        "title": "Privileged Knowledge State Distillation for Reinforcement Learning-based Educational Path Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "ProCom: A Few-shot Targeted Community Detection Algorithm",
+        "aff": ""
+    },
+    {
+        "title": "Probabilistic Attention for Sequential Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "Profiling Urban Streets: A Semi-Supervised Prediction Model Based on Street View Imagery and Spatial Topology",
+        "aff": ""
+    },
+    {
+        "title": "Promoting Fairness and Priority in Selecting k-Winners Using IRV",
+        "aff": ""
+    },
+    {
+        "title": "Prompt Perturbation in Retrieval-Augmented Generation based Large Language Models",
+        "aff": ""
+    },
+    {
+        "title": "Propagation Structure-Aware Graph Transformer for Robust and Interpretable Fake News Detection",
+        "aff": ""
+    },
+    {
+        "title": "ProtoMix: Augmenting Health Status Representation Learning via Prototype-based Mixup",
+        "aff": ""
+    },
+    {
+        "title": "Provable Adaptivity of Adam under Non-uniform Smoothness",
+        "aff": ""
+    },
+    {
+        "title": "QGRL: Quaternion Graph Representation Learning for Heterogeneous Feature Data Clustering",
+        "aff": ""
+    },
+    {
+        "title": "QSketch: An Efficient Sketch for Weighted Cardinality Estimation in Streams",
+        "aff": ""
+    },
+    {
+        "title": "Quantifying and Estimating the Predictability Upper Bound of Univariate Numeric Time Series",
+        "aff": ""
+    },
+    {
+        "title": "R-Eval: A Unified Toolkit for Evaluating Domain Knowledge of Retrieval Augmented Large Language Models",
+        "aff": ""
+    },
+    {
+        "title": "RC-Mixup: A Data Augmentation Strategy against Noisy Data for Regression Tasks",
+        "aff": ""
+    },
+    {
+        "title": "RCTD: Reputation-Constrained Truth Discovery in Sybil Attack Crowdsourcing Environment",
+        "aff": ""
+    },
+    {
+        "title": "RHiOTS: A Framework for Evaluating Hierarchical Time Series Forecasting Algorithms",
+        "aff": ""
+    },
+    {
+        "title": "RIGL: A Unified Reciprocal Approach for Tracing the Independent and Group Learning Processes",
+        "aff": ""
+    },
+    {
+        "title": "RJUA-MedDQA: A Multimodal Benchmark for Medical Document Question Answering and Clinical Reasoning",
+        "aff": ""
+    },
+    {
+        "title": "ROTAN: A Rotation-based Temporal Attention Network for Time-Specific Next POI Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "RPMixer: Shaking Up Time Series Forecasting with Random Projections for Large Spatial-Temporal Data",
+        "aff": ""
+    },
+    {
+        "title": "Rankability-enhanced Revenue Uplift Modeling Framework for Online Marketing",
+        "aff": ""
+    },
+    {
+        "title": "Ranking with Slot Constraints",
+        "aff": ""
+    },
+    {
+        "title": "RareBench: Can LLMs Serve as Rare Diseases Specialists?",
+        "aff": ""
+    },
+    {
+        "title": "ReCDA: Concept Drift Adaptation with Representation Enhancement for Network Intrusion Detection",
+        "aff": ""
+    },
+    {
+        "title": "ReCTSi: Resource-efficient Correlated Time Series Imputation via Decoupled Pattern Learning and Completeness-aware Attentions",
+        "aff": ""
+    },
+    {
+        "title": "ReFound: Crafting a Foundation Model for Urban Region Understanding upon Language and Visual Foundations",
+        "aff": ""
+    },
+    {
+        "title": "RecExplainer: Aligning Large Language Models for Explaining Recommendation Models",
+        "aff": ""
+    },
+    {
+        "title": "Reimagining Graph Classification from a Prototype View with Optimal Transport: Algorithm and Theorem",
+        "aff": ""
+    },
+    {
+        "title": "Reinforced Compressive Neural Architecture Search for Versatile Adversarial Robustness",
+        "aff": ""
+    },
+    {
+        "title": "Relaxing Continuous Constraints of Equivariant Graph Neural Networks for Broad Physical Dynamics Learning",
+        "aff": ""
+    },
+    {
+        "title": "Relevance Meets Diversity: A User-Centric Framework for Knowledge Exploration Through Recommendations",
+        "aff": ""
+    },
+    {
+        "title": "Reliable Confidence Intervals for Information Retrieval Evaluation using Generative A.I.",
+        "aff": ""
+    },
+    {
+        "title": "Repeat-Aware Neighbor Sampling for Dynamic Graph Learning",
+        "aff": ""
+    },
+    {
+        "title": "Representation Learning of Geometric Trees",
+        "aff": ""
+    },
+    {
+        "title": "Representation Learning of Temporal Graphs with Structural Roles",
+        "aff": ""
+    },
+    {
+        "title": "Reserving-Masking-Reconstruction Model for Self-Supervised Heterogeneous Graph Representation",
+        "aff": ""
+    },
+    {
+        "title": "Residual Multi-Task Learner for Applied Ranking",
+        "aff": ""
+    },
+    {
+        "title": "Resilient k-Clustering",
+        "aff": ""
+    },
+    {
+        "title": "Resurrecting Label Propagation for Graphs with Heterophily and Label Noise",
+        "aff": ""
+    },
+    {
+        "title": "Rethinking Fair Graph Neural Networks from Re-balancing",
+        "aff": ""
+    },
+    {
+        "title": "Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective",
+        "aff": ""
+    },
+    {
+        "title": "Rethinking Order Dispatching in Online Ride-Hailing Platforms",
+        "aff": ""
+    },
+    {
+        "title": "Retrieval-Augmented Hypergraph for Multimodal Social Media Popularity Prediction",
+        "aff": ""
+    },
+    {
+        "title": "Revisiting Local PageRank Estimation on Undirected Graphs: Simple and Optimal",
+        "aff": ""
+    },
+    {
+        "title": "Revisiting Modularity Maximization for Graph Clustering: A Contrastive Learning Perspective",
+        "aff": ""
+    },
+    {
+        "title": "Revisiting Reciprocal Recommender Systems: Metrics, Formulation, and Method",
+        "aff": ""
+    },
+    {
+        "title": "Robust Auto-Bidding Strategies for Online Advertising",
+        "aff": ""
+    },
+    {
+        "title": "Robust Predictions with Ambiguous Time Delays: A Bootstrap Strategy",
+        "aff": ""
+    },
+    {
+        "title": "Rotative Factorization Machines",
+        "aff": ""
+    },
+    {
+        "title": "RoutePlacer: An End-to-End Routability-Aware Placer with Graph Neural Network",
+        "aff": ""
+    },
+    {
+        "title": "Routing Evidence for Unseen Actions in Video Moment Retrieval",
+        "aff": ""
+    },
+    {
+        "title": "SEBot: Structural Entropy Guided Multi-View Contrastive learning for Social Bot Detection",
+        "aff": ""
+    },
+    {
+        "title": "SEFraud: Graph-based Self-Explainable Fraud Detection via Interpretative Mask Learning",
+        "aff": ""
+    },
+    {
+        "title": "SLADE: Detecting Dynamic Anomalies in Edge Streams without Labels via Self-Supervised Learning",
+        "aff": ""
+    },
+    {
+        "title": "STATE: A Robust ATE Estimator of Heavy-Tailed Metrics for Variance Reduction in Online Controlled Experiments",
+        "aff": ""
+    },
+    {
+        "title": "STEMO: Early Spatio-temporal Forecasting with Multi-Objective Reinforcement Learning",
+        "aff": ""
+    },
+    {
+        "title": "STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts",
+        "aff": ""
+    },
+    {
+        "title": "Scalable Algorithm for Finding Balanced Subgraphs with Tolerance in Signed Networks",
+        "aff": ""
+    },
+    {
+        "title": "Scalable Differentiable Causal Discovery in the Presence of Latent Confounders with Skeleton Posterior",
+        "aff": ""
+    },
+    {
+        "title": "Scalable Multitask Learning Using Gradient-based Estimation of Task Affinity",
+        "aff": ""
+    },
+    {
+        "title": "Scalable Rule Lists Learning with Sampling",
+        "aff": ""
+    },
+    {
+        "title": "Scalable Temporal Motif Densest Subnetwork Discovery",
+        "aff": ""
+    },
+    {
+        "title": "Scaling Training Data with Lossy Image Compression",
+        "aff": ""
+    },
+    {
+        "title": "Self-Distilled Disentangled Learning for Counterfactual Prediction",
+        "aff": ""
+    },
+    {
+        "title": "Self-Explainable Temporal Graph Networks based on Graph Information Bottleneck",
+        "aff": ""
+    },
+    {
+        "title": "Self-Supervised Denoising through Independent Cascade Graph Augmentation for Robust Social Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "Self-Supervised Learning for Graph Dataset Condensation",
+        "aff": ""
+    },
+    {
+        "title": "Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask",
+        "aff": ""
+    },
+    {
+        "title": "Self-consistent Deep Geometric Learning for Heterogeneous Multi-source Spatial Point Data Prediction",
+        "aff": ""
+    },
+    {
+        "title": "Semi-Supervised Learning for Time Series Collected at a Low Sampling Rate",
+        "aff": ""
+    },
+    {
+        "title": "SensitiveHUE: Multivariate Time Series Anomaly Detection by Enhancing the Sensitivity to Normal Patterns",
+        "aff": ""
+    },
+    {
+        "title": "SentHYMNent: An Interpretable and Sentiment-Driven Model for Algorithmic Melody Harmonization",
+        "aff": ""
+    },
+    {
+        "title": "SepsisLab: Early Sepsis Prediction with Uncertainty Quantification and Active Sensing",
+        "aff": ""
+    },
+    {
+        "title": "ShapeFormer: Shapelet Transformer for Multivariate Time Series Classification",
+        "aff": ""
+    },
+    {
+        "title": "Shopping Trajectory Representation Learning with Pre-training for E-commerce Customer Understanding and Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "SiGeo: Sub-One-Shot NAS via Geometry of Loss Landscape",
+        "aff": ""
+    },
+    {
+        "title": "SimDiff: Simple Denoising Probabilistic Latent Diffusion Model for Data Augmentation on Multi-modal Knowledge Graph",
+        "aff": ""
+    },
+    {
+        "title": "Sketch-Based Replay Projection for Continual Learning",
+        "aff": ""
+    },
+    {
+        "title": "Source Localization for Cross Network Information Diffusion",
+        "aff": ""
+    },
+    {
+        "title": "Spatio-Temporal Consistency Enhanced Differential Network for Interpretable Indoor Temperature Prediction",
+        "aff": ""
+    },
+    {
+        "title": "Spending Programmed Bidding: Privacy-friendly Bid Optimization with ROI Constraint in Online Advertising",
+        "aff": ""
+    },
+    {
+        "title": "Spuriousness-Aware Meta-Learning for Learning Robust Classifiers",
+        "aff": ""
+    },
+    {
+        "title": "Statistical Models of Top-k Partial Orders with Variable k",
+        "aff": ""
+    },
+    {
+        "title": "Subspace Selection based Prompt Tuning with Nonconvex Nonsmooth Black-Box Optimization",
+        "aff": ""
+    },
+    {
+        "title": "Synthesizing Multimodal Electronic Health Records via Predictive Diffusion Models",
+        "aff": ""
+    },
+    {
+        "title": "TACCO: Task-guided Co-clustering of Clinical Concepts and Patient Visits for Disease Subtyping based on EHR Data",
+        "aff": ""
+    },
+    {
+        "title": "TDNetGen: Empowering Complex Network Resilience Prediction with Generative Augmentation of Topology and Dynamics",
+        "aff": ""
+    },
+    {
+        "title": "TSC: a Simple Two-Sided Constraint against Over-Smoothing",
+        "aff": ""
+    },
+    {
+        "title": "Tackling Concept Shift in Text Classification using Entailment-style Modeling",
+        "aff": ""
+    },
+    {
+        "title": "Tackling Instance-Dependent Label Noise with Class Rebalance and Geometric Regularization",
+        "aff": ""
+    },
+    {
+        "title": "Team up GBDTs and DNNs: Advancing Efficient and Effective Tabular Prediction with Tree-hybrid MLPs",
+        "aff": ""
+    },
+    {
+        "title": "Television Discourse Decoded: Comprehensive Multimodal Analytics at Scale",
+        "aff": ""
+    },
+    {
+        "title": "Temporal Prototype-Aware Learning for Active Voltage Control on Power Distribution Networks",
+        "aff": ""
+    },
+    {
+        "title": "Temporal Uplift Modeling for Online Marketing",
+        "aff": ""
+    },
+    {
+        "title": "Tensorized Unaligned Multi-view Clustering with Multi-scale Representation Learning",
+        "aff": ""
+    },
+    {
+        "title": "Text Matching Indexers in Taobao Search",
+        "aff": ""
+    },
+    {
+        "title": "The Heterophily Snowflake Hypothesis: Training and Empowering GNNs for Heterophilic Graphs",
+        "aff": ""
+    },
+    {
+        "title": "The Snowflake Hypothesis: Training and Powering GNN with One Node One Receptive Field",
+        "aff": ""
+    },
+    {
+        "title": "Time-Aware Attention-Based Transformer (TAAT) for Cloud Computing System Failure Prediction",
+        "aff": ""
+    },
+    {
+        "title": "TnT-LLM: Text Mining at Scale with Large Language Models",
+        "aff": ""
+    },
+    {
+        "title": "Top-Down Bayesian Posterior Sampling for Sum-Product Networks",
+        "aff": ""
+    },
+    {
+        "title": "Topology-Driven Multi-View Clustering via Tensorial Refined Sigmoid Rank Minimization",
+        "aff": ""
+    },
+    {
+        "title": "Topology-aware Embedding Memory for Continual Learning on Expanding Networks",
+        "aff": ""
+    },
+    {
+        "title": "Topology-monitorable Contrastive Learning on Dynamic Graphs",
+        "aff": ""
+    },
+    {
+        "title": "Toward Structure Fairness in Dynamic Graph Embedding: A Trend-aware Dual Debiasing Approach",
+        "aff": ""
+    },
+    {
+        "title": "Towards Adaptive Neighborhood for Advancing Temporal Interaction Graph Modeling",
+        "aff": ""
+    },
+    {
+        "title": "Towards Automatic Evaluation for LLMs\u2019 Clinical Capabilities: Metric, Data, and Algorithm",
+        "aff": ""
+    },
+    {
+        "title": "Towards Lightweight Graph Neural Network Search with Curriculum Graph Sparsification",
+        "aff": ""
+    },
+    {
+        "title": "Towards Robust Information Extraction via Binomial Distribution Guided Counterpart Sequence",
+        "aff": ""
+    },
+    {
+        "title": "Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning",
+        "aff": ""
+    },
+    {
+        "title": "Towards Test Time Adaptation via Calibrated Entropy Minimization",
+        "aff": ""
+    },
+    {
+        "title": "TrajRecovery: An Efficient Vehicle Trajectory Recovery Framework based on Urban-Scale Traffic Camera Records",
+        "aff": ""
+    },
+    {
+        "title": "Transportation Marketplace Rate Forecast Using Signature Transform",
+        "aff": ""
+    },
+    {
+        "title": "Trinity: Syncretizing Multi-/Long-Tail/Long-Term Interests All in One",
+        "aff": ""
+    },
+    {
+        "title": "Truthful Bandit Mechanisms for Repeated Two-stage Ad Auctions",
+        "aff": ""
+    },
+    {
+        "title": "URRL-IMVC: Unified and Robust Representation Learning for Incomplete Multi-View Clustering",
+        "aff": ""
+    },
+    {
+        "title": "Understanding Inter-Session Intentions via Complex Logical Reasoning",
+        "aff": ""
+    },
+    {
+        "title": "Understanding the Ranking Loss for Recommendation with Sparse User Feedback",
+        "aff": ""
+    },
+    {
+        "title": "Understanding the Weakness of Large Language Model Agents within a Complex Android Environment",
+        "aff": ""
+    },
+    {
+        "title": "UniST: A Prompt-empowered Universal Model for Urban Spatio-temporal Prediction",
+        "aff": ""
+    },
+    {
+        "title": "Unified Dual-Intent Translation for Joint Modeling of Search and Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "Unified Low-rank Compression Framework for Click-through Rate Prediction",
+        "aff": ""
+    },
+    {
+        "title": "Unifying Evolution, Explanation, and Discernment: A Generative Approach for Dynamic Graph Counterfactuals",
+        "aff": ""
+    },
+    {
+        "title": "Unifying Graph Convolution and Contrastive Learning in Collaborative Filtering",
+        "aff": ""
+    },
+    {
+        "title": "Unraveling Block Maxima Forecasting Models with Counterfactual Explanation",
+        "aff": ""
+    },
+    {
+        "title": "Unsupervised Alignment of Hypergraphs with Different Scales",
+        "aff": ""
+    },
+    {
+        "title": "Unsupervised Generative Feature Transformation via Graph Contrastive Pre-training and Multi-objective Fine-tuning",
+        "aff": ""
+    },
+    {
+        "title": "Unsupervised Heterogeneous Graph Rewriting Attack via Node Clustering",
+        "aff": ""
+    },
+    {
+        "title": "Unsupervised Ranking Ensemble Model for Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "Unveiling Global Interactive Patterns across Graphs: Towards Interpretable Graph Neural Networks",
+        "aff": ""
+    },
+    {
+        "title": "Unveiling Privacy Vulnerabilities: Investigating the Role of Structure in Graph Data",
+        "aff": ""
+    },
+    {
+        "title": "Unveiling Vulnerabilities of Contrastive Recommender Systems to Poisoning Attacks",
+        "aff": ""
+    },
+    {
+        "title": "Uplift Modelling via Gradient Boosting",
+        "aff": ""
+    },
+    {
+        "title": "Urban-Focused Multi-Task Offline Reinforcement Learning with Contrastive Data Sharing",
+        "aff": ""
+    },
+    {
+        "title": "UrbanGPT: Spatio-Temporal Large Language Models",
+        "aff": ""
+    },
+    {
+        "title": "User Welfare Optimization in Recommender Systems with Competing Content Creators",
+        "aff": ""
+    },
+    {
+        "title": "Using Self-supervised Learning Can Improve Model Fairness",
+        "aff": ""
+    },
+    {
+        "title": "Valuing an Engagement Surface using a Large Scale Dynamic Causal Model",
+        "aff": ""
+    },
+    {
+        "title": "VecAug: Unveiling Camouflaged Frauds with Cohort Augmentation for Enhanced Detection",
+        "aff": ""
+    },
+    {
+        "title": "VertiMRF: Differentially Private Vertical Federated Data Synthesis",
+        "aff": ""
+    },
+    {
+        "title": "Warming Up Cold-Start CTR Prediction by Learning Item-Specific Feature Interactions",
+        "aff": ""
+    },
+    {
+        "title": "Weather Knows What Will Occur: Urban Public Nuisance Events Prediction and Control with Meteorological Assistance",
+        "aff": ""
+    },
+    {
+        "title": "When Box Meets Graph Neural Network in Tag-aware Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "Where Have You Been? A Study of Privacy Risk for Point-of-Interest Recommendation",
+        "aff": ""
+    },
+    {
+        "title": "XRL-Bench: A Benchmark for Evaluating and Comparing Explainable Reinforcement Learning Techniques",
+        "aff": ""
+    },
+    {
+        "title": "Xinyu: An Efficient LLM-based System for Commentary Generation",
+        "aff": ""
+    },
+    {
+        "title": "Your Neighbor Matters: Towards Fair Decisions Under Networked Interference",
+        "aff": ""
+    },
+    {
+        "title": "ZeroG: Investigating Cross-dataset Zero-shot Transferability in Graphs",
+        "aff": ""
+    }
+]

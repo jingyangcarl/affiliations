@@ -328,10 +328,6 @@
         "aff": "SECE, Shenzhen Graduate School, Peking University + Tencent AI Lab; SECE, Shenzhen Graduate School, Peking University; SECE, Shenzhen Graduate School, Peking University; SECE, Shenzhen Graduate School, Peking University"
     },
     {
-        "title": "AdaptGuard: Defending Against Universal Attacks for Model Adaptation",
-        "aff": ""
-    },
-    {
         "title": "Adaptive Calibrator Ensemble: Navigating Test Set Difficulty in Out-of-Distribution Scenarios",
         "aff": "The Hong Kong Polytechnic University; The Australian National University; The Australian National University"
     },
@@ -622,10 +618,6 @@
     {
         "title": "BEV-DG: Cross-Modal Learning under Bird's-Eye View for Domain Generalization of 3D Semantic Segmentation",
         "aff": "School of Informatics, Xiamen University; Tsinghua Shenzhen International Graduate School, Tsinghua University; Department of ECE, Northeastern University; School of Informatics, Xiamen University; Department of ECE, Northeastern University"
-    },
-    {
-        "title": "BEVBert: Multimodal Map Pre-training for Language-guided Navigation",
-        "aff": ""
     },
     {
         "title": "BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images",
@@ -3076,10 +3068,6 @@
         "aff": "Tsinghua University+Microsoft Research Asia; Microsoft Research Asia; Tsinghua University+Microsoft Research Asia; Microsoft Research Asia"
     },
     {
-        "title": "GaFET: Learning Geometry-aware Facial Expression Translation from In-The-Wild Images",
-        "aff": ""
-    },
-    {
         "title": "GaPro: Box-Supervised 3D Point Cloud Instance Segmentation Using Gaussian Processes as Pseudo Labelers",
         "aff": "VinAI Research, Hanoi, Vietnam; VinAI Research, Hanoi, Vietnam; VinAI Research, Hanoi, Vietnam"
     },
@@ -3766,10 +3754,6 @@
     {
         "title": "Improving Unsupervised Visual Program Inference with Code Rewriting Families",
         "aff": "Brown University; Brown University; Brown University"
-    },
-    {
-        "title": "Improving Zero-Shot Generalization for CLIP with Synthesized Prompts",
-        "aff": ""
     },
     {
         "title": "In-Style: Bridging Text and Uncurated Videos with Style Transfer for Text-Video Retrieval",
@@ -4638,10 +4622,6 @@
     {
         "title": "MSI: Maximize Support-Set Information for Few-Shot Segmentation",
         "aff": "Rutgers University; Rutgers University; NEC Laboratories America; The College of New Jersey; Rutgers University; Mohamed Bin Zayed University of Artificial Intelligence; Rutgers University"
-    },
-    {
-        "title": "MSRA-SR: Image Super-resolution Transformer with Multi-scale Shared Representation Acquisition",
-        "aff": ""
     },
     {
         "title": "MST-compression: Compressing and Accelerating Binary Neural Networks with Minimum Spanning Tree",

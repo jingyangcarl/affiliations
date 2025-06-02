@@ -1,0 +1,98 @@
+[
+    {
+        "title": "ABLATOR: Robust Horizontal-Scaling of Machine Learning Ablation Experiments",
+        "aff": "University of Southern California, Los Angeles California; University of Southern California, Los Angeles California"
+    },
+    {
+        "title": "AlphaD3M: An Open-Source AutoML Library for Multiple ML Tasks",
+        "aff": ";;;;;;;"
+    },
+    {
+        "title": "AutoGluon\u2013TimeSeries: AutoML for Probabilistic Time Series Forecasting",
+        "aff": ";;;;;;"
+    },
+    {
+        "title": "AutoRL Hyperparameter Landscapes",
+        "aff": "Institute of Artificial Intelligence, Leibniz University Hannover, Germany; Institute of Artificial Intelligence, Leibniz University Hannover, Germany; Institute of Artificial Intelligence, Leibniz University Hannover, Germany; Institute for Information Processing, Leibniz University Hannover, Germany; Institute of Artificial Intelligence, Leibniz University Hannover, Germany"
+    },
+    {
+        "title": "Balanced Mixture of Supernets for Learning the CNN Pooling Architecture",
+        "aff": ";;"
+    },
+    {
+        "title": "Better Practices for Domain Adaptation",
+        "aff": "University of Edinburgh; Samsung AI Center Cambridge; University of Edinburgh + Samsung AI Center Cambridge"
+    },
+    {
+        "title": "CMA-ES for Post Hoc Ensembling in AutoML: A Great Success and Salvageable Failure",
+        "aff": "University of Siegen; University of Siegen"
+    },
+    {
+        "title": "Computationally Efficient High-Dimensional Bayesian Optimization via Variable Selection",
+        "aff": "Computational Biology Department, School of Computer Science, Carnegie Mellon University; Computational Biology Department, School of Computer Science, Carnegie Mellon University"
+    },
+    {
+        "title": "Cost-Effective Hyperparameter Optimization for Large Language Model Generation Inference",
+        "aff": "Microsoft Research, Redmond; Stevens Institute of Techology; Microsoft Research, Redmond"
+    },
+    {
+        "title": "Exploiting Network Compressibility and Topology in Zero-Cost NAS",
+        "aff": "University of Warwick; University of Warwick; Samsung AI Center Cambridge, UK; University of Warwick; University of Warwick + Samsung AI Center Cambridge, UK"
+    },
+    {
+        "title": "Learning Activation Functions for Sparse Neural Networks",
+        "aff": "Division of Computer Science and Software Engineering, M\u00e4lardalen University, Sweden; Institute of Artificial Intelligence, Leibniz University Hannover, Germany; Department of Electrical Engineering, Tarbiat Modares University, Tehran, Iran; Institute of Artificial Intelligence, Leibniz University Hannover, Germany"
+    },
+    {
+        "title": "MA-BBOB: Many-Affine Combinations of BBOB Functions for Evaluating AutoML Approaches in Noiseless Numerical Black-Box Optimization Contexts",
+        "aff": ";;;"
+    },
+    {
+        "title": "MEOW - Multi-Objective Evolutionary Weapon Detection",
+        "aff": ";;;"
+    },
+    {
+        "title": "Meta-Learning for Fast Model Recommendation in Unsupervised Multivariate Time Series Anomaly Detection",
+        "aff": ";;"
+    },
+    {
+        "title": "Multi-Predict: Few Shot Predictors For Efficient Neural Architecture Search",
+        "aff": "Cornell University; Cornell University"
+    },
+    {
+        "title": "Neural Architecture Search for Visual Anomaly Segmentation",
+        "aff": "Eindhoven University of Technology; Eindhoven University of Technology"
+    },
+    {
+        "title": "Optimal Resource Allocation for Early Stopping-based Neural Architecture Search Methods",
+        "aff": "J\u00fclich Supercomputing Centre, Forschungszentrum J\u00fclich, Germany+School of Engineering and Natural Sciences, University of Iceland, Iceland; J\u00fclich Supercomputing Centre, Forschungszentrum J\u00fclich, Germany; J\u00fclich Supercomputing Centre, Forschungszentrum J\u00fclich, Germany; J\u00fclich Supercomputing Centre, Forschungszentrum J\u00fclich, Germany+School of Engineering and Natural Sciences, University of Iceland, Iceland; J\u00fclich Supercomputing Centre, Forschungszentrum J\u00fclich, Germany"
+    },
+    {
+        "title": "PS-AAS: Portfolio Selection for Automated Algorithm Selection in Black-Box Optimization",
+        "aff": "Jo\u017eef Stefan Institute, Ljubljana, Slovenia+Jo\u017eef Stefan Postgraduate School, Ljubljana, Slovenia; Jo\u017eef Stefan Institute, Ljubljana, Slovenia+Jo\u017eef Stefan Postgraduate School, Ljubljana, Slovenia; Leiden University, LIACS, Leiden, The Netherlands; Sorbonne Universit\u00e9, LIP6, CNRS, Paris, France; Jo\u017eef Stefan Institute, Ljubljana, Slovenia+Jo\u017eef Stefan Postgraduate School, Ljubljana, Slovenia; Jo\u017eef Stefan Institute, Ljubljana, Slovenia; Jo\u017eef Stefan Institute, Ljubljana, Slovenia; Sorbonne Universit\u00e9, LIP6, CNRS, Paris, France; Jo\u017eef Stefan Institute, Ljubljana, Slovenia"
+    },
+    {
+        "title": "Poisson Process for Bayesian Optimization",
+        "aff": "Department of Computer Science and Engineering, and MoE Key Lab of Artificial Intelligence, Shanghai Jiao Tong University; College of Control Science and Engineering, China University of Petroleum (East China); JD Explore Academy; The University of Sydney; College of Control Science and Engineering, China University of Petroleum (East China); Department of Computer Science and Engineering, and MoE Key Lab of Artificial Intelligence, Shanghai Jiao Tong University; Department of Computer Science and Engineering, and MoE Key Lab of Artificial Intelligence, Shanghai Jiao Tong University; The University of Sydney"
+    },
+    {
+        "title": "Q(D)O-ES: Population-based Quality (Diversity) Optimisation for Post Hoc Ensemble Selection in AutoML",
+        "aff": ";;;;;"
+    },
+    {
+        "title": "Searching for Fairer Machine Learning Ensembles",
+        "aff": ";;;;;"
+    },
+    {
+        "title": "Self-Adjusting Weighted Expected Improvement for Bayesian Optimization",
+        "aff": "Institute of AI, Leibniz University Hannover, Germany; TUM School of Engineering and Design, TU M\u00fcnchen, Germany + Sorbonne Universit\u00e9, CNRS, LIP6, Paris, France; Sorbonne Universit\u00e9, CNRS, LIP6, Paris, France; Sorbonne Universit\u00e9, CNRS, LIP6, Paris, France; Institute of AI, Leibniz University Hannover, Germany"
+    },
+    {
+        "title": "Symbolic Explanations for Hyperparameter Optimization",
+        "aff": ";;;;"
+    },
+    {
+        "title": "\u201cNo Free Lunch\u201d in Neural Architectures? A Joint Analysis of Expressivity, Convergence, and Generalization",
+        "aff": "University of Texas at Austin; RIKEN Center for Advanced Intelligence Project; University of Texas at Austin"
+    }
+]

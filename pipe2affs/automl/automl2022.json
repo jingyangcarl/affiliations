@@ -1,0 +1,82 @@
+[
+    {
+        "title": "A Tree-Structured Multi-Task Model Recommender",
+        "aff": ";;"
+    },
+    {
+        "title": "AutoCoG: A Unified Data-Model Co-Search Framework for Graph Neural Networks",
+        "aff": "University of Texas at Austin; Rice University; University of Texas at Austin; Rice University; University of Texas at Austin"
+    },
+    {
+        "title": "Automated Super-Network Generation for Scalable Neural Architecture Search",
+        "aff": "Intel Labs + Intel Corporation; Intel Corporation; Intel Labs + Intel Corporation; Intel Corporation; Intel Labs + Intel Corporation; Intel Labs + Intel Corporation; Intel Corporation; Intel Labs + Intel Corporation"
+    },
+    {
+        "title": "Automatic Termination for Hyperparameter Optimization",
+        "aff": "ETH Z\u00fcrich; Amazon Web Services; Amazon Web Services; Amazon Web Services; Amazon Web Services; ETH Z\u00fcrich; Amazon Web Services; Amazon Web Services"
+    },
+    {
+        "title": "BERT-Sort: A Zero-shot MLM Semantic Encoder on Ordinal Features for AutoML",
+        "aff": "Fujitsu Research of America, Sunnyvale, CA; Fujitsu Research of America, Sunnyvale, CA; Fujitsu Research of America, Sunnyvale, CA; Fujitsu Research of America, Sunnyvale, CA"
+    },
+    {
+        "title": "Bayesian Generational Population-Based Training",
+        "aff": ";;;;;;"
+    },
+    {
+        "title": "DIFER: Differentiable Automated Feature Engineering",
+        "aff": "State Key Laboratory for Novel Software Technology, Nanjing University; State Key Laboratory for Novel Software Technology, Nanjing University; State Key Laboratory for Novel Software Technology, Nanjing University; State Key Laboratory for Novel Software Technology, Nanjing University"
+    },
+    {
+        "title": "Differentiable Architecture Search for Reinforcement Learning",
+        "aff": "Google Research, Brain Team; Google Research, Brain Team; Google Research, Brain Team; Google Research, Brain Team; Google Research, Brain Team; Google Research, Brain Team; Google Research, Brain Team"
+    },
+    {
+        "title": "LassoBench: A High-Dimensional Hyperparameter Optimization Benchmark Suite for Lasso",
+        "aff": ";;;"
+    },
+    {
+        "title": "Meta-Adapters: Parameter Efficient Few-shot Fine-tuning through Meta-Learning",
+        "aff": "University of Massachusetts Amherst*1 + OpenAI; University of Massachusetts Amherst1; Microsoft Research, Montr\u00e9al2; University of Massachusetts Amherst1; University of Massachusetts Amherst1"
+    },
+    {
+        "title": "Non-Uniform Adversarially Robust Pruning",
+        "aff": ";;"
+    },
+    {
+        "title": "On the Optimality Gap of Warm-Started Hyperparameter Optimization",
+        "aff": "IBM Research AI"
+    },
+    {
+        "title": "Open Source Vizier: Distributed Infrastructure and API for Reliable and Flexible Blackbox Optimization",
+        "aff": "Google Research, Brain Team; Google Research, Brain Team; Google Research, Brain Team; Google Research, Brain Team; Google Research, Brain Team"
+    },
+    {
+        "title": "Opening the Black Box: Automated Software Analysis for Algorithm Selection",
+        "aff": ";;;"
+    },
+    {
+        "title": "ScaleNAS: Multi-Path One-Shot NAS for Scale-Aware High-Resolution Representation",
+        "aff": ";;;;;;;"
+    },
+    {
+        "title": "Syne Tune: A Library for Large Scale Hyperparameter Tuning and Reproducible Research",
+        "aff": ";;;;;"
+    },
+    {
+        "title": "Tackling Neural Architecture Search With Quality Diversity Optimization",
+        "aff": ";;;;;"
+    },
+    {
+        "title": "What to expect of hardware metric predictors in NAS",
+        "aff": "Chair of Cognitive Systems, Eberhard-Karls-University Tuebingen, Germany+Bosch Center for Artificial Intelligence; Chair of Cognitive Systems, Eberhard-Karls-University Tuebingen, Germany; Chair of Cognitive Systems, Eberhard-Karls-University Tuebingen, Germany"
+    },
+    {
+        "title": "When, where, and how to add new neurons to ANNs",
+        "aff": "IRIT, University of Toulouse, Toulouse, France; ISAE-SUPAERO, University of Toulouse, Toulouse, France; IRIT, University of Toulouse, Toulouse, France; ISAE-SUPAERO, University of Toulouse, Toulouse, France"
+    },
+    {
+        "title": "YAHPO Gym - An Efficient Multi-Objective Multi-Fidelity Benchmark for Hyperparameter Optimization",
+        "aff": "Department of Statistics, LMU Munich, Germany; Department of Statistics, LMU Munich, Germany; Department of Statistics, LMU Munich, Germany; Department of Statistics, LMU Munich, Germany; Department of Statistics, LMU Munich, Germany"
+    }
+]

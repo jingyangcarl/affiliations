@@ -1,0 +1,2134 @@
+[
+    {
+        "title": "A Comparative Study on Schema-Guided Dialogue State Tracking",
+        "aff": "School of Computing, University of Utah; AWS AI, Amazon"
+    },
+    {
+        "title": "A Context-Dependent Gated Module for Incorporating Symbolic Semantics into Event Coreference Resolution",
+        "aff": "University of Illinois at Urbana-Champaign; University of Illinois at Urbana-Champaign; Adobe Research; Adobe Research; Adobe Research; Adobe Research"
+    },
+    {
+        "title": "A Dataset of Information-Seeking Questions and Answers Anchored in Research Papers",
+        "aff": "Allen Institute for AI; Allen Institute for AI + Paul G. Allen School of CSE, University of Washington; Allen Institute for AI; Allen Institute for AI; Allen Institute for AI + Paul G. Allen School of CSE, University of Washington; Allen Institute for AI"
+    },
+    {
+        "title": "A Deep Metric Learning Approach to Account Linking",
+        "aff": "Human Language Technology Center of Excellence; Human Language Technology Center of Excellence; Human Language Technology Center of Excellence; Human Language Technology Center of Excellence; Human Language Technology Center of Excellence"
+    },
+    {
+        "title": "A Disentangled Adversarial Neural Topic Model for Separating Opinions from Plots in User Reviews",
+        "aff": "Department of Computer Science, University of Warwick, UK; Department of Computer Science, University of Warwick, UK; Department of Computer Science, University of Warwick, UK"
+    },
+    {
+        "title": "A Frustratingly Easy Approach for Entity and Relation Extraction",
+        "aff": "Department of Computer Science, Princeton University; Department of Computer Science, Princeton University"
+    },
+    {
+        "title": "A Global Past-Future Early Exit Method for Accelerating Inference of Pre-trained Language Models",
+        "aff": "Center for Data Science, Peking University+MOE Key Laboratory of Computational Linguistics, School of EECS, Peking University+School of Foreign Languages, Peking University; MOE Key Laboratory of Computational Linguistics, School of EECS, Peking University; MOE Key Laboratory of Computational Linguistics, School of EECS, Peking University; MOE Key Laboratory of Computational Linguistics, School of EECS, Peking University+School of Foreign Languages, Peking University; Center for Data Science, Peking University+MOE Key Laboratory of Computational Linguistics, School of EECS, Peking University; Huawei Noah\u2019s Ark Lab"
+    },
+    {
+        "title": "A Hybrid Approach to Scalable and Robust Spoken Language Understanding in Enterprise Virtual Agents",
+        "aff": ";;;;;;;"
+    },
+    {
+        "title": "A Million Tweets Are Worth a Few Points: Tuning Transformers for Customer Service Tasks",
+        "aff": "IDLab, Dept. of Information Technology, Ghent University - imec, Belgium; LT3, Dept. of Translation, Interpreting and Communication, Ghent University, Belgium; LT3, Dept. of Translation, Interpreting and Communication, Ghent University, Belgium; IDLab, Dept. of Information Technology, Ghent University - imec, Belgium; IDLab, Dept. of Information Technology, Ghent University - imec, Belgium"
+    },
+    {
+        "title": "A New Approach to Overgenerating and Scoring Abstractive Summaries",
+        "aff": "University of Central Florida, Orlando, FL; Robert Bosch LLC, Sunnyvale, CA; Robert Bosch LLC, Sunnyvale, CA; University of Central Florida, Orlando, FL"
+    },
+    {
+        "title": "A Non-Linear Structural Probe",
+        "aff": "University of Cambridge; University of Cambridge; University of Edinburgh; ETH Z\u00fcrich"
+    },
+    {
+        "title": "A Simple Approach for Handling Out-of-Vocabulary Identifiers in Deep Learning for Source Code",
+        "aff": "HSE University; HSE University"
+    },
+    {
+        "title": "A Simple and Efficient Multi-Task Learning Approach for Conditioned Dialogue Generation",
+        "aff": "DIRO, Universit\u00e9 de Montr\u00e9al; DIRO, Universit\u00e9 de Montr\u00e9al"
+    },
+    {
+        "title": "A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios",
+        "aff": "Saarland University, Saarland Informatics Campus, Germany; Saarland University, Saarland Informatics Campus, Germany + Bosch Center for Arti\ufb01cial Intelligence, Germany; Bosch Center for Arti\ufb01cial Intelligence, Germany; Bosch Center for Arti\ufb01cial Intelligence, Germany; Saarland University, Saarland Informatics Campus, Germany"
+    },
+    {
+        "title": "A Unified Span-Based Approach for Opinion Mining with Syntactic Constituents",
+        "aff": ";;;;;;;"
+    },
+    {
+        "title": "A recipe for annotating grounded clarifications",
+        "aff": "Universidad Nacional de C\u00f3rdoba+CONICET, Argentina; Philosophy and Science Studies+IKH, Roskilde University, Denmark"
+    },
+    {
+        "title": "AMR Parsing with Action-Pointer Transformer",
+        "aff": "Harvard University; IBM Research; IBM Research; IBM Research"
+    },
+    {
+        "title": "APo-VAE: Text Generation in Hyperbolic Space",
+        "aff": "Duke University; Microsoft Corporation; Microsoft Corporation; Duke University; Duke University; Microsoft Corporation"
+    },
+    {
+        "title": "ASAP: A Chinese Review Dataset Towards Aspect Category Sentiment Analysis and Rating Prediction",
+        "aff": "Meituan, Beijing, China; Meituan, Beijing, China; Meituan, Beijing, China + School of Economics and Management, Dalian University of Technology, Dalian, China; Meituan, Beijing, China; Meituan, Beijing, China; Meituan, Beijing, China; Meituan, Beijing, China"
+    },
+    {
+        "title": "AVA: an Automatic eValuation Approach for Question Answering Systems",
+        "aff": "Amazon Alexa AI, Manhattan Beach, CA, USA; Amazon Alexa AI, Manhattan Beach, CA, USA"
+    },
+    {
+        "title": "Ab Antiquo: Neural Proto-language Reconstruction",
+        "aff": "Department of Comparative Language Science, University of Zurich; Computer Science Department, Bar Ilan University + Allen Institute for Arti\ufb01cial Intelligence; Computer Science Department, Bar Ilan University + Allen Institute for Arti\ufb01cial Intelligence"
+    },
+    {
+        "title": "Abstract Meaning Representation Guided Graph Encoding and Decoding for Joint Information Extraction",
+        "aff": "Computer Science Department, University of Illinois at Urbana-Champaign; Computer Science Department, University of Illinois at Urbana-Champaign"
+    },
+    {
+        "title": "Action-Based Conversations Dataset: A Corpus for Building More In-Depth Task-Oriented Dialogue Systems",
+        "aff": "ASAPP, New York, NY 10007; ASAPP, New York, NY 10007; ASAPP, New York, NY 10007; ASAPP, New York, NY 10007; Columbia University, NY"
+    },
+    {
+        "title": "Active2 Learning: Actively reducing redundancies in Active Learning methods for Sequence Tagging and Machine Translation",
+        "aff": "Indian Institute of Science, Bangalore; Indian Institute of Science, Bangalore; Indian Institute of Science, Bangalore; Indian Institute of Science, Bangalore; Indian Institute of Science, Bangalore"
+    },
+    {
+        "title": "ActiveAnno: General-Purpose Document-Level Annotation Tool with Active Learning Integration",
+        "aff": "Language Technology group, Universit\u00e4t Hamburg, Germany; Language Technology group, Universit\u00e4t Hamburg, Germany; Language Technology group, Universit\u00e4t Hamburg, Germany"
+    },
+    {
+        "title": "Ad Headline Generation using Self-Critical Masked Language Model",
+        "aff": "Amazon; Amazon; Amazon"
+    },
+    {
+        "title": "AdaptSum: Towards Low-Resource Domain Adaptation for Abstractive Summarization",
+        "aff": "Center for Arti\ufb01cial Intelligence Research (CAiRE) + Department of Electronic and Computer Engineering + The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong; Center for Arti\ufb01cial Intelligence Research (CAiRE) + Department of Electronic and Computer Engineering + The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong; Center for Arti\ufb01cial Intelligence Research (CAiRE) + Department of Electronic and Computer Engineering + The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong"
+    },
+    {
+        "title": "Adaptable and Interpretable Neural MemoryOver Symbolic Knowledge",
+        "aff": "Google Research; Google Research; Google Research; Google Research"
+    },
+    {
+        "title": "Adapting BERT for Continual Learning of a Sequence of Aspect Sentiment Classification Tasks",
+        "aff": "Department of Computer Science, University of Illinois at Chicago; Facebook AI Research; Department of Computer Science, University of Illinois at Chicago"
+    },
+    {
+        "title": "Adapting Coreference Resolution for Processing Violent Death Narratives",
+        "aff": "University of California, Los Angeles; University of California, Los Angeles; University of California, Los Angeles; University of California, Los Angeles; University of California, Los Angeles; University of California, Los Angeles"
+    },
+    {
+        "title": "Adding Chit-Chat to Enhance Task-Oriented Dialogues",
+        "aff": "Cornell University; Facebook; Facebook; Facebook AI Research; Facebook; Facebook; Facebook; Facebook; Facebook; Cornell University"
+    },
+    {
+        "title": "Addressing the Vulnerability of NMT in Input Perturbations",
+        "aff": "Institute for Infocomm Research, A*STAR + The Chinese University of Hong Kong; Institute for Infocomm Research, A*STAR; Institute for Infocomm Research, A*STAR; Institute for Infocomm Research, A*STAR; Nanyang Technological University"
+    },
+    {
+        "title": "Adversarial Learning for Zero-Shot Stance Detection on Social Media",
+        "aff": ";;"
+    },
+    {
+        "title": "Adversarial Self-Supervised Learning for Out-of-Domain Detection",
+        "aff": "Pattern Recognition & Intelligent System Laboratory, Beijing University of Posts and Telecommunications, Beijing, China; Pattern Recognition & Intelligent System Laboratory, Beijing University of Posts and Telecommunications, Beijing, China + Meituan Group, Beijing, China; Pattern Recognition & Intelligent System Laboratory, Beijing University of Posts and Telecommunications, Beijing, China; Pattern Recognition & Intelligent System Laboratory, Beijing University of Posts and Telecommunications, Beijing, China; Pattern Recognition & Intelligent System Laboratory, Beijing University of Posts and Telecommunications, Beijing, China"
+    },
+    {
+        "title": "Alexa Conversations: An Extensible Data-driven Approach for Building Task-oriented Dialogue Systems",
+        "aff": "Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020; Amazon Alexa AI, Sunnyvale, California, USA\u2020"
+    },
+    {
+        "title": "Align-Refine: Non-Autoregressive Speech Recognition via Iterative Realignment",
+        "aff": "Stanford University*; Amazon AWS AI; Amazon AWS AI"
+    },
+    {
+        "title": "Almost Free Semantic Draft for Neural Machine Translation",
+        "aff": "College of Computer Science, Chongqing University; College of Computer Science, Chongqing University"
+    },
+    {
+        "title": "An Architecture for Accelerated Large-Scale Inference of Transformer-Based Language Models",
+        "aff": "Wattpad; Wattpad; Wattpad; Wattpad"
+    },
+    {
+        "title": "An Emotional Comfort Framework for Improving User Satisfaction in E-Commerce Customer Service Chatbots",
+        "aff": "Alibaba Groups, Hangzhou 311121, China; Alibaba Groups, Hangzhou 311121, China; Alibaba Groups, Hangzhou 311121, China; Alibaba Groups, Hangzhou 311121, China"
+    },
+    {
+        "title": "An Empirical Comparison of Instance Attribution Methods for NLP",
+        "aff": "University of California, Irvine; Northeastern University; Northeastern University; University of California, Irvine"
+    },
+    {
+        "title": "An Empirical Investigation of Bias in the Multimodal Analysis of Financial Earnings Calls",
+        "aff": "IIIT Delhi; Adobe India; IIIT Delhi"
+    },
+    {
+        "title": "An Empirical Study of Generating Texts for Search Engine Advertising",
+        "aff": "Tokyo Institute of Technology; CyberAgent, Inc.; National Institute of Advanced Industrial Science and Technology (AIST); Tokyo Institute of Technology"
+    },
+    {
+        "title": "An Empirical Study on Neural Keyphrase Generation",
+        "aff": "School of Computing and Information, University of Pittsburgh\u2020; Microsoft Research, Montr\u00e9al\u2021; Microsoft Research, Montr\u00e9al\u2021; School of Computing and Information, University of Pittsburgh\u2020; Microsoft Research, Montr\u00e9al\u2021; School of Computing and Information, University of Pittsburgh\u2020"
+    },
+    {
+        "title": "Annotating and Modeling Fine-grained Factuality in Summarization",
+        "aff": "Department of Computer Science, The University of Texas at Austin; Department of Computer Science, The University of Texas at Austin"
+    },
+    {
+        "title": "Answering Product-Questions by Utilizing Questions from Other Contextually Similar Products",
+        "aff": "Computer Science Department, Bar-Ilan University, Ramat-Gan, Israel; Amazon; Amazon; Amazon; Facebook"
+    },
+    {
+        "title": "Are NLP Models really able to Solve Simple Math Word Problems?",
+        "aff": "Microsoft Research India; Microsoft Research India; Microsoft Research India"
+    },
+    {
+        "title": "Ask what\u2019s missing and what\u2019s useful: Improving Clarification Question Generation using Global Knowledge",
+        "aff": "Department of Computer Science and Engineering, UC San Diego + Microsoft Research, Redmond; Microsoft Research, Redmond; Microsoft Research, Redmond; Department of Computer Science and Engineering, UC San Diego"
+    },
+    {
+        "title": "Aspect-Controlled Neural Argument Generation",
+        "aff": ";;"
+    },
+    {
+        "title": "Aspect-based Sentiment Analysis with Type-aware Graph Convolutional Networks and Layer Ensemble",
+        "aff": "University of Washington; Shenzhen Research Institute of Big Data + The Chinese University of Hong Kong (Shenzhen); The Chinese University of Hong Kong (Shenzhen)"
+    },
+    {
+        "title": "Assessing Reference-Free Peer Evaluation for Machine Translation",
+        "aff": "Department of Computer Science, University of Maryland; Google Research; Google Research; Google Research"
+    },
+    {
+        "title": "Attention Head Masking for Inference Time Content Selection in Abstractive Summarization",
+        "aff": "Computer Science and Engineering, University of Michigan; Computer Science and Engineering, University of Michigan"
+    },
+    {
+        "title": "Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks",
+        "aff": ";;;"
+    },
+    {
+        "title": "Augmenting Knowledge-grounded Conversations with Sequential Knowledge Transition",
+        "aff": "Institute of Software, Chinese Academy of Sciences, Beijing, China; Data Science Lab, JD.com, Beijing, China; Data Science Lab, JD.com, Beijing, China; Data Science Lab, JD.com, Beijing, China; Data Science Lab, JD.com, Beijing, China; Institute for AI Industry Research, Tsinghua University, Beijing, China"
+    },
+    {
+        "title": "Autocorrect in the Process of Translation \u2014 Multi-task Learning Improves Dialogue Machine Translation",
+        "aff": "ByteDance AI Lab + School of Computer Science and Technology, Soochow University, Suzhou, China; ByteDance AI Lab; ByteDance AI Lab; ByteDance AI Lab; College of Intelligence and Computing, Tianjin University, Tianjin, China"
+    },
+    {
+        "title": "Automatic Classification of Neutralization Techniques in the Narrative of Climate Change Scepticism",
+        "aff": "School of Computing and Information Systems, The University of Melbourne; School of Computing and Information Systems, The University of Melbourne; School of Computing and Information Systems, The University of Melbourne"
+    },
+    {
+        "title": "Automatic Generation of Contrast Sets from Scene Graphs: Probing the Compositional Consistency of GQA",
+        "aff": "School of Computer Science and Engineering, The Hebrew University of Jerusalem, Jerusalem, Israel; School of Computer Science and Engineering, The Hebrew University of Jerusalem, Jerusalem, Israel; School of Computer Science and Engineering, The Hebrew University of Jerusalem, Jerusalem, Israel; Department of Computer Science, Ben Gurion University, Beer Sheva, Israel"
+    },
+    {
+        "title": "BBAEG: Towards BERT-based Biomedical Adversarial Example Generation for Text Classification",
+        "aff": ""
+    },
+    {
+        "title": "Backtranslation Feedback Improves User Confidence in MT, Not Quality",
+        "aff": "Charles University, Czech Republic; Charles University, Czech Republic; Charles University, Czech Republic; Charles University, Czech Republic; University of Edinburgh; University of Edinburgh; University of Shef\ufb01eld + University of Wolverhampton, United Kingdom; University of Shef\ufb01eld; University of Shef\ufb01eld; University of Tartu, Estonia"
+    },
+    {
+        "title": "Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models",
+        "aff": "Center for Data Science, Peking University; MOE Key Laboratory of Computational Linguistics, School of EECS, Peking University; MOE Key Laboratory of Computational Linguistics, School of EECS, Peking University; MOE Key Laboratory of Computational Linguistics, School of EECS, Peking University; Center for Data Science, Peking University + MOE Key Laboratory of Computational Linguistics, School of EECS, Peking University; Huawei Noah\u2019s Ark Lab"
+    },
+    {
+        "title": "Benchmarking Commercial Intent Detection Services with Practice-Driven Evaluations",
+        "aff": "IBM Watson; IBM Watson; IBM Watson; IBM Watson; IBM Watson; MIT-IBM Watson AI Lab; IBM Watson"
+    },
+    {
+        "title": "Better Feature Integration for Named Entity Recognition",
+        "aff": "StatNLP Research Group, Singapore University of Technology and Design+DAMO Academy, Alibaba Group; StatNLP Research Group, Singapore University of Technology and Design+ByteDance; StatNLP Research Group, Singapore University of Technology and Design; DAMO Academy, Alibaba Group"
+    },
+    {
+        "title": "Beyond Black & White: Leveraging Annotator Disagreement via Soft-Label Multi-Task Learning",
+        "aff": "Universit `a Bocconi; IT University of Copenhagen; Queen Mary University; Universit `a Bocconi; Queen Mary University; Queen Mary University"
+    },
+    {
+        "title": "Beyond Fair Pay: Ethical Implications of NLP Crowdsourcing",
+        "aff": "Social Networks and Human-Centered Computing, TIGP, Academia Sinica + Institute of Service Science, National Tsing Hua University + Institute of Information Science, Academia Sinica; Institute of Service Science, National Tsing Hua University; Institute of Service Science, National Tsing Hua University; Institute of Information Science, Academia Sinica"
+    },
+    {
+        "title": "Blow the Dog Whistle: A Chinese Dataset for Cant Understanding with Common Sense and World Knowledge",
+        "aff": "University of California, San Diego+Microsoft Research Asia; Beihang University+Microsoft Research Asia; Microsoft Research Asia; Beihang University; University of California, San Diego+Microsoft Research Asia; Microsoft Research Asia"
+    },
+    {
+        "title": "Bootstrapping a Music Voice Assistant with Weak Supervision",
+        "aff": ";;"
+    },
+    {
+        "title": "Bot-Adversarial Dialogue for Safe Conversational Agents",
+        "aff": "Facebook AI Research; Facebook AI Research; University of Washington; Facebook AI Research; Facebook AI Research; Facebook AI Research"
+    },
+    {
+        "title": "Breadth First Reasoning Graph for Multi-hop Question Answering",
+        "aff": "School of Computer Science and Engineering, Sun Yat-sen University / Guangzhou, China + Key Laboratory of Machine Intelligence and Advanced Computing, Sun Yat-sen University, Ministry of Education / China; School of Computer Science and Engineering, Sun Yat-sen University / Guangzhou, China + Key Laboratory of Machine Intelligence and Advanced Computing, Sun Yat-sen University, Ministry of Education / China"
+    },
+    {
+        "title": "Bridging Resolution: Making Sense of the State of the Art",
+        "aff": "Human Language Technology Research Institute, University of Texas at Dallas; Human Language Technology Research Institute, University of Texas at Dallas"
+    },
+    {
+        "title": "CLEVR_HYP: A Challenge Dataset and Baselines for Visual Question Answering with Hypothetical Actions over Images",
+        "aff": "Arizona State Universiy, USA; Arizona State Universiy, USA; Arizona State Universiy, USA; Arizona State Universiy, USA"
+    },
+    {
+        "title": "COIL: Revisit Exact Lexical Match in Information Retrieval with Contextualized Inverted List",
+        "aff": "Language Technologies Institute, Carnegie Mellon University; Language Technologies Institute, Carnegie Mellon University; Language Technologies Institute, Carnegie Mellon University"
+    },
+    {
+        "title": "COVID-19 Literature Knowledge Graph Construction and Drug Repurposing Report Generation",
+        "aff": "University of Illinois at Urbana-Champaign; University of Illinois at Urbana-Champaign; University of Illinois at Urbana-Champaign; University of Illinois at Urbana-Champaign; Columbia University; Columbia University; Brandeis University; University of Illinois at Urbana-Champaign; University of Illinois at Urbana-Champaign; University of Illinois at Urbana-Champaign; University of Illinois at Urbana-Champaign; University of Illinois at Urbana-Champaign; University of Illinois at Urbana-Champaign; University of Illinois at Urbana-Champaign; University of Illinois at Urbana-Champaign; University of Illinois at Urbana-Champaign; University of Illinois at Urbana-Champaign; University of Illinois at Urbana-Champaign; Columbia University; Brandeis University; University of Washington; University of California, Los Angeles; Colorado University; Colorado University; Army Research Lab; QS29; Department of Defense"
+    },
+    {
+        "title": "COVID-19 Named Entity Recognition for Vietnamese",
+        "aff": "VinAI Research, Hanoi, Vietnam; VinAI Research, Hanoi, Vietnam; VinAI Research, Hanoi, Vietnam"
+    },
+    {
+        "title": "CREAD: Combined Resolution of Ellipses and Anaphora in Dialogues",
+        "aff": ";;;;;;"
+    },
+    {
+        "title": "CaSiNo: A Corpus of Campsite Negotiation Dialogues for Automatic Negotiation Systems",
+        "aff": ";;;;;"
+    },
+    {
+        "title": "Can Latent Alignments Improve Autoregressive Machine Translation?",
+        "aff": "The Blavatnik School of Computer Science, Tel Aviv University; The Blavatnik School of Computer Science, Tel Aviv University; The Blavatnik School of Computer Science, Tel Aviv University"
+    },
+    {
+        "title": "Capturing Row and Column Semantics in Transformer Based Question Answering over Tables",
+        "aff": "IBM Research AI+Rensselaer Polytechnic Institute; IBM Research AI+Rensselaer Polytechnic Institute; IBM Research AI+Rensselaer Polytechnic Institute; IBM Research AI+Rensselaer Polytechnic Institute; IBM Research AI+Rensselaer Polytechnic Institute; IBM Research AI+Rensselaer Polytechnic Institute; IBM Research AI+Rensselaer Polytechnic Institute; Rensselaer Polytechnic Institute; IBM Research AI+Rensselaer Polytechnic Institute; IBM Research AI+Rensselaer Polytechnic Institute"
+    },
+    {
+        "title": "Case Study: Deontological Ethics in NLP",
+        "aff": "School of Computer Science, Carnegie Mellon University; School of Computer Science, Carnegie Mellon University; School of Computer Science, Carnegie Mellon University; School of Computer Science, Carnegie Mellon University"
+    },
+    {
+        "title": "Causal Effects of Linguistic Properties",
+        "aff": "Stanford University; Stanford University; Stanford University; University of Chicago; Columbia University"
+    },
+    {
+        "title": "Certified Robustness to Word Substitution Attack with Differential Privacy",
+        "aff": ";;;"
+    },
+    {
+        "title": "Challenging distributional models with a conceptual network of philosophical terms",
+        "aff": "Institute for Logic, Language and Computation, University of Amsterdam\u2663; Institute for Logic, Language and Computation, University of Amsterdam\u2663; Computational Linguistics & Text Mining Lab, Vrije Universiteit Amstersterdam\u2217; Institute for Logic, Language and Computation, University of Amsterdam\u2663; Computational Linguistics & Text Mining Lab, Vrije Universiteit Amstersterdam\u2217+Department of Mathematics and Computer Science, Eindhoven University of Technology\u2020; Computational Linguistics & Text Mining Lab, Vrije Universiteit Amstersterdam\u2217"
+    },
+    {
+        "title": "Choose Your Own Adventure: Paired Suggestions in Collaborative Writing for Evaluating Story Generation Models",
+        "aff": "Paul G. Allen School of Computer Science & Engineering, University of Washington + Allen Institute for Artificial Intelligence; Paul G. Allen School of Computer Science & Engineering, University of Washington"
+    },
+    {
+        "title": "Clipping Loops for Sample-Efficient Dialogue Policy Optimisation",
+        "aff": "University of Cambridge; University of Cambridge"
+    },
+    {
+        "title": "Clustering-based Inference for Biomedical Entity Linking",
+        "aff": "College of Information and Computer Sciences, University of Massachusetts Amherst; College of Information and Computer Sciences, University of Massachusetts Amherst; Chan Zuckerberg Initiative; College of Information and Computer Sciences, University of Massachusetts Amherst; College of Information and Computer Sciences, University of Massachusetts Amherst"
+    },
+    {
+        "title": "CoRT: Complementary Rankings from Transformers",
+        "aff": "RheinMain University of Applied Sciences, Germany; RheinMain University of Applied Sciences, Germany"
+    },
+    {
+        "title": "Code-Mixing on Sesame Street: Dawn of the Adversarial Polyglots",
+        "aff": "Salesforce Research Asia\u266eNational University of Singapore; Salesforce Research Asia\u2021Nanyang Technological University"
+    },
+    {
+        "title": "Coherent and Concise Radiology Report Generation via Context Specific Image Representations and Orthogonal Sentence States",
+        "aff": "Institute for Infocomm Research, A*STAR, Singapore; Institute for Infocomm Research, A*STAR, Singapore; Institute for Infocomm Research, A*STAR, Singapore"
+    },
+    {
+        "title": "Combining Weakly Supervised ML Techniques for Low-Resource NLU",
+        "aff": "Amazon Alexa AI; Amazon Alexa AI"
+    },
+    {
+        "title": "Compositional Generalization for Neural Semantic Parsing via Span-level Supervised Attention",
+        "aff": "Carnegie Mellon University\u2660; Microsoft Semantic Machines\u2663; Carnegie Mellon University\u2660; Microsoft Semantic Machines\u2663; Microsoft Semantic Machines\u2663; Microsoft Semantic Machines\u2663; Microsoft Semantic Machines\u2663; Microsoft Semantic Machines\u2663"
+    },
+    {
+        "title": "ConVEx: Data-Efficient and Few-Shot Slot Labeling",
+        "aff": "PolyAI Ltd, London, UK; PolyAI Ltd, London, UK + Language Technology Lab, University of Cambridge, UK"
+    },
+    {
+        "title": "Concealed Data Poisoning Attacks on NLP Models",
+        "aff": "UC Berkeley; UC Berkeley; University of Maryland; UC Irvine"
+    },
+    {
+        "title": "Constrained Multi-Task Learning for Event Coreference Resolution",
+        "aff": ";"
+    },
+    {
+        "title": "Constructing Taxonomies from Pretrained Language Models",
+        "aff": "University of California, Berkeley; University of California, Berkeley; University of California, Berkeley"
+    },
+    {
+        "title": "Context Tracking Network: Graph-based Context Modeling for Implicit Discourse Relation Recognition",
+        "aff": "Pattern Recognition Center, WeChat AI, Tencent Inc, China; Pattern Recognition Center, WeChat AI, Tencent Inc, China; Pattern Recognition Center, WeChat AI, Tencent Inc, China; Beijing Institute of Technology, China; Pattern Recognition Center, WeChat AI, Tencent Inc, China"
+    },
+    {
+        "title": "Context-Interactive Pre-Training for Document Machine Translation",
+        "aff": "Machine Intelligence Technology Lab, Alibaba Group, Hangzhou, China; Machine Intelligence Technology Lab, Alibaba Group, Hangzhou, China; Machine Intelligence Technology Lab, Alibaba Group, Hangzhou, China; Machine Intelligence Technology Lab, Alibaba Group, Hangzhou, China; Machine Intelligence Technology Lab, Alibaba Group, Hangzhou, China"
+    },
+    {
+        "title": "Context-aware Decoder for Neural Machine Translation using a Target-side Document-Level Language Model",
+        "aff": "The University of Tokyo\u2217; Institute of Industrial Science, The University of Tokyo"
+    },
+    {
+        "title": "Contextual Domain Classification with Temporal Representations",
+        "aff": "Amazon Alexa AI; Amazon Alexa AI; Amazon Alexa AI; Amazon Alexa AI; Amazon Alexa AI; Amazon Alexa AI; Amazon Alexa AI; Amazon Alexa AI"
+    },
+    {
+        "title": "Contextualized Perturbation for Textual Adversarial Attack",
+        "aff": "University of Washington\u2660; Microsoft Research\u2666; University of Washington\u2660; Duke University\u2663; Microsoft Research\u2666; University of Washington\u2660; Microsoft Research\u2666"
+    },
+    {
+        "title": "Contextualized and Generalized Sentence Representations by Contrastive Self-Supervised Learning: A Case Study on Discourse Relation Analysis",
+        "aff": "Graduate School of Informatics, Kyoto University; Graduate School of Informatics, Kyoto University"
+    },
+    {
+        "title": "Continual Learning for Neural Machine Translation",
+        "aff": "Wangxuan Institute of Computer Technology, Peking University + Center for Data Science, Peking University + The MOE Key Laboratory of Computational Linguistics, Peking University; Alibaba Group; Alibaba Group; Wangxuan Institute of Computer Technology, Peking University + Center for Data Science, Peking University + The MOE Key Laboratory of Computational Linguistics, Peking University"
+    },
+    {
+        "title": "Continual Learning for Text Classification with Information Disentanglement Based Regularization",
+        "aff": "Georgia Institute of Technology; Georgia Institute of Technology+Zhejiang University; Georgia Institute of Technology; Google; Georgia Institute of Technology"
+    },
+    {
+        "title": "Continuous Model Improvement for Language Understanding with Machine Translation",
+        "aff": "Amazon Alexa AI, Germany; Amazon Alexa AI, Germany; Amazon Alexa AI, Germany; Amazon Alexa AI, Germany; Amazon Alexa AI, Germany; Amazon Alexa AI, Germany"
+    },
+    {
+        "title": "Controllable Text Simplification with Explicit Paraphrasing",
+        "aff": "School of Interactive Computing, Georgia Institute of Technology; Department of Computer Science, University of Sheffield; School of Interactive Computing, Georgia Institute of Technology"
+    },
+    {
+        "title": "Controlling Dialogue Generation with Semantic Exemplars",
+        "aff": "Language Technologies Institute, Carnegie Mellon University + Human-Computer Interaction Institute, Carnegie Mellon University; Language Technologies Institute, Carnegie Mellon University + Human-Computer Interaction Institute, Carnegie Mellon University; Language Technologies Institute, Carnegie Mellon University; Human-Computer Interaction Institute, Carnegie Mellon University"
+    },
+    {
+        "title": "Cost-effective Deployment of BERT Models in Serverless Environment",
+        "aff": "Slido; Slido; Slido"
+    },
+    {
+        "title": "Counterfactual Data Augmentation for Neural Machine Translation",
+        "aff": "University of Oxford; University College London; DeepMind"
+    },
+    {
+        "title": "Counterfactual Supporting Facts Extraction for Explainable Medical Record Based Diagnosis with Graph Network",
+        "aff": "Institute of Automation, Chinese Academy of Sciences, Beijing, 100190, China+School of Artificial Intelligence, University of Chinese Academy of Sciences, Beijing, 100049, China; Institute of Automation, Chinese Academy of Sciences, Beijing, 100190, China; Institute of Automation, Chinese Academy of Sciences, Beijing, 100190, China; Institute of Automation, Chinese Academy of Sciences, Beijing, 100190, China+School of Artificial Intelligence, University of Chinese Academy of Sciences, Beijing, 100049, China"
+    },
+    {
+        "title": "Cross-Lingual Word Embedding Refinement by \u21131 Norm Optimisation",
+        "aff": "Department of Computer Science, The University of Shef\ufb01eld, UK; Department of Computer Science, The University of Shef\ufb01eld, UK; Department of Computer Science, The University of Shef\ufb01eld, UK"
+    },
+    {
+        "title": "Cross-Task Instance Representation Interactions and Label Dependencies for Joint Information Extraction with Graph Convolutional Networks",
+        "aff": "Department of Computer and Information Science, University of Oregon, Eugene, Oregon, USA; Department of Computer and Information Science, University of Oregon, Eugene, Oregon, USA; Department of Computer and Information Science, University of Oregon, Eugene, Oregon, USA"
+    },
+    {
+        "title": "Cross-lingual Cross-modal Pretraining for Multimodal Retrieval",
+        "aff": ";;"
+    },
+    {
+        "title": "Cross-lingual Supervision Improves Unsupervised Neural Machine Translation",
+        "aff": "ByteDance AI Lab, Beijing, China; Department of Computer Science and Engineering, Shanghai Jiao Tong University; Department of Computer Science and Engineering, Shanghai Jiao Tong University; ByteDance AI Lab, Beijing, China"
+    },
+    {
+        "title": "Cultural and Geographical Influences on Image Translatability of Words across Languages",
+        "aff": "Boston University; Boston University; University of Pennsylvania; University of Pennsylvania; Boston University"
+    },
+    {
+        "title": "D2S: Document-to-Slide Generation Via Query-Based Text Summarization",
+        "aff": "University of Michigan; IBM Research Europe; IBM Research; IBM Research; IBM Research"
+    },
+    {
+        "title": "DA-Transformer: Distance-aware Transformer",
+        "aff": "Department of Electronic Engineering & BNRist, Tsinghua University, Beijing 100084, China; Microsoft Research Asia, Beijing 100080, China; Department of Electronic Engineering & BNRist, Tsinghua University, Beijing 100084, China"
+    },
+    {
+        "title": "DAGN: Discourse-Aware Graph Network for Logical Reasoning",
+        "aff": "Shenzhen Campus of Sun Yat-sen University; Tencent Robotics X; School of Computer Science, The University of Sydney; The Chinese University of Hong Kong; Shenzhen Campus of Sun Yat-sen University"
+    },
+    {
+        "title": "DART: Open-Domain Structured Data Record to Text Generation",
+        "aff": "Yale University; Yale University+Salesforce Research; Penn State University; Yale University; Yale University; The University of Hong Kong; Yale University; Yale University; Yale University; MIT; Yale University; Yale University; Yale University; Yale University; Yale University; Yale University; Yale University; Yale University; Yale University; Yale University; Salesforce Research; Salesforce Research; Salesforce Research; Salesforce Research"
+    },
+    {
+        "title": "DATE: Detecting Anomalies in Text via Self-Supervision of Transformers",
+        "aff": "Bitdefender+University of Bucharest, Romania; Bitdefender+University of Bucharest, Romania; Bitdefender+University of Bucharest, Romania+Institute of Mathematics of the Romanian Academy"
+    },
+    {
+        "title": "DReCa: A General Task Augmentation Strategy for Few-Shot Natural Language Inference",
+        "aff": "Computer Science Department, Stanford University; Computer Science Department, Stanford University; Computer Science Department, Stanford University"
+    },
+    {
+        "title": "Data Filtering using Cross-Lingual Word Embeddings",
+        "aff": "Human Language Technology and Pattern Recognition Group, Computer Science Department, RWTH Aachen University; Human Language Technology and Pattern Recognition Group, Computer Science Department, RWTH Aachen University; Human Language Technology and Pattern Recognition Group, Computer Science Department, RWTH Aachen University; Human Language Technology and Pattern Recognition Group, Computer Science Department, RWTH Aachen University"
+    },
+    {
+        "title": "Data and Model Distillation as a Solution for Domain-transferable Fact Verification",
+        "aff": "University of Arizona, Tucson, Arizona, USA; University of Arizona, Tucson, Arizona, USA; University of Arizona, Tucson, Arizona, USA"
+    },
+    {
+        "title": "DeCEMBERT: Learning from Noisy Instructional Videos via Dense Captions and Entropy Minimization",
+        "aff": "Department of Computer Science, University of North Carolina at Chapel Hill; Department of Computer Science, University of North Carolina at Chapel Hill; Department of Computer Science, University of North Carolina at Chapel Hill"
+    },
+    {
+        "title": "Decompose, Fuse and Generate: A Formation-Informed Method for Chinese Definition Generation",
+        "aff": "Department of Computer Science and Technology, Peking University+Key Lab of Computational Linguistics (MOE), Peking University+Peng Cheng Laboratory, China; Department of Computer Science and Technology, Peking University+Key Lab of Computational Linguistics (MOE), Peking University+Peng Cheng Laboratory, China; Department of Computer Science and Technology, Peking University+Key Lab of Computational Linguistics (MOE), Peking University; Department of Computer Science and Technology, Peking University+Key Lab of Computational Linguistics (MOE), Peking University; Department of Computer Science and Technology, Peking University+Key Lab of Computational Linguistics (MOE), Peking University+Peng Cheng Laboratory, China; Department of Computer Science and Technology, Peking University+Key Lab of Computational Linguistics (MOE), Peking University+Peng Cheng Laboratory, China; Department of Computer Science and Technology, Peking University+Key Lab of Computational Linguistics (MOE), Peking University+Peng Cheng Laboratory, China"
+    },
+    {
+        "title": "Designing a Minimal Retrieve-and-Read System for Open-Domain Question Answering",
+        "aff": "KAIST AI+NA VER Corp.; KAIST AI"
+    },
+    {
+        "title": "Detoxifying Language Models Risks Marginalizing Minority Voices",
+        "aff": "UC Berkeley\u2666; UC Berkeley\u2666; UC Berkeley\u2666; University of Washington\u2660; University of Washington\u2660; UC Berkeley\u2666"
+    },
+    {
+        "title": "Development of an Enterprise-Grade Contract Understanding System",
+        "aff": "IBM Research - India; IBM Data and AI; IBM Data and AI; IBM Research - Almaden; Google LLC; IBM Research - India; IBM Research - India; IBM Research - Almaden; IBM Data and AI; IBM Research - Almaden; IBM Data and AI; IBM Research - India; Visa; IBM Data and AI; IBM Data and AI; IBM Data and AI; IBM Data and AI; IBM Data and AI; Amazon; IBM Research - Almaden"
+    },
+    {
+        "title": "DiSCoL: Toward Engaging Dialogue Systems through Conversational Line Guided Response Generation",
+        "aff": "University of Southern California / Information Sciences Institute; University of Southern California / Information Sciences Institute; Computer Science Department of Columbia University; University of Southern California / Information Sciences Institute; University of Southern California / Information Sciences Institute; Computer Science Department of University of California, Los Angeles"
+    },
+    {
+        "title": "Did they answer? Subjective acts and intents in conversational discourse",
+        "aff": "Department of Linguistics; Department of Computer Science; Department of Linguistics; Department of Linguistics"
+    },
+    {
+        "title": "Differentiable Open-Ended Commonsense Reasoning",
+        "aff": "University of Southern California+Google Research; Google Research; Google Research; Google Research; University of Southern California; Google Research"
+    },
+    {
+        "title": "DirectProbe: Studying Representations without Classifiers",
+        "aff": "School of Computing, University of Utah; School of Computing, University of Utah"
+    },
+    {
+        "title": "Discourse Probing of Pretrained Language Models",
+        "aff": "School of Computing and Information Systems, The University of Melbourne; School of Computing and Information Systems, The University of Melbourne; School of Computing and Information Systems, The University of Melbourne"
+    },
+    {
+        "title": "Discovering Better Model Architectures for Medical Query Understanding",
+        "aff": ";;;"
+    },
+    {
+        "title": "Discrete Argument Representation Learning for Interactive Argument Pair Identification",
+        "aff": "School of Computer Science, Fudan University, Shanghai, China; School of Data Science, Fudan University, China; Department of Computing, The Hong Kong Polytechnic University, Hong Kong, China; School of Computer Science, Fudan University, Shanghai, China; School of Computer Science, Fudan University, Shanghai, China"
+    },
+    {
+        "title": "Disentangling Semantics and Syntax in Sentence Embeddings with Pre-trained Language Models",
+        "aff": "University of California, Los Angeles; University of California, Los Angeles; University of California, Los Angeles"
+    },
+    {
+        "title": "Distantly Supervised Relation Extraction with Sentence Reconstruction and Knowledge Base Priors",
+        "aff": "National Centre for Text Mining, Department of Computer Science, The University of Manchester, United Kingdom; Toyota Technological Institute, Nagoya, 468-8511, Japan + Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology, Japan; National Centre for Text Mining, Department of Computer Science, The University of Manchester, United Kingdom"
+    },
+    {
+        "title": "Distantly Supervised Transformers For E-Commerce Product QA",
+        "aff": "India Machine Learning+Amazon; India Machine Learning+Amazon; Digital Video+Amazon; Community Shopping+Amazon; India Machine Learning+Amazon"
+    },
+    {
+        "title": "Diversity-Aware Batch Active Learning for Dependency Parsing",
+        "aff": "Cornell University; Bloomberg L.P.; Bloomberg L.P.; Bloomberg L.P."
+    },
+    {
+        "title": "Do RNN States Encode Abstract Phonological Alternations?",
+        "aff": "University of British Columbia; Indiana University; University of British Columbia; University of Colorado"
+    },
+    {
+        "title": "Do Syntactic Probes Probe Syntax? Experiments with Jabberwocky Probing",
+        "aff": "University of Cambridge+ETH Z\u00fcrich; University of Cambridge+ETH Z\u00fcrich"
+    },
+    {
+        "title": "Document-Level Event Argument Extraction by Conditional Generation",
+        "aff": "University of Illinois at Urbana-Champaign, IL, USA; University of Illinois at Urbana-Champaign, IL, USA; University of Illinois at Urbana-Champaign, IL, USA"
+    },
+    {
+        "title": "Does BERT Pretrained on Clinical Notes Reveal Sensitive Data?",
+        "aff": "MIT CSAIL+Northeastern University; Northeastern University; Memorial Sloan Kettering Cancer Center; Bar Ilan University / Ramat Gan, Israel+Allen Institute for Arti\ufb01cial Intelligence; Northeastern University"
+    },
+    {
+        "title": "Does Structure Matter? Encoding Documents for Machine Reading Comprehension",
+        "aff": "IBM Research AI; IBM Research AI; IBM Research AI; IBM Research AI; IBM Research AI; IBM Research AI"
+    },
+    {
+        "title": "Does syntax matter? A strong baseline for Aspect-based Sentiment Analysis with RoBERTa",
+        "aff": "Shanghai Key Laboratory of Intelligent Information Processing, Fudan University + School of Computer Science, Fudan University; Shanghai Key Laboratory of Intelligent Information Processing, Fudan University + School of Computer Science, Fudan University; Shanghai Key Laboratory of Intelligent Information Processing, Fudan University + School of Computer Science, Fudan University; Carnegie Mellon University; Shanghai Key Laboratory of Intelligent Information Processing, Fudan University + School of Computer Science, Fudan University"
+    },
+    {
+        "title": "Domain Adaptation for Arabic Cross-Domain and Cross-Dialect Sentiment Analysis from Contextualized Word Embedding",
+        "aff": "School of Computer Sciences, Mohammed VI Polytechnic University, Morocco; School of Computer Sciences, Mohammed VI Polytechnic University, Morocco; School of Computer Sciences, Mohammed VI Polytechnic University, Morocco; Dept. Electrical & Computer Engineering, University of Sherbrooke, Canada"
+    },
+    {
+        "title": "Domain Divergences: A Survey and Empirical Analysis",
+        "aff": "National University of Singapore, Singapore; National University of Singapore, Singapore; National University of Singapore, Singapore; National University of Singapore, Singapore"
+    },
+    {
+        "title": "Double Perturbation: On the Robustness of Robustness and Counterfactual Bias Evaluation",
+        "aff": "Department of Computer Science, UCLA; Department of Computer Science, UCLA; Department of Computer Science, UCLA; Department of Computer Science, UCLA; Department of Computer Science, UCLA"
+    },
+    {
+        "title": "DuoRAT: Towards Simpler Text-to-SQL Models",
+        "aff": "Element AI, a ServiceNow company; Element AI, a ServiceNow company; Element AI, a ServiceNow company; Element AI, a ServiceNow company; Element AI, a ServiceNow company"
+    },
+    {
+        "title": "Dynabench: Rethinking Benchmarking in NLP",
+        "aff": ";;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "title": "Dynamically Disentangling Social Bias from Task-Oriented Representations with Adversarial Attack",
+        "aff": "Beijing University of Posts and Telecommunications; Beijing University of Posts and Telecommunications; Beijing University of Posts and Telecommunications + Meituan Group; Beijing University of Posts and Telecommunications; Beijing University of Posts and Telecommunications"
+    },
+    {
+        "title": "ENTRUST: Argument Reframing with Language Models and Entailment",
+        "aff": "Department of Computer Science, Columbia University1 + Data Science Institute, Columbia University2; Google3; Department of Computer Science, Columbia University1 + Data Science Institute, Columbia University2"
+    },
+    {
+        "title": "ER-AE: Differentially Private Text Generation for Authorship Anonymization",
+        "aff": "McGill University, Canada; Queen\u2019s University, Canada; McGill University, Canada; Zayed University, UAE"
+    },
+    {
+        "title": "ERNIE-Gram: Pre-Training with Explicitly N-Gram Masked Language Modeling for Natural Language Understanding",
+        "aff": "Baidu Inc., China; Baidu Inc., China; Baidu Inc., China; Baidu Inc., China; Baidu Inc., China; Baidu Inc., China; Baidu Inc., China"
+    },
+    {
+        "title": "ESC: Redesigning WSD with Extractive Sense Comprehension",
+        "aff": "Sapienza NLP Group, Department of Computer Science, Sapienza University of Rome; Department of Computer Science, University of Copenhagen + Sapienza University of Rome; Sapienza NLP Group, Department of Computer Science, Sapienza University of Rome"
+    },
+    {
+        "title": "EaSe: A Diagnostic Tool for VQA based on Answer Diversity",
+        "aff": "TU Kaiserslautern, Germany+DFKI GmbH, Germany; ILLC, University of Amsterdam, Netherlands; SAP AI Research, Germany"
+    },
+    {
+        "title": "Edge: Enriching Knowledge Graph Embeddings with External Text",
+        "aff": "Department of Computer Science, University of Georgia, Athens, GA, USA; Adobe Research, San Jose, CA, USA; Adobe Research, San Jose, CA, USA; Adobe Research, San Jose, CA, USA; Adobe Research, San Jose, CA, USA; Department of Computer Science, University of Georgia, Athens, GA, USA"
+    },
+    {
+        "title": "Efficient Attentions for Long Document Summarization",
+        "aff": "Computer Science and Engineering, University of Michigan, Ann Arbor, MI; Computer Science and Engineering, University of Michigan, Ann Arbor, MI; Department of Computer Science, University of Illinois at Urbana-Champaign, IL; Department of Computer Science, University of Illinois at Urbana-Champaign, IL; Computer Science and Engineering, University of Michigan, Ann Arbor, MI"
+    },
+    {
+        "title": "Efficiently Summarizing Text and Graph Encodings of Multi-Document Clusters",
+        "aff": "UNC Chapel Hill; Amazon Alexa; UNC Chapel Hill; Amazon Alexa; Amazon Alexa"
+    },
+    {
+        "title": "Emotion-Infused Models for Explainable Psychological Stress Detection",
+        "aff": "Department of Computer Science, Columbia University1 + Data Science Institute, Columbia University2; Department of Computer Science, Columbia University1 + Data Science Institute, Columbia University2; Department of Computer Science, Columbia University1"
+    },
+    {
+        "title": "Empirical Evaluation of Pre-trained Transformers for Human-Level NLP: The Role of Sample Size and Dimensionality",
+        "aff": "Department of Computer Science, Stony Brook University; Department of Computer Science, Stony Brook University; Department of Computer Science, Stony Brook University; Department of Computer Science, Stony Brook University; Department of Computer Science, Stony Brook University"
+    },
+    {
+        "title": "EnSidNet: Enhanced Hybrid Siamese-Deep Network for grouping clinical trials into drug-development pathways",
+        "aff": "Analytics Center of Excellence, IQVIA"
+    },
+    {
+        "title": "End-to-end ASR to jointly predict transcriptions and linguistic annotations",
+        "aff": ";;;"
+    },
+    {
+        "title": "Enhancing Factual Consistency of Abstractive Summarization",
+        "aff": "Microsoft Cognitive Services Group; Microsoft Cognitive Services Group; Microsoft Cognitive Services Group; University of Notre Dame; Microsoft Cognitive Services Group; Microsoft Cognitive Services Group; University of Notre Dame"
+    },
+    {
+        "title": "Enriching Transformers with Structured Tensor-Product Representations for Abstractive Summarization",
+        "aff": "UNC Chapel Hill; Microsoft Research, Redmond; Microsoft Research, Redmond + Johns Hopkins University; Johns Hopkins University; Microsoft Research, Redmond; Microsoft Research, Redmond; Microsoft Research, Redmond; Johns Hopkins University; UNC Chapel Hill; Microsoft Research, Redmond"
+    },
+    {
+        "title": "Ensemble of MRR and NDCG models for Visual Dialog",
+        "aff": ""
+    },
+    {
+        "title": "Entity Resolution in Open-domain Conversations",
+        "aff": ";;;;;;;;;;;"
+    },
+    {
+        "title": "Evaluating Saliency Methods for Neural Language Models",
+        "aff": "Center for Language and Speech Processing; Center for Language and Speech Processing"
+    },
+    {
+        "title": "Evaluating the Impact of a Hierarchical Discourse Representation on Entity Coreference Resolution Performance",
+        "aff": "Language Technologies Institute, Carnegie Mellon University, USA; Language Technologies Institute, Carnegie Mellon University, USA; Language Technologies Institute, Carnegie Mellon University, USA"
+    },
+    {
+        "title": "Evaluating the Values of Sources in Transfer Learning",
+        "aff": "University of California Los Angeles; University of California Los Angeles"
+    },
+    {
+        "title": "Event Representation with Sequential, Semi-Supervised Discrete Variables",
+        "aff": "Department of Computer Science, University of Maryland Baltimore County; Department of Computer Science, University of Maryland Baltimore County"
+    },
+    {
+        "title": "Event Time Extraction and Propagation via Graph Attention Networks",
+        "aff": "University of Illinois at Urbana-Champaign; University of Illinois at Urbana-Champaign; University of Illinois at Urbana-Champaign; Amazon; University of Illinois at Urbana-Champaign; IBM Research AI; University of Illinois at Urbana-Champaign; University of Pennsylvania"
+    },
+    {
+        "title": "EventPlus: A Temporal Event Understanding Pipeline",
+        "aff": "Computer Science Department, University of California, Los Angeles; Information Sciences Institute, University of Southern California; Texas A&M University; Information Sciences Institute, University of Southern California; Information Sciences Institute, University of Southern California; Information Sciences Institute, University of Southern California; Information Sciences Institute, University of Southern California; Computer Science Department, University of California, Los Angeles + Information Sciences Institute, University of Southern California"
+    },
+    {
+        "title": "Everything Has a Cause: Leveraging Causal Inference in Legal Text Analysis",
+        "aff": "Wangxuan Institute of Computer Technology, Peking University, China+The MOE Key Laboratory of Computational Linguistics, Peking University, China; Computer Science Department, University of California, Los Angeles; Wangxuan Institute of Computer Technology, Peking University, China+The MOE Key Laboratory of Computational Linguistics, Peking University, China; Wangxuan Institute of Computer Technology, Peking University, China; Wangxuan Institute of Computer Technology, Peking University, China+The MOE Key Laboratory of Computational Linguistics, Peking University, China"
+    },
+    {
+        "title": "Example-Driven Intent Prediction with Observers",
+        "aff": "Language Technologies Institute, Carnegie Mellon University; Amazon Alexa AI"
+    },
+    {
+        "title": "Explainable Multi-hop Verbal Reasoning Through Internal Monologue",
+        "aff": "Computer Science Department, The University of Arizona, Tucson, AZ; School of Information, The University of Arizona, Tucson, AZ; Computer Science Department, The University of Arizona, Tucson, AZ"
+    },
+    {
+        "title": "Explaining Neural Network Predictions on Sentence Pairs via Learning Word-Group Masks",
+        "aff": "Department of Computer Science, University of Virginia, Charlottesville, V A, USA; IBM Research AI; IBM Research AI; IBM Research AI; IBM Research AI; IBM Research AI; Department of Computer Science, University of Virginia, Charlottesville, V A, USA"
+    },
+    {
+        "title": "Explicit Alignment Objectives for Multilingual Bidirectional Encoders",
+        "aff": "Carnegie Mellon University+Google Research; Google Research; Google Research; Google Research; Carnegie Mellon University"
+    },
+    {
+        "title": "Explicitly Modeling Syntax in Language Models with Incremental Parsing and a Dynamic Oracle",
+        "aff": "Mila/Universit\u00e9 de Montr\u00e9al; Mila/Universit\u00e9 de Montr\u00e9al; Microsoft Research Montr\u00e9al; Mila/McGill University; Mila/Universit\u00e9 de Montr\u00e9al"
+    },
+    {
+        "title": "Exploring the Relationship Between Algorithm Performance, Vocabulary, and Run-Time in Text Classification",
+        "aff": "Brigham Young University; Brigham Young University; Brigham Young University"
+    },
+    {
+        "title": "Extending Multi-Document Summarization Evaluation to the Interactive Setting",
+        "aff": "Bar-Ilan University; UNC Chapel Hill; Peres Academic Center; UNC Chapel Hill; Bar-Ilan University; Bar-Ilan University"
+    },
+    {
+        "title": "Extracting a Knowledge Base of Mechanisms from COVID-19 Papers",
+        "aff": "Paul G. Allen School for Computer Science & Engineering, University of Washington+Allen Institute for Arti\ufb01cial Intelligence; Paul G. Allen School for Computer Science & Engineering, University of Washington+Allen Institute for Arti\ufb01cial Intelligence; Paul G. Allen School for Computer Science & Engineering, University of Washington; Allen Institute for Arti\ufb01cial Intelligence; Swedish Medical Group; Microsoft Research; Paul G. Allen School for Computer Science & Engineering, University of Washington+Allen Institute for Arti\ufb01cial Intelligence; The Hebrew University of Jerusalem, Israel; Paul G. Allen School for Computer Science & Engineering, University of Washington+Allen Institute for Arti\ufb01cial Intelligence"
+    },
+    {
+        "title": "FITAnnotator: A Flexible and Intelligent Text Annotation System",
+        "aff": "Institute of Information Engineering, Chinese Academy of Sciences; School of Cyber Security, University of Chinese Academy of Sciences; Institute of Information Engineering, Chinese Academy of Sciences; School of Cyber Security, University of Chinese Academy of Sciences"
+    },
+    {
+        "title": "FLIN: A Flexible Natural Language Interface for Web Navigation",
+        "aff": "Department of Computer Science, University of Illinois at Chicago, USA; Microsoft Research, Redmond, USA"
+    },
+    {
+        "title": "FUDGE: Controlled Text Generation With Future Discriminators",
+        "aff": "UC Berkeley; UC Berkeley"
+    },
+    {
+        "title": "Factual Probing Is [MASK]: Learning vs. Learning to Recall",
+        "aff": "Department of Computer Science, Princeton University; Department of Computer Science, Princeton University; Department of Computer Science, Princeton University"
+    },
+    {
+        "title": "Faithfully Explainable Recommendation via Neural Logic Reasoning",
+        "aff": "Rutgers University, New Brunswick; Rutgers University, New Brunswick; Rutgers University, New Brunswick; Rutgers University, New Brunswick; Rutgers University, New Brunswick"
+    },
+    {
+        "title": "Fast and Scalable Dialogue State Tracking with Explicit Modular Decomposition",
+        "aff": "Department of Computer Science, University of Oxford, UK; Department of Computer Science, The University of Shef\ufb01eld, UK; Department of Computer Science, University of Oxford, UK; The Chinese University of Hong Kong, Hong Kong SAR"
+    },
+    {
+        "title": "Few-Shot Text Classification with Triplet Networks, Data Augmentation, and Curriculum Learning",
+        "aff": ";;;;"
+    },
+    {
+        "title": "Few-shot Intent Classification and Slot Filling with Retrieved Examples",
+        "aff": "University of California, Davis; Google Research; Google Research; Cornell University + Google Research; Google Research; Google Assistant"
+    },
+    {
+        "title": "Field Embedding: A Unified Grain-Based Framework for Word Representation",
+        "aff": "Department of Computer Science, Tsinghua University; Department of Computer Science, University of Illinois Urbana-Champaign; Department of Computer Science, University of Illinois Urbana-Champaign; Department of Computer Science, Tsinghua University; School of Informatics, Computing, and Engineering, Indiana University Bloomington; Department of Computer Science, Wayne State University"
+    },
+    {
+        "title": "Finding Concept-specific Biases in Form\u2013Meaning Associations",
+        "aff": "University of Cambridge; Google; Kazan Federal University; ETH Z\u00fcrich; Harvard University + MPI for Evolutionary Anthropology + HSE University"
+    },
+    {
+        "title": "Fine-Tuning Pre-trained Language Model with Weak Supervision: A Contrastive-Regularized Self-Training Approach",
+        "aff": "Georgia Institute of Technology, Atlanta, GA, USA; Georgia Institute of Technology, Atlanta, GA, USA; Georgia Institute of Technology, Atlanta, GA, USA; Georgia Institute of Technology, Atlanta, GA, USA; Georgia Institute of Technology, Atlanta, GA, USA; Georgia Institute of Technology, Atlanta, GA, USA"
+    },
+    {
+        "title": "Fine-grained Post-training for Improving Retrieval-based Dialogue Systems",
+        "aff": "Department of Computer Science and Engineering, Sogang University+LG AI Research; Department of Computer Science and Engineering, Sogang University; Department of Computer Science and Engineering, Sogang University; Department of Computer Science and Engineering, Sungkyunkwan University; Department of Computer Science and Engineering, Sogang University"
+    },
+    {
+        "title": "Fine-tuning Encoders for Improved Monolingual and Zero-shot Polylingual Neural Topic Modeling",
+        "aff": "Department of Computer Science, Johns Hopkins University; Department of Computer Science, Johns Hopkins University"
+    },
+    {
+        "title": "FlowPrior: Learning Expressive Priors for Latent Variable Sentence Models",
+        "aff": "University of Chicago; Toyota Technological Institute at Chicago"
+    },
+    {
+        "title": "Focused Attention Improves Document-Grounded Generation",
+        "aff": "Carnegie Mellon University; Salesforce Research; Salesforce Research; Carnegie Mellon University; Carnegie Mellon University"
+    },
+    {
+        "title": "Fool Me Twice: Entailment from Wikipedia Gamification",
+        "aff": "Google Research; Google Research; Google Research; Google Research; CS, iSchool, UMIACS, LSC University of Maryland"
+    },
+    {
+        "title": "Framing Unpacked: A Semi-Supervised Interpretable Multi-View Model of Media Frames",
+        "aff": "School of Computing and Information Systems; School of Computing and Information Systems; School of Computing and Information Systems+School of Social and Political Sciences; School of Computing and Information Systems; School of Computing and Information Systems"
+    },
+    {
+        "title": "From Masked Language Modeling to Translation: Non-English Auxiliary Tasks Improve Zero-shot Spoken Language Understanding",
+        "aff": "IT University of Copenhagen; Factmata; Tokyo Metropolitan University; University of Groningen; IT University of Copenhagen; University of Trento + Fondazione The Microsoft Research \u2013 University of Trento Centre for Computational and Systems Biology (COSBI); Tokyo Metropolitan University; Tokyo Metropolitan University; IT University of Copenhagen"
+    },
+    {
+        "title": "Frustratingly Easy Edit-based Linguistic Steganography with a Masked Language Model",
+        "aff": "Graduate School of Informatics, Kyoto University; Graduate School of Informatics, Kyoto University; Graduate School of Informatics, Kyoto University"
+    },
+    {
+        "title": "GEMNET: Effective Gated Gazetteer Representations for Recognizing Complex Entities in Low-context Input",
+        "aff": "UCLA; Amazon.com, Inc.; Amazon.com, Inc.; Amazon.com, Inc."
+    },
+    {
+        "title": "GPT Perdetry Test: Generating new meanings for new words",
+        "aff": "Yale University; Microsoft + Microsoft Research; University of Maryland; Microsoft Research; Microsoft Research"
+    },
+    {
+        "title": "GSum: A General Framework for Guided Neural Abstractive Summarization",
+        "aff": "Language Technologies Institute, Carnegie Mellon University; Language Technologies Institute, Carnegie Mellon University; Language Technologies Institute, Carnegie Mellon University; Language Technologies Institute, Carnegie Mellon University; Language Technologies Institute, Carnegie Mellon University"
+    },
+    {
+        "title": "Game-theoretic Vocabulary Selection via the Shapley Value and Banzhaf Index",
+        "aff": "Brown University + DeepMind; DeepMind; DeepMind; DeepMind; DeepMind"
+    },
+    {
+        "title": "Generalization in Instruction Following Systems",
+        "aff": "University of Pennsylvania; University of Pennsylvania; University of Pennsylvania"
+    },
+    {
+        "title": "Generating An Optimal Interview Question Plan Using A Knowledge Graph And Integer Linear Programming",
+        "aff": "TCS Research; TCS Research; TCS Research; TCS Research; TCS Research"
+    },
+    {
+        "title": "Generating Negative Samples by Manipulating Golden Responses for Unsupervised Learning of a Response Evaluation Model",
+        "aff": "School of Computing, Korea Advanced Institute of Science and Technology; School of Computing, Korea Advanced Institute of Science and Technology; School of Computing, Korea Advanced Institute of Science and Technology; School of Computing, Korea Advanced Institute of Science and Technology"
+    },
+    {
+        "title": "Generative Imagination Elevates Machine Translation",
+        "aff": "Nanyang Technological University, Singapore; ByteDance AI Lab, China; ByteDance AI Lab, China"
+    },
+    {
+        "title": "Get Your Vitamin C! Robust Fact Verification with Contrastive Evidence",
+        "aff": ";;"
+    },
+    {
+        "title": "Goodwill Hunting: Analyzing and Repurposing Off-the-Shelf Named Entity Linking Systems",
+        "aff": "Stanford University; Stanford University; Salesforce Research; Salesforce Research; Stanford University"
+    },
+    {
+        "title": "Graph Convolutional Networks for Event Causality Identification with Rich Document-level Structures",
+        "aff": "VinAI Research, Hanoi, Vietnam; Department of Computer and Information Science, University of Oregon, Eugene, Oregon, USA"
+    },
+    {
+        "title": "Graph Ensemble Learning over Multiple Dependency Trees for Aspect-level Sentiment Classification",
+        "aff": "JD AI Research, Mountain View, CA; JD AI Research, Mountain View, CA; JD AI Research, Mountain View, CA; Department of Computer Science, Stanford University, Stanford, CA; JD AI Research, Mountain View, CA; JD AI Research, Mountain View, CA; JD AI Research, Mountain View, CA"
+    },
+    {
+        "title": "Graph-based Multilingual Product Retrieval in E-Commerce Search",
+        "aff": "Amazon Search; Amazon Search; Amazon Personalization; Amazon Search; Amazon Search; Amazon Search"
+    },
+    {
+        "title": "Grey-box Adversarial Attack And Defence For Sentiment Classification",
+        "aff": ";;;"
+    },
+    {
+        "title": "Grounding Open-Domain Instructions to Automate Web Support Tasks",
+        "aff": "Computer Science Dept., Stanford University; Computer Science Dept., Stanford University; Computer Science Dept., Stanford University; Computer Science Dept., Stanford University; Viv Labs + Samsung Research; Computer Science Dept., Stanford University; Computer Science Dept., Stanford University"
+    },
+    {
+        "title": "Grouping Words with Semantic Diversity",
+        "aff": "Department of Computer Science and Technology, University of Illinois at Chicago; Department of Computer Science, Stevens Institute of Technology; Department of Computer Science and Technology, University of Illinois at Chicago; Department of Computer Science, Stevens Institute of Technology"
+    },
+    {
+        "title": "HONEST: Measuring Hurtful Sentence Completion in Language Models",
+        "aff": "Bocconi University; Bocconi University; Bocconi University"
+    },
+    {
+        "title": "HTCInfoMax: A Global Model for Hierarchical Text Classification via Information Maximization",
+        "aff": "Department of Computer Science, University of Illinois at Chicago, Chicago, USA; BDBC, Beihang University, Beijing, China + School of Cyber Science and Technology, Beihang University, Beijing, China; School of Computer Science and Technology, Tianjin University, Tianjin, China; BDBC, Beihang University, Beijing, China; Department of Computer Science, University of Illinois at Chicago, Chicago, USA"
+    },
+    {
+        "title": "Harnessing Multilinguality in Unsupervised Machine Translation for Rare Languages",
+        "aff": ";;;"
+    },
+    {
+        "title": "Heterogeneous Graph Neural Networks for Concept Prerequisite Relation Learning in Educational Data",
+        "aff": "College of Computer Science and Technology, Zhejiang University, Hangzhou, China; College of Computer Science and Technology, Zhejiang University, Hangzhou, China; College of Computer Science and Technology, Zhejiang University, Hangzhou, China; College of Computer Science and Technology, Zhejiang University, Hangzhou, China; College of Computer Science and Technology, Zhejiang University, Hangzhou, China"
+    },
+    {
+        "title": "Hierarchical Transformer for Task Oriented Dialog Systems",
+        "aff": "Computer Science and Engineering Dept., Indian Institute of Technology Kharagpur; Computer Science and Engineering Dept., Indian Institute of Technology Kharagpur; Computer Science and Engineering Dept., Indian Institute of Technology Kharagpur"
+    },
+    {
+        "title": "Highly Efficient Knowledge Graph Embedding Learning with Orthogonal Procrustes Analysis",
+        "aff": "Department of Computer Science, The University of Shef\ufb01eld; Department of Information and Computing Sciences, Utrecht University; Department of Computer Science, The University of Shef\ufb01eld; Department of Computer Science, The University of Shef\ufb01eld"
+    },
+    {
+        "title": "How (Non-)Optimal is the Lexicon?",
+        "aff": "University of Cambridge; University of Cambridge; University of California, Santa Barbara; ETH Z\u00fcrich; Harvard University + MPI for Evolutionary Anthropology + HSE University"
+    },
+    {
+        "title": "How Robust are Fact Checking Systems on Colloquial Claims?",
+        "aff": "Seoul National University; Seoul National University; Seoul National University; Seoul National University"
+    },
+    {
+        "title": "How low is too low? A monolingual take on lemmatisation in Indian languages",
+        "aff": "IIT Bombay; IIT Bombay; IIT Bombay"
+    },
+    {
+        "title": "How many data points is a prompt worth?",
+        "aff": "Hugging Face; Hugging Face"
+    },
+    {
+        "title": "How to Motivate Your Dragon: Teaching Goal-Driven Agents to Speak and Act in Fantasy Worlds",
+        "aff": "Georgia Institute of Technology; Facebook AI Research; Facebook AI Research; Facebook AI Research; Facebook AI Research; Facebook AI Research"
+    },
+    {
+        "title": "Human-like informative conversations: Better acknowledgements using conditional mutual information",
+        "aff": "Stanford University; Stanford University"
+    },
+    {
+        "title": "Hurdles to Progress in Long-form Question Answering",
+        "aff": "University of Massachusetts Amherst\u2660; Google Research\u2666; University of Massachusetts Amherst\u2660"
+    },
+    {
+        "title": "Hyperparameter-free Continuous Learning for Domain Classification in Natural Language Understanding",
+        "aff": "Samsung Research America; Samsung Research America; Samsung Research America; Samsung Research America; Samsung Research America"
+    },
+    {
+        "title": "Identifying Helpful Sentences in Product Reviews",
+        "aff": "Amazon, Tel-Aviv, Israel; Amazon, Tel-Aviv, Israel; Amazon, Tel-Aviv, Israel; Amazon, Tel-Aviv, Israel; Amazon, Seattle, WA, USA + Emory University, GA, USA"
+    },
+    {
+        "title": "Identifying Medical Self-Disclosure in Online Communities",
+        "aff": "Department of Computer Science, University of Illinois at Chicago; Department of Computer Science, University of Illinois at Chicago; Department of Computer Science, University of Illinois at Chicago; Department of Computer Science, University of Illinois at Chicago"
+    },
+    {
+        "title": "Identifying and Resolving Annotation Changes for Natural Language Understanding",
+        "aff": "Amazon Alexa AI, Germany; Amazon Alexa AI, Germany; Amazon Alexa AI, Germany; EPFL, Lausanne, Switzerland"
+    },
+    {
+        "title": "Identifying inherent disagreement in natural language inference",
+        "aff": "Department of Computer Science and Engineering, The Ohio State University; Department of Linguistics, The Ohio State University"
+    },
+    {
+        "title": "If You Want to Go Far Go Together: Unsupervised Joint Candidate Evidence Retrieval for Multi-hop Question Answering",
+        "aff": "University of Arizona, Tucson, AZ, USA; University of Arizona, Tucson, AZ, USA; University of Arizona, Tucson, AZ, USA"
+    },
+    {
+        "title": "Imperfect also Deserves Reward: Multi-Level and Sequential Reward Modeling for Better Dialog Management",
+        "aff": ";;;;;;"
+    },
+    {
+        "title": "Implicitly Abusive Language \u2013 What does it actually look like and why are we not getting there?",
+        "aff": "Digital Age Research Center (D!ARC), Alpen-Adria-Universit\u00e4t Klagenfurt; Leibniz Institute for German Language; Institut f\u00fcr Germanistik, Alpen-Adria-Universit\u00e4t Klagenfurt"
+    },
+    {
+        "title": "Improving Cross-Modal Alignment in Vision Language Navigation via Syntactic Information",
+        "aff": "UNC Chapel Hill; UNC Chapel Hill; UNC Chapel Hill"
+    },
+    {
+        "title": "Improving Evidence Retrieval for Automated Explainable Fact-Checking",
+        "aff": ";;"
+    },
+    {
+        "title": "Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation",
+        "aff": "Stanford University; Stanford University; Stanford University; Stanford University; Stanford University"
+    },
+    {
+        "title": "Improving Faithfulness in Abstractive Summarization with Contrast Candidate Generation and Selection",
+        "aff": "University of Pennsylvania; Google; Google; University of Pennsylvania"
+    },
+    {
+        "title": "Improving Generation and Evaluation of Visual Stories via Semantic Consistency",
+        "aff": "Department of Computer Science, University of North Carolina at Chapel Hill; Department of Computer Science, University of North Carolina at Chapel Hill; Department of Computer Science, University of North Carolina at Chapel Hill"
+    },
+    {
+        "title": "Improving Neural RST Parsing Model with Silver Agreement Subtrees",
+        "aff": "Institute of Innovative Research, Tokyo Institute of Technology; NTT Communication Science Laboratories, NTT Corporation; Institute of Innovative Research, Tokyo Institute of Technology; Institute of Innovative Research, Tokyo Institute of Technology; NTT Communication Science Laboratories, NTT Corporation"
+    },
+    {
+        "title": "Improving Pretrained Models for Zero-shot Multi-label Text Classification through Reinforced Label Hierarchy Reasoning",
+        "aff": "Ingenuity Labs Research Institute & ECE, Queen\u2019s University, Canada; Amazon.com Inc, Palo Alto, CA, USA; Amazon.com Inc, Palo Alto, CA, USA; Ingenuity Labs Research Institute & ECE, Queen\u2019s University, Canada"
+    },
+    {
+        "title": "Improving Zero and Few-Shot Abstractive Summarization with Intermediate Fine-tuning and Data Augmentation",
+        "aff": "Yale University; Nanyang Technological University; Renmin University of China; Facebook AI; Nanyang Technological University; Facebook AI; Yale University; Facebook AI"
+    },
+    {
+        "title": "Improving Zero-Shot Cross-lingual Transfer for Multilingual Question Answering over Knowledge Graph",
+        "aff": "Fudan University; Microsoft; Australian AI Institute, School of CS, FEIT, University of Technology Sydney; Fudan University; Microsoft"
+    },
+    {
+        "title": "Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation",
+        "aff": "Center for Information and Language Processing, LMU Munich, Germany; Center for Information and Language Processing, LMU Munich, Germany; Center for Information and Language Processing, LMU Munich, Germany"
+    },
+    {
+        "title": "Incorporating External Knowledge to Enhance Tabular Reasoning",
+        "aff": "IIT Guwahati; University of Utah; University of Utah"
+    },
+    {
+        "title": "Incorporating Syntax and Semantics in Coreference Resolution with Heterogeneous Graph Attention Network",
+        "aff": "School of Computing and Information Systems, The University of Melbourne, Victoria, Australia; School of Computing and Information Systems, The University of Melbourne, Victoria, Australia"
+    },
+    {
+        "title": "Incremental Few-shot Text Classification with Multi-round New Classes: Formulation, Dataset and System",
+        "aff": "University of Illinois at Chicago; Salesforce Research; University of Texas at Austin; University of Illinois at Chicago"
+    },
+    {
+        "title": "Inductive Topic Variational Graph Auto-Encoder for Text Classification",
+        "aff": ";;;;"
+    },
+    {
+        "title": "Industry Scale Semi-Supervised Learning for Natural Language Understanding",
+        "aff": "Alexa AI; Alexa AI; Alexa AI; Alexa AI; Alexa AI"
+    },
+    {
+        "title": "Inference Time Style Control for Summarization",
+        "aff": "Computer Science and Engineering, University of Michigan; Computer Science and Engineering, University of Michigan"
+    },
+    {
+        "title": "InfoXLM: An Information-Theoretic Framework for Cross-Lingual Language Model Pre-Training",
+        "aff": "Beijing Institute of Technology\u2020\u2021; Microsoft Corporation\u2020\u2021; Microsoft Corporation\u2020\u2021; Microsoft Corporation\u2020\u2021; Microsoft Corporation\u2020\u2021; Microsoft Corporation\u2020\u2021; Microsoft Corporation\u2020\u2021; Beijing Institute of Technology\u2020\u2021; Beijing Institute of Technology\u2020\u2021; Microsoft Corporation\u2020\u2021"
+    },
+    {
+        "title": "Integrating Lexical Information into Entity Neighbourhood Representations for Relation Prediction",
+        "aff": "Macquarie University and CSIRO, Australia; CSIRO, Australia; Oracle Digital Assistant"
+    },
+    {
+        "title": "Intent Features for Rich Natural Language Understanding",
+        "aff": "Interactions\u2660; University of Copenhagen\u2666 + Interactions\u2660; Interactions\u2660; Interactions\u2660"
+    },
+    {
+        "title": "Interactive Plot Manipulation using Natural Language",
+        "aff": "Computer Science and Engineering, University of California, San Diego; Computer Science and Engineering, University of California, San Diego; Computer Science and Engineering, University of California, San Diego"
+    },
+    {
+        "title": "Introducing CAD: the Contextual Abuse Dataset",
+        "aff": "The Alan Turing Institute; Utrecht University + The Alan Turing Institute; University of Oxford + The Alan Turing Institute; University of Liverpool; George Washington University + The Alan Turing Institute"
+    },
+    {
+        "title": "Is Incoherence Surprising? Targeted Evaluation of Coherence Prediction from Language Models",
+        "aff": "Computational Linguistics, Department of Linguistics, University of Potsdam, Germany; Computational Linguistics, Department of Linguistics, University of Potsdam, Germany; Computational Linguistics, Department of Linguistics, University of Potsdam, Germany"
+    },
+    {
+        "title": "It\u2019s Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners",
+        "aff": "Center for Information and Language Processing, LMU Munich, Germany + Sulzer GmbH, Munich, Germany; Center for Information and Language Processing, LMU Munich, Germany"
+    },
+    {
+        "title": "Jointly Extracting Explicit and Implicit Relational Triples with Reasoning Pattern Enhanced Binary Pointer Network",
+        "aff": "Department of Electronic Engineering & BNRist, Tsinghua University, Beijing, China; Department of Electronic Engineering & BNRist, Tsinghua University, Beijing, China; University of California, Berkeley, USA; Department of Electronic Engineering & BNRist, Tsinghua University, Beijing, China"
+    },
+    {
+        "title": "KILT: a Benchmark for Knowledge Intensive Language Tasks",
+        "aff": "Facebook AI Research; Facebook AI Research; Facebook AI Research+LORIA; Facebook AI Research+University College London; Facebook AI Research; University of Amsterdam; University of Cambridge; HuggingFace; Facebook AI Research; Facebook AI Research; Facebook AI Research; Facebook AI Research+University College London; Facebook AI Research+University College London"
+    },
+    {
+        "title": "KPQA: A Metric for Generative Question Answering Using Keyphrase Weights",
+        "aff": "Dept. of Electrical and Computer Engineering, Seoul National University, Seoul, Korea; Adobe Research, San Jose, CA, USA; Adobe Research, San Jose, CA, USA; Roku Inc., San Jose, CA, USA; Adobe Research, San Jose, CA, USA; Dept. of Electrical and Computer Engineering, Seoul National University, Seoul, Korea; Dept. of Electrical and Computer Engineering, Seoul National University, Seoul, Korea"
+    },
+    {
+        "title": "Knowledge Enhanced Masked Language Model for Stance Detection",
+        "aff": "Department of Computer Science, Georgetown University; Department of Computer Science, Georgetown University"
+    },
+    {
+        "title": "Knowledge Graph Based Synthetic Corpus Generation for Knowledge-Enhanced Language Model Pre-training",
+        "aff": "University of Pennsylvania; Google Research; Google Research; Google Research"
+    },
+    {
+        "title": "Knowledge Guided Metric Learning for Few-Shot Text Classification",
+        "aff": "National Laboratory of Pattern Recognition, Institute of Automation, CAS + School of Artificial Intelligence, University of Chinese Academy of Sciences; National Laboratory of Pattern Recognition, Institute of Automation, CAS + School of Artificial Intelligence, University of Chinese Academy of Sciences; National Laboratory of Pattern Recognition, Institute of Automation, CAS + School of Artificial Intelligence, University of Chinese Academy of Sciences; Beijing Unisound Information Technology Co., Ltd.; National Laboratory of Pattern Recognition, Institute of Automation, CAS + School of Artificial Intelligence, University of Chinese Academy of Sciences; National Laboratory of Pattern Recognition, Institute of Automation, CAS + School of Artificial Intelligence, University of Chinese Academy of Sciences"
+    },
+    {
+        "title": "Knowledge Router: Learning Disentangled Representations for Knowledge Graphs",
+        "aff": ";;;"
+    },
+    {
+        "title": "Knowledge-Driven Slot Constraints for Goal-Oriented Dialogue Systems",
+        "aff": "Imperial College London; Amazon AI; Amazon AI"
+    },
+    {
+        "title": "LATEX-Numeric: Language Agnostic Text Attribute Extraction for Numeric Attributes",
+        "aff": "India Machine Learning, Amazon; Retail Business Services, Amazon; India Machine Learning, Amazon"
+    },
+    {
+        "title": "Label-Guided Learning for Item Categorization in e-Commerce",
+        "aff": "Rakuten Institute of Technology, Boston, MA; Rakuten Institute of Technology, Boston, MA"
+    },
+    {
+        "title": "Language Scaling for Universal Suggested Replies Model",
+        "aff": "Microsoft, Beijing, China; Microsoft, Bellevue, Washington, USA; Microsoft, Bellevue, Washington, USA; Microsoft, Beijing, China; Qualtrics, Seattle, Washington, USA; Microsoft, Beijing, China; Microsoft, Bellevue, Washington, USA; Microsoft, Bellevue, Washington, USA; Microsoft, Beijing, China; Microsoft, Beijing, China"
+    },
+    {
+        "title": "Language in a (Search) Box: Grounding Language Learning in Real-World Human-Machine Interaction",
+        "aff": "Bocconi University; Coveo Labs; Coveo Labs"
+    },
+    {
+        "title": "Larger-Context Tagging: When and Why Does It Work?",
+        "aff": ";;;;"
+    },
+    {
+        "title": "Latent-Optimized Adversarial Neural Transfer for Sarcasm Detection",
+        "aff": "School of Computer Science and Engineering, Nanyang Technological University, Singapore; School of Computer Science and Engineering, Nanyang Technological University, Singapore; School of Computer Science and Engineering, Nanyang Technological University, Singapore; School of Computer Science and Engineering, Nanyang Technological University, Singapore"
+    },
+    {
+        "title": "Lattice-BERT: Leveraging Multi-Granularity Representations in Chinese Pre-trained Language Models",
+        "aff": "Wangxuan Institute of Computer Technology, Peking University, China+The MOE Key Laboratory of Computational Linguistics, Peking University, China; Alibaba Group; Wangxuan Institute of Computer Technology, Peking University, China+The MOE Key Laboratory of Computational Linguistics, Peking University, China; Alibaba Group; Wangxuan Institute of Computer Technology, Peking University, China+The MOE Key Laboratory of Computational Linguistics, Peking University, China"
+    },
+    {
+        "title": "Learning How to Ask: Querying LMs with Mixtures of Soft Prompts",
+        "aff": "Department of Computer Science, Johns Hopkins University; Department of Computer Science, Johns Hopkins University"
+    },
+    {
+        "title": "Learning Paralinguistic Features from Audiobooks through Style Voice Conversion",
+        "aff": "University of Michigan, Ann Arbor; University of Michigan, Ann Arbor; University of Michigan, Ann Arbor"
+    },
+    {
+        "title": "Learning Syntax from Naturally-Occurring Bracketings",
+        "aff": "Cornell University; Bloomberg L.P.; Bloomberg L.P.; Cornell University"
+    },
+    {
+        "title": "Learning from Executions for Semantic Parsing",
+        "aff": "Institute for Language, Cognition and Computation, School of Informatics, University of Edinburgh; Institute for Language, Cognition and Computation, School of Informatics, University of Edinburgh; Institute for Language, Cognition and Computation, School of Informatics, University of Edinburgh"
+    },
+    {
+        "title": "Learning to Decompose and Organize Complex Tasks",
+        "aff": "University of Pennsylvania; Microsoft Research; Microsoft Research; Microsoft Research; University of Pennsylvania"
+    },
+    {
+        "title": "Learning to Learn to be Right for the Right Reasons",
+        "aff": "Tohoku University+RIKEN AIP; RIKEN AIP+Tohoku University; RIKEN AIP+Tohoku University; Tohoku University+RIKEN AIP"
+    },
+    {
+        "title": "Learning to Organize a Bag of Words into Sentences with Neural Networks: An Empirical Study",
+        "aff": "Wangxuan Institute of Computer Technology, Peking University; Wangxuan Institute of Computer Technology, Peking University; Wangxuan Institute of Computer Technology, Peking University; Wangxuan Institute of Computer Technology, Peking University; Wangxuan Institute of Computer Technology, Peking University + Gaoling School of Arti\ufb01cial Intelligence, Renmin University of China + Beijing Academy of Arti\ufb01cial Intelligence; Wangxuan Institute of Computer Technology, Peking University + Gaoling School of Arti\ufb01cial Intelligence, Renmin University of China + Beijing Academy of Arti\ufb01cial Intelligence"
+    },
+    {
+        "title": "Learning to Recognize Dialect Features",
+        "aff": ";;;;"
+    },
+    {
+        "title": "Learning to Synthesize Data for Semantic Parsing",
+        "aff": "University of Edinburgh; Salesforce Research; Facebook AI; Salesforce Research"
+    },
+    {
+        "title": "Leveraging Deep Representations of Radiology Reports in Survival Analysis for Predicting Heart Failure Patient Mortality",
+        "aff": "Department of Population Health Sciences, Weill Cornell Medicine; Information Technologies and Services, Weill Cornell Medicine; Department of Medicine, Weill Cornell Medicine; Department of Internal Medicine, UAMS College of Medicine; Department of Population Health Sciences, Weill Cornell Medicine"
+    },
+    {
+        "title": "Leveraging Slot Descriptions for Zero-Shot Cross-Domain Dialogue StateTracking",
+        "aff": "The Hong Kong University of Science and Technology; Facebook; Facebook; Facebook; Facebook; Facebook; Columbia University; The Hong Kong University of Science and Technology; Facebook; Facebook"
+    },
+    {
+        "title": "Lifelong Learning of Hate Speech Classification on Social Media",
+        "aff": "University of California, Santa Barbara\u2020; University of California, Santa Barbara\u2020; Georgia Institute of Technology\u2217; University of California, Santa Barbara\u2020"
+    },
+    {
+        "title": "LightSeq: A High Performance Inference Library for Transformers",
+        "aff": "ByteDance AI Lab; ByteDance AI Lab; ByteDance AI Lab; ByteDance AI Lab; ByteDance AI Lab"
+    },
+    {
+        "title": "LightningDOT: Pre-training Visual-Semantic Embeddings for Real-Time Image-Text Retrieval",
+        "aff": "Microsoft Corporation; Microsoft Corporation; Microsoft Corporation; Microsoft Corporation; Microsoft Corporation; Microsoft Corporation"
+    },
+    {
+        "title": "Limitations of Autoregressive Models and Their Alternatives",
+        "aff": "department of computer science, johns hopkins university; facebook ai; department of computer science, johns hopkins university; machine learning department, carnegie mellon university; department of computer science, johns hopkins university"
+    },
+    {
+        "title": "Linguistic Complexity Loss in Text-Based Therapy",
+        "aff": "Dartmouth College, Hanover, NH + Department of Computer Science + Neukom Institute + Department of Psychological and Brain Sciences; Dartmouth College, Hanover, NH + Department of Computer Science + Neukom Institute + Department of Psychological and Brain Sciences; Dartmouth College, Hanover, NH + Department of Computer Science + Neukom Institute + Department of Psychological and Brain Sciences; Dartmouth College, Hanover, NH + Department of Computer Science + Neukom Institute + Department of Psychological and Brain Sciences; Dartmouth College, Hanover, NH + Department of Computer Science + Neukom Institute + Department of Psychological and Brain Sciences"
+    },
+    {
+        "title": "Linking Entities to Unseen Knowledge Bases with Arbitrary Schemas",
+        "aff": "Amazon AI; Amazon AI"
+    },
+    {
+        "title": "Looking Beyond Sentence-Level Natural Language Inference for Question Answering and Text Summarization",
+        "aff": "College of Information and Computer Sciences, University of Massachusetts Amherst; College of Information and Computer Sciences, University of Massachusetts Amherst; College of Information and Computer Sciences, University of Massachusetts Amherst; College of Information and Computer Sciences, University of Massachusetts Amherst; IBM Research; IBM Research"
+    },
+    {
+        "title": "Low-Complexity Probing via Finding Subnetworks",
+        "aff": "University of California, Berkeley + Hugging Face; Hugging Face; Hugging Face"
+    },
+    {
+        "title": "MERMAID: Metaphor Generation with Symbolism and Discriminative Decoding",
+        "aff": "Department of Computer Science, Columbia University; Tsinghua University + Computer Science Department, University of California, Los Angeles; Department of Computer Science, Columbia University + Data Science Institute, Columbia University; Computer Science Department, University of California, Los Angeles"
+    },
+    {
+        "title": "MIMOQA: Multimodal Input Multimodal Output Question Answering",
+        "aff": "Triomics, Noida, India; Indian Institute of Technology Bombay, India; Indian Institute of Technology Bombay, India; Indian Institute of Technology Bombay, India; Indian Institute of Technology Bombay, India; Adobe Research, Bangalore, India"
+    },
+    {
+        "title": "MM-AVS: A Full-Scale Dataset for Multi-modal Summarization",
+        "aff": "Nankai University, China; Ludong University, China; Nankai University, China"
+    },
+    {
+        "title": "MTAG: Modal-Temporal Attention Graph for Unaligned Human Multimodal Language Sequences",
+        "aff": "Carnegie Mellon University; Carnegie Mellon University; Carnegie Mellon University; Carnegie Mellon University; Carnegie Mellon University; Carnegie Mellon University; Singapore University of Technology and Design; Carnegie Mellon University"
+    },
+    {
+        "title": "MUDES: Multilingual Detection of Offensive Spans",
+        "aff": "University of Wolverhampton; Rochester Institute of Technology"
+    },
+    {
+        "title": "MUSER: MUltimodal Stress detection using Emotion Recognition as an Auxiliary Task",
+        "aff": "Computer Science and Engineering, University of Michigan; Computer Science and Engineering, University of Michigan; Mechanical Engineering, University of Michigan; Computer and Information Science, University of Michigan; Computer Science and Engineering, University of Michigan"
+    },
+    {
+        "title": "Machine Translated Text Detection Through Text Similarity with Round-Trip Translation",
+        "aff": "KDDI Research, Inc., Japan; The University of Tokyo, Japan; KDDI Research, Inc., Japan; Indian Institute of Technology, India; KDDI Research, Inc., Japan"
+    },
+    {
+        "title": "Machine-Assisted Script Curation",
+        "aff": ";;;;;;;"
+    },
+    {
+        "title": "Macro-Average: Rare Types Are Important Too",
+        "aff": "Information Sciences Institute, University of Southern California; Dept of Computer and Information Science, University of Pennsylvania; Michtom School of Computer Science, Brandeis University; Information Sciences Institute, University of Southern California"
+    },
+    {
+        "title": "Mask Attention Networks: Rethinking and Strengthen Transformer",
+        "aff": "School of Data Science, Fudan University, China+Research Institute of Intelligent and Complex Systems, Fudan University, China; Microsoft Research Asia; DAMO Academy; Microsoft; School of Computer Science, Fudan University, China+Research Institute of Intelligent and Complex Systems, Fudan University, China; Microsoft; Microsoft; Microsoft; School of Computer Science, Fudan University, China"
+    },
+    {
+        "title": "Masked Conditional Random Fields for Sequence Labeling",
+        "aff": ";;;"
+    },
+    {
+        "title": "Measuring Social Biases in Grounded Vision and Language Embeddings",
+        "aff": "CSAIL, Massachusetts Institute of Technology; CSAIL, Massachusetts Institute of Technology; CSAIL, Massachusetts Institute of Technology"
+    },
+    {
+        "title": "Measuring the \u2018I don\u2019t know\u2019 Problem through the Lens of Gricean Quantity",
+        "aff": "Johns Hopkins University; New York University"
+    },
+    {
+        "title": "MediaSum: A Large-scale Media Interview Dataset for Dialogue Summarization",
+        "aff": "Microsoft Cognitive Services Research Group; Microsoft Cognitive Services Research Group; Microsoft Cognitive Services Research Group; Microsoft Cognitive Services Research Group"
+    },
+    {
+        "title": "Mediators in Determining what Processing BERT Performs First",
+        "aff": "School of Computer Science and Engineering, The Hebrew University of Jerusalem; School of Computer Science and Engineering, The Hebrew University of Jerusalem; School of Computer Science and Engineering, The Hebrew University of Jerusalem"
+    },
+    {
+        "title": "MelBERT: Metaphor Detection via Contextualized Late Interaction using Metaphorical Identification Theories",
+        "aff": "Sungkyunkwan University; Sungkyunkwan University; Sungkyunkwan University; Bering Lab; Sungkyunkwan University; The Pennsylvania State University; Sungkyunkwan University"
+    },
+    {
+        "title": "Meta-Learning for Domain Generalization in Semantic Parsing",
+        "aff": "Institute for Language, Cognition and Computation, School of Informatics, University of Edinburgh; Institute for Language, Cognition and Computation, School of Informatics, University of Edinburgh; Institute for Language, Cognition and Computation, School of Informatics, University of Edinburgh"
+    },
+    {
+        "title": "MetaXL: Meta Representation Transformation for Low-resource Cross-lingual Learning",
+        "aff": "Princeton University; Microsoft Research; Microsoft Research; Microsoft Research; Carnegie Mellon University; Microsoft Research"
+    },
+    {
+        "title": "Model Extraction and Adversarial Transferability, Your BERT is Vulnerable!",
+        "aff": "Monash University; Ant Group; The Australian National University and Data61 CSIRO; Lehigh University"
+    },
+    {
+        "title": "Modeling Diagnostic Label Correlation for Automatic ICD Coding",
+        "aff": "National Taiwan University, Taipei, Taiwan; National Taiwan University, Taipei, Taiwan; National Taiwan University, Taipei, Taiwan"
+    },
+    {
+        "title": "Modeling Event Plausibility with Consistent Conceptual Abstraction",
+        "aff": "Mila, McGill University; Microsoft Research Montr\u00e9al; Microsoft Research Montr\u00e9al; Mila, McGill University"
+    },
+    {
+        "title": "Modeling Framing in Immigration Discourse on Social Media",
+        "aff": "University of Michigan; University of Michigan; University of Michigan"
+    },
+    {
+        "title": "Modeling Human Mental States with an Entity-based Narrative Graph",
+        "aff": ";;"
+    },
+    {
+        "title": "Modeling the Severity of Complaints in Social Media",
+        "aff": "Department of Computer Science, University of Sheffield, UK; Department of Computer Science, University of Sheffield, UK"
+    },
+    {
+        "title": "Modular Networks for Compositional Instruction Following",
+        "aff": "UC Berkeley; UC Berkeley; UC Berkeley; UC Berkeley; UC Berkeley"
+    },
+    {
+        "title": "Multi-Adversarial Learning for Cross-Lingual Word Embeddings",
+        "aff": "University of Geneva; Idiap Research Institute; University of Geneva"
+    },
+    {
+        "title": "Multi-Grained Knowledge Distillation for Named Entity Recognition",
+        "aff": "Ping An Technology (Shenzhen) Co., Ltd; Ping An Technology (Shenzhen) Co., Ltd; Duke University; Duke University; Ping An Technology (Shenzhen) Co., Ltd; Ping An Technology (Shenzhen) Co., Ltd; Ping An Technology (Shenzhen) Co., Ltd"
+    },
+    {
+        "title": "Multi-Hop Transformer for Document-Level Machine Translation",
+        "aff": "National Engineering Research Center for Software Engineering, Peking University+School of Software and Microelectronics, Peking University; National Engineering Research Center for Software Engineering, Peking University+School of Software and Microelectronics, Peking University; Alibaba Group; Alibaba Group; National Engineering Research Center for Software Engineering, Peking University; National Engineering Research Center for Software Engineering, Peking University"
+    },
+    {
+        "title": "Multi-Step Reasoning Over Unstructured Text with Beam Dense Retrieval",
+        "aff": "University of Maryland; Microsoft Research; University of Maryland; Microsoft Research + University of Maryland"
+    },
+    {
+        "title": "Multi-Style Transfer with Discriminative Feedback on Disjoint Corpus",
+        "aff": "Adobe Research, India; Adobe Research, India; Adobe Research, India; Adobe Research, India"
+    },
+    {
+        "title": "Multi-Task Learning with Shared Encoder for Non-Autoregressive Machine Translation",
+        "aff": "School of Computer Science and Technology, Soochow University; Department of Computer Science and Engineering, The Chinese University of Hong Kong; Department of Computer Science and Engineering, The Chinese University of Hong Kong; Tencent AI Lab; Department of Computer Science and Engineering, The Chinese University of Hong Kong; Tencent AI Lab"
+    },
+    {
+        "title": "Multi-source Neural Topic Modeling in Multi-view Embedding Spaces",
+        "aff": "DRIMCo GmbH Munich, Germany; DRIMCo GmbH Munich, Germany + CIS, University of Munich (LMU) Munich, Germany; CIS, University of Munich (LMU) Munich, Germany"
+    },
+    {
+        "title": "Multi-task Learning of Negation and Speculation for Targeted Sentiment Classification",
+        "aff": "School of Computing and Communications, Lancaster University; University of Oslo, Department of Informatics"
+    },
+    {
+        "title": "Multi-view Subword Regularization",
+        "aff": ";;"
+    },
+    {
+        "title": "MultiOpEd: A Corpus of Multi-Perspective News Editorials",
+        "aff": "University of Pennsylvania; University of Pennsylvania; University of Pennsylvania; University of Pennsylvania"
+    },
+    {
+        "title": "Multifaceted Domain-Specific Document Embeddings",
+        "aff": ";;"
+    },
+    {
+        "title": "Multilingual BERT Post-Pretraining Alignment",
+        "aff": "IBM Watson; IBM Watson; IBM Watson; IBM Watson; IBM Watson; MIT-IBM Watson AI Lab"
+    },
+    {
+        "title": "Multilingual Language Models Predict Human Reading Behavior",
+        "aff": "ETH Zurich; ETH Zurich; ETH Zurich; University of Zurich + University of Potsdam; Vrije Universiteit Amsterdam"
+    },
+    {
+        "title": "Multilingual Multimodal Pre-training for Zero-Shot Cross-Lingual Transfer of Vision-Language Models",
+        "aff": "School of Computer Science, Carnegie Mellon University + Facebook AI; Visual Geometry Group, University of Oxford + Facebook AI; School of Computer Science, Carnegie Mellon University; School of Computer Science, Carnegie Mellon University; Facebook AI; School of Computer Science, Carnegie Mellon University"
+    },
+    {
+        "title": "Multimodal End-to-End Sparse Model for Emotion Recognition",
+        "aff": "Center for Arti\ufb01cial Intelligence Research (CAiRE) + Department of Electronic and Computer Engineering + The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong; Center for Arti\ufb01cial Intelligence Research (CAiRE) + Department of Electronic and Computer Engineering + The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong; Center for Arti\ufb01cial Intelligence Research (CAiRE) + Department of Electronic and Computer Engineering + The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong; Center for Arti\ufb01cial Intelligence Research (CAiRE) + Department of Electronic and Computer Engineering + The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong"
+    },
+    {
+        "title": "Multitask Learning for Emotionally Analyzing Sexual Abuse Disclosures",
+        "aff": "Department of Computer Engineering, IIIT-Delhi; University of Maryland, College Park; Department of Computer Engineering, IIIT-Delhi; Department of Computer Engineering, IIIT-Delhi; Department of Computer Engineering, IIIT-Delhi"
+    },
+    {
+        "title": "Multitasking Inhibits Semantic Drift",
+        "aff": "MIT CSAIL; Facebook AI Research; MIT CSAIL"
+    },
+    {
+        "title": "NAMER: A Node-Based Multitasking Framework for Multi-Hop Knowledge Base Question Answering",
+        "aff": "Peking University, China; National Engineering Laboratory for Big Data Analysis Technology and Application (PKU), China; Peking University, China; Peking University, China; Peking University, China"
+    },
+    {
+        "title": "NL-EDIT: Correcting Semantic Parse Errors through Natural Language Interaction",
+        "aff": "University of Maryland+Microsoft Research; Microsoft Research; Microsoft Research; Microsoft Research; Microsoft Research; Microsoft Research"
+    },
+    {
+        "title": "Negative language transfer in learner English: A new dataset",
+        "aff": "EdTeKLA Research Group, Department of Computing Science, University of Alberta; EdTeKLA Research Group, Department of Computing Science, University of Alberta; EdTeKLA Research Group, Department of Computing Science, University of Alberta"
+    },
+    {
+        "title": "Neural Language Modeling for Contextualized Temporal Graph Generation",
+        "aff": ";"
+    },
+    {
+        "title": "Neural Machine Translation without Embeddings",
+        "aff": "The Blavatnik School of Computer Science, Tel Aviv University; The Blavatnik School of Computer Science, Tel Aviv University + Facebook AI Research"
+    },
+    {
+        "title": "Neural Network Surgery: Injecting Data Patterns into Pre-trained Models with Minimal Instance-wise Side Effects",
+        "aff": "MOE Key Laboratory of Computational Linguistic, School of EECS, Peking University; MOE Key Laboratory of Computational Linguistic, School of EECS, Peking University; MOE Key Laboratory of Computational Linguistic, School of EECS, Peking University; MOE Key Laboratory of Computational Linguistic, School of EECS, Peking University + Center for Data Science, Peking University; Huawei Noah\u2019s Ark Lab"
+    },
+    {
+        "title": "Neural Quality Estimation with Multiple Hypotheses for Grammatical Error Correction",
+        "aff": ";;;;"
+    },
+    {
+        "title": "Neural Sequence Segmentation as Determining the Leftmost Segments",
+        "aff": "Tencent AI Lab; Tencent AI Lab; Ant Group"
+    },
+    {
+        "title": "NeuroLogic Decoding: (Un)supervised Neural Text Generation with Predicate Logic Constraints",
+        "aff": "Paul G. Allen School of Computer Science & Engineering, University of Washington+Allen Institute for Arti\ufb01cial Intelligence; Paul G. Allen School of Computer Science & Engineering, University of Washington+Allen Institute for Arti\ufb01cial Intelligence; Paul G. Allen School of Computer Science & Engineering, University of Washington+Allen Institute for Arti\ufb01cial Intelligence; Allen Institute for Arti\ufb01cial Intelligence; Allen Institute for Arti\ufb01cial Intelligence; Paul G. Allen School of Computer Science & Engineering, University of Washington+Allen Institute for Arti\ufb01cial Intelligence"
+    },
+    {
+        "title": "News Headline Grouping as a Challenging NLU Task",
+        "aff": "UC Berkeley; UC Berkeley; UC Berkeley"
+    },
+    {
+        "title": "Noise Robust Named Entity Understanding for Voice Assistants",
+        "aff": "Apple; Apple; Apple; Apple+graceyx.scut@gmail.com; Apple; Apple; Apple; Apple; Apple; Apple; Apple; Apple; Apple; Apple; Apple; Apple; Apple; Apple; Apple; Apple; Apple; Apple; Apple; Apple+lli9@apple.com"
+    },
+    {
+        "title": "Noise Stability Regularization for Improving BERT Fine-tuning",
+        "aff": "University of Rochester, Rochester, NY, USA; Big Data Lab, Baidu Research, Beijing, China + Department of Computer Science, University of Macau, Macau, China; Big Data Lab, Baidu Research, Beijing, China; Department of Computer Science, University of Macau, Macau, China; University of Rochester, Rochester, NY, USA"
+    },
+    {
+        "title": "Noisy Self-Knowledge Distillation for Text Summarization",
+        "aff": "Microsoft Cognitive Services Research; University of California, Berkeley; School of Informatics, University of Edinburgh"
+    },
+    {
+        "title": "Noisy-Labeled NER with Confidence Estimation",
+        "aff": "Alibaba Group; University of Edinburgh; Zhejiang University; Guizhou Provincial Key Laboratory of Public Big Data, Guizhou University; Alibaba Group; Alibaba Group; Guizhou Provincial Key Laboratory of Public Big Data, Guizhou University"
+    },
+    {
+        "title": "Non-Autoregressive Semantic Parsing for Compositional Task-Oriented Dialog",
+        "aff": "Facebook; Facebook; Facebook; Facebook; Facebook; Facebook"
+    },
+    {
+        "title": "Non-Autoregressive Translation by Learning Target Categorical Codes",
+        "aff": "National Key Laboratory for Novel Software Technology, Nanjing University + Collaborative Innovation Center of Novel Software Technology and Industrialization; National Key Laboratory for Novel Software Technology, Nanjing University + Collaborative Innovation Center of Novel Software Technology and Industrialization; NiuTrans Co., Ltd., Shenyang, China; National Key Laboratory for Novel Software Technology, Nanjing University + Collaborative Innovation Center of Novel Software Technology and Industrialization; National Key Laboratory for Novel Software Technology, Nanjing University + Collaborative Innovation Center of Novel Software Technology and Industrialization; National Key Laboratory for Novel Software Technology, Nanjing University + Collaborative Innovation Center of Novel Software Technology and Industrialization"
+    },
+    {
+        "title": "Non-Parametric Few-Shot Learning for Word Sense Disambiguation",
+        "aff": "Princeton University; Princeton University; Princeton University"
+    },
+    {
+        "title": "Nutri-bullets Hybrid: Consensual Multi-document Summarization",
+        "aff": "Computer Science and Artificial Intelligence Lab, Massachusetts Institute of Technology; ASAPP, Inc.; ASAPP, Inc.; Computer Science and Artificial Intelligence Lab, Massachusetts Institute of Technology"
+    },
+    {
+        "title": "OCID-Ref: A 3D Robotic Dataset With Embodied Language For Clutter Scene Grounding",
+        "aff": ";;;;;;"
+    },
+    {
+        "title": "Ol\u00e1, Bonjour, Salve! XFORMAL: A Benchmark for Multilingual Formality Style Transfer",
+        "aff": "University of Maryland; Dataminr, Inc.; Dataminr, Inc.; Dataminr, Inc."
+    },
+    {
+        "title": "On Attention Redundancy: A Comprehensive Study",
+        "aff": "Baidu Research, Sunnyvale, CA, USA; Baidu Research, Sunnyvale, CA, USA; Baidu Research, Sunnyvale, CA, USA; Baidu Research, Sunnyvale, CA, USA; Baidu Research, Sunnyvale, CA, USA"
+    },
+    {
+        "title": "On Biasing Transformer Attention Towards Monotonicity",
+        "aff": "Department of Computational Linguistics, University of Zurich; Department of Computational Linguistics, University of Zurich; Department of Computational Linguistics, University of Zurich; Department of Computational Linguistics, University of Zurich + School of Informatics, University of Edinburgh"
+    },
+    {
+        "title": "On Learning Text Style Transfer with Direct Rewards",
+        "aff": "Carnegie Mellon University; Carnegie Mellon University; Carnegie Mellon University"
+    },
+    {
+        "title": "On Transferability of Bias Mitigation Effects in Language Model Fine-Tuning",
+        "aff": "University of Southern California+Snap Inc.; Snap Inc.; University of Southern California+Snap Inc.; University of Southern California+Snap Inc.; Snap Inc.; University of Southern California+Snap Inc."
+    },
+    {
+        "title": "On Unifying Misinformation Detection",
+        "aff": "Hong Kong University of Science and Technology; MIT CSAIL + Facebook AI; Facebook AI; Hong Kong University of Science and Technology; Facebook AI; Facebook AI; Facebook AI"
+    },
+    {
+        "title": "On learning and representing social meaning in NLP: a sociolinguistic perspective",
+        "aff": "Utrecht University; Vrije Universiteit Brussel; University of Birmingham"
+    },
+    {
+        "title": "On the Embeddings of Variables in Recurrent Neural Networks for Source Code",
+        "aff": "HSE University*"
+    },
+    {
+        "title": "On the Impact of Random Seeds on the Fairness of Clinical Classifiers",
+        "aff": "Northeastern University; Northeastern University; Northeastern University"
+    },
+    {
+        "title": "On the Inductive Bias of Masked Language Modeling: From Statistical to Syntactic Dependencies",
+        "aff": "Computer Science Department, Stanford University; Computer Science Department, Stanford University"
+    },
+    {
+        "title": "On the Transferability of Minimal Prediction Preserving Inputs in Question Answering",
+        "aff": "Apple Inc.; Apple Inc.; Apple Inc."
+    },
+    {
+        "title": "On the Transformer Growth for Progressive BERT Training",
+        "aff": "University of Illinois at Urbana-Champaign; University of Illinois at Urbana-Champaign; Google Research + University of Illinois at Urbana-Champaign; Google Research + University of Illinois at Urbana-Champaign; Google Research + University of Illinois at Urbana-Champaign; University of Illinois at Urbana-Champaign"
+    },
+    {
+        "title": "On the Use of Context for Predicting Citation Worthiness of Sentences in Scholarly Articles",
+        "aff": "Bloomberg, New York; Bloomberg, New York; Bloomberg, New York; Bloomberg, New York; Bloomberg, New York"
+    },
+    {
+        "title": "OodGAN: Generative Adversarial Network for Out-of-Domain Data Generation",
+        "aff": "Czech Technical University in Prague; Amazon Alexa AI; Amazon Alexa AI; Amazon Alexa AI"
+    },
+    {
+        "title": "Open Domain Question Answering over Tables via Dense Retrieval",
+        "aff": "School of Computer Science, Tel-Aviv University; Google Research; Google Research; Google Research"
+    },
+    {
+        "title": "Open Hierarchical Relation Extraction",
+        "aff": "Department of Computer Science and Technology, Institute for Artificial Intelligence, Tsinghua University, Beijing, China+Beijing National Research Center for Information Science and Technology, China; Department of Computer Science and Technology, Institute for Artificial Intelligence, Tsinghua University, Beijing, China+Beijing National Research Center for Information Science and Technology, China; WeChat Search Application Department, Tencent, China; Department of Computer Science and Technology, Institute for Artificial Intelligence, Tsinghua University, Beijing, China+Beijing National Research Center for Information Science and Technology, China; Department of Computer Science and Technology, Institute for Artificial Intelligence, Tsinghua University, Beijing, China+Beijing National Research Center for Information Science and Technology, China; WeChat Search Application Department, Tencent, China; WeChat Search Application Department, Tencent, China; Department of Computer Science and Technology, Institute for Artificial Intelligence, Tsinghua University, Beijing, China+Beijing National Research Center for Information Science and Technology, China"
+    },
+    {
+        "title": "Open-Domain Question Answering Goes Conversational via Question Rewriting",
+        "aff": ";;;;;"
+    },
+    {
+        "title": "Optimizing NLU Reranking Using Entity Resolution Signals in Multi-domain Dialog Systems",
+        "aff": "Amazon Alexa; Amazon Alexa; Amazon Alexa; Amazon Alexa; Amazon Alexa; Amazon Alexa; Amazon Alexa; Amazon Alexa; Amazon Alexa"
+    },
+    {
+        "title": "Outside Computation with Superior Functions",
+        "aff": "Department of Computer Science, University of Rochester; Department of Computer Science, University of Rochester"
+    },
+    {
+        "title": "PCFGs Can Do Better: Inducing Probabilistic Context-Free Grammars with Many Symbols",
+        "aff": "School of Information Science and Technology, ShanghaiTech University + Shanghai Engineering Research Center of Intelligent Vision and Imaging + Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences + University of Chinese Academy of Sciences; ILCC, University of Edinburgh; School of Information Science and Technology, ShanghaiTech University + Shanghai Engineering Research Center of Intelligent Vision and Imaging + Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences + University of Chinese Academy of Sciences"
+    },
+    {
+        "title": "Paragraph-level Rationale Extraction through Regularization: A case study on European Court of Human Rights Cases",
+        "aff": "EY AI Centre of Excellence in Document Intelligence, NCSR \u201cDemokritos\u201d + Department of Informatics, Athens University of Economics and Business; EY AI Centre of Excellence in Document Intelligence, NCSR \u201cDemokritos\u201d + Department of Informatics, Athens University of Economics and Business; Law School, University of York; Computer Science Department, University of Shef\ufb01eld; Department of Informatics, Athens University of Economics and Business + EY AI Centre of Excellence in Document Intelligence, NCSR \u201cDemokritos\u201d; Department of Informatics, Athens University of Economics and Business + EY AI Centre of Excellence in Document Intelligence, NCSR \u201cDemokritos\u201d"
+    },
+    {
+        "title": "Paragraph-level Simplification of Medical Texts",
+        "aff": "The University of Texas at Austin; Northeastern University; King\u2019s College London; The University of Texas at Austin"
+    },
+    {
+        "title": "Personalized Response Generation via Generative Split Memory Network",
+        "aff": "Shanghai Jiao Tong University; University of Southern California; Georgia Institute of Technology"
+    },
+    {
+        "title": "PhoNLP: A joint multi-task learning model for Vietnamese part-of-speech tagging, named entity recognition and dependency parsing",
+        "aff": "VinAI Research, Hanoi, Vietnam; VinAI Research, Hanoi, Vietnam"
+    },
+    {
+        "title": "Plot-guided Adversarial Example Construction for Evaluating Open-domain Story Generation",
+        "aff": "University of Southern California / Information Sciences Institute; University of Southern California / Information Sciences Institute; Indian Institute of Technology Roorkee; University of Southern California / Information Sciences Institute; University of Southern California / Information Sciences Institute; Computer Science Department of University of California, Los Angeles"
+    },
+    {
+        "title": "Posterior Differential Regularization with f-divergence for Improving Model Robustness",
+        "aff": "Microsoft Research; Microsoft Research; Ochanomizu University; University of Waterloo & Vector Institute; Microsoft Research"
+    },
+    {
+        "title": "Practical Transformer-based Multilingual Text Classification",
+        "aff": "Sentropy Technologies; Sentropy Technologies"
+    },
+    {
+        "title": "Pre-training with Meta Learning for Chinese Word Segmentation",
+        "aff": "Xiaomi AI Lab, Xiaomi Inc., Beijing, China; Xiaomi AI Lab, Xiaomi Inc., Beijing, China; Xiaomi AI Lab, Xiaomi Inc., Beijing, China; Xiaomi AI Lab, Xiaomi Inc., Beijing, China; Xiaomi AI Lab, Xiaomi Inc., Beijing, China; Shanghai Key Laboratory of Intelligent Information Processing, Fudan University"
+    },
+    {
+        "title": "Predicting Discourse Trees from Transformer-based Neural Summarizers",
+        "aff": "Department of Computer Science, University of British Columbia; Department of Computer Science, University of British Columbia; Department of Computer Science, University of British Columbia"
+    },
+    {
+        "title": "Preregistering NLP research",
+        "aff": "Tilburg Center for Cognition and Communication (TiCC), Tilburg University, Tilburg, The Netherlands; Tilburg Center for Cognition and Communication (TiCC), Tilburg University, Tilburg, The Netherlands; Tilburg Center for Cognition and Communication (TiCC), Tilburg University, Tilburg, The Netherlands"
+    },
+    {
+        "title": "Pretrain-Finetune Based Training of Task-Oriented Dialogue Systems in a Real-World Setting",
+        "aff": "Amazon Inc., Seattle, USA; Amazon Inc., Seattle, USA; Amazon Inc., Seattle, USA; Amazon Inc., Seattle, USA"
+    },
+    {
+        "title": "Privacy Regularization: Joint Privacy-Utility Optimization in LanguageModels",
+        "aff": "University of California San Diego; Microsoft Corporation; Microsoft Research; Microsoft Corporation; University of California San Diego; Microsoft Research"
+    },
+    {
+        "title": "Probabilistic Box Embeddings for Uncertain Knowledge Graph Reasoning",
+        "aff": "Department of Computer Science, UCLA; College of Information and Computer Sciences, UMass Amherst; Department of Computer Science, USC + Information Sciences Institute, USC; College of Information and Computer Sciences, UMass Amherst; College of Information and Computer Sciences, UMass Amherst; College of Information and Computer Sciences, UMass Amherst"
+    },
+    {
+        "title": "Probing Contextual Language Models for Common Ground with Visual Representations",
+        "aff": "Paul G. Allen School of Computer Science & Engineering, University of Washington; Paul G. Allen School of Computer Science & Engineering, University of Washington; Paul G. Allen School of Computer Science & Engineering, University of Washington; Paul G. Allen School of Computer Science & Engineering, University of Washington"
+    },
+    {
+        "title": "Probing Word Translations in the Transformer and Trading Decoder for Encoder Layers",
+        "aff": "Saarland University / Saarland, Germany+German Research Center for Arti\ufb01cial Intelligence / Saarland, Germany; Saarland University / Saarland, Germany+German Research Center for Arti\ufb01cial Intelligence / Saarland, Germany; China Mobile Online Services / Henan, China; Tianjin University / Tianjin, China"
+    },
+    {
+        "title": "Probing for Bridging Inference in Transformer Language Models",
+        "aff": "University of Lille, INRIA Lille, CNRS, Centrale Lille, UMR 9189-CRIStAL, F-59000, Lille, France; IBM Research Europe, Dublin, Ireland"
+    },
+    {
+        "title": "Profiling of Intertextuality in Latin Literature Using Word Embeddings",
+        "aff": ";;;;"
+    },
+    {
+        "title": "Progressive Generation of Long Text with Pretrained Language Models",
+        "aff": "Carnegie Mellon University+Petuum Inc.+MBZUAI; Carnegie Mellon University+Petuum Inc.+MBZUAI; Carnegie Mellon University+Petuum Inc.+MBZUAI; Carnegie Mellon University+Petuum Inc.+MBZUAI+UC San Diego; Carnegie Mellon University+UC San Diego"
+    },
+    {
+        "title": "Proteno: Text Normalization with Limited Data for Fast Deployment in Text to Speech Systems",
+        "aff": ";;;"
+    },
+    {
+        "title": "Pruning-then-Expanding Model for Domain Adaptation of Neural Machine Translation",
+        "aff": "Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS) + University of Chinese Academy of Sciences; Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS) + University of Chinese Academy of Sciences; Beijing Language and Culture University, China"
+    },
+    {
+        "title": "Put Chatbot into Its Interlocutor\u2019s Shoes: New Framework to Learn Chatbot Responding with Intention",
+        "aff": "National Taiwan University; National Taiwan University; Stanford University + National Taiwan University; Intel Labs + National Taiwan University; National Taiwan University"
+    },
+    {
+        "title": "QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering",
+        "aff": ";;;;"
+    },
+    {
+        "title": "QMSum: A New Benchmark for Query-based Multi-domain Meeting Summarization",
+        "aff": "Fudan University; University of California, Los Angeles; Yale University; Yale University; Yale University; Microsoft Research; Microsoft Research; Microsoft Research; Microsoft Cognitive Services Research; Fudan University; Yale University"
+    },
+    {
+        "title": "QuadrupletBERT: An Efficient Model For Embedding-Based Large-Scale Retrieval",
+        "aff": "National Engineering Research Center for Software Engineering, Peking University, Beijing, China + School of Software and Microelectronics, Peking University, Beijing, China; PX Securities, Beijing, China; School of Software and Microelectronics, Peking University, Beijing, China; National Engineering Research Center for Software Engineering, Peking University, Beijing, China + School of Software and Microelectronics, Peking University, Beijing, China; National Engineering Research Center for Software Engineering, Peking University, Beijing, China"
+    },
+    {
+        "title": "Quality Estimation for Image Captions Based on Large-scale Human Evaluations",
+        "aff": ";;;"
+    },
+    {
+        "title": "Quantitative Day Trading from Natural Language using Reinforcement Learning",
+        "aff": "IIIT Delhi; MIDAS, IIIT Delhi; Manipal Institute of Technology; IIIT Delhi"
+    },
+    {
+        "title": "Query2Prod2Vec: Grounded Word Embeddings for eCommerce",
+        "aff": "Bocconi University; Coveo Labs; Coveo"
+    },
+    {
+        "title": "RECONSIDER: Improved Re-Ranking using Span-Focused Cross-Attention for Open Domain Question Answering",
+        "aff": "Facebook AI; University of Washington; Facebook AI; Facebook AI"
+    },
+    {
+        "title": "RESIN: A Dockerized Schema-Guided Cross-document Cross-lingual Cross-media Information Extraction and Event Tracking System",
+        "aff": ";;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "title": "RST Parsing from Scratch",
+        "aff": "Nanyang Technological University+Institute for Infocomm Research, A-STAR; Nanyang Technological University+Institute for Infocomm Research, A-STAR; Salesforce Research Asia+Nanyang Technological University+Institute for Infocomm Research, A-STAR; Institute for Infocomm Research, A-STAR"
+    },
+    {
+        "title": "RTFE: A Recursive Temporal Fact Embedding Framework for Temporal Knowledge Graph Completion",
+        "aff": "School of Computer Science, Beijing University of Posts and Telecommunications, China; School of Computer Science, Beijing University of Posts and Telecommunications, China; School of Computer Science, Beijing University of Posts and Telecommunications, China; School of Computer Science, Beijing University of Posts and Telecommunications, China; School of Computer Science, Beijing University of Posts and Telecommunications, China; School of Computer Science, Beijing University of Posts and Telecommunications, China; School of Computer Science, Beijing University of Posts and Telecommunications, China"
+    },
+    {
+        "title": "ReadTwice: Reading Very Large Documents with Memories",
+        "aff": ";;;;;"
+    },
+    {
+        "title": "Reading and Acting while Blindfolded: The Need for Semantics in Text Game Agents",
+        "aff": "Princeton University; Princeton University + Microsoft Research; Microsoft Research"
+    },
+    {
+        "title": "Recent advances in neural metaphor processing: A linguistic, cognitive and social perspective",
+        "aff": "ILLC, University of Amsterdam, the Netherlands; ILLC, University of Amsterdam, the Netherlands; Department of Engineering Mathematics, University of Bristol, United Kingdom+ILLC, University of Amsterdam, the Netherlands"
+    },
+    {
+        "title": "Redefining Absent Keyphrases and their Effect on Retrieval Effectiveness",
+        "aff": "LS2N, Universit\u00e9 de Nantes, France; LS2N, Universit\u00e9 de Nantes, France"
+    },
+    {
+        "title": "RefSum: Refactoring Neural Summarization",
+        "aff": "Carnegie Mellon University; Carnegie Mellon University; Carnegie Mellon University"
+    },
+    {
+        "title": "Refining Targeted Syntactic Evaluation of Language Models",
+        "aff": "Department of Computer Science, Stanford University; Department of Computer Science, Stanford University; Department of Computer Science, Stanford University; Department of Computer Science, Stanford University"
+    },
+    {
+        "title": "ReinforceBug: A Framework to Generate Adversarial Textual Examples",
+        "aff": "University of Adelaide+CREST - The Centre for Research on Engineering Software Technologies+CSIRO Data61; University of Adelaide+CREST - The Centre for Research on Engineering Software Technologies; CSIRO Data61"
+    },
+    {
+        "title": "Representing Numbers in NLP: a Survey and a Vision",
+        "aff": "University of Southern California; University of Southern California; University of Southern California; University of Southern California"
+    },
+    {
+        "title": "Restoring and Mining the Records of the Joseon Dynasty via Neural Language Modeling and Machine Translation",
+        "aff": "Scatter Lab, Seoul, South Korea; Chung-Ang University, Seoul, South Korea; KAIST, Daejeon, South Korea; Chung-Ang University, Seoul, South Korea; KAIST, Daejeon, South Korea; Chung-Ang University, Seoul, South Korea"
+    },
+    {
+        "title": "Rethinking Network Pruning \u2013 under the Pre-train and Fine-tune Paradigm",
+        "aff": "The Pennsylvania State University, State College, PA, USA; Moffett AI, Los Altos, CA, USA; Moffett AI, Los Altos, CA, USA; Moffett AI, Los Altos, CA, USA"
+    },
+    {
+        "title": "Rethinking Perturbations in Encoder-Decoders for Fast Training",
+        "aff": "Tokyo Institute of Technology; RIKEN / Tohoku University"
+    },
+    {
+        "title": "Revisiting Document Representations for Large-Scale Zero-Shot Learning",
+        "aff": "The Ohio State University; The Ohio State University"
+    },
+    {
+        "title": "Revisiting Simple Neural Probabilistic Language Models",
+        "aff": "College of Information and Computer Sciences, University of Massachusetts Amherst; College of Information and Computer Sciences, University of Massachusetts Amherst"
+    },
+    {
+        "title": "Revisiting the Weaknesses of Reinforcement Learning for Neural Machine Translation",
+        "aff": "Heidelberg University; Google Research"
+    },
+    {
+        "title": "Robust Question Answering Through Sub-part Alignment",
+        "aff": "The University of Texas at Austin; The University of Texas at Austin"
+    },
+    {
+        "title": "Robustness Gym: Unifying the NLP Evaluation Landscape",
+        "aff": "Stanford University; Salesforce Research; Salesforce Research; Salesforce Research; UNC Chapel-Hill; Stanford University"
+    },
+    {
+        "title": "RocketQA: An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering",
+        "aff": "Baidu Inc.; Baidu Inc.; Baidu Inc.; Baidu Inc.; Gaoling School of Arti\ufb01cial Intelligence, Renmin University of China; Gaoling School of Arti\ufb01cial Intelligence, Renmin University of China; Baidu Inc.; Baidu Inc.; Baidu Inc."
+    },
+    {
+        "title": "SCRIPT: Self-Critic PreTraining of Transformers",
+        "aff": "UCLA; UCLA; UCLA; Salesforce Research"
+    },
+    {
+        "title": "SGG: Learning to Select, Guide, and Generate for Keyphrase Generation",
+        "aff": "JD AI Research; JD AI Research; JD AI Research; JD AI Research; JD AI Research; JD AI Research"
+    },
+    {
+        "title": "SGL: Speaking the Graph Languages of Semantic Parsing via Multilingual Translation",
+        "aff": "Sapienza NLP Group, Department of Computer Science, Sapienza University of Rome; Sapienza NLP Group, Department of Computer Science, Sapienza University of Rome; Sapienza NLP Group, Department of Computer Science, Sapienza University of Rome"
+    },
+    {
+        "title": "SOCCER: An Information-Sparse Discourse State Tracking Collection in the Sports Commentary Domain",
+        "aff": "Brown University; Brown University"
+    },
+    {
+        "title": "SOrT-ing VQA Models : Contrastive Gradient Learning for Improved Consistency",
+        "aff": "Georgia Tech+University of California, San Diego; Georgia Tech+University of California, San Diego; Georgia Tech+Facebook AI Research; Georgia Tech+Facebook AI Research; Georgia Tech+Salesforce Research"
+    },
+    {
+        "title": "SPARTA: Efficient Open-Domain Question Answering via Sparse Transformer Matching Retrieval",
+        "aff": "SOCO Inc. + Language Technologies Institute, Carnegie Mellon University; Language Technologies Institute, Carnegie Mellon University; SOCO Inc."
+    },
+    {
+        "title": "SPARTQA: A Textual Question Answering Benchmark for Spatial Reasoning",
+        "aff": "Michigan State University; Michigan State University; Amazon; Michigan State University"
+    },
+    {
+        "title": "SPLAT: Speech-Language Joint Pre-Training for Spoken Language Understanding",
+        "aff": "MIT Computer Science and Artificial Intelligence Laboratory; Microsoft Cognitive Services Group; Microsoft Cognitive Services Group"
+    },
+    {
+        "title": "Scalable and Interpretable Semantic Change Detection",
+        "aff": "LISN - CNRS, Univ. Paris-Saclay + Societ\u00e9 G\u00e9n\u00e9rale; Jozef Stefan Institute; University of Helsinki"
+    },
+    {
+        "title": "Scalar Adjective Identification and Multilingual Ranking",
+        "aff": "Universit\u00e9 Paris-Saclay+CNRS, LISN; Department of Digital Humanities, University of Helsinki"
+    },
+    {
+        "title": "Searchable Hidden Intermediates for End-to-End Models of Decomposable Sequence Tasks",
+        "aff": "Language Technologies Institute, Carnegie Mellon University, USA; Language Technologies Institute, Carnegie Mellon University, USA; Language Technologies Institute, Carnegie Mellon University, USA; Language Technologies Institute, Carnegie Mellon University, USA; Language Technologies Institute, Carnegie Mellon University, USA"
+    },
+    {
+        "title": "Self Promotion in US Congressional Tweets",
+        "aff": "Independent Researcher, Syracuse, New York; Leland High School, San Jose, California; School of Information Studies, Syracuse University, New York"
+    },
+    {
+        "title": "Self-Alignment Pretraining for Biomedical Entity Representations",
+        "aff": "Language Technology Lab, TAL, University of Cambridge + Amazon Alexa; Department of Data Science & AI, Monash University + Language Technology Lab, TAL, University of Cambridge; Language Technology Lab, TAL, University of Cambridge; Amazon Alexa; Language Technology Lab, TAL, University of Cambridge"
+    },
+    {
+        "title": "Self-Supervised Contrastive Learning for Efficient User Satisfaction Prediction in Conversational Agents",
+        "aff": "UCLA Computer Science; Amazon Alexa AI; Amazon Alexa AI; Amazon Alexa AI"
+    },
+    {
+        "title": "Self-Supervised Test-Time Learning for Reading Comprehension",
+        "aff": "Arizona State University; Arizona State University; Arizona State University"
+    },
+    {
+        "title": "Self-Training for Unsupervised Neural Machine Translation in Unbalanced Training Data Scenarios",
+        "aff": "Harbin Institute of Technology, Harbin, China+JD AI Research, Beijing, China; Shanghai Jiao Tong University, Shanghai, China; National Institute of Information and Communications Technology (NICT), Kyoto, Japan; National Institute of Information and Communications Technology (NICT), Kyoto, Japan; National Institute of Information and Communications Technology (NICT), Kyoto, Japan; Harbin Institute of Technology, Harbin, China"
+    },
+    {
+        "title": "Self-Training with Weak Supervision",
+        "aff": "Columbia University, New York; Microsoft Research; Microsoft Research; Microsoft Research"
+    },
+    {
+        "title": "Self-training Improves Pre-training for Natural Language Understanding",
+        "aff": "Facebook AI\u2020; Facebook AI\u2020; Stanford University\u2021; Facebook AI\u2020; Facebook AI\u2020; Facebook AI\u2020; Facebook AI\u2020; Facebook AI\u2020"
+    },
+    {
+        "title": "Semantic Frame Forecast",
+        "aff": "Pennsylvania State University, University Park, PA 16802, USA; Pennsylvania State University, University Park, PA 16802, USA"
+    },
+    {
+        "title": "Semi-Supervised Policy Initialization for Playing Games with Language Hints",
+        "aff": "UC Santa Barbara; UC Santa Barbara"
+    },
+    {
+        "title": "SentSim: Crosslingual Semantic Evaluation of Machine Translation",
+        "aff": "Imperial College London, UK; University of California, Irvine, CA, US; Imperial College London, UK"
+    },
+    {
+        "title": "Seq2Emo: A Sequence to Multi-Label Emotion Classification Model",
+        "aff": "Alberta Machine Intelligence Institute; Alberta Machine Intelligence Institute; Alberta Machine Intelligence Institute; Alberta Machine Intelligence Institute; Alberta Machine Intelligence Institute; Alberta Machine Intelligence Institute"
+    },
+    {
+        "title": "ShadowGNN: Graph Projection Neural Network for Text-to-SQL Parser",
+        "aff": "X-LANCE Lab, Department of Computer Science and Engineering, MoE Key Lab of Arti\ufb01cial Intelligence, AI Institute, Shanghai Jiao Tong University, Shanghai Jiao Tong University, Shanghai, China; X-LANCE Lab, Department of Computer Science and Engineering, MoE Key Lab of Arti\ufb01cial Intelligence, AI Institute, Shanghai Jiao Tong University, Shanghai Jiao Tong University, Shanghai, China; X-LANCE Lab, Department of Computer Science and Engineering, MoE Key Lab of Arti\ufb01cial Intelligence, AI Institute, Shanghai Jiao Tong University, Shanghai Jiao Tong University, Shanghai, China; X-LANCE Lab, Department of Computer Science and Engineering, MoE Key Lab of Arti\ufb01cial Intelligence, AI Institute, Shanghai Jiao Tong University, Shanghai Jiao Tong University, Shanghai, China; X-LANCE Lab, Department of Computer Science and Engineering, MoE Key Lab of Arti\ufb01cial Intelligence, AI Institute, Shanghai Jiao Tong University, Shanghai Jiao Tong University, Shanghai, China; AISpeech Co., Ltd., Suzhou, China; X-LANCE Lab, Department of Computer Science and Engineering, MoE Key Lab of Arti\ufb01cial Intelligence, AI Institute, Shanghai Jiao Tong University, Shanghai Jiao Tong University, Shanghai, China"
+    },
+    {
+        "title": "Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification",
+        "aff": "Korea University; Korea University; Korea University; Korea University"
+    },
+    {
+        "title": "Sliding Selector Network with Dynamic Memory for Extractive Summarization of Long Documents",
+        "aff": "School of Computer Science and Technology, Harbin Institute of Technology, Harbin, China; School of Computer Science and Technology, Harbin Institute of Technology, Harbin, China"
+    },
+    {
+        "title": "SmBoP: Semi-autoregressive Bottom-up Semantic Parsing",
+        "aff": "Tel Aviv University; Tel Aviv University + Allen Institute for AI"
+    },
+    {
+        "title": "Smart-Start Decoding for Neural Machine Translation",
+        "aff": "State Key Lab of Software Development Environment, Beihang University; Microsoft Research Asia; Microsoft Research Asia; Shanghai Jiao Tong University; State Key Lab of Software Development Environment, Beihang University; Microsoft Research Asia"
+    },
+    {
+        "title": "Smoothing and Shrinking the Sparse Seq2Seq Search Space",
+        "aff": "Instituto de Telecomunicac\u00f5es, Instituto Superior T\u00e9cnico, Lisbon, Portugal+LUMLIS (Lisbon ELLIS Unit), Lisbon, Portugal+Unbabel, Lisbon, Portugal; Instituto de Telecomunicac\u00f5es, Instituto Superior T\u00e9cnico, Lisbon, Portugal+LUMLIS (Lisbon ELLIS Unit), Lisbon, Portugal"
+    },
+    {
+        "title": "Source and Target Bidirectional Knowledge Distillation for End-to-end Speech Translation",
+        "aff": "Kyoto University, Japan; Kyoto University, Japan; Johns Hopkins University, USA"
+    },
+    {
+        "title": "SpanPredict: Extraction of Predictive Document Spans with Neural Attention",
+        "aff": "Duke University; Duke University; Duke University; Duke University; Duke University; Duke University"
+    },
+    {
+        "title": "Spoken Language Understanding for Task-oriented Dialogue Systems with Augmented Memory Networks",
+        "aff": "University of California Irvine; University of California Irvine; Beijing Jiaotong University"
+    },
+    {
+        "title": "Static Embeddings as Efficient Knowledge Bases?",
+        "aff": "Center for Information and Language Processing (CIS), LMU Munich, Germany; Center for Information and Language Processing (CIS), LMU Munich, Germany; Center for Information and Language Processing (CIS), LMU Munich, Germany"
+    },
+    {
+        "title": "Stay Together: A System for Single and Split-antecedent Anaphora Resolution",
+        "aff": "Queen Mary University of London; UKP Lab, Technische Universit\u00e4t Darmstadt; Queen Mary University of London; Queen Mary University of London"
+    },
+    {
+        "title": "Structure-Aware Abstractive Conversation Summarization via Discourse and Action Graphs",
+        "aff": "School of Interactive Computing, Georgia Institute of Technology; School of Interactive Computing, Georgia Institute of Technology"
+    },
+    {
+        "title": "Structure-Grounded Pretraining for Text-to-SQL",
+        "aff": "The Ohio State University; Microsoft Research, Redmond; Microsoft Research, Redmond; Microsoft Research, Redmond; The Ohio State University; Microsoft Research, Redmond"
+    },
+    {
+        "title": "StylePTB: A Compositional Benchmark for Fine-grained Controllable Text Style Transfer",
+        "aff": "Machine Learning Department, Carnegie Mellon University; Machine Learning Department, Carnegie Mellon University; Language Technologies Institute, Carnegie Mellon University; Language Technologies Institute, Carnegie Mellon University; Machine Learning Department, Carnegie Mellon University; Machine Learning Department, Carnegie Mellon University; Language Technologies Institute, Carnegie Mellon University"
+    },
+    {
+        "title": "Suicide Ideation Detection via Social and Temporal User Representations using Hyperbolic Learning",
+        "aff": ";;;"
+    },
+    {
+        "title": "Supertagging-based Parsing with Linear Context-free Rewriting Systems",
+        "aff": ";"
+    },
+    {
+        "title": "Supervised Neural Clustering via Latent Structured Output Learning: Application to Question Intents",
+        "aff": "DISI, University of Trento; Amazon Alexa AI"
+    },
+    {
+        "title": "Supporting Clustering with Contrastive Learning",
+        "aff": "AWS AI; Columbia University; AWS AI; Columbia University; AWS AI; AWS AI+Columbia University; AWS AI; AWS AI; AWS AI"
+    },
+    {
+        "title": "Supporting Spanish Writers using Automated Feedback",
+        "aff": ";;;;;;;"
+    },
+    {
+        "title": "Swords: A Benchmark for Lexical Substitution with Improved Data Coverage and Quality",
+        "aff": "Stanford University; Stanford University; Stanford University; Stanford University; Stanford University"
+    },
+    {
+        "title": "TABBIE: Pretrained Representations of Tabular Data",
+        "aff": "Sony Corporation; UMass Amherst; Adobe Research; UMass Amherst"
+    },
+    {
+        "title": "TITA: A Two-stage Interaction and Topic-Aware Text Matching Model",
+        "aff": "Meituan Inc., Beijing, China; State Key Laboratory of Computer Sciences, Institute of Software, Chinese Academy of Sciences + University of Chinese Academy of Sciences, Beijing, China; State Key Laboratory of Computer Sciences, Institute of Software, Chinese Academy of Sciences + University of Chinese Academy of Sciences, Beijing, China; Meituan Inc., Beijing, China; Meituan Inc., Beijing, China; State Key Laboratory of Computer Sciences, Institute of Software, Chinese Academy of Sciences + University of Chinese Academy of Sciences, Beijing, China"
+    },
+    {
+        "title": "TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference",
+        "aff": "Department of Computer Science and Technology, Tsinghua University, Beijing, China+Institute for Artificial Intelligence, Tsinghua University, Beijing, China+Beijing National Research Center for Information Science and Technology+State Key Lab on Intelligent Technology and Systems, Tsinghua University, Beijing, China; Pattern Recognition Center, WeChat AI, Tencent Inc.; Department of Computer Science and Technology, Tsinghua University, Beijing, China+Institute for Artificial Intelligence, Tsinghua University, Beijing, China+Beijing National Research Center for Information Science and Technology+State Key Lab on Intelligent Technology and Systems, Tsinghua University, Beijing, China; Department of Computer Science and Technology, Tsinghua University, Beijing, China+Institute for Artificial Intelligence, Tsinghua University, Beijing, China+Beijing National Research Center for Information Science and Technology+State Key Lab on Intelligent Technology and Systems, Tsinghua University, Beijing, China+Beijing Academy of Arti\ufb01cial Intelligence"
+    },
+    {
+        "title": "Target-Aware Data Augmentation for Stance Detection",
+        "aff": "University of Illinois at Chicago; University of Illinois at Chicago"
+    },
+    {
+        "title": "Target-specified Sequence Labeling with Multi-head Self-attention for Target-oriented Opinion Words Extraction",
+        "aff": "School of Computer Science and Engineering, Sun Yat-sen University, Guangzhou, China; School of Computer Science and Engineering, Sun Yat-sen University, Guangzhou, China; Tencent Inc, Shenzhen, China; Tencent Inc, Shenzhen, China; Tencent Inc, Shenzhen, China"
+    },
+    {
+        "title": "Targeted Adversarial Training for Natural Language Understanding",
+        "aff": "Ochanomizu University+Microsoft Research; Microsoft Research; Microsoft Research; Microsoft Research; Microsoft Research; Ochanomizu University"
+    },
+    {
+        "title": "TaxoClass: Hierarchical Multi-Label Text Classification Using Only Class Names",
+        "aff": "University of Illinois at Urbana-Champaign, IL, USA; University of Illinois at Urbana-Champaign, IL, USA; University of Illinois at Urbana-Champaign, IL, USA; University of California, San Diego, CA, USA; University of Southern California, CA, USA; University of Illinois at Urbana-Champaign, IL, USA"
+    },
+    {
+        "title": "Technical Question Answering across Tasks and Domains",
+        "aff": "University of Notre Dame, Notre Dame, IN, USA+IBM Thomas J. Watson Research Center, Yorktown Heights, NY, USA; IBM Thomas J. Watson Research Center, Yorktown Heights, NY, USA; IBM Thomas J. Watson Research Center, Yorktown Heights, NY, USA; University of Notre Dame, Notre Dame, IN, USA+IBM Thomas J. Watson Research Center, Yorktown Heights, NY, USA; IBM Thomas J. Watson Research Center, Yorktown Heights, NY, USA; IBM Thomas J. Watson Research Center, Yorktown Heights, NY, USA; University of Notre Dame, Notre Dame, IN, USA+IBM Thomas J. Watson Research Center, Yorktown Heights, NY, USA"
+    },
+    {
+        "title": "Template Filling with Generative Transformers",
+        "aff": "Department of Computer Science, Cornell University; Department of Computer Science, Cornell University; Department of Computer Science, Cornell University"
+    },
+    {
+        "title": "Temporal Knowledge Graph Completion using a Linear Temporal Regularizer and Multivector Embeddings",
+        "aff": "University of Bonn / Germany; University of Bonn / Germany; University of Bonn / Germany; University of Bonn / Germany + Fraunhofer IAIS/ Germany"
+    },
+    {
+        "title": "Temporal Reasoning on Implicit Events from Distant Supervision",
+        "aff": "Allen Institute for AI+University of Pennsylvania; Allen Institute for AI; Amazon; Allen Institute for AI; Allen Institute for AI; University of Pennsylvania"
+    },
+    {
+        "title": "Text Editing by Command",
+        "aff": "Department of Computer Science, ETH Z\u00fcrich\u2666; Microsoft Research\u2660; Microsoft Research\u2660; Microsoft Research\u2660; Microsoft Research\u2660; Microsoft Research\u2660; Microsoft Research\u2660"
+    },
+    {
+        "title": "Text Generation from Discourse Representation Structures",
+        "aff": "Institute for Language, Cognition and Computation, School of Informatics, University of Edinburgh; Institute for Language, Cognition and Computation, School of Informatics, University of Edinburgh; Institute for Language, Cognition and Computation, School of Informatics, University of Edinburgh"
+    },
+    {
+        "title": "Text Modular Networks: Learning to Decompose Tasks in the Language of Existing Models",
+        "aff": ";;;;"
+    },
+    {
+        "title": "TextEssence: A Tool for Interactive Analysis of Semantic Shifts Between Corpora",
+        "aff": "Department of Biomedical Informatics, University of Pittsburgh; Human-Computer Interaction Institute, Carnegie Mellon University; Department of Computer Science and Engineering, The Ohio State University; Department of Computer Science and Engineering, The Ohio State University; Department of Biomedical Informatics, University of Pittsburgh + Intelligent Systems Program, University of Pittsburgh"
+    },
+    {
+        "title": "The Curious Case of Hallucinations in Neural Machine Translation",
+        "aff": "Microsoft, USA; Microsoft, USA; Microsoft, USA"
+    },
+    {
+        "title": "The Importance of Modeling Social Factors of Language: Theory and Practice",
+        "aff": "Bocconi University; Georgia Institute of Technology"
+    },
+    {
+        "title": "The structure of online social networks modulates the rate of lexical change",
+        "aff": "Department of Linguistics, University of Michigan; School of Information, University of Michigan"
+    },
+    {
+        "title": "Time-Stamped Language Model: Teaching Language Models to Understand The Flow of Events",
+        "aff": "Michigan State University; Michigan State University"
+    },
+    {
+        "title": "Too Much in Common: Shifting of Embeddings in Transformer Language Models and its Implications",
+        "aff": "Florida State University; Florida State University; Florida State University"
+    },
+    {
+        "title": "Topic Model or Topic Twaddle? Re-evaluating Semantic Interpretability Measures",
+        "aff": "Faculty of Information Technology, Monash University, Australia; Faculty of Information Technology, Monash University, Australia"
+    },
+    {
+        "title": "Towards Continual Learning for Multilingual Machine Translation via Vocabulary Substitution",
+        "aff": "Google Research; Google Research; Google Research; Google Research"
+    },
+    {
+        "title": "Towards Few-shot Fact-Checking via Perplexity",
+        "aff": ";;;"
+    },
+    {
+        "title": "Towards Interpreting and Mitigating Shortcut Learning Behavior of NLU models",
+        "aff": "Texas A&M University; Adobe Research; Adobe Document Cloud; Adobe Research; Adobe Research; Adobe Research; Adobe Research; Texas A&M University"
+    },
+    {
+        "title": "Towards Modeling the Style of Translators in Neural Machine Translation",
+        "aff": "Amazon AI; Amazon AI; Amazon AI"
+    },
+    {
+        "title": "Towards Sentiment and Emotion aided Multi-modal Speech Act Classification in Twitter",
+        "aff": "Department of Computer Science and Engineering, Indian Institute of Technology Patna, India; Department of Computer Science and Engineering, Indian Institute of Technology Patna, India; Department of Computer Science and Engineering, Indian Institute of Technology Patna, India; Department of Computer Science and Engineering, Indian Institute of Technology Patna, India"
+    },
+    {
+        "title": "Towards a Comprehensive Understanding and Accurate Evaluation of Societal Biases in Pre-Trained Transformers",
+        "aff": "School of Interactive Computing, Georgia Institute of Technology; School of Interactive Computing, Georgia Institute of Technology; School of Interactive Computing, Georgia Institute of Technology"
+    },
+    {
+        "title": "Training Data Augmentation for Code-Mixed Translation",
+        "aff": "Google Research; IIT Bombay; IIT Bombay"
+    },
+    {
+        "title": "Training Language Models under Resource Constraints for Adversarial Advertisement Detection",
+        "aff": "Amazon; Amazon; Amazon+\u2217; Amazon; Amazon; Amazon"
+    },
+    {
+        "title": "Translational NLP: A New Paradigm and General Principles for Natural Language Processing Research",
+        "aff": "Department of Biomedical Informatics, University of Pittsburgh, USA; Human-Computer Interaction Institute, Carnegie Mellon University, USA; Language Technologies Institute, Carnegie Mellon University, USA; Department of Biomedical Informatics, University of Pittsburgh, USA"
+    },
+    {
+        "title": "TuringAdvice: A Generative and Dynamic Evaluation of Language Use",
+        "aff": "Paul G. Allen School of Computer Science & Engineering, University of Washington\u2660; Allen Institute for Arti\ufb01cial Intelligence\u2665; Paul G. Allen School of Computer Science & Engineering, University of Washington\u2660; Paul G. Allen School of Computer Science & Engineering, University of Washington\u2660; Paul G. Allen School of Computer Science & Engineering, University of Washington\u2660; Paul G. Allen School of Computer Science & Engineering, University of Washington\u2660\u2665"
+    },
+    {
+        "title": "UDALM: Unsupervised Domain Adaptation through Language Modeling",
+        "aff": "School of ECE, National Technical University of Athens, Athens, Greece+Signal Analysis and Interpretation Laboratory (SAIL), USC, Los Angeles, CA, USA+Behavioral Signal Technologies, Los Angeles, CA, USA+Institute for Language and Speech Processing, Athena Research Center, Athens, Greece; School of ECE, National Technical University of Athens, Athens, Greece+Institute for Language and Speech Processing, Athena Research Center, Athens, Greece; School of ECE, National Technical University of Athens, Athens, Greece+Signal Analysis and Interpretation Laboratory (SAIL), USC, Los Angeles, CA, USA+Behavioral Signal Technologies, Los Angeles, CA, USA"
+    },
+    {
+        "title": "UmlsBERT: Clinical Domain Knowledge Augmentation of Contextual Embeddings Using the Unified Medical Language System Metathesaurus",
+        "aff": "University of Waterloo, Waterloo, Canada; University of Waterloo, Waterloo, Canada; University of Waterloo, Waterloo, Canada; University of Waterloo, Waterloo, Canada; University of Waterloo, Waterloo, Canada"
+    },
+    {
+        "title": "Understanding Factuality in Abstractive Summarization with FRANK: A Benchmark for Factuality Metrics",
+        "aff": "Language Technologies Institute, Carnegie Mellon University; Language Technologies Institute, Carnegie Mellon University; Language Technologies Institute, Carnegie Mellon University"
+    },
+    {
+        "title": "Understanding Hard Negatives in Noise Contrastive Estimation",
+        "aff": "Department of Computer Science, Rutgers University; Department of Computer Science, Rutgers University"
+    },
+    {
+        "title": "Understanding by Understanding Not: Modeling Negation in Language Models",
+        "aff": "Mila/Universit\u00e9 de Montr\u00e9al; Mila/McGill University; Element AI a ServiceNow Company; Mila/Universit\u00e9 de Montr\u00e9al+Microsoft Research; Microsoft Research; Mila/Universit\u00e9 de Montr\u00e9al"
+    },
+    {
+        "title": "UniDrop: A Simple yet Effective Technique to Improve Transformer without Extra Cost",
+        "aff": "National Key Laboratory for Novel Software Technology, Nanjing University; Microsoft Research Asia; Microsoft Research Asia; Microsoft Research Asia; Microsoft Research Asia; Microsoft Research Asia; National Key Laboratory for Novel Software Technology, Nanjing University; Microsoft Research Asia"
+    },
+    {
+        "title": "Unified Pre-training for Program Understanding and Generation",
+        "aff": "University of California, Los Angeles; Columbia University; Columbia University; University of California, Los Angeles"
+    },
+    {
+        "title": "Unifying Cross-Lingual Semantic Role Labeling with Heterogeneous Linguistic Resources",
+        "aff": "Sapienza NLP Group, Department of Computer Science, Sapienza University of Rome; Sapienza NLP Group, Department of Computer Science, Sapienza University of Rome; Sapienza NLP Group, Department of Computer Science, Sapienza University of Rome"
+    },
+    {
+        "title": "Universal Adversarial Attacks with Natural Triggers for Text Classification",
+        "aff": "Princeton University; Princeton University; Princeton University; Princeton University"
+    },
+    {
+        "title": "Universal Semantic Tagging for English and Mandarin Chinese",
+        "aff": "Department of Chinese Language and Literature, Peking University; Department of Chinese Language and Literature, Peking University; Wangxuan Institute of Computer Technology, Peking University; Department of Chinese Language and Literature, Peking University + Tencent; Department of Computer Science and Technology, University of Cambridge"
+    },
+    {
+        "title": "Unsupervised Concept Representation Learning for Length-Varying Text Similarity",
+        "aff": "NEC Laboratories America, Princeton, NJ, USA; NEC Laboratories America, Princeton, NJ, USA; NEC Laboratories America, Princeton, NJ, USA; NEC Laboratories America, Princeton, NJ, USA; NEC Laboratories America, Princeton, NJ, USA; NEC Laboratories America, Princeton, NJ, USA"
+    },
+    {
+        "title": "Unsupervised Multi-hop Question Answering by Question Generation",
+        "aff": "School of Computing, National University of Singapore, Singapore; University of California, Santa Barbara, CA, USA; University of California, Santa Barbara, CA, USA; School of Computing, National University of Singapore, Singapore; University of California, Santa Barbara, CA, USA"
+    },
+    {
+        "title": "Unsupervised Vision-and-Language Pre-training Without Parallel Images and Captions",
+        "aff": "University of California, Los Angeles\u2020; Columbia University\u2217\u25e6+University of California, Los Angeles\u2020; Columbia University\u2217\u25e6+University of California, Los Angeles\u2020; Columbia University\u25e6; Columbia University\u25e6; University of California, Los Angeles\u2020"
+    },
+    {
+        "title": "User-Generated Text Corpus for Evaluating Japanese Morphological Analysis and Lexical Normalization",
+        "aff": "National Institute of Information and Communications Technology, Kyoto, Japan+ Nara Institute of Science and Technology, Nara, Japan; National Institute of Information and Communications Technology, Kyoto, Japan; Nara Institute of Science and Technology, Nara, Japan; National Institute of Information and Communications Technology, Kyoto, Japan"
+    },
+    {
+        "title": "Variance-reduced First-order Meta-learning for Natural Language Processing Tasks",
+        "aff": "Department of Computer Science, University of California, Los Angeles; JD AI Research, Mountain View, CA; Department of Computer Science, Stanford University; Department of Computer Science, University of California, Los Angeles; JD AI Research, Mountain View, CA"
+    },
+    {
+        "title": "Video Question Answering with Phrases via Semantic Roles",
+        "aff": "University of Southern California; Facebook Inc.; University of Southern California"
+    },
+    {
+        "title": "Video-aided Unsupervised Grammar Induction",
+        "aff": "University of Rochester, Rochester, NY, USA+Tencent AI Lab, Bellevue, WA, USA; Tencent AI Lab, Bellevue, WA, USA; Tencent AI Lab, Bellevue, WA, USA; Tencent AI Lab, Bellevue, WA, USA; Tencent AI Lab, Bellevue, WA, USA; University of Rochester, Rochester, NY, USA"
+    },
+    {
+        "title": "WEC: Deriving a Large-scale Cross-document Event Coreference dataset from Wikipedia",
+        "aff": "Bar Ilan University, Ramat-Gan, Israel+Intel Labs, Israel; Bar Ilan University, Ramat-Gan, Israel; Bar Ilan University, Ramat-Gan, Israel"
+    },
+    {
+        "title": "WRIME: A New Dataset for Emotional Intensity Estimation with Subjective and Objective Annotations",
+        "aff": ";;;;"
+    },
+    {
+        "title": "What About the Precedent: An Information-Theoretic Analysis of Common Law",
+        "aff": "University of Cambridge; University of Cambridge; University of Cambridge; ETH Z\u00fcrich; University of Cambridge"
+    },
+    {
+        "title": "What Will it Take to Fix Benchmarking in Natural Language Understanding?",
+        "aff": "New York University; Google Research, Brain Team"
+    },
+    {
+        "title": "What\u2019s in a Summary? Laying the Groundwork for Advances in Hospital-Course Summarization",
+        "aff": "Columbia University; Harvard-MIT\u2019s Health Science and Technology + Columbia University; Columbia University; Columbia University; Columbia University"
+    },
+    {
+        "title": "When Being Unseen from mBERT is just the Beginning: Handling New Languages With Multilingual Language Models",
+        "aff": "Inria, Paris, France+Sorbonne Universit\u00e9, Paris, France; Department of Computer Science, George Mason University, USA; Inria, Paris, France; Inria, Paris, France"
+    },
+    {
+        "title": "When and Why a Model Fails? A Human-in-the-loop Error Detection Framework for Sentiment Analysis",
+        "aff": "IBM Research - Almaden; Amazon Alexa AI + IBM Research - Almaden; IBM Research - Almaden"
+    },
+    {
+        "title": "When does text prediction benefit from additional context? An exploration of contextual signals for chat and email messages",
+        "aff": "Microsoft; Microsoft; Microsoft; Microsoft; Microsoft; Microsoft"
+    },
+    {
+        "title": "Why Do Document-Level Polarity Classifiers Fail?",
+        "aff": "CS Department, UFMG, Belo Horizonte, MG, Brazil; CS Department, UFMG, Belo Horizonte, MG, Brazil; CS Department, UFMG, Belo Horizonte, MG, Brazil"
+    },
+    {
+        "title": "WikiTalkEdit: A Dataset for modeling Editors\u2019 behaviors on Wikipedia",
+        "aff": "Department of Communications and New Media, National University of Singapore; Department of Linguistics, University of Pennsylvania; Department of Computer Science, University of Shef\ufb01eld; Big Data Experience Lab, Adobe Research India Pvt. Ltd.; Department of Computer & Information Science, University of Pennsylvania"
+    },
+    {
+        "title": "Wikipedia Entities as Rendezvous across Languages: Grounding Multilingual Language Models by Predicting Wikipedia Hyperlinks",
+        "aff": "Center for Data Science, New York University+ILLC, University of Amsterdam; Department of Digital Humanities, University of Helsinki, Finland; Department of Computer Science, University of Copenhagen+University of Rome \u201cLa Sapienza\u201d"
+    },
+    {
+        "title": "Word Complexity is in the Eye of the Beholder",
+        "aff": "Dept of Computer Science and Technology, University of Cambridge; Dept of Computer Science, University of Bath; Language Technology group, Universit\u00e4t Hamburg, Germany; Language Technology group, Universit\u00e4t Hamburg, Germany"
+    },
+    {
+        "title": "Worldly Wise (WoW) - Cross-Lingual Knowledge Fusion for Fact-based Visual Spoken-Question Answering",
+        "aff": "University of Illinois, Urbana-Champaign; University of Illinois, Urbana-Champaign; University of Illinois, Urbana-Champaign; KAIST"
+    },
+    {
+        "title": "X-Class: Text Classification with Extremely Weak Supervision",
+        "aff": "Department of Computer Science and Engineering, University of California San Diego, CA, USA + Hal\u0131c\u0131o\u011flu Data Science Institute, University of California San Diego, CA, USA; Department of Computer Science and Engineering, University of California San Diego, CA, USA + Hal\u0131c\u0131o\u011flu Data Science Institute, University of California San Diego, CA, USA; Department of Computer Science and Engineering, University of California San Diego, CA, USA + Hal\u0131c\u0131o\u011flu Data Science Institute, University of California San Diego, CA, USA"
+    },
+    {
+        "title": "X-METRA-ADA: Cross-lingual Meta-Transfer learning Adaptation to Natural Language Understanding and Question Answering",
+        "aff": "Information Sciences Institute, University of Southern California; Adobe Research; Adobe Research; Adobe Research; Information Sciences Institute, University of Southern California; Information Sciences Institute, University of Southern California"
+    },
+    {
+        "title": "XOR QA: Cross-lingual Open-Retrieval Question Answering",
+        "aff": "University of Washington; University of Washington; Google Research; Google Research; The University of Texas at Austin; University of Washington+Allen Institute for AI"
+    },
+    {
+        "title": "You Sound Like Someone Who Watches Drama Movies: Towards Predicting Movie Preferences from Conversational Interactions",
+        "aff": "Emory University, GA USA+Amazon, Seattle, WA, USA; Emory University, GA USA+Amazon, Seattle, WA, USA; Amazon, Seattle, WA, USA; Emory University, GA USA+Amazon, Seattle, WA, USA"
+    },
+    {
+        "title": "ZS-BERT: Towards Zero-Shot Relation Extraction with Attribute Representation Learning",
+        "aff": "Program of Data Science, National Taiwan University, Taipei, Taiwan; Institute of Data Science, National Cheng Kung University, Tainan, Taiwan"
+    },
+    {
+        "title": "mT5: A Massively Multilingual Pre-trained Text-to-Text Transformer",
+        "aff": "Google Research; Google Research; Google Research; Google Research; Google Research; Google Research; Google Research; Google Research"
+    },
+    {
+        "title": "multiPRover: Generating Multiple Proofs for Improved Interpretability in Rule Reasoning",
+        "aff": "UNC Chapel Hill; UNC Chapel Hill; UNC Chapel Hill"
+    },
+    {
+        "title": "tWT\u2013WT: A Dataset to Assert the Role of Target Entities for Detecting Stance of Tweets",
+        "aff": "Indian Institute of Technology Kharagpur; Indian Institute of Technology Kharagpur; Indian Institute of Technology Kharagpur"
+    },
+    {
+        "title": "\u201cI\u2019m Not Mad\u201d: Commonsense Implications of Negation and Contradiction",
+        "aff": "Paul G. Allen School of Computer Science & Engineering, University of Washington + Allen Institute for Arti\ufb01cial Intelligence; Allen Institute for Arti\ufb01cial Intelligence + Stanford University; Allen Institute for Arti\ufb01cial Intelligence; Paul G. Allen School of Computer Science & Engineering, University of Washington + Allen Institute for Arti\ufb01cial Intelligence"
+    },
+    {
+        "title": "\u201cNice Try, Kiddo\u201d: Investigating Ad Hominems in Dialogue Responses",
+        "aff": "Information Sciences Institute, University of Southern California; Computer Science Department, University of California, Los Angeles; Information Sciences Institute, University of Southern California; Information Sciences Institute, University of Southern California + Computer Science Department, University of California, Los Angeles"
+    }
+]

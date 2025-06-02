@@ -1,0 +1,866 @@
+[
+    {
+        "title": "A Fast Algorithm for Separated Sparsity via Perturbed Lagrangians",
+        "aff": "MIT; MIT + EPFL; MIT"
+    },
+    {
+        "title": "A Generic Approach for Escaping Saddle points",
+        "aff": ";;;;;;"
+    },
+    {
+        "title": "A Nonconvex Proximal Splitting Algorithm under Moreau-Yosida Regularization",
+        "aff": ";;"
+    },
+    {
+        "title": "A Provable Algorithm for Learning Interpretable Scoring Systems",
+        "aff": ";;"
+    },
+    {
+        "title": "A Simple Analysis for Exp-concave  Empirical  Minimization  with Arbitrary Convex Regularizer",
+        "aff": ";;"
+    },
+    {
+        "title": "A Stochastic Differential Equation Framework for Guiding Online User Activities in Closed Loop",
+        "aff": ";;;"
+    },
+    {
+        "title": "A Unified Dynamic Approach to Sparse Model Selection",
+        "aff": "School of Mathematical Sciences, Peking University, Beijing, China; Department of Mathematics, Hong Kong University of Science and Technology, HKSAR, China"
+    },
+    {
+        "title": "A Unified Framework for Nonconvex Low-Rank plus Sparse Matrix Recovery",
+        "aff": ";;"
+    },
+    {
+        "title": "A fully adaptive algorithm for pure exploration in linear bandits",
+        "aff": ";;"
+    },
+    {
+        "title": "Accelerated Stochastic Mirror Descent: From Continuous-time Dynamics to Discrete-time Algorithms",
+        "aff": "Department of Computer Science, University of Virginia; School of Mathematical Sciences, Univ. of Science & Technology of China; Department of Computer Science, University of Virginia"
+    },
+    {
+        "title": "Accelerated Stochastic Power Iteration",
+        "aff": "Stanford University; Stanford University; Cornell University; University of Montr\u00b4eal; Stanford University"
+    },
+    {
+        "title": "Achieving the time of 1-NN, but the accuracy of k-NN",
+        "aff": "Princeton University; Princeton University"
+    },
+    {
+        "title": "Actor-Critic Fictitious Play in Simultaneous Move Multistage Games",
+        "aff": ";;"
+    },
+    {
+        "title": "AdaGeo: Adaptive Geometric Learning for Optimization and Sampling",
+        "aff": "Dept. of Engineering Science, University of Oxford; Mind Foundry Ltd., Oxford; Dept. of Engineering Science, University of Oxford; Dept. of Mathematics & Data Science Institute, Imperial College London"
+    },
+    {
+        "title": "Adaptive Sampling for Coarse Ranking",
+        "aff": "University of Wisconsin-Madison; University of Michigan; University of Chicago; University of Chicago; University of Wisconsin-Madison"
+    },
+    {
+        "title": "Adaptive balancing of gradient and update computation times using global geometry and approximate subproblems",
+        "aff": ";;"
+    },
+    {
+        "title": "An Analysis of Categorical Distributional Reinforcement Learning",
+        "aff": "University of Cambridge; Google Brain; DeepMind + DeepMind; DeepMind; DeepMind"
+    },
+    {
+        "title": "An Optimization Approach to Learning Falling Rule Lists",
+        "aff": "Duke University; Duke University"
+    },
+    {
+        "title": "Approximate Bayesian Computation with Kullback-Leibler Divergence as Data Discrepancy",
+        "aff": ""
+    },
+    {
+        "title": "Approximate Ranking from Pairwise Comparisons",
+        "aff": ";;;"
+    },
+    {
+        "title": "Asynchronous Doubly Stochastic Group Regularized Learning",
+        "aff": "Department of Electrical and Computer Engineering, University of Pittsburgh, USA; Department of Electrical and Computer Engineering, University of Pittsburgh, USA; Department of Electrical and Computer Engineering, University of Pittsburgh, USA"
+    },
+    {
+        "title": "Batch-Expansion Training: An Efficient Optimization Framework",
+        "aff": ";;;;"
+    },
+    {
+        "title": "Batched Large-scale Bayesian Optimization in High-dimensional Spaces",
+        "aff": ";;;"
+    },
+    {
+        "title": "Bayesian Approaches to Distribution Regression",
+        "aff": "University of Oxford; University College London; University of Oxford; Imperial College London"
+    },
+    {
+        "title": "Bayesian Multi-label Learning with Sparse Features and Labels, and Label Co-occurrences",
+        "aff": "Faculty of IT, Monash University, Australia; Department of CSE, IIT Kanpur, India; Faculty of IT, Monash University, Australia; Faculty of IT, Monash University, Australia"
+    },
+    {
+        "title": "Bayesian Nonparametric Poisson-Process Allocation for Time-Sequence Modeling",
+        "aff": "The University of Tokyo, Japan + The RIKEN Center for AIP, Tokyo, Japan; The University of Tokyo, Japan + The RIKEN Center for AIP, Tokyo, Japan; The University of Tokyo, Japan + The RIKEN Center for AIP, Tokyo, Japan; The University of Tokyo, Japan + The RIKEN Center for AIP, Tokyo, Japan"
+    },
+    {
+        "title": "Bayesian Structure Learning for Dynamic Brain Connectivity",
+        "aff": "Aalto University; Technical University of Denmark; Technical University of Denmark; Stanford University; University of Illinois at Urbana-Champaign"
+    },
+    {
+        "title": "Beating Monte Carlo Integration: a Nonasymptotic Study of Kernel Smoothing Methods",
+        "aff": "T\u00e9l\u00e9com ParisTech, LTCI, Universit\u00e9 Paris Saclay; T\u00e9l\u00e9com ParisTech, LTCI, Universit\u00e9 Paris Saclay"
+    },
+    {
+        "title": "Benefits from Superposed Hawkes Processes",
+        "aff": "Department of ECE, Duke University+InfiniaML, Inc.; Department of ECE, Duke University; School of Software, Tsinghua University; Department of ECE, Duke University"
+    },
+    {
+        "title": "Best arm identification in multi-armed bandits with delayed feedback",
+        "aff": "Stanford University; Stanford University; Stanford University; Stanford University; Stanford University; Stanford University; Stanford University; University of Michigan; Lawrence Berkeley National Laboratory; Stanford University; Stanford University"
+    },
+    {
+        "title": "Boosting Variational Inference: an Optimization Perspective",
+        "aff": ";;;"
+    },
+    {
+        "title": "Bootstrapping EM via Power EM and Convergence in the Naive Bayes Model",
+        "aff": ";;"
+    },
+    {
+        "title": "Can clustering scale sublinearly with its clusters? A variational EM acceleration of GMMs and k-means",
+        "aff": "Machine Learning, University of Oldenburg & FIAS, Goethe-University Frankfurt, Germany; Machine Learning, University of Oldenburg, Germany"
+    },
+    {
+        "title": "Catalyst for Gradient-based Nonconvex Optimization",
+        "aff": "Lehigh University; Massachusetts Institute of Technology; University of Washington; Inria; University of Washington"
+    },
+    {
+        "title": "Cause-Effect Inference by Comparing Regression Errors",
+        "aff": "Osaka University, Japan; MPI for Intelligent Systems, T\u00a8ubingen, Germany; Osaka University, Japan; Osaka University, Japan + Shiga University, Japan; MPI for Intelligent Systems, T\u00a8ubingen, Germany"
+    },
+    {
+        "title": "Cheap Checking for Cloud Computing: Statistical Analysis via Annotated Data Streams",
+        "aff": "University of Warwick; University of Warwick"
+    },
+    {
+        "title": "Combinatorial Penalties: Which structures are preserved by convex relaxations?",
+        "aff": ";;"
+    },
+    {
+        "title": "Combinatorial Preconditioners for Proximal Algorithms on Graphs",
+        "aff": "Department of Computer Science, Technical University of Munich, Germany; Department of Computer Science, Technical University of Munich, Germany; Department of Computer Science, Technical University of Munich, Germany; Department of Computer Science, Technical University of Munich, Germany"
+    },
+    {
+        "title": "Combinatorial Semi-Bandits with Knapsacks",
+        "aff": "University of Maryland, College Park; Microsoft Research NYC"
+    },
+    {
+        "title": "Communication-Avoiding Optimization Methods for Distributed Massive-Scale Sparse Inverse Covariance Estimation",
+        "aff": "Department of Electrical Engineering and Computer Sciences, UC Berkeley + Computational Research Division, Lawrence Berkeley National Laboratory; Machine Learning Department, Carnegie Mellon University; Computational Research Division, Lawrence Berkeley National Laboratory; Department of Electrical Engineering and Computer Sciences, UC Berkeley + Computational Research Division, Lawrence Berkeley National Laboratory; Computational Research Division, Lawrence Berkeley National Laboratory + Berkeley Institute for Data Science, UC Berkeley; Computational Research Division, Lawrence Berkeley National Laboratory; Department of Electrical Engineering and Computer Sciences, UC Berkeley + Computational Research Division, Lawrence Berkeley National Laboratory; Department of Statistics and Applied Probability, UC Santa Barbara + Computational Research Division, Lawrence Berkeley National Laboratory"
+    },
+    {
+        "title": "Community Detection in Hypergraphs: Optimal Statistical Limit and Efficient Algorithms",
+        "aff": "University of Illinois, Urbana Champaign; National Taiwan University; National Taiwan University"
+    },
+    {
+        "title": "Comparison Based Learning from Weak Oracles",
+        "aff": ";;;"
+    },
+    {
+        "title": "Competing with Automata-based Expert Sequences",
+        "aff": "Courant Institute and Google Research; Courant Institute of Mathematical Sciences + D. E. Shaw & Co."
+    },
+    {
+        "title": "Conditional Gradient Method for Stochastic Submodular Maximization: Closing the Gap",
+        "aff": ";;"
+    },
+    {
+        "title": "Conditional independence testing based on a nearest-neighbor estimator of conditional mutual information",
+        "aff": ""
+    },
+    {
+        "title": "Contextual Bandits with Stochastic Experts",
+        "aff": "The University of Texas at Austin; IBM Research, Thomas J. Watson Center; The University of Texas at Austin"
+    },
+    {
+        "title": "Convergence diagnostics for stochastic gradient descent with constant learning rate",
+        "aff": "University of Chicago; University of Chicago, Booth School of Business"
+    },
+    {
+        "title": "Convergence of Value Aggregation for Imitation Learning",
+        "aff": "Georgia Institute of Technology; Georgia Institute of Technology"
+    },
+    {
+        "title": "Convex Optimization over Intersection of Simple Sets: improved Convergence Rate Guarantees via an Exact Penalty Approach",
+        "aff": ";;"
+    },
+    {
+        "title": "Crowdclustering with Partition Labels",
+        "aff": ";;;;;"
+    },
+    {
+        "title": "Data-Efficient Reinforcement Learning with Probabilistic Model Predictive Control",
+        "aff": "Department of Computing Imperial College London; Department of Computing Imperial College London"
+    },
+    {
+        "title": "Delayed Sampling and Automatic Rao-Blackwellization of Probabilistic Programs",
+        "aff": "Uppsala University; KTH Royal Institute of Technology; Uppsala University; KTH Royal Institute of Technology; Uppsala University"
+    },
+    {
+        "title": "Derivative Free Optimization Via Repeated Classification",
+        "aff": "Department of Statistics, Stanford University, Stanford, CA, 94305; Department of Statistics, Stanford University, Stanford, CA, 94305; Department of Statistics, Stanford University, Stanford, CA, 94305"
+    },
+    {
+        "title": "Differentially Private Regression with Gaussian Processes",
+        "aff": "Department of Computer Science, University of Sheffield; Department of Computer Science, University of Sheffield; Department of Computer Science, University of Sheffield; Department of Computer Science, University of Sheffield"
+    },
+    {
+        "title": "Dimensionality Reduced $\\ell^{0}$-Sparse Subspace Clustering",
+        "aff": "Independent Researcher"
+    },
+    {
+        "title": "Direct Learning to Rank And Rerank",
+        "aff": "Duke University; Carnegie Mellon University"
+    },
+    {
+        "title": "Discriminative Learning of Prediction Intervals",
+        "aff": ";;"
+    },
+    {
+        "title": "Dropout as a Low-Rank Regularizer for Matrix Factorization",
+        "aff": ";;;;;"
+    },
+    {
+        "title": "Efficient Bandit Combinatorial Optimization Algorithm with Zero-suppressed Binary Decision Diagrams",
+        "aff": ";;"
+    },
+    {
+        "title": "Efficient Bayesian Methods for Counting Processes in Partially Observable Environments",
+        "aff": ";;"
+    },
+    {
+        "title": "Efficient Weight Learning in High-Dimensional Untied MLNs",
+        "aff": "The University of Memphis; Adobe Research + The University of Memphis; The University of Memphis"
+    },
+    {
+        "title": "Efficient and principled score estimation with Nystr\u00f6m kernel exponential families",
+        "aff": "Gatsby Computational Neuroscience Unit, University College London; Gatsby Computational Neuroscience Unit, University College London; Gatsby Computational Neuroscience Unit, University College London; Gatsby Computational Neuroscience Unit, University College London"
+    },
+    {
+        "title": "Exploiting Strategy-Space Diversity for Batch Bayesian Optimization",
+        "aff": "Deakin University, Geelong, Australia; Deakin University, Geelong, Australia; Deakin University, Geelong, Australia; Deakin University, Geelong, Australia"
+    },
+    {
+        "title": "FLAG n\u2019 FLARE: Fast Linearly-Coupled Adaptive Gradient Methods",
+        "aff": "Department of EECS, UC Berkeley; School of Mathematics and Physics, University of Queensland; Department of EECS, UC Berkeley; Department of EECS and Department of Statistics, UC Berkeley; Department of Statistics, UC Berkeley"
+    },
+    {
+        "title": "Factor Analysis on a Graph",
+        "aff": "Department of Computer Science, Nagoya Institute of Technology, Aichi, Japan+Institute for Chemical Research, Kyoto University, Kyoto, Japan; Department of Computer Science, Aalto University, Espoo, Finland"
+    },
+    {
+        "title": "Factorial HMMs with Collapsed Gibbs Sampling for Optimizing Long-term HIV Therapy",
+        "aff": "IBM Research Haifa Research Lab; IBM Research Haifa Research Lab; IBM Research Haifa Research Lab; Karolinska Institute Karolinska University Hospital; Modena University Hospital; EuResist Network GEIE InformaPro S.r.l.; IBM Research Haifa Research Lab"
+    },
+    {
+        "title": "Factorized Recurrent Neural Architectures for Longer Range Dependence",
+        "aff": ";;;"
+    },
+    {
+        "title": "Fast Threshold Tests for Detecting Discrimination",
+        "aff": ";;"
+    },
+    {
+        "title": "Fast and Scalable Learning of Sparse Changes in High-Dimensional Gaussian Graphical Model Structure",
+        "aff": ";;"
+    },
+    {
+        "title": "Fast generalization error bound of deep learning from a kernel perspective",
+        "aff": ""
+    },
+    {
+        "title": "Few-shot Generative Modelling with Generative Matching Networks",
+        "aff": "National Research University Higher School of Economics1 + DeepMind; National Research University Higher School of Economics1"
+    },
+    {
+        "title": "Finding Global Optima in Nonconvex Stochastic Semidefinite Optimization with Variance Reduction",
+        "aff": "School of Computer Information Engineering, Jiangxi Normal University + Department of Mathematics, Hong Kong University of Science and Technology; SKLOIS, Institute of Information Engineering, Chinese Academy of Sciences + School of Cyber Security, University of Chinese Academy of Sciences; Department of Mathematics, Hong Kong University of Science and Technology"
+    },
+    {
+        "title": "Frank-Wolfe Splitting via Augmented Lagrangian Method",
+        "aff": "MILA, DIRO Universit\u00e9 de Montr\u00e9al; UC Berkeley & ETH Zurich; MILA, DIRO Universit\u00e9 de Montr\u00e9al"
+    },
+    {
+        "title": "Gauged Mini-Bucket Elimination for Approximate Inference",
+        "aff": ";;;"
+    },
+    {
+        "title": "Gaussian Process Subset Scanning for Anomalous Pattern Detection in Non-iid Data",
+        "aff": ";;;"
+    },
+    {
+        "title": "Generalized Binary Search For Split-Neighborly Problems",
+        "aff": "Stanford University; Stanford University"
+    },
+    {
+        "title": "Generalized Concomitant Multi-Task Lasso for Sparse Multimodal Regression",
+        "aff": ";;;"
+    },
+    {
+        "title": "Gradient Diversity: a Key Ingredient for Scalable Distributed Learning",
+        "aff": ";;;;;"
+    },
+    {
+        "title": "Gradient Layer: Enhancing the Convergence of Adversarial Training for Generative Models",
+        "aff": "Graduate School of Information Science and Technology, The University of Tokyo + Center for Advanced Intelligence Project, RIKEN; Graduate School of Information Science and Technology, The University of Tokyo + Center for Advanced Intelligence Project, RIKEN + PRESTO, Japan Science and Technology Agency"
+    },
+    {
+        "title": "Graphical Models for Non-Negative Data Using Generalized Score Matching",
+        "aff": ";;"
+    },
+    {
+        "title": "Group Invariance Principles for Causal Generative Models",
+        "aff": ";;;"
+    },
+    {
+        "title": "Growth-Optimal Portfolio Selection under CVaR Constraints",
+        "aff": "Computer Science Department, Technion - Israel Institute of Technology; Computer Science Department, Technion - Israel Institute of Technology"
+    },
+    {
+        "title": "Guaranteed Sufficient Decrease for Stochastic Variance Reduced Gradient Optimization",
+        "aff": "Department of Computer Science and Engineering, The Chinese University of Hong Kong; Department of Computer Science and Engineering, The Chinese University of Hong Kong; Department of Computer Science and Engineering, The Chinese University of Hong Kong; Department of Computer Science and Engineering, The Chinese University of Hong Kong; Department of Computer Science and Engineering, The Chinese University of Hong Kong; National Institute of Informatics, Tokyo, Japan"
+    },
+    {
+        "title": "HONES: A Fast and Tuning-free Homotopy Method For Online Newton Step",
+        "aff": "UC Berkeley; UC Berkeley; UC Berkeley"
+    },
+    {
+        "title": "High-Dimensional Bayesian Optimization via Additive Models with Overlapping Groups",
+        "aff": "Laboratory for Information and Inference Systems (LIONS), EPFL; Department of Computer Science & Department of Mathematics, National University of Singapore; Laboratory for Information and Inference Systems (LIONS), EPFL; Laboratory for Information and Inference Systems (LIONS), EPFL"
+    },
+    {
+        "title": "Human Interaction with Recommendation Systems",
+        "aff": "Stanford University; Google Brain"
+    },
+    {
+        "title": "IHT dies hard: Provable accelerated Iterative Hard Thresholding",
+        "aff": "University of Texas at Austin; IBM T.J. Watson Research Center"
+    },
+    {
+        "title": "Independently Interpretable Lasso: A New Regularizer for Sparse Regression with Uncorrelated Variables",
+        "aff": "School of Advanced Sciences, The Graduate University for Advanced Studies + Toshiba Corporation; Graduate School of Information Science and Technology, The University of Tokyo + PRESTO, Japan Science and Technology Agency, Japan + Center for Advanced Integrated Intelligence Research, RIKEN, Tokyo, Japan; School of Advanced Sciences, The Graduate University for Advanced Studies + The Institute of Statistical Mathematics"
+    },
+    {
+        "title": "Inference in Sparse Graphs with Pairwise Measurements and Side Information",
+        "aff": ";;"
+    },
+    {
+        "title": "Integral Transforms from Finite Data: An Application of Gaussian Process Regression to Fourier Analysis",
+        "aff": "Radboud University; Radboud University"
+    },
+    {
+        "title": "Intersection-Validation: A Method for Evaluating Structure Learning without Ground Truth",
+        "aff": "Department of Computer Science, University of Helsinki, Finland; Department of Computer Science, University of Helsinki, Finland; Department of Computer Science, University of Helsinki, Finland"
+    },
+    {
+        "title": "Iterative Spectral Method for Alternative Clustering",
+        "aff": ";;;;;"
+    },
+    {
+        "title": "Iterative Supervised Principal Components",
+        "aff": "Helsinki Institute for Information Technology, HIIT + Department of Computer Science, Aalto University; Helsinki Institute for Information Technology, HIIT + Department of Computer Science, Aalto University"
+    },
+    {
+        "title": "Kernel Conditional Exponential Family",
+        "aff": "Gatsby Computational Neuroscience Unit, University College London; Gatsby Computational Neuroscience Unit, University College London"
+    },
+    {
+        "title": "Labeled Graph Clustering via Projected Gradient Descent",
+        "aff": "IBM Research; Ecole Polytechnique"
+    },
+    {
+        "title": "Large Scale Empirical Risk Minimization via Truncated Adaptive Newton Method",
+        "aff": ";;"
+    },
+    {
+        "title": "Layerwise Systematic Scan: Deep Boltzmann Machines and Beyond",
+        "aff": ";;"
+    },
+    {
+        "title": "Learning Determinantal Point Processes in Sublinear Time",
+        "aff": "Amazon; INRIA - ENS - PSL Research University"
+    },
+    {
+        "title": "Learning Generative Models with Sinkhorn Divergences",
+        "aff": ";;"
+    },
+    {
+        "title": "Learning Hidden Quantum Markov Models",
+        "aff": ";;"
+    },
+    {
+        "title": "Learning Priors for Invariance",
+        "aff": "Department of Computer Science, University of California, Irvine; Department of Computer Science, University of California, Irvine"
+    },
+    {
+        "title": "Learning Sparse Polymatrix Games in Polynomial Time and Sample Complexity",
+        "aff": "Department of Computer Science, Purdue University, West Lafayette, IN, U.S.A. - 47907; Department of Computer Science, Purdue University, West Lafayette, IN, U.S.A. - 47907"
+    },
+    {
+        "title": "Learning Structural Weight Uncertainty for Sequential Decision-Making",
+        "aff": "Duke University; Duke University; University at Buffalo; Duke University"
+    },
+    {
+        "title": "Learning linear structural equation models in polynomial time and sample complexity",
+        "aff": "Department of Computer Science, Purdue University, West Lafayette, IN, U.S.A. - 47907; Department of Computer Science, Purdue University, West Lafayette, IN, U.S.A. - 47907"
+    },
+    {
+        "title": "Learning to Round for Discrete Labeling Problems",
+        "aff": ";;"
+    },
+    {
+        "title": "Learning with Complex Loss Functions and Constraints",
+        "aff": "Institute for Applied Computational Science, SEAS, Harvard University, Cambridge, MA 02138, USA"
+    },
+    {
+        "title": "Linear Stochastic Approximation: How Far Does Constant Step-Size and Iterate Averaging Go?",
+        "aff": "DeepMind; DeepMind"
+    },
+    {
+        "title": "Making Tree Ensembles Interpretable: A Bayesian Model Selection Approach",
+        "aff": "Osaka University, Japan + JST, ERATO, Kawarabayashi Large Graph Project; National Institute of Advanced Industrial Science and Technology, Japan"
+    },
+    {
+        "title": "Matrix completability analysis via graph k-connectivity",
+        "aff": ";;"
+    },
+    {
+        "title": "Matrix-normal models for fMRI analysis",
+        "aff": "Princeton Neuroscience Institute, Princeton University; Parallel Computing Lab, Intel Corporation; Princeton Neuroscience Institute, Princeton University; Princeton Neuroscience Institute, Princeton University; Parallel Computing Lab, Intel Corporation; Princeton Neuroscience Institute, Princeton University"
+    },
+    {
+        "title": "Medoids in Almost-Linear Time via Multi-Armed Bandits",
+        "aff": "Stanford University; Stanford University; UC, Berkeley; Stanford University; Stanford University"
+    },
+    {
+        "title": "Metrics for Deep Generative Models",
+        "aff": "AI Research, Data:Lab, Volkswagen Group, Munich, Germany; AI Research, Data:Lab, Volkswagen Group, Munich, Germany; AI Research, Data:Lab, Volkswagen Group, Munich, Germany; AI Research, Data:Lab, Volkswagen Group, Munich, Germany; AI Research, Data:Lab, Volkswagen Group, Munich, Germany; AI Research, Data:Lab, Volkswagen Group, Munich, Germany"
+    },
+    {
+        "title": "Minimax Reconstruction Risk of Convolutional Sparse Dictionary Learning",
+        "aff": "Machine Learning Department; Machine Learning Department; Computational Biology Department"
+    },
+    {
+        "title": "Minimax-Optimal Privacy-Preserving Sparse PCA in Distributed Systems",
+        "aff": ";;;"
+    },
+    {
+        "title": "Mixed Membership Word Embeddings for Computational Social Science",
+        "aff": "Department of Information Systems, University of Maryland, Baltimore County"
+    },
+    {
+        "title": "Multi-objective Contextual Bandit Problem with Similarity Information",
+        "aff": ";;"
+    },
+    {
+        "title": "Multi-scale Nystrom Method",
+        "aff": "Georgia Institute of Technology1; Georgia Institute of Technology1; Georgia Institute of Technology1; Seoul National University2; Georgia Institute of Technology1+Ant Financial3; Georgia Institute of Technology1"
+    },
+    {
+        "title": "Multi-view Metric Learning in Vector-valued Kernel Spaces",
+        "aff": ";;"
+    },
+    {
+        "title": "Multimodal Prediction and Personalization of Photo Edits with Deep Generative Models",
+        "aff": "CSAIL, MIT; Google Brain; Adobe Research; Media Lab, MIT; Google Brain; Princeton and Google Brain"
+    },
+    {
+        "title": "Multiphase MCMC Sampling for Parameter Inference in Nonlinear Ordinary Differential Equations",
+        "aff": ";;"
+    },
+    {
+        "title": "Natural Gradients in Practice: Non-Conjugate Variational Inference in Gaussian Process Models",
+        "aff": ";;"
+    },
+    {
+        "title": "Near-Optimal Machine Teaching via Explanatory Teaching Sets",
+        "aff": "Caltech; Caltech; Caltech; Caltech; Caltech"
+    },
+    {
+        "title": "Nearly second-order optimality of online joint detection and estimation via one-sample update schemes",
+        "aff": ";;;"
+    },
+    {
+        "title": "Nested CRP with Hawkes-Gaussian Processes",
+        "aff": "Department of Computer Science; Department of Statistics; Department of Computer Science+Department of Statistics"
+    },
+    {
+        "title": "Non-parametric estimation of Jensen-Shannon Divergence in Generative Adversarial Network training",
+        "aff": "IBM Research, Dublin, Ireland; IBM Research, Dublin, Ireland"
+    },
+    {
+        "title": "Nonlinear Structured Signal Estimation in High Dimensions via Iterative Hard Thresholding",
+        "aff": ";;"
+    },
+    {
+        "title": "Nonlinear Weighted Finite Automata",
+        "aff": "McGill University; McGill University; McGill University"
+    },
+    {
+        "title": "Nonparametric Bayesian sparse graph linear dynamical systems",
+        "aff": "Electrical & Computer Engineering, University of Texas at Austin; Electrical & Computer Engineering, University of Texas at Austin; McCombs School of Business, University of Texas at Austin"
+    },
+    {
+        "title": "Nonparametric Preference Completion",
+        "aff": "University of Michigan; University of Michigan"
+    },
+    {
+        "title": "Nonparametric Sharpe Ratio Function Estimation in Heteroscedastic Regression Models via Convex Optimization",
+        "aff": ";;"
+    },
+    {
+        "title": "On Statistical Optimality of Variational Bayes",
+        "aff": ";;"
+    },
+    {
+        "title": "On Truly Block Eigensolvers via Riemannian Optimization",
+        "aff": "Computer, Electrical and Mathematical Sciences and Engineering Division, King Abdullah University of Science and Technology (KAUST); Computer, Electrical and Mathematical Sciences and Engineering Division, King Abdullah University of Science and Technology (KAUST)"
+    },
+    {
+        "title": "On denoising modulo 1 samples of a function",
+        "aff": "Alan Turing Institute, London + University of Oxford; Alan Turing Institute, London + University of Edinburgh"
+    },
+    {
+        "title": "On how complexity affects the stability of a predictor",
+        "aff": "Department of Electrical and Electronics Engineering, Ariel University, ISRAEL"
+    },
+    {
+        "title": "On the Statistical Efficiency of Compositional Nonparametric Prediction",
+        "aff": ";;"
+    },
+    {
+        "title": "On the challenges of learning with inference networks on sparse, high-dimensional data",
+        "aff": ";;"
+    },
+    {
+        "title": "One-shot Coresets: The Case of k-Clustering",
+        "aff": ";;"
+    },
+    {
+        "title": "Online Boosting Algorithms for Multi-label Ranking",
+        "aff": "Department of Statistics, University of Michigan, Ann Arbor, MI 48109; Department of Statistics, University of Michigan, Ann Arbor, MI 48109"
+    },
+    {
+        "title": "Online Continuous Submodular Maximization",
+        "aff": ";;"
+    },
+    {
+        "title": "Online Ensemble Multi-kernel Learning Adaptive to Non-stationary and Adversarial Environments",
+        "aff": ";;"
+    },
+    {
+        "title": "Online Learning with Non-Convex Losses and Non-Stationary Regret",
+        "aff": ";;"
+    },
+    {
+        "title": "Online Regression with Partial Information: Generalization and Linear Projection",
+        "aff": "NEC Corporation; National Institute of Informatics; National Institute of Informatics; NEC Corporation; RIKEN AIP, JST PRESTO; Keio University; National Institute of Informatics"
+    },
+    {
+        "title": "Optimal Cooperative Inference",
+        "aff": "Department of Mathematics & Computer Science, Rutgers University\u2014Newark; Department of Mathematics & Computer Science, Rutgers University\u2014Newark; Department of Mathematics & Computer Science, Rutgers University\u2014Newark; Department of Mathematics & Computer Science, Rutgers University\u2014Newark; Department of Mathematics & Computer Science, Rutgers University\u2014Newark; Department of Mathematics & Computer Science, Rutgers University\u2014Newark"
+    },
+    {
+        "title": "Optimal Submodular Extensions for Marginal Estimation",
+        "aff": "University of Oxford + The Alan Turing Institute; The Alan Turing Institute + University of Surrey; University of Oxford + The Alan Turing Institute"
+    },
+    {
+        "title": "Optimality of Approximate Inference Algorithms on Stable Instances",
+        "aff": ";;"
+    },
+    {
+        "title": "Outlier Detection and Robust Estimation in Nonparametric Regression",
+        "aff": ";;"
+    },
+    {
+        "title": "Parallel and Distributed MCMC via Shepherding Distributions",
+        "aff": "Rice University; Rice University"
+    },
+    {
+        "title": "Parallelised Bayesian Optimisation via Thompson Sampling",
+        "aff": "Carnegie Mellon University; University of Massachusetts, Amherst; Carnegie Mellon University; Carnegie Mellon University"
+    },
+    {
+        "title": "Personalized and Private Peer-to-Peer Machine Learning",
+        "aff": ";;;"
+    },
+    {
+        "title": "Plug-in Estimators for Conditional Expectations and Probabilities",
+        "aff": "Department of Mathematics and Statistics, Lancaster University"
+    },
+    {
+        "title": "Policy Evaluation and Optimization with Continuous Treatments",
+        "aff": "Cornell University and Cornell Tech; Cornell University"
+    },
+    {
+        "title": "Post Selection Inference with Kernels",
+        "aff": ";;;"
+    },
+    {
+        "title": "Practical Bayesian optimization in the presence of outliers",
+        "aff": ";;"
+    },
+    {
+        "title": "Probability\u2013Revealing Samples",
+        "aff": "IBM Research; Microsoft Research"
+    },
+    {
+        "title": "Product Kernel Interpolation for Scalable Gaussian Processes",
+        "aff": "Cornell University; Cornell University; Cornell University+Tsinghua University; Cornell University; Cornell University"
+    },
+    {
+        "title": "Provable Estimation of the Number of Blocks in Block Models",
+        "aff": "University of Texas at Austin; University of Texas at Austin; Duke University"
+    },
+    {
+        "title": "Proximity Variational Inference",
+        "aff": "Princeton University; New York University; Columbia University"
+    },
+    {
+        "title": "Quotient Normalized Maximum Likelihood Criterion for Learning Bayesian Network Structures",
+        "aff": ";;;"
+    },
+    {
+        "title": "Random Subspace with Trees for Feature Selection Under Memory Constraints",
+        "aff": "University of Li\u00e8ge, Belgium; Aix-Marseille University, France; University of Li\u00e8ge, Belgium + New York University, USA; University of Li\u00e8ge, Belgium; University of Li\u00e8ge, Belgium"
+    },
+    {
+        "title": "Random Warping Series: A Random Features Method for Time-Series Embedding",
+        "aff": "IBM Research; Carnegie Mellon University; IBM Research; College of William and Mary; University of Texas at Austin; IBM Research"
+    },
+    {
+        "title": "Reducing Crowdsourcing to Graphon Estimation, Statistically",
+        "aff": "Massachusetts Institute of Technology; Microsoft Research New England"
+    },
+    {
+        "title": "Regional Multi-Armed Bandits",
+        "aff": "School of Information Science and Technology, University of Science and Technology of China; School of Information Science and Technology, University of Science and Technology of China; School of Information Science and Technology, University of Science and Technology of China"
+    },
+    {
+        "title": "Reparameterizing the Birkhoff Polytope for Variational Permutation Inference",
+        "aff": "Columbia University; Columbia University; Columbia University; Columbia University; Columbia University"
+    },
+    {
+        "title": "Riemannian stochastic quasi-Newton algorithm with variance reduction and its convergence analysis",
+        "aff": "The University of Electro-Communications; Kyoto University; Amazon.com"
+    },
+    {
+        "title": "Robust Active Label Correction",
+        "aff": ";;"
+    },
+    {
+        "title": "Robust Locally-Linear Controllable Embedding",
+        "aff": "University of Waterloo; Standford University; DeepMind; DeepMind; University of Waterloo"
+    },
+    {
+        "title": "Robust Maximization of Non-Submodular Objectives",
+        "aff": "LIONS, EPFL; LIONS, EPFL; LIONS, EPFL"
+    },
+    {
+        "title": "Robust Vertex Enumeration for Convex Hulls in High Dimensions",
+        "aff": "Computer Science Department, Rutgers University, Piscataway, NJ 08854, USA; Computer Science Department, Rutgers University, Piscataway, NJ 08854, USA; Computer Science Department, Rutgers University, Piscataway, NJ 08854, USA"
+    },
+    {
+        "title": "Robustness of classifiers to uniform $\\ell_p$ and Gaussian noise",
+        "aff": "Ecole Normale Sup\u00e9rieure de Lyon, LIP, UMR 5668; UCLA Vision Lab*; Ecole Normale Sup\u00e9rieure de Lyon, LIP, UMR 5668"
+    },
+    {
+        "title": "SDCA-Powered Inexact Dual Augmented Lagrangian Method for Fast CRF Learning",
+        "aff": ";"
+    },
+    {
+        "title": "Scalable Gaussian Processes with Billions of Inducing Inputs via Tensor Train Decomposition",
+        "aff": ";;"
+    },
+    {
+        "title": "Scalable Generalized Dynamic Topic Models",
+        "aff": ";;;"
+    },
+    {
+        "title": "Scalable Hash-Based Estimation of Divergence Measures",
+        "aff": "Electrical Engineering and Computer Science, University of Michigan; Electrical Engineering and Computer Science, University of Michigan"
+    },
+    {
+        "title": "Scaling up the Automatic Statistician: Scalable Structure Discovery using Gaussian Processes",
+        "aff": "University of Oxford + DeepMind; University of Oxford + DeepMind"
+    },
+    {
+        "title": "Semi-Supervised Learning with Competitive Infection Models",
+        "aff": "Harvard University; Tel Aviv University"
+    },
+    {
+        "title": "Semi-Supervised Prediction-Constrained Topic Models",
+        "aff": "School of Engineering and Applied Sciences, Harvard University; School of Information & Computer Sciences, Univ. of California, Irvine; Department of Computer Science, Brown University; Massachusetts General Hospital & Harvard Medical School; Massachusetts General Hospital & Harvard Medical School; School of Information & Computer Sciences, Univ. of California, Irvine + Department of Computer Science, Brown University; School of Engineering and Applied Sciences, Harvard University"
+    },
+    {
+        "title": "Sketching for Kronecker Product Regression and P-splines",
+        "aff": "Northeast Normal University; Harvard U & UT-Austin; Carnegie Mellon University; Carnegie Mellon University"
+    },
+    {
+        "title": "Slow and Stale Gradients Can Win the Race: Error-Runtime Trade-offs in Distributed SGD",
+        "aff": "Carnegie Mellon University; Carnegie Mellon University; IBM TJ Watson Research Center; IBM TJ Watson Research Center; IBM TJ Watson Research Center"
+    },
+    {
+        "title": "Smooth and Sparse Optimal Transport",
+        "aff": "NTT Communication Science Laboratories; Kyoto University; Kyoto University"
+    },
+    {
+        "title": "Solving lp-norm regularization with tensor kernels",
+        "aff": ";;"
+    },
+    {
+        "title": "Sparse Linear Isotonic Models",
+        "aff": "Department of Computer Science and Engineering, University of Minnesota, Twin Cities; Department of Computer Science and Engineering, University of Minnesota, Twin Cities"
+    },
+    {
+        "title": "Spectral Algorithms for Computing Fair Support Vector Machines",
+        "aff": "UC Berkeley; UC Berkeley"
+    },
+    {
+        "title": "Statistical Sparse Online Regression: A Diffusion Approximation Perspective",
+        "aff": "Princeton University; Princeton University; Princeton University + University of Toronto; University of Toronto"
+    },
+    {
+        "title": "Statistically Efficient Estimation for Non-Smooth Probability Densities",
+        "aff": "Institute of Statistical Mathematics; RIKEN Advanced Intelligence Project; RIKEN Advanced Intelligence Project + National Institute of Informatics"
+    },
+    {
+        "title": "Stochastic Multi-armed Bandits in Constant Space",
+        "aff": "The University of Texas at Austin; The University of Texas at Austin; The University of Texas at Austin; The University of Texas at Austin"
+    },
+    {
+        "title": "Stochastic Three-Composite Convex Minimization with a Linear Operator",
+        "aff": "LIONS, EPFL; LIONS, EPFL"
+    },
+    {
+        "title": "Stochastic Zeroth-order Optimization in High Dimensions",
+        "aff": ";;;"
+    },
+    {
+        "title": "Stochastic algorithms for entropy-regularized optimal transport problems",
+        "aff": "Ecole polytechnique1+Inria, SIERRA team and ENSAE, CREST; LTCI, T\u00b4 el\u00b4 ecom-Paristech, Universit\u00b4 e Paris-Saclay2+Inria, SIERRA team"
+    },
+    {
+        "title": "Structured Factored Inference for Probabilistic Programming",
+        "aff": ";;;"
+    },
+    {
+        "title": "Structured Optimal Transport",
+        "aff": ";;"
+    },
+    {
+        "title": "Submodularity on Hypergraphs: From Sets to Sequences",
+        "aff": ";;;"
+    },
+    {
+        "title": "Subsampling for Ridge Regression via Regularized Volume Sampling",
+        "aff": ";"
+    },
+    {
+        "title": "Sum-Product-Quotient Networks",
+        "aff": "The Hebrew University of Jerusalem; The Hebrew University of Jerusalem"
+    },
+    {
+        "title": "Symmetric Variational Autoencoder and Connections to Adversarial Learning",
+        "aff": "Duke University; Duke University; Duke University; Megvii Research; Duke University; Sun Yat-Sen University, China; University at Buffalo, SUNY; Duke University"
+    },
+    {
+        "title": "Teacher Improves Learning by Selecting a Training Subset",
+        "aff": "University of Wisconsin-Madison; University of Wisconsin-Madison; Massachusetts Institute of Technology; University of Wisconsin-Madison; University of Wisconsin-Madison"
+    },
+    {
+        "title": "Temporally-Reweighted Chinese Restaurant Process Mixtures for Clustering, Imputing, and Forecasting Multivariate Time Series",
+        "aff": "Probabilistic Computing Project, Massachusetts Institute of Technology; Probabilistic Computing Project, Massachusetts Institute of Technology"
+    },
+    {
+        "title": "Tensor Regression Meets Gaussian Processes",
+        "aff": ";;"
+    },
+    {
+        "title": "The Binary Space Partitioning-Tree Process",
+        "aff": "School of Mathematics and Statistics, University of New South Wales; School of Computer Science, Fudan University; School of Mathematics and Statistics, University of New South Wales"
+    },
+    {
+        "title": "The Geometry of Random Features",
+        "aff": "Google Brain, NY; University of Cambridge, UK; Google Brain, NY; Google Brain, NY; University of Cambridge, UK; University of Cambridge, UK+The Alan Turing Institute, UK"
+    },
+    {
+        "title": "The Power Mean Laplacian for Multilayer Graph Clustering",
+        "aff": ";;;"
+    },
+    {
+        "title": "The emergence of spectral universality in deep networks",
+        "aff": "Google Brain; Google Brain; Google Brain + Applied Physics, Stanford University"
+    },
+    {
+        "title": "Topic Compositional Neural Language Model",
+        "aff": ";;;;;;;"
+    },
+    {
+        "title": "Towards Memory-Friendly Deterministic Incremental Gradient Method",
+        "aff": "College of Computer Science and Technology, Zhejiang University, China; College of Computer Science and Technology, Zhejiang University, China; College of Computer Science and Technology, Zhejiang University, China; College of Computer Science and Technology, Zhejiang University, China"
+    },
+    {
+        "title": "Towards Provable Learning of Polynomial Neural Networks Using Low-Rank Matrix Estimation",
+        "aff": "Iowa State University; Iowa State University"
+    },
+    {
+        "title": "Tracking the gradients using the Hessian: A new look at variance reducing stochastic methods",
+        "aff": "LTCI, T\u00b4 el\u00b4 ecom Paristech, Universit\u00b4 e Paris-Saclay; Google Brain; INRIA - ENS - PSL Research University"
+    },
+    {
+        "title": "Transfer Learning on fMRI Datasets",
+        "aff": ";;"
+    },
+    {
+        "title": "Tree-based Bayesian Mixture Model for Competing Risks",
+        "aff": "University of Oxford, UK; University of Oxford, UK + Alan Touring Institute, London, UK"
+    },
+    {
+        "title": "Turing: A Language for Flexible Probabilistic Inference",
+        "aff": "University of Cambridge; University of Edinburgh; University of Cambridge + Uber"
+    },
+    {
+        "title": "VAE with a VampPrior",
+        "aff": "University of Amsterdam; University of Amsterdam"
+    },
+    {
+        "title": "Variational Inference based on Robust Divergences",
+        "aff": ";;"
+    },
+    {
+        "title": "Variational Rejection Sampling",
+        "aff": "Stanford University; Vicarious; Vicarious; University of Alberta; Stanford University"
+    },
+    {
+        "title": "Variational Sequential Monte Carlo",
+        "aff": ";;;"
+    },
+    {
+        "title": "Variational inference for the multi-armed contextual bandit",
+        "aff": "Department of Applied Physics and Applied Mathematics + Data Science Institute, Columbia University; Department of Applied Physics and Applied Mathematics + Data Science Institute, Columbia University"
+    },
+    {
+        "title": "Weighted Tensor Decomposition for Learning Latent Variables with Partial Data",
+        "aff": ";;"
+    },
+    {
+        "title": "Why Adaptively Collected Data Have Negative Bias and How to Correct for It",
+        "aff": ";;;"
+    },
+    {
+        "title": "Zeroth-Order Online Alternating Direction Method of Multipliers: Convergence Analysis and Applications",
+        "aff": ";;;"
+    }
+]

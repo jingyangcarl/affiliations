@@ -1,5 +1,149 @@
 [
     {
+        "title": "\"A Framework for Efficient Model Evaluation through Stratification, Sampling, and Estimation\"",
+        "aff": ""
+    },
+    {
+        "title": "\"BK-SDM: A Lightweight, Fast, and Cheap Version of Stable Diffusion\"",
+        "aff": ""
+    },
+    {
+        "title": "\"BlinkVision: A Benchmark for Optical Flow, Scene Flow and Point Tracking Estimation using RGB Frames and Events\"",
+        "aff": ""
+    },
+    {
+        "title": "\"ByteEdit: Boost, Comply and Accelerate Generative Image Editing\"",
+        "aff": ""
+    },
+    {
+        "title": "\"Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images\"",
+        "aff": ""
+    },
+    {
+        "title": "\"Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation\"",
+        "aff": ""
+    },
+    {
+        "title": "\"Close, But Not There: Boosting Geographic Distance Sensitivity in Visual Place Recognition\"",
+        "aff": ""
+    },
+    {
+        "title": "\"DECOLLAGE: 3D Detailization by Controllable, Localized, and Learned Geometry Enhancement\"",
+        "aff": ""
+    },
+    {
+        "title": "\"EMDM: Efficient Motion Diffusion Model for Fast, High-Quality Human Motion Generation\"",
+        "aff": ""
+    },
+    {
+        "title": "\"Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation\"",
+        "aff": ""
+    },
+    {
+        "title": "\"FARSE-CNN: Fully Asynchronous, Recurrent and Sparse Event-Based CNN\"",
+        "aff": ""
+    },
+    {
+        "title": "\"Hyperion \u2013 A fast, versatile symbolic Gaussian Belief Propagation framework for Continuous-Time SLAM\"",
+        "aff": ""
+    },
+    {
+        "title": "\"Idling Neurons, Appropriately Lenient Workload During Fine-tuning Leads to Better Generalization\"",
+        "aff": ""
+    },
+    {
+        "title": "\"MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training\"",
+        "aff": ""
+    },
+    {
+        "title": "\"NeuSDFusion: A Spatial-Aware Generative Model for 3D Shape Completion, Reconstruction, and Generation\"",
+        "aff": ""
+    },
+    {
+        "title": "\"Not Just Change the Labels, Learn the Features: Watermarking Deep Neural Networks with Multi-View Data\"",
+        "aff": ""
+    },
+    {
+        "title": "\"On Calibration of Object Detectors: Pitfalls, Evaluation and Baselines\"",
+        "aff": ""
+    },
+    {
+        "title": "\"Plan, Posture and Go: Towards Open-vocabulary Text-to-Motion Generation\"",
+        "aff": ""
+    },
+    {
+        "title": "\"PointNeRF++: A multi-scale, point-based Neural Radiance Field\"",
+        "aff": ""
+    },
+    {
+        "title": "\"PoseEmbroider: Towards a 3D, Visual, Semantic-aware Human Pose Representation\"",
+        "aff": ""
+    },
+    {
+        "title": "\"ProCreate, Don't Reproduce! Propulsive Energy Diffusion for Creative Generation\"",
+        "aff": ""
+    },
+    {
+        "title": "\"Propose, Assess, Search: Harnessing LLMs for Goal-Oriented Planning in Instructional Videos\"",
+        "aff": ""
+    },
+    {
+        "title": "\"RICA^2: Rubric-Informed, Calibrated Assessment of Actions\"",
+        "aff": ""
+    },
+    {
+        "title": "\"Refine, Discriminate and Align: Stealing Encoders via Sample-Wise Prototypes and Multi-Relational Extraction\"",
+        "aff": ""
+    },
+    {
+        "title": "\"SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow\"",
+        "aff": ""
+    },
+    {
+        "title": "\"SIMBA: Split Inference - Mechanisms, Benchmarks and Attacks\"",
+        "aff": ""
+    },
+    {
+        "title": "\"SLAck: Semantic, Location, and Appearance Aware Open-Vocabulary Tracking\"",
+        "aff": ""
+    },
+    {
+        "title": "\"SPHINX: A Mixer of Weights, Visual Embeddings and Image Scales for Multi-modal Large Language Models\"",
+        "aff": ""
+    },
+    {
+        "title": "\"Segment, Lift and Fit: Automatic 3D Shape Labeling from 2D Prompts\"",
+        "aff": ""
+    },
+    {
+        "title": "\"Smoothness, Synthesis, and Sampling: Re-thinking Unsupervised Multi-View Stereo with DIV Loss\"",
+        "aff": ""
+    },
+    {
+        "title": "\"Towards Dual Transparent Liquid Level Estimation in Biomedical Lab: Dataset, Methods and Practice\"",
+        "aff": ""
+    },
+    {
+        "title": "\"Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance\"",
+        "aff": ""
+    },
+    {
+        "title": "\"UniINR: Event-guided Unified Rolling Shutter Correction, Deblurring, and Interpolation\"",
+        "aff": ""
+    },
+    {
+        "title": "\"Unsupervised, Online and On-The-Fly Anomaly Detection For Non-Stationary Image Distributions\"",
+        "aff": ""
+    },
+    {
+        "title": "\"Veil Privacy on Visual Data: Concealing Privacy for Humans, Unveiling for DNNs\"",
+        "aff": ""
+    },
+    {
+        "title": "\"X-InstructBLIP: A Framework for Aligning Image, 3D, Audio, Video to LLMs and its Emergent Cross-modal Reasoning\"",
+        "aff": ""
+    },
+    {
         "title": "2S-ODIS: Two-Stage Omni-Directional Image Synthesis by Geometric Distortion Correction",
         "aff": ""
     },
@@ -121,10 +265,6 @@
     },
     {
         "title": "A Fair Ranking and New Model for Panoptic Scene Graph Generation",
-        "aff": ""
-    },
-    {
-        "title": "A Framework for Efficient Model Evaluation through Stratification, Sampling, and Estimation",
         "aff": ""
     },
     {
@@ -708,10 +848,6 @@
         "aff": ""
     },
     {
-        "title": "BK-SDM: A Lightweight, Fast, and Cheap Version of Stable Diffusion",
-        "aff": ""
-    },
-    {
         "title": "BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation",
         "aff": ""
     },
@@ -872,10 +1008,6 @@
         "aff": ""
     },
     {
-        "title": "BlinkVision: A Benchmark for Optical Flow, Scene Flow and Point Tracking Estimation using RGB Frames and Events",
-        "aff": ""
-    },
-    {
         "title": "Bones Can't Be Triangles: Accurate and Efficient Vertebrae Keypoint Estimation through Collaborative Error Revision",
         "aff": ""
     },
@@ -949,10 +1081,6 @@
     },
     {
         "title": "BurstM: Deep Burst Multi-scale SR using Fourier Space with Optical Flow",
-        "aff": ""
-    },
-    {
-        "title": "ByteEdit: Boost, Comply and Accelerate Generative Image Editing",
         "aff": ""
     },
     {
@@ -1164,10 +1292,6 @@
         "aff": ""
     },
     {
-        "title": "Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images",
-        "aff": ""
-    },
-    {
         "title": "Causal Subgraphs and Information Bottlenecks: Redefining OOD Robustness in Graph Neural Networks",
         "aff": ""
     },
@@ -1252,10 +1376,6 @@
         "aff": ""
     },
     {
-        "title": "Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation",
-        "aff": ""
-    },
-    {
         "title": "Click Prompt Learning with Optimal Transport for Interactive Segmentation",
         "aff": ""
     },
@@ -1268,11 +1388,7 @@
         "aff": ""
     },
     {
-        "title": "Close, But Not There: Boosting Geographic Distance Sensitivity in Visual Place Recognition",
-        "aff": ""
-    },
-    {
-        "title": "Closed-Loop Unsupervised Representation Disentanglement with $\\beta$-VAE Distillation and Diffusion Probabilistic Feedback",
+        "title": "Closed-Loop Unsupervised Representation Disentanglement with $\\\\beta$-VAE Distillation and Diffusion Probabilistic Feedback",
         "aff": ""
     },
     {
@@ -1677,10 +1793,6 @@
     },
     {
         "title": "DECIDER: Leveraging Foundation Model Priors for Improved Model Failure Detection and Explanation",
-        "aff": ""
-    },
-    {
-        "title": "DECOLLAGE: 3D Detailization by Controllable, Localized, and Learned Geometry Enhancement",
         "aff": ""
     },
     {
@@ -2452,10 +2564,6 @@
         "aff": ""
     },
     {
-        "title": "EMDM: Efficient Motion Diffusion Model for Fast, High-Quality Human Motion Generation",
-        "aff": ""
-    },
-    {
         "title": "EMIE-MAP: Large-Scale Road Surface Reconstruction Based on Explicit Mesh and Implicit Encoding",
         "aff": ""
     },
@@ -2900,10 +3008,6 @@
         "aff": ""
     },
     {
-        "title": "Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation",
-        "aff": ""
-    },
-    {
         "title": "F-HOI: Toward Fine-grained Semantic-Aligned 3D Human-Object Interactions",
         "aff": ""
     },
@@ -2917,10 +3021,6 @@
     },
     {
         "title": "FAMOUS: High-Fidelity Monocular 3D Human Digitization Using View Synthesis",
-        "aff": ""
-    },
-    {
-        "title": "FARSE-CNN: Fully Asynchronous, Recurrent and Sparse Event-Based CNN",
         "aff": ""
     },
     {
@@ -3968,10 +4068,6 @@
         "aff": ""
     },
     {
-        "title": "Hyperion \u2013 A fast, versatile symbolic Gaussian Belief Propagation framework for Continuous-Time SLAM",
-        "aff": ""
-    },
-    {
         "title": "Hypernetworks for Generalizable BRDF Representation",
         "aff": ""
     },
@@ -4037,10 +4133,6 @@
     },
     {
         "title": "Identity-Consistent Diffusion Network for Grading Knee Osteoarthritis Progression in Radiographic Imaging",
-        "aff": ""
-    },
-    {
-        "title": "Idling Neurons, Appropriately Lenient Workload During Fine-tuning Leads to Better Generalization",
         "aff": ""
     },
     {
@@ -5092,10 +5184,6 @@
         "aff": ""
     },
     {
-        "title": "MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training",
-        "aff": ""
-    },
-    {
         "title": "MMBENCH: Is Your Multi-Modal Model an All-around Player?",
         "aff": ""
     },
@@ -5696,10 +5784,6 @@
         "aff": ""
     },
     {
-        "title": "NeuSDFusion: A Spatial-Aware Generative Model for 3D Shape Completion, Reconstruction, and Generation",
-        "aff": ""
-    },
-    {
         "title": "Neural Metamorphosis",
         "aff": ""
     },
@@ -5769,10 +5853,6 @@
     },
     {
         "title": "Norma: A Noise Robust Memory-Augmented Framework for Whole Slide Image Classification",
-        "aff": ""
-    },
-    {
-        "title": "Not Just Change the Labels, Learn the Features: Watermarking Deep Neural Networks with Multi-View Data",
         "aff": ""
     },
     {
@@ -5909,10 +5989,6 @@
     },
     {
         "title": "Omniview-Tuning: Boosting Viewpoint Invariance of Vision-Language Pre-training Models",
-        "aff": ""
-    },
-    {
-        "title": "On Calibration of Object Detectors: Pitfalls, Evaluation and Baselines",
         "aff": ""
     },
     {
@@ -6404,10 +6480,6 @@
         "aff": ""
     },
     {
-        "title": "Plan, Posture and Go: Towards Open-vocabulary Text-to-Motion Generation",
-        "aff": ""
-    },
-    {
         "title": "Platypus: A Generalized Specialist Model for Reading Text in Various Forms",
         "aff": ""
     },
@@ -6425,10 +6497,6 @@
     },
     {
         "title": "PointLLM: Empowering Large Language Models to Understand Point Clouds",
-        "aff": ""
-    },
-    {
-        "title": "PointNeRF++: A multi-scale, point-based Neural Radiance Field",
         "aff": ""
     },
     {
@@ -6469,10 +6537,6 @@
     },
     {
         "title": "PoseCrafter: One-Shot Personalized Video Synthesis Following Flexible Pose Control",
-        "aff": ""
-    },
-    {
-        "title": "PoseEmbroider: Towards a 3D, Visual, Semantic-aware Human Pose Representation",
         "aff": ""
     },
     {
@@ -6537,10 +6601,6 @@
     },
     {
         "title": "Pro2SAM: Mask Prompt to SAM with Grid Points for Weakly Supervised Object Localization",
-        "aff": ""
-    },
-    {
-        "title": "ProCreate, Don't Reproduce! Propulsive Energy Diffusion for Creative Generation",
         "aff": ""
     },
     {
@@ -6609,10 +6669,6 @@
     },
     {
         "title": "Prompting Language-Informed Distribution for Compositional Zero-Shot Learning",
-        "aff": ""
-    },
-    {
-        "title": "Propose, Assess, Search: Harnessing LLMs for Goal-Oriented Planning in Instructional Videos",
         "aff": ""
     },
     {
@@ -6733,10 +6789,6 @@
     },
     {
         "title": "RGNet: A Unified Clip Retrieval and Grounding Network for Long Videos",
-        "aff": ""
-    },
-    {
-        "title": "RICA^2: Rubric-Informed, Calibrated Assessment of Actions",
         "aff": ""
     },
     {
@@ -6921,10 +6973,6 @@
     },
     {
         "title": "Referring Atomic Video Action Recognition",
-        "aff": ""
-    },
-    {
-        "title": "Refine, Discriminate and Align: Stealing Encoders via Sample-Wise Prototypes and Multi-Relational Extraction",
         "aff": ""
     },
     {
@@ -7340,10 +7388,6 @@
         "aff": ""
     },
     {
-        "title": "SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow",
-        "aff": ""
-    },
-    {
         "title": "SEDiff: Structure Extraction for Domain Adaptive Depth Estimation via Denoising Diffusion Models",
         "aff": ""
     },
@@ -7392,15 +7436,7 @@
         "aff": ""
     },
     {
-        "title": "SIMBA: Split Inference - Mechanisms, Benchmarks and Attacks",
-        "aff": ""
-    },
-    {
         "title": "SINDER: Repairing the Singular Defects of DINOv2",
-        "aff": ""
-    },
-    {
-        "title": "SLAck: Semantic, Location, and Appearance Aware Open-Vocabulary Tracking",
         "aff": ""
     },
     {
@@ -7441,10 +7477,6 @@
     },
     {
         "title": "SPARO: Selective Attention for Robust and Compositional Transformer Encodings for Vision",
-        "aff": ""
-    },
-    {
-        "title": "SPHINX: A Mixer of Weights, Visual Embeddings and Image Scales for Multi-modal Large Language Models",
         "aff": ""
     },
     {
@@ -7645,10 +7677,6 @@
     },
     {
         "title": "Segment and Recognize Anything at Any Granularity",
-        "aff": ""
-    },
-    {
-        "title": "Segment, Lift and Fit: Automatic 3D Shape Labeling from 2D Prompts",
         "aff": ""
     },
     {
@@ -7917,10 +7945,6 @@
     },
     {
         "title": "SmartControl: Enhancing ControlNet for Handling Rough Visual Conditions",
-        "aff": ""
-    },
-    {
-        "title": "Smoothness, Synthesis, and Sampling: Re-thinking Unsupervised Multi-View Stereo with DIV Loss",
         "aff": ""
     },
     {
@@ -8568,10 +8592,6 @@
         "aff": ""
     },
     {
-        "title": "Towards Dual Transparent Liquid Level Estimation in Biomedical Lab: Dataset, Methods and Practice",
-        "aff": ""
-    },
-    {
         "title": "Towards High-Quality 3D Motion Transfer with Realistic Apparel Animation",
         "aff": ""
     },
@@ -8689,10 +8709,6 @@
     },
     {
         "title": "Trackastra: Transformer-based cell tracking for live-cell microscopy",
-        "aff": ""
-    },
-    {
-        "title": "Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance",
         "aff": ""
     },
     {
@@ -8896,10 +8912,6 @@
         "aff": ""
     },
     {
-        "title": "UniINR: Event-guided Unified Rolling Shutter Correction, Deblurring, and Interpolation",
-        "aff": ""
-    },
-    {
         "title": "UniIR: Training and Benchmarking Universal Multimodal Information Retrievers",
         "aff": ""
     },
@@ -9001,10 +9013,6 @@
     },
     {
         "title": "Unsupervised Variational Translator for Bridging Image Restoration and High-Level Vision Tasks",
-        "aff": ""
-    },
-    {
-        "title": "Unsupervised, Online and On-The-Fly Anomaly Detection For Non-Stationary Image Distributions",
         "aff": ""
     },
     {
@@ -9121,10 +9129,6 @@
     },
     {
         "title": "VeCLIP: Improving CLIP Training via Visual-enriched Captions",
-        "aff": ""
-    },
-    {
-        "title": "Veil Privacy on Visual Data: Concealing Privacy for Humans, Unveiling for DNNs",
         "aff": ""
     },
     {
@@ -9433,10 +9437,6 @@
     },
     {
         "title": "X-Former: Unifying Contrastive and Reconstruction Learning for MLLMs",
-        "aff": ""
-    },
-    {
-        "title": "X-InstructBLIP: A Framework for Aligning Image, 3D, Audio, Video to LLMs and its Emergent Cross-modal Reasoning",
         "aff": ""
     },
     {

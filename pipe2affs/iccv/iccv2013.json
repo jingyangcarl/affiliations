@@ -1,95 +1,95 @@
 [
     {
         "title": "3D Scene Understanding by Voxel-CRF",
-        "aff": "University of Michigan; Stanford University; Microsoft Research Cambridge"
+        "aff": "University of Michigan; Microsoft Research Cambridge; Stanford University"
     },
     {
         "title": "3D Sub-query Expansion for Improving Sketch-Based Multi-view Image Retrieval",
-        "aff": "National Taiwan University, Taipei, Taiwan"
+        "aff": "National Taiwan University, Taipei, Taiwan; National Taiwan University, Taipei, Taiwan; National Taiwan University, Taipei, Taiwan; National Taiwan University, Taipei, Taiwan"
     },
     {
         "title": "3DNN: Viewpoint Invariant 3D Geometry Matching for Scene Understanding",
-        "aff": "Carnegie Mellon University; Google Inc."
+        "aff": "Google Inc.*; Carnegie Mellon University"
     },
     {
         "title": "A Color Constancy Model with Double-Opponency Mechanisms",
-        "aff": "University of Electronic Science and Technology of China, Chengdu, China; Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, China"
+        "aff": "University of Electronic Science and Technology of China, Chengdu, China; University of Electronic Science and Technology of China, Chengdu, China; University of Electronic Science and Technology of China, Chengdu, China + Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, China; University of Electronic Science and Technology of China, Chengdu, China"
     },
     {
         "title": "A Convex Optimization Framework for Active Learning",
-        "aff": "University of California, Berkeley; Duke University"
+        "aff": ";;;"
     },
     {
         "title": "A Deep Sum-Product Architecture for Robust Facial Attributes Analysis",
-        "aff": "Department of Information Engineering, The Chinese University of Hong Kong; Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences; Department of Electronic Engineering, The Chinese University of Hong Kong"
+        "aff": "Department of Information Engineering, The Chinese University of Hong Kong + Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences; Department of Electronic Engineering, The Chinese University of Hong Kong; Department of Information Engineering, The Chinese University of Hong Kong + Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences"
     },
     {
         "title": "A Deformable Mixture Parsing Model with Parselets",
-        "aff": "Panasonic Singapore Laboratories, Singapore; Department of Electrical and Computer Engineering, National University of Singapore, Singapore"
+        "aff": "Department of Electrical and Computer Engineering, National University of Singapore, Singapore; Department of Electrical and Computer Engineering, National University of Singapore, Singapore; Department of Electrical and Computer Engineering, National University of Singapore, Singapore; Panasonic Singapore Laboratories, Singapore; Department of Electrical and Computer Engineering, National University of Singapore, Singapore"
     },
     {
         "title": "A Flexible Scene Representation for 3D Reconstruction Using an RGB-D Camera",
-        "aff": "National Institute of Informatics, Chiyoda, Tokyo, Japan"
+        "aff": "National Institute of Informatics; National Institute of Informatics"
     },
     {
         "title": "A Framework for Shape Analysis via Hilbert Space Embedding",
-        "aff": "Australian National University, Canberra; NICTA, Canberra; Australian National University, Canberra"
+        "aff": "Australian National University, Canberra+NICTA, Canberra; Australian National University, Canberra+NICTA, Canberra; Australian National University, Canberra; Australian National University, Canberra+NICTA, Canberra"
     },
     {
         "title": "A Fully Hierarchical Approach for Finding Correspondences in Non-rigid Shapes",
-        "aff": "Department of Computer Science, University of Chile; Department of Computer and Information Science, University of Konstanz"
+        "aff": "Department of Computer and Information Science, University of Konstanz; Department of Computer Science, University of Chile"
     },
     {
         "title": "A General Dense Image Matching Framework Combining Direct and Feature-Based Costs",
-        "aff": "CEA, LIST, France; ISIT, Universit\u00e9 d\u2019Auvergne/CNRS, France"
+        "aff": "CEA, LIST, France+ISIT, Universit \u00b4e d\u2019Auvergne/CNRS, France; CEA, LIST, France; ISIT, Universit \u00b4e d\u2019Auvergne/CNRS, France"
     },
     {
         "title": "A General Two-Step Approach to Learning-Based Hashing",
-        "aff": "University of Adelaide, SA 5005, Australia"
+        "aff": "University of Adelaide; University of Adelaide; University of Adelaide; University of Adelaide"
     },
     {
         "title": "A Generalized Iterated Shrinkage Algorithm for Non-convex Sparse Coding",
-        "aff": "Harbin Institute of Technology; Hong Kong Polytechnic University; Xi\u2019an Jiaotong University; Xidian University"
+        "aff": "Harbin Institute of Technology+Hong Kong Polytechnic University; Xi\u2019an Jiaotong University; Hong Kong Polytechnic University; Xidian University; Hong Kong Polytechnic University"
     },
     {
         "title": "A Generalized Low-Rank Appearance Model for Spatio-temporally Correlated Rain Streaks",
-        "aff": "Department of Computer Science, National Tsing Hua University, Taiwan"
+        "aff": "Department of Computer Science, National Tsing Hua University, Taiwan; Department of Computer Science, National Tsing Hua University, Taiwan"
     },
     {
         "title": "A Generic Deformation Model for Dense Non-rigid Surface Registration: A Higher-Order MRF-Based Approach",
-        "aff": "Equipe GALEN, INRIA Saclay - Ile-de-France, Orsay, France; Center for Visual Computing, Ecole Centrale Paris, Ch\u00e2tenay-Malabry, France; Max Planck Institute for Intelligent Systems, T\u00fcbingen, Germany; Department of Computer Science, Stony Brook University, NY, USA; Department of Mathematics, Harvard University, MA, USA"
+        "aff": ";;;;"
     },
     {
         "title": "A Global Linear Method for Camera Pose Registration",
-        "aff": "National University of Singapore; Advanced Digital Sciences Center, Singapore"
+        "aff": "Advanced Digital Sciences Center, Singapore; National University of Singapore; National University of Singapore"
     },
     {
         "title": "A Joint Intensity and Depth Co-sparse Analysis Model for Depth Map Super-resolution",
-        "aff": "Department of Electrical Engineering and Information Technology, Technische Universit \u00a8at M \u00a8unchen, Munich, Germany"
+        "aff": "Department of Electrical Engineering and Information Technology, Technische Universit \u00a8at M \u00a8unchen, Munich, Germany; Department of Electrical Engineering and Information Technology, Technische Universit \u00a8at M \u00a8unchen, Munich, Germany; Department of Electrical Engineering and Information Technology, Technische Universit \u00a8at M \u00a8unchen, Munich, Germany"
     },
     {
         "title": "A Learning-Based Approach to Reduce JPEG Artifacts in Image Matting",
-        "aff": "National University of Singapore (NUS); Korea Advanced Institute of Science and Technology (KAIST)"
+        "aff": ";;;"
     },
     {
         "title": "A Max-Margin Perspective on Sparse Representation-Based Classification",
-        "aff": "Beckman Institute, University of Illinois at Urbana-Champaign, Urbana, IL 61801; Adobe Systems Inc., San Jose, CA 95110; U.S. Army Research Laboratory, Adelphi, MD 20783"
+        "aff": "Beckman Institute, University of Illinois at Urbana-Champaign; Adobe Systems Inc.; U.S. Army Research Laboratory; Beckman Institute, University of Illinois at Urbana-Champaign"
     },
     {
         "title": "A Method of Perceptual-Based Shape Decomposition",
-        "aff": "National Engineering Lab for Video Technology, Key Lab of Machine Perception (MoE), School of EECS, Peking University, Beijing, China"
+        "aff": "National Engineering Lab for Video Technology, Key Lab of Machine Perception (MoE), School of EECS, Peking University, Beijing, China; National Engineering Lab for Video Technology, Key Lab of Machine Perception (MoE), School of EECS, Peking University, Beijing, China; National Engineering Lab for Video Technology, Key Lab of Machine Perception (MoE), School of EECS, Peking University, Beijing, China; National Engineering Lab for Video Technology, Key Lab of Machine Perception (MoE), School of EECS, Peking University, Beijing, China; National Engineering Lab for Video Technology, Key Lab of Machine Perception (MoE), School of EECS, Peking University, Beijing, China"
     },
     {
         "title": "A New Adaptive Segmental Matching Measure for Human Activity Recognition",
-        "aff": "Computer Science Department, Rutgers University, Piscataway, New Jersey, USA 08854"
+        "aff": ";"
     },
     {
         "title": "A New Image Quality Metric for Image Auto-denoising",
-        "aff": "University of California at Merced; National Defense University of China; City University of Hong Kong; Shanghai University of Electric Power"
+        "aff": ";;;;"
     },
     {
         "title": "A Non-parametric Bayesian Network Prior of Human Pose",
-        "aff": "Microsoft Research, Cambridge, UK; MPI for Intelligent Systems, Tuebingen, Germany"
+        "aff": "MPI for Intelligent Systems, Tuebingen, Germany; MPI for Intelligent Systems, Tuebingen, Germany; Microsoft Research, Cambridge, UK"
     },
     {
         "title": "A Novel Earth Mover's Distance Methodology for Image Matching with Gaussian Mixture Models",
@@ -97,187 +97,187 @@
     },
     {
         "title": "A Practical Transfer Learning Algorithm for Face Verification",
-        "aff": "Microsoft"
+        "aff": "Microsoft; Microsoft; Microsoft; Microsoft; Microsoft"
     },
     {
         "title": "A Robust Analytical Solution to Isometric Shape-from-Template with Focal Length Calibration",
-        "aff": "ALCoV-ISIT, UMR 6284 CNRS / Universit \u00b4e d\u2019Auvergne, Clermont-Ferrand, France"
+        "aff": ";;"
     },
     {
         "title": "A Rotational Stereo Model Based on XSlit Imaging",
-        "aff": "University of Delaware, Newark, DE 19716, USA"
+        "aff": "University of Delaware, Newark, DE 19716, USA; University of Delaware, Newark, DE 19716, USA; University of Delaware, Newark, DE 19716, USA"
     },
     {
         "title": "A Scalable Unsupervised Feature Merging Approach to Efficient Dimensionality Reduction of High-Dimensional Visual Data",
-        "aff": "School of Computer Science & Software Engineering, University of Wollongong, NSW 2522, Australia; CECS, Australian National University, ACT 0200, Canberra, Australia"
+        "aff": "CECS, Australian National University; School of Computer Science & Software Engineering, University of Wollongong"
     },
     {
         "title": "A Simple Model for Intrinsic Image Decomposition with Depth Cues",
-        "aff": "Stanford University; Stanford University, Adobe Research"
+        "aff": "Stanford University; Stanford University + Adobe Research"
     },
     {
         "title": "A Unified Probabilistic Approach Modeling Relationships between Attributes and Objects",
-        "aff": "Rensselaer Polytechnic Institute"
+        "aff": ";"
     },
     {
         "title": "A Unified Rolling Shutter and Motion Blur Model for 3D Visual Registration",
-        "aff": "Monash University, Australia; CNRS-I3S, University of Nice Sophia Antipolis, France"
+        "aff": "CNRS-I3S, University of Nice Sophia Antipolis, France; Monash University, Australia; CNRS-I3S, University of Nice Sophia Antipolis, France"
     },
     {
         "title": "A Unified Video Segmentation Benchmark: Annotation, Metrics and Analysis",
-        "aff": "Max Planck Institute for Informatics, Germany; University of Freiburg, Germany"
+        "aff": "Max Planck Institute for Informatics, Germany; University of Freiburg, Germany; University of Freiburg, Germany; University of Freiburg, Germany; Max Planck Institute for Informatics, Germany"
     },
     {
         "title": "ACTIVE: Activity Concept Transitions in Video Event Classification",
-        "aff": "University of Southern California, Institute for Robotics and Intelligent Systems, Los Angeles, CA 90089, USA"
+        "aff": ";"
     },
     {
         "title": "Abnormal Event Detection at 150 FPS in MATLAB",
-        "aff": "The Chinese University of Hong Kong"
+        "aff": "The Chinese University of Hong Kong; The Chinese University of Hong Kong; The Chinese University of Hong Kong"
     },
     {
         "title": "Accurate Blur Models vs. Image Priors in Single Image Super-resolution",
-        "aff": "Dept. of Computer Science and Applied Math, The Weizmann Institute of Science, ISRAEL"
+        "aff": "Dept. of Computer Science and Applied Math, The Weizmann Institute of Science, ISRAEL; Dept. of Computer Science and Applied Math, The Weizmann Institute of Science, ISRAEL; Dept. of Computer Science and Applied Math, The Weizmann Institute of Science, ISRAEL; Dept. of Computer Science and Applied Math, The Weizmann Institute of Science, ISRAEL; Dept. of Computer Science and Applied Math, The Weizmann Institute of Science, ISRAEL"
     },
     {
         "title": "Accurate and Robust 3D Facial Capture Using a Single RGBD Camera",
-        "aff": "Microsoft Research Asia; Texas A&M University"
+        "aff": "Texas A&M University; Microsoft Research Asia; Texas A&M University; Microsoft Research Asia; Texas A&M University"
     },
     {
         "title": "Action Recognition and Localization by Hierarchical Space-Time Segments",
-        "aff": "Department of Computer Engineering, Hacettepe University; Department of Computer Science, Boston University"
+        "aff": "Department of Computer Science, Boston University; Department of Computer Science, Boston University; Department of Computer Engineering, Hacettepe University; Department of Computer Science, Boston University"
     },
     {
         "title": "Action Recognition with Actons",
-        "aff": "Microsoft Research Asia; Institute of Image Communication and Network Engineering, Shanghai Jiao Tong University; Department of Cognitive Science, University of California, San Diego"
+        "aff": "Institute of Image Communication and Network Engineering, Shanghai Jiao Tong University+Shanghai Key Lab of Digital Media Processing and Transmission; Microsoft Research Asia; Institute of Image Communication and Network Engineering, Shanghai Jiao Tong University+Shanghai Key Lab of Digital Media Processing and Transmission; Institute of Image Communication and Network Engineering, Shanghai Jiao Tong University+Shanghai Key Lab of Digital Media Processing and Transmission; Department of Cognitive Science, University of California, San Diego"
     },
     {
         "title": "Action Recognition with Improved Trajectories",
-        "aff": "LEAR, INRIA, France"
+        "aff": "LEAR, INRIA, France; LEAR, INRIA, France"
     },
     {
         "title": "Action and Event Recognition with Fisher Vectors on a Compact Feature Set",
-        "aff": "LEAR, INRIA Grenoble \u2013 Rh\u00f4ne-Alpes, France; Laboratoire Jean Kuntzmann"
+        "aff": "LEAR, INRIA Grenoble \u2013 Rh\u00f4ne-Alpes, France; Laboratoire Jean Kuntzmann; LEAR, INRIA Grenoble \u2013 Rh\u00f4ne-Alpes, France"
     },
     {
         "title": "Active Learning of an Action Detector from Untrimmed Videos",
-        "aff": "University of Texas at Austin"
+        "aff": "University of Texas at Austin; University of Texas at Austin"
     },
     {
         "title": "Active MAP Inference in CRFs for Efficient Semantic Segmentation",
-        "aff": "TU M\u00fcnchen, Germany; ETH Z\u00fcrich, Switzerland; ETH Z\u00fcrich, Switzerland/KU Leuven, Belgium; CVC Barcelona, Spain"
+        "aff": "ETH Z\u00fcrich, Switzerland; ETH Z\u00fcrich, Switzerland; TU Munchen, Germany; CVC Barcelona, Spain; TU Munchen, Germany; ETH Z\u00fcrich, Switzerland+KU Leuven, Belgium"
     },
     {
         "title": "Active Visual Recognition with Expertise Estimation in Crowdsourcing",
-        "aff": "Microsoft Research; Stevens Institute of Technology"
+        "aff": "Stevens Institute of Technology; Stevens Institute of Technology; Microsoft Research"
     },
     {
         "title": "Adapting Classification Cascades to New Domains",
-        "aff": "Yahoo! Labs Bangalore"
+        "aff": "Y ahoo! Labs Bangalore; Y ahoo! Labs Bangalore"
     },
     {
         "title": "Affine-Constrained Group Sparse Coding and Its Application to Image-Based Classifications",
-        "aff": "Department of Computer and Information Science and Engineering, University of Florida; Department of Biomedical and Systems Engineering, Cairo University, Giza, Egypt"
+        "aff": "Department of Computer and Information Science and Engineering, University of Florida; Department of Computer and Information Science and Engineering, University of Florida; Department of Biomedical and Systems Engineering, Cairo University, Giza, Egypt; Department of Computer and Information Science and Engineering, University of Florida"
     },
     {
         "title": "Allocentric Pose Estimation",
-        "aff": "KU Leuven, CS-DTAI; KU Leuven, ESA T-PSI, iMinds"
+        "aff": ";;"
     },
     {
         "title": "Alternating Regression Forests for Object Detection and Pose Estimation",
-        "aff": "Microsoft Photogrammetry; Graz University of Technology"
+        "aff": "Graz University of Technology; Microsoft Photogrammetry; Graz University of Technology; Graz University of Technology; Graz University of Technology"
     },
     {
         "title": "An Adaptive Descriptor Design for Object Recognition in the Wild",
-        "aff": "Dept. of ECE, University of British Columbia"
+        "aff": "Dept. of ECE, University of British Columbia; Dept. of ECE, University of British Columbia"
     },
     {
         "title": "An Enhanced Structure-from-Motion Paradigm Based on the Absolute Dual Quadric and Images of Circular Points",
-        "aff": "IRIT-ENSEEIHT, Toulouse, France"
+        "aff": "IRIT-ENSEEIHT, Toulouse, France; IRIT-ENSEEIHT, Toulouse, France"
     },
     {
         "title": "Analysis of Scores, Datasets, and Models in Visual Saliency Prediction",
-        "aff": "Center for Machine Vision Research, University of Oulu, Finland; Department of Computer Science, University of Southern California, Los Angeles"
+        "aff": ";;;"
     },
     {
         "title": "Anchored Neighborhood Regression for Fast Example-Based Super-Resolution",
-        "aff": "1KU Leuven, ESA T-PSI / iMinds, VISICS; 1KU Leuven, ESA T-PSI / iMinds, VISICS; 2ETH Zurich, D-ITET, Computer Vision Lab"
+        "aff": ";;"
     },
     {
         "title": "Attribute Adaptation for Personalized Image Search",
-        "aff": "The University of Texas at Austin"
+        "aff": "The University of Texas at Austin; The University of Texas at Austin"
     },
     {
         "title": "Attribute Dominance: What Pops Out?",
-        "aff": "Virginia Tech; Georgia Tech"
+        "aff": "Georgia Tech; Virginia Tech"
     },
     {
         "title": "Attribute Pivots for Guiding Relevance Feedback in Image Search",
-        "aff": "The University of Texas at Austin"
+        "aff": "The University of Texas at Austin; The University of Texas at Austin"
     },
     {
         "title": "Automatic Kronecker Product Model Based Detection of Repeated Patterns in 2D Urban Images",
-        "aff": "Hunter Coll. & Grad. Center, CUNY, New York, NY; University of Patras, Patras, Greece; Graduate Center, CUNY, New York, NY"
+        "aff": "Graduate Center, CUNY; University of Patras; Hunter Coll. & Grad. Center, CUNY"
     },
     {
         "title": "Automatic Registration of RGB-D Scans via Salient Directions",
-        "aff": "GEOMAR, Kiel; ETH Zurich"
+        "aff": "ETH Zurich; GEOMAR, Kiel + ETH Zurich; ETH Zurich"
     },
     {
         "title": "BOLD Features to Detect Texture-less Objects",
-        "aff": "DISI, University of Bologna; Datalogic Automation"
+        "aff": "DISI, University of Bologna; Datalogic Automation; DISI, University of Bologna"
     },
     {
         "title": "Bayesian 3D Tracking from Monocular Video",
-        "aff": "School of Informatics, University of Edinburgh; Computer Science, University of Arizona; School of Information, University of Arizona"
+        "aff": "Computer Science+School of Information; Computer Science+School of Information; Computer Science+School of Information; School of Informatics; School of Information; School of Information"
     },
     {
         "title": "Bayesian Joint Topic Modelling for Weakly Supervised Object Localisation",
-        "aff": "Queen Mary, University of London, London E1 4NS, UK"
+        "aff": "Queen Mary, University of London, London E1 4NS, UK; Queen Mary, University of London, London E1 4NS, UK; Queen Mary, University of London, London E1 4NS, UK"
     },
     {
         "title": "Bayesian Robust Matrix Factorization for Image and Video Processing",
-        "aff": "Department of Computer Science and Engineering, Hong Kong University of Science and Technology"
+        "aff": "Department of Computer Science and Engineering, Hong Kong University of Science and Technology; Department of Computer Science and Engineering, Hong Kong University of Science and Technology"
     },
     {
         "title": "Beyond Hard Negative Mining: Efficient Detector Learning via Block-Circulant Decomposition",
-        "aff": "Institute of Systems and Robotics, University of Coimbra"
+        "aff": "Institute of Systems and Robotics, University of Coimbra; Institute of Systems and Robotics, University of Coimbra; Institute of Systems and Robotics, University of Coimbra; Institute of Systems and Robotics, University of Coimbra"
     },
     {
         "title": "Bird Part Localization Using Exemplar-Based Models with Enforced Pose and Subcategory Consistency",
-        "aff": "Columbia University"
+        "aff": "Columbia University; Columbia University"
     },
     {
         "title": "Bounded Labeling Function for Global Segmentation of Multi-part Objects with Geometric Constraints",
-        "aff": "Medical Image Analysis Lab, Simon Fraser University, BC, Canada"
+        "aff": "Medical Image Analysis Lab, Simon Fraser University, BC, Canada; Medical Image Analysis Lab, Simon Fraser University, BC, Canada; Medical Image Analysis Lab, Simon Fraser University, BC, Canada"
     },
     {
         "title": "Box in the Box: Joint 3D Layout and Object Reasoning from Single Images",
-        "aff": "TTI Chicago; ETH Zurich"
+        "aff": "ETH Zurich; TTI Chicago; ETH Zurich; TTI Chicago"
     },
     {
         "title": "Breaking the Chain: Liberation from the Temporal Markov Assumption for Tracking Human Poses",
-        "aff": "Oak Ridge National Laboratory, Oak Ridge, TN; Dept. of Computer Science, Stanford University, Stanford, CA; NEC Research Labs, Cupertino, CA"
+        "aff": "Oak Ridge National Laboratory; NEC Research Labs; Dept. of Computer Science, Stanford University"
     },
     {
         "title": "Building Part-Based Object Detectors via 3D Geometry",
-        "aff": "The Robotics Institute, Carnegie Mellon University"
+        "aff": "The Robotics Institute, Carnegie Mellon University; The Robotics Institute, Carnegie Mellon University"
     },
     {
         "title": "Calibration-Free Gaze Estimation Using Human Gaze Patterns",
-        "aff": "University of Amsterdam, Amsterdam, The Netherlands"
+        "aff": "University of Amsterdam; University of Amsterdam; University of Amsterdam; University of Amsterdam"
     },
     {
         "title": "Camera Alignment Using Trajectory Intersections in Unsynchronized Videos",
-        "aff": "University of California, Santa Barbara"
+        "aff": "University of California, Santa Barbara; University of California, Santa Barbara; University of California, Santa Barbara"
     },
     {
         "title": "Capturing Global Semantic Relationships for Facial Action Unit Recognition",
-        "aff": "School of Electrical Engineering and Automation, Harbin Institute of Technology; School of Computer Science and Technology, University of Science and Technology of China; ECSE Department, Rensselaer Polytechnic Institute"
+        "aff": "ECSE Department, Rensselaer Polytechnic Institute; School of Electrical Engineering and Automation, Harbin Institute of Technology; School of Computer Science and Technology, University of Science and Technology of China; ECSE Department, Rensselaer Polytechnic Institute"
     },
     {
         "title": "Cascaded Shape Space Pruning for Robust Facial Landmark Detection",
-        "aff": "Key Lab of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, Beijing 100190, China"
+        "aff": "Key Lab of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, Beijing 100190, China; Key Lab of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, Beijing 100190, China; Key Lab of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, Beijing 100190, China; Key Lab of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, Beijing 100190, China"
     },
     {
         "title": "Category-Independent Object-Level Saliency Detection",
@@ -289,559 +289,559 @@
     },
     {
         "title": "Class-Specific Simplex-Latent Dirichlet Allocation for Image Classification",
-        "aff": "Yahoo! Labs, Bangalore, India; Department of Electrical and Computer Engineering, University of California, San Diego"
+        "aff": "Department of Electrical and Computer Engineering, University of California, San Diego; Yahoo! Labs, Bangalore, India; Department of Electrical and Computer Engineering, University of California, San Diego"
     },
     {
         "title": "Co-segmentation by Composition",
-        "aff": "Dept. of Computer Science and Applied Math, The Weizmann Institute of Science, ISRAEL"
+        "aff": "Dept. of Computer Science and Applied Math, The Weizmann Institute of Science, ISRAEL; Dept. of Computer Science and Applied Math, The Weizmann Institute of Science, ISRAEL"
     },
     {
         "title": "CoDeL: A Human Co-detection and Labeling Framework",
-        "aff": "The Chinese University of Hong Kong"
+        "aff": "The Chinese University of Hong Kong; The Chinese University of Hong Kong; The Chinese University of Hong Kong"
     },
     {
         "title": "Coarse-to-Fine Semantic Video Segmentation Using Supervoxel Trees",
-        "aff": "LinkedIn; University of California, Berkeley; Johns Hopkins University"
+        "aff": "Linkedin; University of California, Berkeley; Johns Hopkins University"
     },
     {
         "title": "Codemaps - Segment, Classify and Search Objects Locally",
-        "aff": "ISLA, Informatics Institute, University of Amsterdam, Amsterdam, The Netherlands; ISLA, Informatics Institute, University of Amsterdam, Amsterdam, The Netherlands; Centrum Wiskunde & Informatica, Amsterdam, The Netherlands"
+        "aff": "ISLA, Informatics Institute, University of Amsterdam, Amsterdam, The Netherlands; ISLA, Informatics Institute, University of Amsterdam, Amsterdam, The Netherlands; ISLA, Informatics Institute, University of Amsterdam, Amsterdam, The Netherlands; ISLA, Informatics Institute, University of Amsterdam, Amsterdam, The Netherlands; ISLA, Informatics Institute, University of Amsterdam, Amsterdam, The Netherlands + Centrum Wiskunde & Informatica, Amsterdam, The Netherlands"
     },
     {
         "title": "Coherent Motion Segmentation in Moving Camera Videos Using Optical Flow Orientations",
-        "aff": "University of Massachusetts, Amherst"
+        "aff": "University of Massachusetts, Amherst; University of Massachusetts, Amherst; University of Massachusetts, Amherst"
     },
     {
         "title": "Coherent Object Detection with 3D Geometric Context from a Single Image",
-        "aff": "Carnegie Mellon University, Pittsburgh, PA, U.S.A."
+        "aff": "Carnegie Mellon University; Carnegie Mellon University"
     },
     {
         "title": "Collaborative Active Learning of a Kernel Machine Ensemble for Recognition",
-        "aff": "Northwestern University; Facebook; Stevens Institute of Technology"
+        "aff": "Stevens Institute of Technology; Stevens Institute of Technology; Facebook; Northwestern University"
     },
     {
         "title": "Combining the Right Features for Complex Event Recognition",
-        "aff": "Computer Science Department, Stanford University"
+        "aff": "Computer Science Department, Stanford University; Computer Science Department, Stanford University; Computer Science Department, Stanford University; Computer Science Department, Stanford University"
     },
     {
         "title": "Compensating for Motion during Direct-Global Separation",
-        "aff": "Robotics Institute, Carnegie Mellon University"
+        "aff": ";;"
     },
     {
         "title": "Complementary Projection Hashing",
-        "aff": "State Key Lab of CAD&CG, College of Computer Science, Zhejiang University, Hangzhou, P. R. China; Baidu, Inc., Beijing, P. R. China; Center for OPTical IMagery Analysis and Learning (OPTIMAL), State Key Laboratory of Transient Optics and Photonics, Xi\u2019an Institute of Optics and Precision Mechanics, Chinese Academy of Sciences, Xi\u2019an 710119, Shaanxi, P. R. China"
+        "aff": "State Key Lab of CAD&CG, College of Computer Science, Zhejiang University, Hangzhou, P. R. China; State Key Lab of CAD&CG, College of Computer Science, Zhejiang University, Hangzhou, P. R. China; State Key Lab of CAD&CG, College of Computer Science, Zhejiang University, Hangzhou, P. R. China; State Key Lab of CAD&CG, College of Computer Science, Zhejiang University, Hangzhou, P. R. China; Baidu, Inc., Beijing, P. R. China; State Key Lab of CAD&CG, College of Computer Science, Zhejiang University, Hangzhou, P. R. China; Center for OPTical IMagery Analysis and Learning (OPTIMAL), State Key Laboratory of Transient Optics and Photonics, Xi\u2019an Institute of Optics and Precision Mechanics, Chinese Academy of Sciences, Xi\u2019an 710119, Shaanxi, P. R. China"
     },
     {
         "title": "Complex 3D General Object Reconstruction from Line Drawings",
-        "aff": "Department of Information Engineering, The Chinese University of Hong Kong; Shenzhen Key Lab of Computer Vision and Pattern Recognition, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, China"
+        "aff": "Department of Information Engineering, The Chinese University of Hong Kong + Shenzhen Key Lab of Computer Vision and Pattern Recognition + Media Lab, Huawei Technologies Co. Ltd., China; Department of Information Engineering, The Chinese University of Hong Kong + Shenzhen Key Lab of Computer Vision and Pattern Recognition; Department of Information Engineering, The Chinese University of Hong Kong + Shenzhen Key Lab of Computer Vision and Pattern Recognition"
     },
     {
         "title": "Compositional Models for Video Event Detection: A Multiple Kernel Learning Latent Variable Approach",
-        "aff": "Simon Fraser University, Canada; Kitware Inc., USA"
+        "aff": "Simon Fraser University, Canada; Simon Fraser University, Canada; Simon Fraser University, Canada; Kitware Inc., USA; Kitware Inc., USA"
     },
     {
         "title": "Concurrent Action Detection with Structural Prediction",
-        "aff": "University of California, Los Angeles, USA; Xi\u2019an Jiaotong University, China"
+        "aff": "Xi\u2019an Jiaotong University, China+University of California, Los Angeles, USA; Xi\u2019an Jiaotong University, China; University of California, Los Angeles, USA; University of California, Los Angeles, USA"
     },
     {
         "title": "Conservation Tracking",
-        "aff": "European Molecular Biology Laboratory (EMBL); University of Heidelberg, IWR/HCI"
+        "aff": "University of Heidelberg, IWR/HCI; University of Heidelberg, IWR/HCI; University of Heidelberg, IWR/HCI; European Molecular Biology Laboratory (EMBL); University of Heidelberg, IWR/HCI"
     },
     {
         "title": "Constant Time Weighted Median Filtering for Stereo Matching and Beyond",
-        "aff": "Microsoft Research Asia; University of Chinese Academy of Sciences & State Key Laboratory of Computer Science, Institute of Software, CAS"
+        "aff": "University of Chinese Academy of Sciences & State Key Laboratory of Computer Science, Institute of Software, CAS; Microsoft Research Asia; Microsoft Research Asia; Microsoft Research Asia; University of Chinese Academy of Sciences & State Key Laboratory of Computer Science, Institute of Software, CAS"
     },
     {
         "title": "Constructing Adaptive Complex Cells for Robust Visual Tracking",
-        "aff": "Academic Center for Computing and Media Studies, Kyoto University; Institute of Arti\ufb01cial Intelligence and Robotics, Xi\u2019an Jiaotong University"
+        "aff": "Institute of Artificial Intelligence and Robotics, Xi\u2019an Jiaotong University; Institute of Artificial Intelligence and Robotics, Xi\u2019an Jiaotong University; Academic Center for Computing and Media Studies, Kyoto University; Institute of Artificial Intelligence and Robotics, Xi\u2019an Jiaotong University; Institute of Artificial Intelligence and Robotics, Xi\u2019an Jiaotong University"
     },
     {
         "title": "Content-Aware Rotation",
-        "aff": "Microsoft Research Asia; Tsinghua University"
+        "aff": "Microsoft Research Asia; Tsinghua University + Microsoft Research Asia; Microsoft Research Asia"
     },
     {
         "title": "Contextual Hypergraph Modeling for Salient Object Detection",
-        "aff": "Australian Center for Visual Technologies, University of Adelaide, Australia"
+        "aff": "Australian Center for Visual Technologies, University of Adelaide, Australia; Australian Center for Visual Technologies, University of Adelaide, Australia; Australian Center for Visual Technologies, University of Adelaide, Australia; Australian Center for Visual Technologies, University of Adelaide, Australia; Australian Center for Visual Technologies, University of Adelaide, Australia"
     },
     {
         "title": "Corrected-Moment Illuminant Estimation",
-        "aff": "IEEE"
+        "aff": ""
     },
     {
         "title": "Correlation Adaptive Subspace Segmentation by Trace Lasso",
-        "aff": "Key Laboratory of Machine Perception (MOE), School of EECS, Peking University; Department of Electrical and Computer Engineering, National University of Singapore"
+        "aff": "Department of Electrical and Computer Engineering, National University of Singapore; Department of Electrical and Computer Engineering, National University of Singapore; Key Laboratory of Machine Perception (MOE), School of EECS, Peking University; Department of Electrical and Computer Engineering, National University of Singapore"
     },
     {
         "title": "Correntropy Induced L2 Graph for Robust Subspace Clustering",
-        "aff": "School of Software, Sun Yat-Sen University; School of Computer Science, Nanjing University of Science and Technology; Key Laboratory of Machine Perception (MOE), School of EECS, Peking University; Department of Electrical and Computer Engineering, National University of Singapore"
+        "aff": "Department of Electrical and Computer Engineering, National University of Singapore; School of Computer Science, Nanjing University of Science and Technology; Department of Electrical and Computer Engineering, National University of Singapore; School of Software, Sun Yat-Sen University; Department of Electrical and Computer Engineering, National University of Singapore; Key Laboratory of Machine Perception (MOE), School of EECS, Peking University"
     },
     {
         "title": "Cosegmentation and Cosketch by Unsupervised Learning",
-        "aff": "Department of Statistics, University of California, Los Angeles (UCLA), USA; Department of Automation, Tsinghua University, China"
+        "aff": "Department of Automation, Tsinghua University, China+Department of Statistics, University of California, Los Angeles (UCLA), USA; Department of Statistics, University of California, Los Angeles (UCLA), USA; Department of Automation, Tsinghua University, China; Department of Statistics, University of California, Los Angeles (UCLA), USA"
     },
     {
         "title": "Coupled Dictionary and Feature Space Learning with Applications to Cross-Domain Image Synthesis and Recognition",
-        "aff": "Research Center for Information Technology Innovation, Academia Sinica, Taipei, Taiwan"
+        "aff": "Research Center for Information Technology Innovation, Academia Sinica, Taipei, Taiwan; Research Center for Information Technology Innovation, Academia Sinica, Taipei, Taiwan"
     },
     {
         "title": "Coupling Alignments with Recognition for Still-to-Video Face Recognition",
-        "aff": "Key Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, Beijing, 100190, China; University of Chinese Academy of Sciences, Beijing 100049, China; Key Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, Beijing, 100190, China"
+        "aff": "Key Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, Beijing, 100190, China + University of Chinese Academy of Sciences, Beijing 100049, China; Key Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, Beijing, 100190, China + University of Chinese Academy of Sciences, Beijing 100049, China; Key Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, Beijing, 100190, China; Key Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, Beijing, 100190, China; Key Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, Beijing, 100190, China"
     },
     {
         "title": "Cross-Field Joint Image Restoration via Scale Map",
-        "aff": "Qualcomm Incorporated; The Chinese University of Hong Kong"
+        "aff": "The Chinese University of Hong Kong; The Chinese University of Hong Kong; The Chinese University of Hong Kong; Qualcomm Incorporated; Qualcomm Incorporated; Qualcomm Incorporated; The Chinese University of Hong Kong"
     },
     {
         "title": "Cross-View Action Recognition over Heterogeneous Feature Spaces",
-        "aff": "Beijing Laboratory of Intelligent Information Technology, School of Computer Science, Beijing Institute of Technology, Beijing 100081, P.R. China"
+        "aff": "Beijing Laboratory of Intelligent Information Technology; School of Computer Science, Beijing Institute of Technology; Beijing Laboratory of Intelligent Information Technology; School of Computer Science, Beijing Institute of Technology"
     },
     {
         "title": "Curvature-Aware Regularization on Riemannian Submanifolds",
-        "aff": "Max-Planck-Institut f \u00a8ur Informatik"
+        "aff": ";;"
     },
     {
         "title": "DCSH - Matching Patches in RGBD Images",
-        "aff": "Microsoft Research; Tel-Aviv University"
+        "aff": ";;;"
     },
     {
         "title": "Data-Driven 3D Primitives for Single Image Understanding",
-        "aff": "The Robotics Institute, Carnegie Mellon University"
+        "aff": "The Robotics Institute, Carnegie Mellon University; The Robotics Institute, Carnegie Mellon University; The Robotics Institute, Carnegie Mellon University"
     },
     {
         "title": "Deblurring by Example Using Dense Correspondence",
-        "aff": "Hebrew University, Jerusalem, Israel; Adobe Research, Seattle, USA"
+        "aff": "Hebrew University, Jerusalem, Israel; Adobe Research, Seatle, USA; Hebrew University, Jerusalem, Israel"
     },
     {
         "title": "Decomposing Bag of Words Histograms",
-        "aff": "Inria, France; CVIT, IIIT Hyderabad, India"
+        "aff": ";;"
     },
     {
         "title": "Deep Learning Identity-Preserving Face Space",
-        "aff": "Department of Information Engineering, The Chinese University of Hong Kong; Department of Electronic Engineering, The Chinese University of Hong Kong; Department of Information Engineering, The Chinese University of Hong Kong and Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences"
+        "aff": "Department of Information Engineering, The Chinese University of Hong Kong + Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences; Department of Information Engineering, The Chinese University of Hong Kong + Department of Electronic Engineering, The Chinese University of Hong Kong + Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences; Department of Electronic Engineering, The Chinese University of Hong Kong; Department of Information Engineering, The Chinese University of Hong Kong + Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences"
     },
     {
         "title": "DeepFlow: Large Displacement Optical Flow with Deep Matching",
-        "aff": "INRIA and LJK, Grenoble, France"
+        "aff": "INRIA and LJK, Grenoble, France; INRIA and LJK, Grenoble, France; INRIA and LJK, Grenoble, France; INRIA and LJK, Grenoble, France"
     },
     {
         "title": "Deformable Part Descriptors for Fine-Grained Recognition and Attribute Prediction",
-        "aff": "ICSI / UC Berkeley; ICSI / UC Berkeley, Brigham Young University"
+        "aff": "ICSI / UC Berkeley; ICSI / UC Berkeley + Brigham Young University; ICSI / UC Berkeley; ICSI / UC Berkeley"
     },
     {
         "title": "Depth from Combining Defocus and Correspondence Using Light-Field Cameras",
-        "aff": "Adobe; University of California, Berkeley"
+        "aff": ";;;"
     },
     {
         "title": "Detecting Avocados to Zucchinis: What Have We Done, and Where Are We Going?",
-        "aff": "Stanford University; UNC Chapel Hill"
+        "aff": "Stanford University; Stanford University; Stanford University; UNC Chapel Hill; Stanford University"
     },
     {
         "title": "Detecting Curved Symmetric Parts Using a Deformable Disc Model",
-        "aff": "TTI Chicago; University of Toronto"
+        "aff": ";;"
     },
     {
         "title": "Detecting Dynamic Objects with Multi-view Background Subtraction",
-        "aff": "Computer Science Department, University of California, Irvine"
+        "aff": "Computer Science Department, University of California, Irvine; Computer Science Department, University of California, Irvine; Computer Science Department, University of California, Irvine"
     },
     {
         "title": "Detecting Irregular Curvilinear Structures in Gray Scale and Color Imagery Using Multi-directional Oriented Flux",
-        "aff": "CVLab, EPFL, Lausanne, Switzerland"
+        "aff": "CVLab, EPFL, Lausanne, Switzerland; CVLab, EPFL, Lausanne, Switzerland; CVLab, EPFL, Lausanne, Switzerland; CVLab, EPFL, Lausanne, Switzerland; CVLab, EPFL, Lausanne, Switzerland"
     },
     {
         "title": "Deterministic Fitting of Multiple Structures Using Iterative MaxFS with Inlier Scale Estimation",
-        "aff": "IEEE"
+        "aff": ";"
     },
     {
         "title": "Dictionary Learning and Sparse Coding on Grassmann Manifolds: An Extrinsic Solution",
-        "aff": "The University of Queensland, Australia; NICTA, Australia; College of Engineering and Computer Science, Australian National University, Australia; NICTA, Australia; Queensland University of Technology, Australia; School of Computer Science, University of Adelaide, Australia"
+        "aff": ";;;"
     },
     {
         "title": "Direct Optimization of Frame-to-Frame Rotation",
-        "aff": "Autonomous Systems Lab, ETH Zurich; Research School of Engineering, Australian National University"
+        "aff": "Research School of Engineering, Australian National University; Autonomous Systems Lab, ETH Zurich"
     },
     {
         "title": "Directed Acyclic Graph Kernels for Action Recognition",
-        "aff": "CNRS LTCI; T\u00e9l\u00e9com ParisTech, 46 rue Barrault, 75013 Paris, France; Institut Mines-T\u00e9l\u00e9com; T\u00e9l\u00e9com ParisTech; CNRS LTCI, 46 rue Barrault, 75013 Paris, France"
+        "aff": "Institut Mines-T\u00e9l\u00e9com + T\u00e9l\u00e9com ParisTech + CNRS LTCI; CNRS LTCI + T\u00e9l\u00e9com ParisTech"
     },
     {
         "title": "Discovering Details and Scene Structure with Hierarchical Iconoid Shift",
-        "aff": "Computer Vision Group, RWTH Aachen University, Germany"
+        "aff": "Computer Vision Group, RWTH Aachen University, Germany; Computer Vision Group, RWTH Aachen University, Germany"
     },
     {
         "title": "Discovering Object Functionality",
-        "aff": "Computer Science Department, Stanford University, Stanford, CA"
+        "aff": "Computer Science Department, Stanford University, Stanford, CA; Computer Science Department, Stanford University, Stanford, CA; Computer Science Department, Stanford University, Stanford, CA"
     },
     {
         "title": "Discriminant Tracking Using Tensor Representation with Semi-supervised Improvement",
-        "aff": "Department of Computer Science, Birkbeck College, London; National Laboratory of Pattern Recognition, Institute of Automation, CAS, Beijing"
+        "aff": "National Laboratory of Pattern Recognition, Institute of Automation, CAS, Beijing; National Laboratory of Pattern Recognition, Institute of Automation, CAS, Beijing; National Laboratory of Pattern Recognition, Institute of Automation, CAS, Beijing; Department of Computer Science, Birkbeck College, London"
     },
     {
         "title": "Discriminative Label Propagation for Multi-object Tracking with Sporadic Appearance Features",
-        "aff": "ISPGroup, ELEN Department, ICTEAM Institute, Universit \u00b4e catholique de Louvain, Louvain-la-Neuve, B-1348, Belgium"
+        "aff": "ISPGroup, ELEN Department, ICTEAM Institute, Universit \u00b4e catholique de Louvain; ISPGroup, ELEN Department, ICTEAM Institute, Universit \u00b4e catholique de Louvain"
     },
     {
         "title": "Discriminatively Trained Templates for 3D Object Detection: A Real Time Scalable Approach",
-        "aff": "KU Leuven, ESA T-PSI-VISICS, iMinds; CINVESTA V, Robotics and Advanced Manufacturing"
+        "aff": "CINVESTAV, Robotics and Advanced Manufacturing; KU Leuven, ESAT-PSI-VISICS, iMinds"
     },
     {
         "title": "Distributed Low-Rank Subspace Segmentation",
-        "aff": "Stanford University; University of California, Berkeley; Columbia University"
+        "aff": "University of California, Berkeley; Stanford University; Columbia University; Columbia University; University of California, Berkeley"
     },
     {
         "title": "Domain Adaptive Classification",
-        "aff": "Department of Computer Science, University of Maryland, College Park, MD, USA"
+        "aff": ";"
     },
     {
         "title": "Domain Transfer Support Vector Ranking for Person Re-identification without Target Camera Label Information",
-        "aff": "Department of Computer Science, Hong Kong Baptist University, Hong Kong; Department of Computer Science, Hong Kong Baptist University, Hong Kong; BNU-HKBU United International College, Zhuhai, China"
+        "aff": "Department of Computer Science, Hong Kong Baptist University, Hong Kong + BNU-HKBU United International College, Zhuhai, China; Department of Computer Science, Hong Kong Baptist University, Hong Kong; Department of Computer Science, Hong Kong Baptist University, Hong Kong"
     },
     {
         "title": "Drosophila Embryo Stage Annotation Using Label Propagation",
-        "aff": "Institute of Science and Technology Austria; Research Institute of Molecular Pathology (IMP)"
+        "aff": "Research Institute of Molecular Pathology (IMP)+Institute of Science and Technology Austria; Research Institute of Molecular Pathology (IMP); Research Institute of Molecular Pathology (IMP); Institute of Science and Technology Austria"
     },
     {
         "title": "Dynamic Label Propagation for Semi-supervised Multi-class Multi-label Classification",
-        "aff": "Stanford Univeristy; University of California, San Diego; York University"
+        "aff": "Stanford Univeristy; University of California, San Diego; Y ork University"
     },
     {
         "title": "Dynamic Pooling for Complex Event Recognition",
-        "aff": "University of California, San Diego; SRI International Sarnoff"
+        "aff": "University of California, San Diego; SRI International Sarnoff; SRI International Sarnoff; University of California, San Diego"
     },
     {
         "title": "Dynamic Probabilistic Volumetric Models",
-        "aff": "School of Engineering, Brown University"
+        "aff": "School of Engineering, Brown University; School of Engineering, Brown University; School of Engineering, Brown University"
     },
     {
         "title": "Dynamic Scene Deblurring",
-        "aff": "Department of ECE, ASRI, Seoul National University, 151-742, Seoul, Korea"
+        "aff": "Department of ECE, ASRI, Seoul National University, 151-742, Seoul, Korea; Department of ECE, ASRI, Seoul National University, 151-742, Seoul, Korea; Department of ECE, ASRI, Seoul National University, 151-742, Seoul, Korea"
     },
     {
         "title": "Dynamic Structured Model Selection",
-        "aff": "Google Inc., Los Angeles, CA; University of Washington, Seattle, WA; University of Pennsylvania, Philadelphia, PA"
+        "aff": "University of Pennsylvania; Google Inc.; University of Washington"
     },
     {
         "title": "EVSAC: Accelerating Hypotheses Generation by Modeling Matching Scores with Extreme Value Theory",
-        "aff": "University of California, Santa Barbara"
+        "aff": "University of California, Santa Barbara; University of California, Santa Barbara; University of California, Santa Barbara; University of California, Santa Barbara"
     },
     {
         "title": "Efficient 3D Scene Labeling Using Fields of Trees",
-        "aff": "School of Computer Science, University of Adelaide; Dept. of Engineering Science, University of Oxford"
+        "aff": "Dept. of Engineering Science, University of Oxford; School of Computer Science, University of Adelaide"
     },
     {
         "title": "Efficient Hand Pose Estimation from a Single Depth Image",
-        "aff": "Bioinformatics Institute, A*STAR, Singapore; Bioinformatics Institute, A*STAR, Singapore; School of Computing, NUS, Singapore"
+        "aff": "Bioinformatics Institute, A*STAR, Singapore; Bioinformatics Institute, A*STAR, Singapore+School of Computing, NUS, Singapore"
     },
     {
         "title": "Efficient Higher-Order Clustering on the Grassmann Manifold",
-        "aff": "Department of Electrical Engineering, Indian Institute of Science, Bengaluru, INDIA; Microsoft Research"
+        "aff": "Microsoft Research; Department of Electrical Engineering, Indian Institute of Science, Bengaluru, INDIA"
     },
     {
         "title": "Efficient Image Dehazing with Boundary Constraint and Contextual Regularization",
-        "aff": "National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Science, Beijing, P.R. China"
+        "aff": "National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Science, Beijing, P .R. China; National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Science, Beijing, P .R. China; National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Science, Beijing, P .R. China; National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Science, Beijing, P .R. China; National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Science, Beijing, P .R. China"
     },
     {
         "title": "Efficient Pedestrian Detection by Directly Optimizing the Partial Area under the ROC Curve",
-        "aff": "The Australian Centre for Visual Technologies, The University of Adelaide, SA 5005, Australia"
+        "aff": "The Australian Centre for Visual Technologies, The University of Adelaide, SA 5005, Australia; The Australian Centre for Visual Technologies, The University of Adelaide, SA 5005, Australia; The Australian Centre for Visual Technologies, The University of Adelaide, SA 5005, Australia"
     },
     {
         "title": "Efficient Salient Region Detection with Soft Image Abstraction",
-        "aff": "Vision Group, Oxford Brookes University"
+        "aff": "Vision Group, Oxford Brookes University; Vision Group, Oxford Brookes University; Vision Group, Oxford Brookes University; Vision Group, Oxford Brookes University; Vision Group, Oxford Brookes University; Vision Group, Oxford Brookes University"
     },
     {
         "title": "Efficient and Robust Large-Scale Rotation Averaging",
-        "aff": "Department of Electrical Engineering, Indian Institute of Science, Bengaluru, INDIA"
+        "aff": "Department of Electrical Engineering, Indian Institute of Science, Bengaluru, INDIA; Department of Electrical Engineering, Indian Institute of Science, Bengaluru, INDIA"
     },
     {
         "title": "Elastic Fragments for Dense Scene Reconstruction",
-        "aff": "Stanford University; Stanford University and Adobe Research"
+        "aff": "Stanford University; Stanford University; Stanford University+Adobe Research"
     },
     {
         "title": "Elastic Net Constraints for Shape Matching",
-        "aff": "Universit `a Ca\u2019 Foscari V enezia; The University of Tokyo; The University of Tokyo, TU Munich; TU Munich"
+        "aff": "The University of Tokyo + TU Munich; Universit `a Ca\u2019 Foscari V enezia; The University of Tokyo; The University of Tokyo; TU Munich"
     },
     {
         "title": "Enhanced Continuous Tabu Search for Parameter Estimation in Multiview Geometry",
-        "aff": "School of Computer Science and Engineering, Northwestern Polytechnical University, Xi\u2019an 710072, P. R. China"
+        "aff": "School of Computer Science and Engineering, Northwestern Polytechnical University, Xi\u2019an 710072, P. R. China; School of Computer Science and Engineering, Northwestern Polytechnical University, Xi\u2019an 710072, P. R. China"
     },
     {
         "title": "Ensemble Projection for Semi-supervised Image Classification",
-        "aff": "Computer Vision Lab, ETH Zurich"
+        "aff": "Computer Vision Lab, ETH Zurich; Computer Vision Lab, ETH Zurich"
     },
     {
         "title": "Estimating Human Pose with Flowing Puppets",
-        "aff": "Max Planck Institute for Intelligent Systems, 72076 T\u00fcbingen, Germany; INRIA - Grenoble, France; Department of Computer Science, Brown University, Providence, RI 02912, USA"
+        "aff": "Department of Computer Science, Brown University, Providence, RI 02912, USA + ITC - Consiglio Nazionale delle Ricerche, Milan, Italy; Max Planck Institute for Intelligent Systems, 72076 T\u00a8ubingen, Germany; INRIA - Grenoble, France; Max Planck Institute for Intelligent Systems, 72076 T\u00a8ubingen, Germany"
     },
     {
         "title": "Estimating the 3D Layout of Indoor Scenes and Its Clutter from Depth Sensors",
-        "aff": "TTI Chicago; Tsingua University; ETH Zurich"
+        "aff": "Tsinghua University; Tsinghua University; ETH Zurich; TTI Chicago"
     },
     {
         "title": "Estimating the Material Properties of Fabric from Video",
-        "aff": "Massachusetts Institute of Technology"
+        "aff": "Massachusetts Institute of Technology; Massachusetts Institute of Technology; Massachusetts Institute of Technology; Massachusetts Institute of Technology"
     },
     {
         "title": "Event Detection in Complex Scenes Using Interval Temporal Constraints",
-        "aff": "Rensselaer Polytechnic Institute, Troy, NY 12180, USA; NLPR, Institute of Automation, Chinese Academy of Sciences, Beijing 100190, China"
+        "aff": "NLPR, Institute of Automation, Chinese Academy of Sciences, Beijing 100190, China; Rensselaer Polytechnic Institute, Troy, NY 12180, USA; NLPR, Institute of Automation, Chinese Academy of Sciences, Beijing 100190, China"
     },
     {
         "title": "Event Recognition in Photo Collections with a Stopwatch HMM",
-        "aff": "ESA T, PSI-VISICS, K.U. Leuven, Belgium; Computer Vision Lab, ETH Z\u00fcrich, Switzerland"
+        "aff": "Computer Vision Lab, ETH Zurich, Switzerland; Computer Vision Lab, ETH Zurich, Switzerland; Computer Vision Lab, ETH Zurich, Switzerland + ESA T, PSI-VISICS, K.U. Leuven, Belgium"
     },
     {
         "title": "Example-Based Facade Texture Synthesis",
-        "aff": "Computer Vision Lab, ETH Zurich; Chair of Information Architecture, ETH Zurich"
+        "aff": "Computer Vision Lab, ETH Z\u00fcrich; Computer Vision Lab, ETH Z\u00fcrich; Chair of Information Architecture, ETH Z\u00fcrich; Computer Vision Lab, ETH Z\u00fcrich"
     },
     {
         "title": "Exemplar Cut",
-        "aff": "University of California, Merced"
+        "aff": "University of California, Merced; University of California, Merced; University of California, Merced"
     },
     {
         "title": "Exemplar-Based Graph Matching for Robust Facial Landmark Localization",
-        "aff": "Adobe Research, San Jose, CA 95110; Carnegie Mellon University, Pittsburgh, PA 15213"
+        "aff": "Carnegie Mellon University; Adobe Research; Adobe Research"
     },
     {
         "title": "Exploiting Reflection Change for Automatic Reflection Removal",
-        "aff": "School of Computing, National University of Singapore"
+        "aff": "School of Computing, National University of Singapore; School of Computing, National University of Singapore"
     },
     {
         "title": "Extrinsic Camera Calibration without a Direct View Using Spherical Mirror",
-        "aff": "Mitsubishi Electric Research Labs (MERL), 201 Broadway, Cambridge, MA, USA"
+        "aff": "Mitsubishi Electric Research Labs (MERL)"
     },
     {
         "title": "Face Recognition Using Face Patch Networks",
-        "aff": "Department of Information Engineering, The Chinese University of Hong Kong"
+        "aff": "Department of Information Engineering, The Chinese University of Hong Kong; Department of Information Engineering, The Chinese University of Hong Kong; Department of Information Engineering, The Chinese University of Hong Kong"
     },
     {
         "title": "Face Recognition via Archetype Hull Ranking",
-        "aff": "IBM T. J. Watson Research Center, Yorktown Heights, NY, USA; Information Engineering Department, The Chinese University of Hong Kong, Hong Kong"
+        "aff": "Information Engineering Department, The Chinese University of Hong Kong, Hong Kong; IBM T. J. Watson Research Center, Yorktown Heights, NY, USA; Information Engineering Department, The Chinese University of Hong Kong, Hong Kong; Information Engineering Department, The Chinese University of Hong Kong, Hong Kong"
     },
     {
         "title": "Facial Action Unit Event Detection by Cascade of Tasks",
-        "aff": "Robotics Institute, Carnegie Mellon University, Pittsburgh, PA 15213; School of Information Science and Engineering, Southeast University, Nanjing, China"
+        "aff": ";;;;"
     },
     {
         "title": "Fast Direct Super-Resolution by Simple Functions",
-        "aff": "Electrical Engineering and Computer Science, University of California at Merced"
+        "aff": "Electrical Engineering and Computer Science, University of California at Merced; Electrical Engineering and Computer Science, University of California at Merced"
     },
     {
         "title": "Fast Face Detector Training Using Tailored Views",
-        "aff": "MPI for Informatics, Saarbr\u00fccken, Germany; Commonwealth Bank of Australia, Sydney, Australia; Cluster of Excellence MMCI at Saarland University, Saarbr\u00fccken, Germany; Universit\u00e4t Siegen, Siegen, Germany; IBM Watson Research Center, Hawthorne, New York"
+        "aff": "Cluster of Excellence MMCI at Saarland University; Commonwealth Bank of Australia; IBM Watson Research Center; Universit\u00e4t Siegen; MPI for Informatics"
     },
     {
         "title": "Fast High Dimensional Vector Multiplication Face Recognition",
-        "aff": "Tel Aviv University; IBM Research"
+        "aff": "Tel Aviv University; Tel Aviv University; Tel Aviv University; IBM Research"
     },
     {
         "title": "Fast Neighborhood Graph Search Using Cartesian Concatenation",
-        "aff": "Peking University; Microsoft Research"
+        "aff": "Peking University; Microsoft Research; Peking University; Peking University; Microsoft Research; Microsoft Research"
     },
     {
         "title": "Fast Object Segmentation in Unconstrained Video",
-        "aff": "University of Edinburgh"
+        "aff": "University of Edinburgh; University of Edinburgh"
     },
     {
         "title": "Fast Sparsity-Based Orthogonal Dictionary Learning for Image Restoration",
-        "aff": "Department of Mathematics, National University of Singapore, Singapore,119076; Department of Mathematics, University of Iowa, Iowa City, IA, USA, 52242"
+        "aff": "Department of Mathematics, National University of Singapore, Singapore,119076; Department of Mathematics, University of Iowa, Iowa City, IA, USA, 52242; Department of Mathematics, National University of Singapore, Singapore,119076"
     },
     {
         "title": "Fast Subspace Search via Grassmannian Based Hashing",
-        "aff": "EE Department, Columbia University; Proto Labs, Inc.; Math Department, University of Minnesota"
+        "aff": "Math Department, University of Minnesota; Proto Labs, Inc.; EE Department, Columbia University; Math Department, University of Minnesota"
     },
     {
         "title": "Feature Weighting via Optimal Thresholding for Video Analysis",
-        "aff": "School of Computer Engineering, Nanyang Technological University, Singapore; Department of Information Engineering and Computer Science, University of Trento, Italy; School of Computer Science, Carnegie Mellon University, USA; ITEE, The University of Queensland, Australia"
+        "aff": "ITEE, The University of Queensland, Australia; School of Computer Science, Carnegie Mellon University, USA; School of Computer Engineering, Nanyang Technological University, Singapore; Department of Information Engineering and Computer Science, University of Trento, Italy; School of Computer Science, Carnegie Mellon University, USA"
     },
     {
         "title": "Fibonacci Exposure Bracketing for High Dynamic Range Imaging",
-        "aff": "Columbia University, New York, NY 10027"
+        "aff": "Columbia University; Columbia University; Columbia University"
     },
     {
         "title": "Find the Best Path: An Efficient and Accurate Classifier for Image Hierarchies",
-        "aff": "Dept. of Computer Science and Engineering, University of Washington, USA; Dept. of Computer Science, Stanford University, USA; Dept. of Electrical and Computer Engineering, University of Michigan at Ann Arbor, USA"
+        "aff": "Dept. of Computer Science and Engineering, University of Washington, USA; Dept. of Electrical and Computer Engineering, University of Michigan at Ann Arbor, USA; Dept. of Computer Science, Stanford University, USA"
     },
     {
         "title": "Finding Actors and Actions in Movies",
-        "aff": "INRIA; WILLOW project-team, D\u00b4epartement d\u2019Informatique de l\u2019Ecole Normale Sup\u00b4erieure, ENS/INRIA/CNRS UMR 8548, Paris, France; LEAR team, INRIA Grenoble Rh\u00f4ne-Alpes, Paris, France; \u00b4Ecole Normale Sup\u00b4erieure"
+        "aff": "INRIA; INRIA; INRIA; Ecole Normale Sup\u00e9rieure; INRIA; INRIA"
     },
     {
         "title": "Finding Causal Interactions in Video Sequences",
-        "aff": "Dept. of Electrical and Computer Engineering, Northeastern University, Boston, MA 02115"
+        "aff": "Dept. of Electrical and Computer Engineering, Northeastern University, Boston, MA 02115; Dept. of Electrical and Computer Engineering, Northeastern University, Boston, MA 02115; Dept. of Electrical and Computer Engineering, Northeastern University, Boston, MA 02115; Dept. of Electrical and Computer Engineering, Northeastern University, Boston, MA 02115"
     },
     {
         "title": "Finding the Best from the Second Bests - Inhibiting Subjective Bias in Evaluation of Visual Tracking Algorithms",
-        "aff": "Department of Computer and Information Science, Temple University, Philadelphia, USA"
+        "aff": "Department of Computer and Information Science, Temple University, Philadelphia, USA; Department of Computer and Information Science, Temple University, Philadelphia, USA"
     },
     {
         "title": "Fine-Grained Categorization by Alignments",
-        "aff": "University of Amsterdam, ISIS; University of Amsterdam, ISIS, CWI Amsterdam; KU Leuven, ESA T-PSI, iMinds"
+        "aff": "University of Amsterdam, ISIS; KU Leuven, ESA T-PSI, iMinds; University of Amsterdam, ISIS + CWI Amsterdam; University of Amsterdam, ISIS + CWI Amsterdam; KU Leuven, ESA T-PSI, iMinds"
     },
     {
         "title": "Fingerspelling Recognition with Semi-Markov Conditional Random Fields",
-        "aff": "Toyota Technological Institute at Chicago"
+        "aff": "Toyota Technological Institute at Chicago; Toyota Technological Institute at Chicago; Toyota Technological Institute at Chicago"
     },
     {
         "title": "Flattening Supervoxel Hierarchies by the Uniform Entropy Slice",
-        "aff": "Computer Science and Engineering, SUNY at Buffalo"
+        "aff": "Computer Science and Engineering, SUNY at Buffalo; Computer Science and Engineering, SUNY at Buffalo; Computer Science and Engineering, SUNY at Buffalo"
     },
     {
         "title": "Fluttering Pattern Generation Using Modified Legendre Sequence for Coded Exposure Imaging",
-        "aff": "Robotics and Computer Vision Lab., KAIST; Department of Computer Science, Yonsei University"
+        "aff": "Robotics and Computer Vision Lab., KAIST; Robotics and Computer Vision Lab., KAIST; Robotics and Computer Vision Lab., KAIST; Department of Computer Science, Y onsei Univerisity; Robotics and Computer Vision Lab., KAIST"
     },
     {
         "title": "Forward Motion Deblurring",
-        "aff": "The Chinese University of Hong Kong"
+        "aff": ";;"
     },
     {
         "title": "From Actemes to Action: A Strongly-Supervised Representation for Detailed Action Understanding",
-        "aff": "Department of Computer Science, Ryerson University, Toronto, ON, Canada; GRASP Laboratory, University of Pennsylvania, Philadelphia, PA, USA"
+        "aff": "GRASP Laboratory, University of Pennsylvania, Philadelphia, PA, USA; GRASP Laboratory, University of Pennsylvania, Philadelphia, PA, USA; Department of Computer Science, Ryerson University, Toronto, ON, Canada"
     },
     {
         "title": "From Large Scale Image Categorization to Entry-Level Categories",
-        "aff": "University of North Carolina at Chapel Hill; Stanford University; Stony Brook University"
+        "aff": "University of North Carolina at Chapel Hill; Stanford University; Stony Brook University; University of North Carolina at Chapel Hill; University of North Carolina at Chapel Hill"
     },
     {
         "title": "From Point to Set: Extend the Learning of Distance Metrics",
-        "aff": "The Hong Kong Polytechnic University, Hong Kong China"
+        "aff": "The Hong Kong Polytechnic University; The Hong Kong Polytechnic University; ; "
     },
     {
         "title": "From Semi-supervised to Transfer Counting of Crowds",
-        "aff": "School of EECS, Queen Mary University of London, UK; Dept. of Information Engineering, The Chinese University of Hong Kong"
+        "aff": "Dept. of Information Engineering, The Chinese University of Hong Kong; School of EECS, Queen Mary University of London, UK; School of EECS, Queen Mary University of London, UK"
     },
     {
         "title": "From Subcategories to Visual Composites: A Multi-level Framework for Object Detection",
-        "aff": "Simon Fraser University, Canada; Disney Research Pittsburgh, USA"
+        "aff": ";;;"
     },
     {
         "title": "From Where and How to What We See",
-        "aff": "Department of Psychological and Brain Sciences, University of California Santa Barbara; Center for Bio-Image Informatics, Department of Electrical and Computer Engineering, University of California Santa Barbara"
+        "aff": "Center for Bio-Image Informatics+Department of Electrical and Computer Engineering; Center for Bio-Image Informatics+Department of Electrical and Computer Engineering; Center for Bio-Image Informatics+Department of Electrical and Computer Engineering; Department of Psychological and Brain Sciences; Center for Bio-Image Informatics+Department of Electrical and Computer Engineering"
     },
     {
         "title": "Frustratingly Easy NBNN Domain Adaptation",
-        "aff": "ESAT-PSI & iMinds, University of Rome La Sapienza, Italy; KU Leuven, Belgium"
+        "aff": "ESAT-PSI & iMinds University of Rome La Sapienza, Italy; KU Leuven, Belgium"
     },
     {
         "title": "GOSUS: Grassmannian Online Subspace Updates with Structured-Sparsity",
-        "aff": "Georgia Institute of Technology; University of Wisconsin-Madison; University of Wisconsin-Whitewater"
+        "aff": "University of Wisconsin-Madison; University of Wisconsin-Madison; University of Wisconsin-Whitewater; Georgia Institute of Technology; University of Wisconsin-Madison"
     },
     {
         "title": "Geometric Registration Based on Distortion Estimation",
-        "aff": "Rutgers University; Stony Brook University; Florida International University; Max-Planck Institute for Informatics"
+        "aff": "Florida International University; Max-Planck Institute for Informatics; Rutgers University; Stony Brook University"
     },
     {
         "title": "Global Fusion of Relative Motions for Robust, Accurate and Scalable Structure from Motion",
-        "aff": "Universit\u00e9 Paris-Est, LIGM (UMR CNRS), ENPC, F-77455 Marne-la-Vall\u00e9e"
+        "aff": "Universit\u00e9 Paris-Est, LIGM (UMR CNRS), ENPC, F-77455 Marne-la-Vall\u00e9e+Mikros Image; Universit\u00e9 Paris-Est, LIGM (UMR CNRS), ENPC, F-77455 Marne-la-Vall\u00e9e; Universit\u00e9 Paris-Est, LIGM (UMR CNRS), ENPC, F-77455 Marne-la-Vall\u00e9e"
     },
     {
         "title": "Go-ICP: Solving 3D Registration Efficiently and Globally Optimally",
-        "aff": "Australian National University and NICTA Australia; Beijing Lab of Intelligent Information Technology, Beijing Institute of Technology"
+        "aff": "Beijing Lab of Intelligent Information Technology, Beijing Institute of Technology+Australian National University and NICTA Australia; Australian National University and NICTA Australia; Beijing Lab of Intelligent Information Technology, Beijing Institute of Technology"
     },
     {
         "title": "GrabCut in One Cut",
-        "aff": "University of Western Ontario, Canada"
+        "aff": ";;;"
     },
     {
         "title": "Group Norm for Learning Structured SVMs with Unstructured Latent Variables",
-        "aff": "MIT CSAIL; Virginia Tech; Yahoo! Inc. (formerly at UMD, College Park)"
+        "aff": "UMD, College Park + Yahoo! Inc.; Virginia Tech; MIT CSAIL"
     },
     {
         "title": "Group Sparsity and Geometry Constrained Dictionary Learning for Action Recognition from Depth Maps",
-        "aff": "The University of Tennessee, Knoxville"
+        "aff": "The University of Tennessee, Knoxville; The University of Tennessee, Knoxville; The University of Tennessee, Knoxville"
     },
     {
         "title": "HOGgles: Visualizing Object Detection Features",
-        "aff": "Massachusetts Institute of Technology"
+        "aff": "Massachusetts Institute of Technology; Massachusetts Institute of Technology; Massachusetts Institute of Technology; Massachusetts Institute of Technology"
     },
     {
         "title": "Handling Occlusions with Franken-Classifiers",
-        "aff": "D-ITET/CVL, ETH Z\u00fcrich, Switzerland; ESA T -PSI/VISICS, iMinds, KU Leuven, Belgium; MPI Informatics, Saarbr\u00fccken, Germany"
+        "aff": ";;;"
     },
     {
         "title": "Handling Uncertain Tags in Visual Recognition",
-        "aff": "School of Computing Science, Simon Fraser University, Canada"
+        "aff": "School of Computing Science, Simon Fraser University, Canada; School of Computing Science, Simon Fraser University, Canada"
     },
     {
         "title": "Handwritten Word Spotting with Corrected Attributes",
-        "aff": "LEAR, INRIA, Grenoble, France; Computer Vision Center, Universitat Aut\u00f2noma de Barcelona, Barcelona, Spain"
+        "aff": ";;;"
     },
     {
         "title": "Heterogeneous Auto-similarities of Characteristics (HASC): Exploiting Relational Information for Classification",
-        "aff": "Universit `a di Verona, Departimento di Informatica; Istituto Italiano di Tecnologia, Pattern Analysis & Computer Vision"
+        "aff": "Istituto Italiano di Tecnologia, Pattern Analysis & Computer Vision; Istituto Italiano di Tecnologia, Pattern Analysis & Computer Vision; Istituto Italiano di Tecnologia, Pattern Analysis & Computer Vision + Universit `a di Verona, Departimento di Informatica; Istituto Italiano di Tecnologia, Pattern Analysis & Computer Vision; Istituto Italiano di Tecnologia, Pattern Analysis & Computer Vision + Universit `a di Verona, Departimento di Informatica"
     },
     {
         "title": "Heterogeneous Image Features Integration via Multi-modal Semi-supervised Learning Model",
-        "aff": "University of Texas at Arlington, Arlington, Texas 76019, USA; School of Information Technologies, University of Sydney, NSW 2006, Australia"
+        "aff": "University of Texas at Arlington; University of Texas at Arlington; School of Information Technologies, University of Sydney; University of Texas at Arlington+School of Information Technologies, University of Sydney"
     },
     {
         "title": "Hidden Factor Analysis for Age Invariant Face Recognition",
-        "aff": "Toyota Technological Institute at Chicago; Shenzhen Key Lab of Computer Vision and Pattern Recognition, Shenzhen Institutes of Advanced Technol ogy, Chinese Academy of Sciences, China; Dept. of Information Engineering, The Chinese University of Hong Kong; Dept. of Information Engineering, The Chinese University of Hong Kong; Media Lab, Huawei Technologies Co. Ltd., China; Shenzhen Key Lab of Computer Vision and Pattern Recognition, Shenzhen Institutes of Advanced Technol ogy, Chinese Academy of Sciences, China"
+        "aff": "Shenzhen Key Lab of Computer Vision and Pattern Recognition, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, China; Shenzhen Key Lab of Computer Vision and Pattern Recognition, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, China; Toyota Technological Institute at Chicago; Dept. of Information Engineering, The Chinese University of Hong Kong + Media Lab, Huawei Technologies Co. Ltd., China; Shenzhen Key Lab of Computer Vision and Pattern Recognition, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, China + Dept. of Information Engineering, The Chinese University of Hong Kong"
     },
     {
         "title": "Hierarchical Data-Driven Descent for Efficient Optimal Deformation Estimation",
-        "aff": "Carnegie Mellon University"
+        "aff": "Carnegie Mellon University; Carnegie Mellon University"
     },
     {
         "title": "Hierarchical Joint Max-Margin Learning of Mid and Top Level Representations for Visual Recognition",
-        "aff": "Department of Computer Science, Pontificia Universidad Catolica de Chile; Center for Imaging Science, Johns Hopkins University"
+        "aff": ";;"
     },
     {
         "title": "Hierarchical Part Matching for Fine-Grained Visual Categorization",
-        "aff": "State Key Laboratory of Intelligent Technology and Systems (LITS), Tsinghua National Laboratory for Information Science and Technology (TNList), Department of Computer Science and Technology, Tsinghua University, Beijing, China; School of Computer and Information, Hefei University of Technology, Hefei, China; Department of Electrical and Computer Engineering, National University of Singapore, Singapore; Department of Computer Science, University of Texas at San Antonio, Texas, USA"
+        "aff": "State Key Laboratory of Intelligent Technology and Systems (LITS) + Tsinghua National Laboratory for Information Science and Technology (TNList) + Department of Computer Science and Technology, Tsinghua University, Beijing, China; Department of Computer Science, University of Texas at San Antonio, Texas, USA; School of Computer and Information, Hefei University of Technology, Hefei, China; Department of Electrical and Computer Engineering, National University of Singapore, Singapore; State Key Laboratory of Intelligent Technology and Systems (LITS) + Tsinghua National Laboratory for Information Science and Technology (TNList) + Department of Computer Science and Technology, Tsinghua University, Beijing, China"
     },
     {
         "title": "High Quality Shape from a Single RGB-D Image under Uncalibrated Natural Illumination",
-        "aff": "KAIST; Robotics and Computer Vision Lab., KAIST"
+        "aff": "Robotics and Computer Vision Lab., KAIST; Robotics and Computer Vision Lab., KAIST; Robotics and Computer Vision Lab., KAIST"
     },
     {
         "title": "Higher Order Matching for Consistent Multiple Target Tracking",
-        "aff": "School of Computer Science and Engineering, The Hebrew University"
+        "aff": "School of Computer Science and Engineering, The Hebrew University; School of Computer Science and Engineering, The Hebrew University"
     },
     {
         "title": "Holistic Scene Understanding for 3D Object Detection with RGBD Cameras",
-        "aff": "TTI Chicago"
+        "aff": "TTI Chicago; TTI Chicago; TTI Chicago"
     },
     {
         "title": "How Do You Tell a Blackbird from a Crow?",
-        "aff": "Columbia University"
+        "aff": ";"
     },
     {
         "title": "How Related Exemplars Help Complex Event Detection in Web Videos?",
-        "aff": "ECE, National University of Singapore, Singapore; School of Computer Science, Carnegie Mellon University, USA; ITEE, The University of Queensland, Australia"
+        "aff": "School of Computer Science, Carnegie Mellon University, USA; School of Computer Science, Carnegie Mellon University, USA; ITEE, The University of Queensland, Australia; ECE, National University of Singapore, Singapore; School of Computer Science, Carnegie Mellon University, USA"
     },
     {
         "title": "Human Attribute Recognition by Rich Appearance Dictionary",
-        "aff": "Center for Vision, Cognition, Learning and Art, Depts. of Statistics and Computer Science, UCLA; School of EECS, Peking University"
+        "aff": "Center for Vision, Cognition, Learning and Art, Depts. of Statistics and Computer Science, UCLA; Center for Vision, Cognition, Learning and Art, Depts. of Statistics and Computer Science, UCLA + School of EECS, Peking University; Center for Vision, Cognition, Learning and Art, Depts. of Statistics and Computer Science, UCLA"
     },
     {
         "title": "Human Re-identification by Matching Compositional Template with Cluster Sampling",
-        "aff": "University of California, Los Angeles; Sun Yat-Sen University, China"
+        "aff": "Sun Yat-Sen University, China; Sun Yat-Sen University, China; Sun Yat-Sen University, China; University of California, Los Angeles"
     },
     {
         "title": "Hybrid Deep Learning for Face Verification",
-        "aff": "Department of Information Engineering, The Chinese University of Hong Kong; Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences; Department of Electronic Engineering, The Chinese University of Hong Kong"
+        "aff": "Department of Information Engineering, The Chinese University of Hong Kong; Department of Electronic Engineering, The Chinese University of Hong Kong + Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences; Department of Information Engineering, The Chinese University of Hong Kong + Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences"
     },
     {
         "title": "Illuminant Chromaticity from Image Sequences",
-        "aff": "The Hebrew University of Jerusalem, Israel"
+        "aff": ";;"
     },
     {
         "title": "Image Co-segmentation via Consistent Functional Maps",
-        "aff": "Stanford University"
+        "aff": "Stanford University; Stanford University; Stanford University"
     },
     {
         "title": "Image Guided Depth Upsampling Using Anisotropic Total Generalized Variation",
-        "aff": "Graz University of Technology, Institute for Computer Graphics and Vision"
+        "aff": "Graz University of Technology; Graz University of Technology; Graz University of Technology; Graz University of Technology; Graz University of Technology"
     },
     {
         "title": "Image Retrieval Using Textual Cues",
-        "aff": "Inria, France; CVIT, IIIT Hyderabad, India"
+        "aff": ";;"
     },
     {
         "title": "Image Segmentation with Cascaded Hierarchical Models and Logistic Disjunctive Normal Networks",
-        "aff": "Scientific Computing and Imaging Institute, University of Utah, Salt Lake City, UT 84112, USA"
+        "aff": "Scientific Computing and Imaging Institute, University of Utah, Salt Lake City, UT 84112, USA; Scientific Computing and Imaging Institute, University of Utah, Salt Lake City, UT 84112, USA; Scientific Computing and Imaging Institute, University of Utah, Salt Lake City, UT 84112, USA"
     },
     {
         "title": "Image Set Classification Using Holistic Multiple Order Statistics Features and Localized Multi-kernel Metric Learning",
-        "aff": "School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore; Advanced Digital Sciences Center, Singapore; Department of ECE, University of Illinois at Urbana-Champaign, IL USA"
+        "aff": "Advanced Digital Sciences Center, Singapore; School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore; Department of ECE, University of Illinois at Urbana-Champaign, IL USA"
     },
     {
         "title": "Implied Feedback: Learning Nuances of User Behavior in Image Search",
@@ -849,23 +849,23 @@
     },
     {
         "title": "Improving Graph Matching via Density Maximization",
-        "aff": "CECS, Australian National University, ACT 0200, Canberra, Australia; School of Computer Science & Software Engineering, University of Wollongong, NSW, Australia, 2522"
+        "aff": "School of Computer Science & Software Engineering, University of Wollongong, NSW, Australia, 2522; School of Computer Science & Software Engineering, University of Wollongong, NSW, Australia, 2522; CECS, Australian National University, ACT 0200, Canberra, Australia"
     },
     {
         "title": "Incorporating Cloud Distribution in Sky Representation",
-        "aff": "Cornell University"
+        "aff": ";"
     },
     {
         "title": "Inferring \"Dark Matter\" and \"Dark Energy\" from Videos",
-        "aff": "Center for Vision, Cognition, Learning and Art, Depts. of Statistics and Computer Science, University of California, Los Angeles, USA; School of EECS, Oregon State University, USA"
+        "aff": "Center for Vision, Cognition, Learning and Art, Depts. of Statistics and Computer Science, University of California, Los Angeles, USA; School of EECS, Oregon State University, USA; Center for Vision, Cognition, Learning and Art, Depts. of Statistics and Computer Science, University of California, Los Angeles, USA"
     },
     {
         "title": "Initialization-Insensitive Visual Tracking through Voting with Salient Local Features",
-        "aff": "Department of EECS, ASRI, Seoul National University, Seoul, Korea; Department of EEE, Imperial College, London, UK"
+        "aff": "Department of EECS, ASRI, Seoul National University, Seoul, Korea; Department of EECS, ASRI, Seoul National University, Seoul, Korea; Department of EECS, ASRI, Seoul National University, Seoul, Korea; Department of EEE, Imperial College, London, UK; Department of EECS, ASRI, Seoul National University, Seoul, Korea"
     },
     {
         "title": "Interactive Markerless Articulated Hand Motion Tracking Using RGB and Depth Data",
-        "aff": "MPI Informatik and Saarland University"
+        "aff": "MPI Informatik and Saarland University; MPI Informatik and Saarland University; MPI Informatik and Saarland University"
     },
     {
         "title": "Internet Based Morphable Model",
@@ -873,171 +873,171 @@
     },
     {
         "title": "Joint Deep Learning for Pedestrian Detection",
-        "aff": "Department of Electronic Engineering, the Chinese University of Hong Kong"
+        "aff": "Department of Electronic Engineering, the Chinese University of Hong Kong; Department of Electronic Engineering, the Chinese University of Hong Kong"
     },
     {
         "title": "Joint Inverted Indexing",
-        "aff": "Microsoft Research Asia; University of Science and Technology of China"
+        "aff": ";;;"
     },
     {
         "title": "Joint Learning of Discriminative Prototypes and Large Margin Nearest Neighbor Classifiers",
-        "aff": "Institute for Computer Graphics and Vision, Graz University of Technology"
+        "aff": "Institute for Computer Graphics and Vision, Graz University of Technology; Institute for Computer Graphics and Vision, Graz University of Technology; Institute for Computer Graphics and Vision, Graz University of Technology; Institute for Computer Graphics and Vision, Graz University of Technology"
     },
     {
         "title": "Joint Noise Level Estimation from Personal Photo Collections",
-        "aff": "Google Research; Google Research, MIT CSAIL"
+        "aff": "Google Research+MIT CSAIL; Google Research; Google Research; Google Research; Google Research"
     },
     {
         "title": "Joint Optimization for Consistent Multiple Graph Matching",
-        "aff": "Shanghai Jiao Tong University, Shanghai, China, 200240; Shanghai Jiao Tong University; IBM Research - China; Georgia Institute of Technology, Atlanta, Georgia, 30032; IBM T.J. Waston Research Center, Yorktown Heights, NY USA, 10598"
+        "aff": "Shanghai Jiao Tong University+IBM Research - China; Shanghai Jiao Tong University; Georgia Institute of Technology; Shanghai Jiao Tong University; Shanghai Jiao Tong University; IBM T.J. Waston Research Center"
     },
     {
         "title": "Joint Segmentation and Pose Tracking of Human in Natural Videos",
-        "aff": "Department of Computer Science and Engineering, POSTECH, Korea; DMC R&D Center, Samsung Electronics, Korea"
+        "aff": "DMC R&D Center, Samsung Electronics, Korea + Department of Computer Science and Engineering, POSTECH, Korea; Department of Computer Science and Engineering, POSTECH, Korea; Department of Computer Science and Engineering, POSTECH, Korea; Department of Computer Science and Engineering, POSTECH, Korea"
     },
     {
         "title": "Joint Subspace Stabilization for Stereoscopic Video",
-        "aff": "Adobe Research; Portland State University; Fuzhou University"
+        "aff": "Portland State University; Fuzhou University + Portland State University; Adobe Research"
     },
     {
         "title": "Large-Scale Image Annotation by Efficient and Robust Kernel Metric Learning",
-        "aff": "Department of Computer Science and Engineering, Michigan State University, East Lansing, MI, 48824, USA"
+        "aff": "Department of Computer Science and Engineering, Michigan State University, East Lansing, MI, 48824, USA; Department of Computer Science and Engineering, Michigan State University, East Lansing, MI, 48824, USA; Department of Computer Science and Engineering, Michigan State University, East Lansing, MI, 48824, USA"
     },
     {
         "title": "Large-Scale Multi-resolution Surface Reconstruction from RGB-D Sequences",
-        "aff": "Technical University of Munich"
+        "aff": ";;"
     },
     {
         "title": "Large-Scale Video Hashing via Structure Learning",
-        "aff": "IBM T. J. Watson Research Center, Yorktown Heights, NY, USA; Dept. of Electrical Engineering, Columbia University, New York, NY, USA"
+        "aff": "Dept. of Electrical Engineering, Columbia University, New York, NY, USA; Dept. of Electrical Engineering, Columbia University, New York, NY, USA; IBM T. J. Watson Research Center, Yorktown Heights, NY, USA; Dept. of Electrical Engineering, Columbia University, New York, NY, USA"
     },
     {
         "title": "Latent Data Association: Bayesian Model Selection for Multi-target Tracking",
-        "aff": "Department of Computer Science, University of Adelaide; Department of Engineering Science, University of Oxford"
+        "aff": "Department of Engineering Science, University of Oxford; Department of Computer Science, University of Adelaide"
     },
     {
         "title": "Latent Multitask Learning for View-Invariant Action Recognition",
-        "aff": "Oregon State University, Corvallis, OR 97331, USA"
+        "aff": "Oregon State University; Oregon State University"
     },
     {
         "title": "Latent Space Sparse Subspace Clustering",
-        "aff": "Center for Automation Research, UMIACS, UMD, College Park, MD 20742; Center for Imaging Science, JHU, Baltimore, MD 21218"
+        "aff": "Center for Automation Research, UMIACS, UMD, College Park, MD 20742; Center for Automation Research, UMIACS, UMD, College Park, MD 20742; Center for Imaging Science, JHU, Baltimore, MD 21218"
     },
     {
         "title": "Latent Task Adaptation with Large-Scale Hierarchies",
-        "aff": "UC Berkeley EECS & ICSI"
+        "aff": "UC Berkeley EECS & ICSI; UC Berkeley EECS & ICSI"
     },
     {
         "title": "Learning CRFs for Image Parsing with Adaptive Subgradient Descent",
-        "aff": "National University of Singapore; Microsoft Research; The Hong Kong University of Science and Technology"
+        "aff": "The Hong Kong University of Science and Technology\u2217; Microsoft Research\u2020; National University of Singapore\u2021; The Hong Kong University of Science and Technology\u2217; The Hong Kong University of Science and Technology\u2217"
     },
     {
         "title": "Learning Coupled Feature Spaces for Cross-Modal Matching",
-        "aff": "Center for Research on Intelligent Perception and Computing, National Lab of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, Beijing 100190, China"
+        "aff": ";;;;"
     },
     {
         "title": "Learning Discriminative Part Detectors for Image Classification and Cosegmentation",
-        "aff": "Xi\u2019an Jiaotong University, INRIA; \u00b4Ecole Normale Sup\u00e9rieure"
+        "aff": "Xi'an Jiaotong University, INRIA; Ecole Normale Sup\u00e9rieure, WILLOW project-team, D\u00b4epartement d\u2019Informatique de l\u2019Ecole Normale Sup\u00e9rieure, ENS/INRIA/CNRS UMR 8548"
     },
     {
         "title": "Learning Graph Matching: Oriented to Category Modeling from Cluttered Scenes",
-        "aff": "Center for Spatial Information Science, University of Tokyo; Key Laboratory of Machine Perception (MoE), Peking University"
+        "aff": "Center for Spatial Information Science, University of Tokyo\u2020; Center for Spatial Information Science, University of Tokyo\u2020; Center for Spatial Information Science, University of Tokyo\u2020; Key Laboratory of Machine Perception (MoE), Peking University\u2021; Center for Spatial Information Science, University of Tokyo\u2020"
     },
     {
         "title": "Learning Graphs to Match",
-        "aff": "Inria; Ecole Normale Sup\u00e9rieure"
+        "aff": "Inria; Inria; \u00c9cole Normale Sup\u00e9rieure"
     },
     {
         "title": "Learning Hash Codes with Listwise Supervision",
-        "aff": "School of Computer Science, Fudan University; Multimedia Analytics, IBM T. J. Watson Research Center; Business Analytics and Mathematical Sciences, IBM T. J. Watson Research Center; School of Industrial and Systems Engineering, Georgia Institute of Technology"
+        "aff": "Business Analytics and Mathematical Sciences, IBM T. J. Watson Research Center; Multimedia Analytics, IBM T. J. Watson Research Center; School of Industrial and Systems Engineering, Georgia Institute of Technology; School of Computer Science, Fudan University"
     },
     {
         "title": "Learning Maximum Margin Temporal Warping for Action Recognition",
-        "aff": "Northwestern University"
+        "aff": "Northwestern University; Northwestern University"
     },
     {
         "title": "Learning Near-Optimal Cost-Sensitive Decision Policy for Object Detection",
-        "aff": "Department of Statistics, University of California, Los Angeles"
+        "aff": "Department of Statistics, University of California, Los Angeles; Department of Statistics, University of California, Los Angeles"
     },
     {
         "title": "Learning People Detectors for Tracking in Crowded Scenes",
-        "aff": "Department of Computer Science, TU Darmstadt; Photogrammetry and Remote Sensing Group, ETH Z\u00fcrich; Max Planck Institute for Informatics, Saarbr\u00fccken, Germany"
+        "aff": ";;;;;"
     },
     {
         "title": "Learning Slow Features for Behaviour Analysis",
-        "aff": "Department of Computing, Imperial College London, UK; Department of Computing, Imperial College London, UK; EEMCS, University of Twente, NL"
+        "aff": "Department of Computing, Imperial College London, UK; Department of Computing, Imperial College London, UK; Department of Computing, Imperial College London, UK; Department of Computing, Imperial College London, UK; Department of Computing, Imperial College London, UK + EEMCS, University of Twente, NL"
     },
     {
         "title": "Learning View-Invariant Sparse Representations for Cross-View Action Recognition",
-        "aff": "Noah\u2019s Ark Lab, Huawei Technologies; University of Maryland, College Park, MD, USA"
+        "aff": "University of Maryland, College Park, MD, USA; Noah\u2019s Ark Lab, Huawei Technologies"
     },
     {
         "title": "Learning a Dictionary of Shape Epitomes with Applications to Image Labeling",
-        "aff": "Departments of Statistics, UCLA; Departments of Computer Science and Statistics, UCLA; Departments of Computer Science, UCLA"
+        "aff": "Departments of Computer Science; Departments of Statistics; Departments of Computer Science+Departments of Statistics"
     },
     {
         "title": "Learning the Visual Interpretation of Sentences",
-        "aff": "Virginia Tech; Microsoft Research"
+        "aff": "Microsoft Research; Virginia Tech; Microsoft Research"
     },
     {
         "title": "Learning to Predict Gaze in Egocentric Video",
-        "aff": "College of Computing, Georgia Institute of Technology"
+        "aff": ";;"
     },
     {
         "title": "Learning to Rank Using Privileged Information",
-        "aff": "IST Austria, Klosterneuburg, Austria; University of Cambridge, Cambridge, UK"
+        "aff": "IST Austria; University of Cambridge; IST Austria"
     },
     {
         "title": "Learning to Share Latent Tasks for Action Recognition",
-        "aff": "Nanyang Technological University, Singapore; National University of Singapore, Singapore; Advanced Digital Sciences Center, Singapore"
+        "aff": "National University of Singapore; Nanyang Technological University + Advanced Digital Sciences Center; Advanced Digital Sciences Center; National University of Singapore"
     },
     {
         "title": "Lifting 3D Manhattan Lines from a Single Image",
-        "aff": "Mitsubishi Electric Research Labs (MERL), Cambridge, MA, USA"
+        "aff": "Mitsubishi Electric Research Labs (MERL), Cambridge, MA, USA; Mitsubishi Electric Research Labs (MERL), Cambridge, MA, USA"
     },
     {
         "title": "Like Father, Like Son: Facial Expression Dynamics for Kinship Verification",
-        "aff": "Department of Computer Engineering, Bo\u011fazi\u00e7i University, Istanbul, Turkey; Intelligent Systems Lab Amsterdam, University of Amsterdam, Amsterdam, The Netherlands; Pattern Recognition & Bioinformatics Group, Delft University of Technology, Delft, The Netherlands; Intelligent Systems Lab Amsterdam, University of Amsterdam, Amsterdam, The Netherlands"
+        "aff": "Intelligent Systems Lab Amsterdam, University of Amsterdam, Amsterdam, The Netherlands + Pattern Recognition & Bioinformatics Group, Delft University of Technology, Delft, The Netherlands; Department of Computer Engineering, Bo \u02d8gazic\u00b8i University, Istanbul, Turkey; Intelligent Systems Lab Amsterdam, University of Amsterdam, Amsterdam, The Netherlands"
     },
     {
         "title": "Line Assisted Light Field Triangulation and Stereo Matching",
-        "aff": "Temple University, Philadelphia, PA 19122, USA; Indiana University, Bloomington, IN 47405, USA; University of Delaware, Newark, DE 19716, USA"
+        "aff": "University of Delaware; University of Delaware; Temple University; Indiana University; University of Delaware"
     },
     {
         "title": "Linear Sequence Discriminant Analysis: A Model-Based Dimensionality Reduction Method for Vector Sequences",
-        "aff": "State Key Laboratory of Intelligent Technology and Systems, Department of Electronic Engineering, Tsinghua University, Beijing 100084, China"
+        "aff": "State Key Laboratory of Intelligent Technology and Systems, Department of Electronic Engineering, Tsinghua University, Beijing 100084, China; State Key Laboratory of Intelligent Technology and Systems, Department of Electronic Engineering, Tsinghua University, Beijing 100084, China"
     },
     {
         "title": "Live Metric 3D Reconstruction on Mobile Phones",
-        "aff": ""
+        "aff": ";;;;;"
     },
     {
         "title": "Local Signal Equalization for Correspondence Matching",
-        "aff": "Disney Research Zurich"
+        "aff": "Disney Research Zurich; Disney Research Zurich"
     },
     {
         "title": "Locally Affine Sparse-to-Dense Matching for Motion and Occlusion Estimation",
-        "aff": "Department of Mathematics, Faculty of Engineering, Lund University; Institute of Mathematics of the Romanian Academy"
+        "aff": "Institute of Mathematics of the Romanian Academy; Institute of Mathematics of the Romanian Academy; Department of Mathematics, Faculty of Engineering, Lund University + Institute of Mathematics of the Romanian Academy"
     },
     {
         "title": "Log-Euclidean Kernels for Sparse Representation and Dictionary Learning",
-        "aff": "Dalian University of Technology; Harbin Institute of Technology; Heilongjiang University; The Hong Kong Polytechnic University"
+        "aff": "Dalian University of Technology; Heilongjiang University; Harbin Institute of Technology+The Hong Kong Polytechnic University; The Hong Kong Polytechnic University"
     },
     {
         "title": "Low-Rank Sparse Coding for Image Classification",
-        "aff": "National University of Singapore, Singapore; University of Illinois at Urbana-Champaign, Urbana, IL USA; Advanced Digital Sciences Center of Illinois, Singapore; King Abdullah University of Science and Technology, Saudi Arabia; Institute of Automation, Chinese Academy of Sciences, P. R. China"
+        "aff": "Advanced Digital Sciences Center of Illinois, Singapore + University of Illinois at Urbana-Champaign, Urbana, IL USA; King Abdullah University of Science and Technology, Saudi Arabia + University of Illinois at Urbana-Champaign, Urbana, IL USA; National University of Singapore, Singapore; Institute of Automation, Chinese Academy of Sciences, P. R. China + University of Illinois at Urbana-Champaign, Urbana, IL USA; University of Illinois at Urbana-Champaign, Urbana, IL USA"
     },
     {
         "title": "Manifold Based Face Synthesis from Sparse Samples",
-        "aff": "College of Computing, Georgia Tech, Atlanta, GA 30332; ECE Department, Georgia Tech, Atlanta, GA 30332"
+        "aff": "ECE Department, Georgia Tech; College of Computing, Georgia Tech"
     },
     {
         "title": "Manipulation Pattern Discovery: A Nonparametric Bayesian Approach",
-        "aff": "University of Illinois at Urbana-Champaign, Urbana, IL 61801; Advanced Digital Sciences Center, Singapore 138632"
+        "aff": "Advanced Digital Sciences Center, Singapore 138632; University of Illinois at Urbana-Champaign, Urbana, IL 61801"
     },
     {
         "title": "Markov Network-Based Unified Classifier for Face Identification",
-        "aff": "Advanced Media Lab., Samsung Advanced Institute of Technology, Gyeonggi, Korea; Dept. of EE, Korea Advanced Institute of Science and Technology, Daejeon, Korea"
+        "aff": "Advanced Media Lab., Samsung Advanced Institute of Technology, Gyeonggi, Korea + Dept. of EE, Korea Advanced Institute of Science and Technology, Daejeon, Korea; Advanced Media Lab., Samsung Advanced Institute of Technology, Gyeonggi, Korea; Dept. of EE, Korea Advanced Institute of Science and Technology, Daejeon, Korea"
     },
     {
         "title": "Matching Dry to Wet Materials",
@@ -1045,239 +1045,239 @@
     },
     {
         "title": "Measuring Flow Complexity in Videos",
-        "aff": "Center for Vision Technologies, SRI International, 201 Washington Rd., Princeton, NJ, USA"
+        "aff": "Center for Vision Technologies, SRI International"
     },
     {
         "title": "Minimal Basis Facility Location for Subspace Segmentation",
-        "aff": "ECE Department, National University of Singapore"
+        "aff": "ECE Department, National University of Singapore; ECE Department, National University of Singapore"
     },
     {
         "title": "Mining Motion Atoms and Phrases for Complex Action Recognition",
-        "aff": "2. Shenzhen key lab of Comp. Vis. & Pat. Rec., Shenzhen Institutes of Advanced Technology, CAS, China; 1. Department of Information Engineering, The Chinese University of Hong Kong; 2. Shenzhen key lab of Comp. Vis. & Pat. Rec., Shenzhen Institutes of Advanced Technology, CAS, China"
+        "aff": "Department of Information Engineering, The Chinese University of Hong Kong+Shenzhen key lab of Comp. Vis. & Pat. Rec., Shenzhen Institutes of Advanced Technology, CAS, China; Shenzhen key lab of Comp. Vis. & Pat. Rec., Shenzhen Institutes of Advanced Technology, CAS, China; Department of Information Engineering, The Chinese University of Hong Kong+Shenzhen key lab of Comp. Vis. & Pat. Rec., Shenzhen Institutes of Advanced Technology, CAS, China"
     },
     {
         "title": "Mining Multiple Queries for Image Retrieval: On-the-Fly Learning of an Object-Specific Mid-level Representation",
-        "aff": "KU Leuven, ESAT-PSI, iMinds, Belgium"
+        "aff": "KU Leuven, ESAT-PSI, iMinds; KU Leuven, ESAT-PSI, iMinds"
     },
     {
         "title": "Model Recommendation with Virtual Probes for Egocentric Hand Detection",
-        "aff": "Carnegie Mellon University, Pittsburgh, PA, USA; Tsinghua University, Beijing, China"
+        "aff": "Tsinghua University; Carnegie Mellon University"
     },
     {
         "title": "Modeling 4D Human-Object Interactions for Event and Object Recognition",
-        "aff": "University of California, Los Angeles, USA; Xi\u2019an Jiaotong University, China"
+        "aff": "Xi\u2019an Jiaotong University, China+University of California, Los Angeles, USA; University of California, Los Angeles, USA; Xi\u2019an Jiaotong University, China; University of California, Los Angeles, USA"
     },
     {
         "title": "Modeling Occlusion by Discriminative AND-OR Structures",
-        "aff": "Department of Statistics, University of California, Los Angeles; Beijing Lab of Intelligent Information Technology, Beijing Institute of Technology"
+        "aff": "Beijing Lab of Intelligent Information Technology, Beijing Institute of Technology; Department of Statistics, University of California, Los Angeles; Department of Statistics, University of California, Los Angeles; Department of Statistics, University of California, Los Angeles"
     },
     {
         "title": "Modeling Self-Occlusions in Dynamic Shape and Appearance Tracking",
-        "aff": "King Abdullah University of Science and Technology (KAUST)"
+        "aff": "King Abdullah University of Science and Technology (KAUST); King Abdullah University of Science and Technology (KAUST)"
     },
     {
         "title": "Modeling the Calibration Pipeline of the Lytro Camera for High Quality Light-Field Image Reconstruction",
-        "aff": "Korea Advanced Institute of Science and Technology (KAIST)"
+        "aff": ";;;"
     },
     {
         "title": "Modifying the Memorability of Face Photographs",
-        "aff": "Massachusetts Institute of Technology, Computer Science and Artificial Intelligence Laboratory"
+        "aff": "Massachusetts Institute of Technology; Massachusetts Institute of Technology; Massachusetts Institute of Technology; Massachusetts Institute of Technology"
     },
     {
         "title": "Monocular Image 3D Human Pose Estimation under Self-Occlusion",
-        "aff": "IHCC Group, RSCS, Australian National University, Australia; Vision & Sensing Group, HCC Lab, ESTeM, University of Canberra, Australia and IHCC Group, RSCS, Australian National University, Australia; Vision & Sensing Group, HCC Lab, ESTeM, University of Canberra, Australia"
+        "aff": "Vision & Sensing Group, HCC Lab, ESTeM, University of Canberra, Australia + IHCC Group, RSCS, Australian National University, Australia; IHCC Group, RSCS, Australian National University, Australia; Vision & Sensing Group, HCC Lab, ESTeM, University of Canberra, Australia + IHCC Group, RSCS, Australian National University, Australia"
     },
     {
         "title": "Monte Carlo Tree Search for Scheduling Activity Recognition",
-        "aff": "Oregon State University, Corvallis, Oregon, USA; University of California Los Angeles, Los Angeles, California, USA"
+        "aff": "Oregon State University; Oregon State University; Oregon State University; University of California Los Angeles"
     },
     {
         "title": "Motion-Aware KNN Laplacian for Video Matting",
-        "aff": "HKUST; Stanford University; Columbia University"
+        "aff": "Columbia University; Stanford University; HKUST"
     },
     {
         "title": "Multi-attributed Dictionary Learning for Sparse Coding",
-        "aff": "National Tsing Hua University, Hsinchu, 300, Taiwan"
+        "aff": "National Tsing Hua University, Hsinchu, 300, Taiwan; National Tsing Hua University, Hsinchu, 300, Taiwan; National Tsing Hua University, Hsinchu, 300, Taiwan; National Tsing Hua University, Hsinchu, 300, Taiwan"
     },
     {
         "title": "Multi-channel Correlation Filters",
-        "aff": "CSIRO, Australia; National University of Singapore, Singapore"
+        "aff": "National University of Singapore; National University of Singapore; CSIRO"
     },
     {
         "title": "Multi-scale Topological Features for Hand Posture Representation and Analysis",
-        "aff": "State University of New York at Binghamton"
+        "aff": "State University of New York at Binghamton; State University of New York at Binghamton"
     },
     {
         "title": "Multi-stage Contextual Deep Learning for Pedestrian Detection",
-        "aff": "Department of Electronic Engineering, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong"
+        "aff": ";;"
     },
     {
         "title": "Multi-view 3D Reconstruction from Uncalibrated Radially-Symmetric Cameras",
-        "aff": "Australian National University; Australian National University and NICTA, Australia; Zhejiang University, China"
+        "aff": "Australian National University and NICTA, Australia; Australian National University and NICTA, Australia; Australian National University and NICTA, Australia + Zhejiang University, China; Zhejiang University, China; Australian National University and NICTA, Australia"
     },
     {
         "title": "Multi-view Normal Field Integration for 3D Reconstruction of Mirroring Objects",
-        "aff": "University of Bonn"
+        "aff": "University of Bonn; University of Bonn; University of Bonn; University of Bonn"
     },
     {
         "title": "Multi-view Object Segmentation in Space and Time",
-        "aff": "LJK - INRIA Rhone-Alpes, France; Technicolor, Cesson Sevigne, France"
+        "aff": "LJK - INRIA Rh\u00f4ne-Alpes, France + Technicolor, Cesson Sevigne, France; LJK - INRIA Rh\u00f4ne-Alpes, France; LJK - INRIA Rh\u00f4ne-Alpes, France; Technicolor, Cesson Sevigne, France; Technicolor, Cesson Sevigne, France"
     },
     {
         "title": "Multiple Non-rigid Surface Detection and Registration",
-        "aff": "University of California, Merced; OMRON Corporation"
+        "aff": "University of California, Merced; OMRON Corporation; University of California, Merced"
     },
     {
         "title": "Multiview Photometric Stereo Using Planar Mesh Parameterization",
-        "aff": "Microsoft Research Redmond, USA; Microsoft Research Asia, China; Korea Advanced Institute of Science and Technology, South Korea"
+        "aff": "Korea Advanced Institute of Science and Technology, South Korea; Microsoft Research Redmond, USA; Microsoft Research Asia, China; Korea Advanced Institute of Science and Technology, South Korea; Korea Advanced Institute of Science and Technology, South Korea"
     },
     {
         "title": "NEIL: Extracting Visual Knowledge from Web Data",
-        "aff": "Carnegie Mellon University"
+        "aff": ";;"
     },
     {
         "title": "NYC3DCars: A Dataset of 3D Vehicles in Geographic Context",
-        "aff": "Cornell University"
+        "aff": "Cornell University; Cornell University"
     },
     {
         "title": "Neighbor-to-Neighbor Search for Fast Coding of Feature Vectors",
-        "aff": "Tokyo Institute of Technology, Tokyo, 152-8552, Japan."
+        "aff": "Tokyo Institute of Technology, Tokyo, 152-8552, Japan; Tokyo Institute of Technology, Tokyo, 152-8552, Japan"
     },
     {
         "title": "Nested Shape Descriptors",
-        "aff": "University of Pennsylvania, GRASP Lab"
+        "aff": "University of Pennsylvania, GRASP Lab; University of Pennsylvania, GRASP Lab"
     },
     {
         "title": "Network Principles for SfM: Disambiguating Repeated Structures with Local Context",
-        "aff": "Cornell University"
+        "aff": "Cornell University; Cornell University"
     },
     {
         "title": "New Graph Structured Sparsity Model for Multi-label Image Annotations",
-        "aff": "University of Texas at Arlington, Arlington, Texas 76019, USA; School of Information Technologies, University of Sydney, NSW 2006, Australia"
+        "aff": "University of Texas at Arlington; University of Texas at Arlington; School of Information Technologies, University of Sydney; University of Texas at Arlington+School of Information Technologies, University of Sydney"
     },
     {
         "title": "No Matter Where You Are: Flexible Graph-Guided Multi-task Learning for Multi-view Head Pose Classification under Target Motion",
-        "aff": "Department of Electrical and Information Engineering, University of Perugia, Italy; Advanced Digital Sciences Center (ADSC), University of Illinois at Urbana-Champaign, Singapore; Department of Information Engineering and Computer Science, University of Trento, Italy; Fondazione Bruno Kessler, Trento, Italy"
+        "aff": ";;;;"
     },
     {
         "title": "Non-convex P-Norm Projection for Robust Sparsity",
-        "aff": "Qualcomm, Bangalore, India; Ricoh Innovations Pvt. Ltd., Bangalore, India"
+        "aff": ";"
     },
     {
         "title": "Nonparametric Blind Super-resolution",
-        "aff": "Dept. of Computer Science and Applied Mathematics, Weizmann Institute of Science, Israel"
+        "aff": "Dept. of Computer Science and Applied Mathematics, Weizmann Institute of Science, Israel; Dept. of Computer Science and Applied Mathematics, Weizmann Institute of Science, Israel"
     },
     {
         "title": "Offline Mobile Instance Retrieval with a Small Memory Footprint",
-        "aff": "NUS, Singapore; CVIT, IIIT Hyderabad, India"
+        "aff": ";;"
     },
     {
         "title": "On One-Shot Similarity Kernels: Explicit Feature Maps and Properties",
-        "aff": "Electronics Laboratory, Department of Physics, University of Patras, Greece; School of Science and Technology, Middlesex University, London; Department of Computing, Imperial College London"
+        "aff": "Department of Computing, Imperial College London; Electronics Laboratory, Department of Physics, University of Patras, Greece+School of Science and Technology, Middlesex University, London"
     },
     {
         "title": "On the Mean Curvature Flow on Graphs with Applications in Image and Manifold Processing",
-        "aff": "UCBN, GREYC - UMR CNRS 6972, 6.Bvd Marechal Juin, 14050 Caen, FRANCE"
+        "aff": "UCBN, GREYC - UMR CNRS 6972, 6.Bvd Marechal Juin, 14050 Caen, FRANCE; UCBN, GREYC - UMR CNRS 6972, 6.Bvd Marechal Juin, 14050 Caen, FRANCE; UCBN, GREYC - UMR CNRS 6972, 6.Bvd Marechal Juin, 14050 Caen, FRANCE"
     },
     {
         "title": "Online Motion Segmentation Using Dynamic Label Propagation",
-        "aff": "Rutgers University"
+        "aff": "Rutgers University; Rutgers University"
     },
     {
         "title": "Online Robust Non-negative Dictionary Learning for Visual Tracking",
-        "aff": "Hong Kong University of Science and Technology; Microsoft Research"
+        "aff": "Hong Kong University of Science and Technology; Microsoft Research; Hong Kong University of Science and Technology"
     },
     {
         "title": "Online Video SEEDS for Temporal Window Objectness",
-        "aff": "ETH Z\u00fcrich, Switzerland; ETH Z\u00fcrich, Switzerland/KU Leuven, Belgium"
+        "aff": ";;;;"
     },
     {
         "title": "Optical Flow via Locally Adaptive Fusion of Complementary Data Costs",
-        "aff": "Department of ECE, ASRI, Seoul National University, 151-742, Seoul, Korea"
+        "aff": "Department of ECE, ASRI, Seoul National University, 151-742, Seoul, Korea; Department of ECE, ASRI, Seoul National University, 151-742, Seoul, Korea; Department of ECE, ASRI, Seoul National University, 151-742, Seoul, Korea"
     },
     {
         "title": "Optimal Orthogonal Basis and Image Assimilation: Motion Modeling",
-        "aff": "INRIA1, CEREA2, FRANCE; Lithicon Norway AS, NORWAY; INRIA1, CEREA2, UVSQ3, FRANCE"
+        "aff": "INRIA1 + CEREA2 + UVSQ3; Lithicon Norway AS; INRIA1 + CEREA2"
     },
     {
         "title": "Optimization Problems for Fast AAM Fitting in-the-Wild",
-        "aff": "1. Department of Computing, Imperial College London, U.K.; 2. University of Twente, The Netherlands; 1. School of Computer Science, University of Lincoln, U.K.; 2. Department of Computing, Imperial College London, U.K."
+        "aff": "School of Computer Science, University of Lincoln, U.K. + Department of Computing, Imperial College London, U.K.; Department of Computing, Imperial College London, U.K. + University of Twente, The Netherlands"
     },
     {
         "title": "Orderless Tracking through Model-Averaged Posterior Estimation",
-        "aff": "Department of Computer Science and Engineering, POSTECH, Korea"
+        "aff": ";;"
     },
     {
         "title": "PM-Huber: PatchMatch with Huber Regularization for Stereo Matching",
-        "aff": "Department of Informatics, Technische Universit\u00a8at M\u00a8unchen, Germany"
+        "aff": "Department of Informatics, Technische Universit \u00a8at M \u00a8unchen, Germany; Department of Informatics, Technische Universit \u00a8at M \u00a8unchen, Germany; Department of Informatics, Technische Universit \u00a8at M \u00a8unchen, Germany; Department of Informatics, Technische Universit \u00a8at M \u00a8unchen, Germany"
     },
     {
         "title": "POP: Person Re-identification Post-rank Optimisation",
-        "aff": "School of EECS, Queen Mary University of London, UK; Dept. of Electronic Engineering, Tsinghua University, China; Dept. of Information Engineering, The Chinese University of Hong Kong"
+        "aff": "Dept. of Electronic Engineering, Tsinghua University, China; Dept. of Information Engineering, The Chinese University of Hong Kong; School of EECS, Queen Mary University of London, UK; Dept. of Electronic Engineering, Tsinghua University, China"
     },
     {
         "title": "Paper Doll Parsing: Retrieving Similar Styles to Parse Clothing Items",
-        "aff": "Stony Brook University, Stony Brook, NY, USA; UNC at Chapel Hill, Chapel Hill, NC, USA"
+        "aff": "Stony Brook University; UNC at Chapel Hill; UNC at Chapel Hill"
     },
     {
         "title": "Parallel Transport of Deformations in Shape Space of Elastic Surfaces",
-        "aff": "The University of Nottingham, UK; The Florida State University, US; The Ohio State University, US"
+        "aff": "The Florida State University, US; The Ohio State University, US; The University of Nottingham, UK; The Florida State University, US"
     },
     {
         "title": "Parsing IKEA Objects: Fine Pose Estimation",
-        "aff": "Massachusetts Institute of Technology, Computer Science and Artificial Intelligence Laboratory"
+        "aff": "Massachusetts Institute of Technology; Massachusetts Institute of Technology; Massachusetts Institute of Technology"
     },
     {
         "title": "Partial Enumeration and Curvature Regularization",
-        "aff": "Computer Science, UWO, Canada; Centre for Mathematical Sciences, Lund University, Sweden; Inst. of Science & Technology, Austria"
+        "aff": "Centre for Mathematical Sciences, Lund University, Sweden; Centre for Mathematical Sciences, Lund University, Sweden; Computer Science, UWO, Canada; Inst. of Science & Technology, Austria"
     },
     {
         "title": "Partial Sum Minimization of Singular Values in RPCA for Low-Level Vision",
-        "aff": "KAIST; ETHZ"
+        "aff": "KAIST; KAIST; KAIST; ETHZ; KAIST"
     },
     {
         "title": "Pedestrian Parsing via Deep Decompositional Network",
-        "aff": "Department of Information Engineering, The Chinese University of Hong Kong; Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences; Department of Electronic Engineering, The Chinese University of Hong Kong"
+        "aff": "Department of Information Engineering, The Chinese University of Hong Kong + Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences; Department of Electronic Engineering, The Chinese University of Hong Kong; Department of Information Engineering, The Chinese University of Hong Kong + Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences"
     },
     {
         "title": "Perceptual Fidelity Aware Mean Squared Error",
-        "aff": "Department of Computing, The Hong Kong Polytechnic University, Hong Kong, CHINA; Institute of Image Processing and Pattern Recognition, Xi\u2019an Jiaotong University, CHINA; School of Science, XiDian University, CHINA"
+        "aff": "Institute of Image Processing and Pattern Recognition, Xi\u2019an Jiaotong University, CHINA+Department of Computing, The Hong Kong Polytechnic University, Hong Kong, CHINA; Institute of Image Processing and Pattern Recognition, Xi\u2019an Jiaotong University, CHINA; Department of Computing, The Hong Kong Polytechnic University, Hong Kong, CHINA; School of Science, XiDian University, CHINA"
     },
     {
         "title": "Person Re-identification by Salience Matching",
-        "aff": "Department of Electronic Engineering, the Chinese University of Hong Kong"
+        "aff": "Department of Electronic Engineering, the Chinese University of Hong Kong; Department of Electronic Engineering, the Chinese University of Hong Kong; Department of Electronic Engineering, the Chinese University of Hong Kong"
     },
     {
         "title": "Perspective Motion Segmentation via Collaborative Clustering",
-        "aff": "Dept. of Electrical & Computer Engineering, National University of Singapore; National University of Singapore (Suzhou) Research Institute; Dept. of Electrical & Computer Engineering, National University of Singapore"
+        "aff": "Dept. of Electrical & Computer Engineering, National University of Singapore; Dept. of Electrical & Computer Engineering, National University of Singapore; Dept. of Electrical & Computer Engineering, National University of Singapore; Dept. of Electrical & Computer Engineering, National University of Singapore + National University of Singapore (Suzhou) Research Institute"
     },
     {
         "title": "PhotoOCR: Reading Text in Uncontrolled Conditions",
-        "aff": "Google Inc."
+        "aff": ";;;"
     },
     {
         "title": "Pictorial Human Spaces: How Well Do Humans Perceive a 3D Articulated Pose?",
-        "aff": "Department of Mathematics, Faculty of Engineering, Lund University; Institute of Mathematics of the Romanian Academy"
+        "aff": "Institute of Mathematics of the Romanian Academy; Institute of Mathematics of the Romanian Academy; Department of Mathematics, Faculty of Engineering, Lund University + Institute of Mathematics of the Romanian Academy"
     },
     {
         "title": "Piecewise Rigid Scene Flow",
-        "aff": "Department of Computer Science, TU Darmstadt; Photogrammetry & Remote Sensing, ETH Zurich"
+        "aff": ";;"
     },
     {
         "title": "PixelTrack: A Fast Adaptive Algorithm for Tracking Non-rigid Objects",
-        "aff": "Universit \u00b4e de Lyon, CNRS, INSA-Lyon, LIRIS, UMR5205, F-69621, France"
+        "aff": "Universit \u00b4e de Lyon, CNRS; INSA-Lyon, LIRIS, UMR5205, F-69621, France"
     },
     {
         "title": "Point-Based 3D Reconstruction of Thin Objects",
-        "aff": "Computer Vision Group, University of Freiburg, Germany"
+        "aff": "Computer Vision Group, University of Freiburg, Germany; Computer Vision Group, University of Freiburg, Germany"
     },
     {
         "title": "Pose Estimation and Segmentation of People in 3D Movies",
-        "aff": "Inria; Ecole Normale Sup\u00e9rieure"
+        "aff": ";;;"
     },
     {
         "title": "Pose Estimation with Unknown Focal Length Using Points, Directions and Lines",
-        "aff": "Centre for Mathematical Sciences, Lund University"
+        "aff": "Centre for Mathematical Sciences, Lund University; Centre for Mathematical Sciences, Lund University"
     },
     {
         "title": "Pose-Configurable Generic Tracking of Elongated Objects",
@@ -1285,47 +1285,47 @@
     },
     {
         "title": "Pose-Free Facial Landmark Fitting via Optimized Part Mixtures and Cascaded Deformable Shape Model",
-        "aff": "Rutgers University; Univ. of North Carolina at Charlotte; Univ. of Texas at Arlington"
+        "aff": "Rutgers University; Univ. of Texas at Arlington; Univ. of North Carolina at Charlotte; Rutgers University; Rutgers University"
     },
     {
         "title": "Potts Model, Parametric Maxflow and K-Submodular Functions",
-        "aff": "IST Austria"
+        "aff": "IST Austria; IST Austria"
     },
     {
         "title": "Predicting Primary Gaze Behavior Using Social Saliency Fields",
-        "aff": "Texas Instruments; Carnegie Mellon University"
+        "aff": "Carnegie Mellon University; Texas Instruments; Carnegie Mellon University"
     },
     {
         "title": "Predicting Sufficient Annotation Strength for Interactive Foreground Segmentation",
-        "aff": "University of Texas at Austin"
+        "aff": "University of Texas at Austin; University of Texas at Austin"
     },
     {
         "title": "Predicting an Object Location Using a Global Image Representation",
-        "aff": "Computer Vision Group, Xerox Research Centre Europe"
+        "aff": "Computer Vision Group, Xerox Research Centre Europe; Computer Vision Group, Xerox Research Centre Europe"
     },
     {
         "title": "Prime Object Proposals with Randomized Prim's Algorithm",
-        "aff": "Computer Vision Laboratory, ETH Zurich; Computer Vision Laboratory, ETH Zurich; ESA T - PSI / IBBT, K.U. Leuven"
+        "aff": "Computer Vision Laboratory, ETH Zurich; Computer Vision Laboratory, ETH Zurich; Computer Vision Laboratory, ETH Zurich + ESA T - PSI / IBBT, K.U. Leuven"
     },
     {
         "title": "Probabilistic Elastic Part Model for Unsupervised Face Detector Adaptation",
-        "aff": "Stevens Institute of Technology; Adobe Systems Inc."
+        "aff": "Stevens Institute of Technology; Stevens Institute of Technology; Adobe Systems Inc.; Adobe Systems Inc.; Adobe Systems Inc."
     },
     {
         "title": "Progressive Multigrid Eigensolvers for Multiscale Spectral Segmentation",
-        "aff": "University of California at Berkeley / ICSI - Berkeley, CA; California Institute of Technology - Pasadena, CA"
+        "aff": "California Institute of Technology - Pasadena, CA; University of California at Berkeley / ICSI - Berkeley, CA"
     },
     {
         "title": "Proportion Priors for Image Sequence Segmentation",
-        "aff": "UC Berkeley, ICSI, USA; TU Munich, Germany"
+        "aff": "UC Berkeley, ICSI, USA; TU Munich, Germany; TU Munich, Germany"
     },
     {
         "title": "Pyramid Coding for Functional Scene Element Recognition in Video Scenes",
-        "aff": "Kitware Inc.; ECSE Department, Rensselaer Polytechnic Institute"
+        "aff": "Kitware Inc.; Kitware Inc.; ECSE Department, Rensselaer Polytechnic Institute"
     },
     {
         "title": "Quadruplet-Wise Image Similarity Learning",
-        "aff": "LIP6, UPMC - Sorbonne University, Paris, France"
+        "aff": "LIP6, UPMC - Sorbonne University, Paris, France; LIP6, UPMC - Sorbonne University, Paris, France; LIP6, UPMC - Sorbonne University, Paris, France"
     },
     {
         "title": "Quantize and Conquer: A Dimensionality-Recursive Solution to Clustering, Vector Quantization, and Image Retrieval",
@@ -1333,95 +1333,95 @@
     },
     {
         "title": "Query-Adaptive Asymmetrical Dissimilarities for Visual Object Retrieval",
-        "aff": "NII, Tokyo; INRIA, Rennes"
+        "aff": "NII, Tokyo; INRIA, Rennes; NII, Tokyo"
     },
     {
         "title": "Random Faces Guided Sparse Many-to-One Encoder for Pose-Invariant Face Recognition",
-        "aff": "Department of Computer Science and Engineering, Polytechnic Institute of NYU, NY, USA; College of Computer and Information Science, Northeastern University, MA, USA; Department of Electrical and Computer Engineering, Northeastern University, MA, USA"
+        "aff": ";;;"
     },
     {
         "title": "Random Forests of Local Experts for Pedestrian Detection",
-        "aff": "UMIC Research Centre, RWTH Aachen University; Computer Vision Center, Universitat Aut\u00f2noma de Barcelona"
+        "aff": "Computer Vision Center, Universitat Aut\u00f2noma de Barcelona; Computer Vision Center, Universitat Aut\u00f2noma de Barcelona; Computer Vision Center, Universitat Aut\u00f2noma de Barcelona; Computer Vision Center, Universitat Aut\u00f2noma de Barcelona; UMIC Research Centre, RWTH Aachen University"
     },
     {
         "title": "Random Grids: Fast Approximate Nearest Neighbors and Range Searching for Image Search",
-        "aff": "Google Inc."
+        "aff": "Google Inc.; Google Inc.; Google Inc."
     },
     {
         "title": "Randomized Ensemble Tracking",
-        "aff": "Boston University, Boston, MA 02215, USA; Charles River Analytics, Cambridge, MA 02138, USA"
+        "aff": "Boston University; Boston University; Boston University; Boston University; Charles River Analytics"
     },
     {
         "title": "Rank Minimization across Appearance and Shape for AAM Ensemble Fitting",
-        "aff": "Queensland University of Technology; Queensland University of Technology, The Commonwealth Scientific and Industrial Research Organization (CSIRO); The Commonwealth Scientific and Industrial Research Organization (CSIRO)"
+        "aff": "Queensland University of Technology; Queensland University of Technology; The Commonwealth Scientific and Industrial Research Organization (CSIRO); Queensland University of Technology+The Commonwealth Scientific and Industrial Research Organization (CSIRO)"
     },
     {
         "title": "Real-Time Articulated Hand Pose Estimation Using Semi-supervised Transductive Regression Forests",
-        "aff": "Imperial College London, London, UK; University of Cambridge, Cambridge, UK"
+        "aff": "Imperial College London; University of Cambridge; Imperial College London"
     },
     {
         "title": "Real-Time Body Tracking with One Depth Camera and Inertial Sensors",
-        "aff": "Saarland University and MPI Informatik; International Audio Laboratories Erlangen"
+        "aff": "Saarland University and MPI Informatik; International Audio Laboratories Erlangen; Saarland University and MPI Informatik; Saarland University and MPI Informatik"
     },
     {
         "title": "Real-Time Solution to the Absolute Pose Problem with Unknown Radial Distortion and Focal Length",
-        "aff": "Capturing Reality s.r.o., Bratislava, Slovakia; Czech Technical University, Faculty of Electrical Engineering, Karlovo namesti 13, Prague, Czech Republic"
+        "aff": "Czech Technical University, Faculty of Electrical Engineering; Capturing Reality s.r.o. + Czech Technical University, Faculty of Electrical Engineering; Czech Technical University, Faculty of Electrical Engineering"
     },
     {
         "title": "Real-World Normal Map Capture for Nearly Flat Reflective Surfaces",
-        "aff": "ETH Zurich, Zurich, Switzerland and GEOMAR Helmholtz Centre for Ocean Research, Kiel, Germany; ETH Zurich, Zurich, Switzerland"
+        "aff": ";;;"
     },
     {
         "title": "Recognising Human-Object Interaction via Exemplar Based Modelling",
-        "aff": "School of Mathematics and Computational Science, Sun Yat-sen University, China; School of Information Science and Technology, Sun Yat-sen University, China; School of Electronic Engineering and Computer Science, Queen Mary University of London, UK"
+        "aff": "School of Mathematics and Computational Science, Sun Yat-sen University, China; School of Information Science and Technology, Sun Yat-sen University, China + Guangdong Province Key Laboratory of Computational Science, Guangzhou, China; School of Information Science and Technology, Sun Yat-sen University, China; School of Electronic Engineering and Computer Science, Queen Mary University of London, UK; School of Electronic Engineering and Computer Science, Queen Mary University of London, UK"
     },
     {
         "title": "Recognizing Text with Perspective Distortion in Natural Scenes",
-        "aff": "School of Computing, National University of Singapore; Faculty of Computer Science and Information Technology, University of Malaya"
+        "aff": "School of Computing, National University of Singapore; Faculty of Computer Science and Information Technology, University of Malaya; School of Computing, National University of Singapore; School of Computing, National University of Singapore"
     },
     {
         "title": "Rectangling Stereographic Projection for Wide-Angle Image Visualization",
-        "aff": "National Taiwan University; Academia Sinica; National Cheng Kung University"
+        "aff": ";;;"
     },
     {
         "title": "Recursive Estimation of the Stein Center of SPD Matrices and Its Applications",
-        "aff": "Department of CISE, University of Florida"
+        "aff": "Department of CISE, University of Florida; Department of CISE, University of Florida; Department of CISE, University of Florida; Department of CISE, University of Florida"
     },
     {
         "title": "Refractive Structure-from-Motion on Underwater Images",
-        "aff": "Institute of Compute Science, Kiel University, Germany"
+        "aff": "Institute of Compute Science, Kiel University, Germany; Institute of Compute Science, Kiel University, Germany"
     },
     {
         "title": "Regionlets for Generic Object Detection",
-        "aff": "NEC Laboratories America, Inc."
+        "aff": "NEC Laboratories America, Inc.; NEC Laboratories America, Inc.; NEC Laboratories America, Inc.; NEC Laboratories America, Inc."
     },
     {
         "title": "Relative Attributes for Large-Scale Abandoned Object Detection",
-        "aff": "ID Analytics; IBM T. J. Watson Research Center"
+        "aff": "IBM T. J. Watson Research Center; ID Analytics; IBM T. J. Watson Research Center"
     },
     {
         "title": "Restoring an Image Taken through a Window Covered with Dirt or Rain",
-        "aff": "Dept. of Computer Science, Courant Institute, New York University"
+        "aff": "Dept. of Computer Science, Courant Institute, New York University; Dept. of Computer Science, Courant Institute, New York University; Dept. of Computer Science, Courant Institute, New York University"
     },
     {
         "title": "Revisiting Example Dependent Cost-Sensitive Learning with Decision Trees",
-        "aff": "University College London"
+        "aff": "University College London; University College London"
     },
     {
         "title": "Revisiting the PnP Problem: A Fast, General and Optimal Solution",
-        "aff": "Department of Mechanical and Control Engineering, Tokyo Institute of Technology, JAPAN; Centre for Mathematical Sciences, Lund University, SWEDEN"
+        "aff": "Department of Mechanical and Control Engineering, Tokyo Institute of Technology, JAPAN; Centre for Mathematical Sciences, Lund University, SWEDEN; Department of Mechanical and Control Engineering, Tokyo Institute of Technology, JAPAN; Centre for Mathematical Sciences, Lund University, SWEDEN; Department of Mechanical and Control Engineering, Tokyo Institute of Technology, JAPAN"
     },
     {
         "title": "Robust Dictionary Learning by Error Source Decomposition",
-        "aff": "Northwestern University"
+        "aff": "Northwestern University; Northwestern University"
     },
     {
         "title": "Robust Face Landmark Estimation under Occlusion",
-        "aff": "Microsoft Research, Redmond; California Institute of Technology"
+        "aff": "California Institute of Technology; California Institute of Technology; Microsoft Research, Redmond"
     },
     {
         "title": "Robust Feature Set Matching for Partial Face Recognition",
-        "aff": "School of EEE, Nanyang Technological University, Singapore; Advanced Digital Sciences Center, Singapore"
+        "aff": "School of EEE, Nanyang Technological University, Singapore; Advanced Digital Sciences Center, Singapore; School of EEE, Nanyang Technological University, Singapore; School of EEE, Nanyang Technological University, Singapore; School of EEE, Nanyang Technological University, Singapore"
     },
     {
         "title": "Robust Matrix Factorization with Unknown Noise",
@@ -1429,71 +1429,71 @@
     },
     {
         "title": "Robust Non-parametric Data Fitting for Correspondence Modeling",
-        "aff": "Oxford Brookes; Advanced Digital Sciences Center, Singapore"
+        "aff": "Oxford Brookes; Oxford Brookes; Oxford Brookes; Advanced Digital Sciences Center, Singapore; Oxford Brookes"
     },
     {
         "title": "Robust Object Tracking with Online Multi-lifespan Dictionary Learning",
-        "aff": "National Laboratory of Pattern Recognition, Institute of Automation, CAS, Beijing 100190, P.R. China; Dept. of Electrical and Computer Engineering, National University of Singapore, Singapore 117576, Singapore"
+        "aff": "National Laboratory of Pattern Recognition; National Laboratory of Pattern Recognition; National Laboratory of Pattern Recognition; National Laboratory of Pattern Recognition; Dept. of Electrical and Computer Engineering"
     },
     {
         "title": "Robust Subspace Clustering via Half-Quadratic Minimization",
-        "aff": "Center for Research on Intelligent Perception and Computing, National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, Beijing, China"
+        "aff": "Center for Research on Intelligent Perception and Computing, National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, Beijing, China; Center for Research on Intelligent Perception and Computing, National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, Beijing, China; Center for Research on Intelligent Perception and Computing, National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, Beijing, China; Center for Research on Intelligent Perception and Computing, National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, Beijing, China"
     },
     {
         "title": "Robust Trajectory Clustering for Motion Segmentation",
-        "aff": "Ningbo Industrial Technology Research Institute, CAS, China; State Key Laboratory of Virtual Reality Technology and Systems, Beihang University, China"
+        "aff": "State Key Laboratory of Virtual Reality Technology and Systems, Beihang University, China; State Key Laboratory of Virtual Reality Technology and Systems, Beihang University, China; Ningbo Industrial Technology Research Institute, CAS, China; State Key Laboratory of Virtual Reality Technology and Systems, Beihang University, China"
     },
     {
         "title": "Robust Tucker Tensor Decomposition for Effective Image Representation",
-        "aff": "University of Texas at Arlington"
+        "aff": "University of Texas at Arlington; University of Texas at Arlington"
     },
     {
         "title": "Rolling Shutter Stereo",
-        "aff": "Google, Inc., Mountain View, CA; ETH Z\u00fcrich, Switzerland; GEOMAR Kiel, Germany"
+        "aff": "ETH Z \u00a8urich, Switzerland; GEOMAR Kiel, Germany + ETH Z \u00a8urich, Switzerland; Google, Inc., Mountain View, CA; ETH Z \u00a8urich, Switzerland"
     },
     {
         "title": "SGTD: Structure Gradient and Texture Decorrelating Regularization for Image Decomposition",
-        "aff": "Department of Electronic Information Engineering, Nanchang Univerisy, China; School of Information Technologies, the University of Sydney, Australia; Paul C. Lauterbur Research Center for Biomedical Imaging, SIA T, China"
+        "aff": "Department of Electronic Information Engineering, Nanchang Univerisy, China+Paul C. Lauterbur Research Center for Biomedical Imaging, SIA T, China; Paul C. Lauterbur Research Center for Biomedical Imaging, SIA T, China; School of Information Technologies, the University of Sydney, Australia; Paul C. Lauterbur Research Center for Biomedical Imaging, SIA T, China"
     },
     {
         "title": "SIFTpack: A Compact Representation for Efficient SIFT Matching",
-        "aff": "Technion, Israel Institute of Technology"
+        "aff": "Technion; Technion"
     },
     {
         "title": "STAR3D: Simultaneous Tracking and Reconstruction of 3D Objects Using RGB-D Data",
-        "aff": "School of Computer Science, University of Adelaide; Department of Engineering Science, University of Oxford"
+        "aff": "Department of Engineering Science, University of Oxford; Department of Engineering Science, University of Oxford; Department of Engineering Science, University of Oxford; School of Computer Science, University of Adelaide"
     },
     {
         "title": "SUN3D: A Database of Big Spaces Reconstructed Using SfM and Object Labels",
-        "aff": "MIT; Princeton University"
+        "aff": "Princeton University; MIT; MIT"
     },
     {
         "title": "SYM-FISH: A Symmetry-Aware Flip Invariant Sketch Histogram Shape Descriptor",
-        "aff": "Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China; School of Computer Science and Technology, Tianjin University, Tianjin, China; School of Software, Sun Yat-Sen University, Guangzhou, China; Department of Electrical & Computer Engineering, National University of Singapore, Singapore"
+        "aff": "School of Computer Science and Technology, Tianjin University, Tianjin, China+Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China; School of Computer Science and Technology, Tianjin University, Tianjin, China; Department of Electrical & Computer Engineering, National University of Singapore, Singapore; Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China; School of Software, Sun Yat-Sen University, Guangzhou, China"
     },
     {
         "title": "Saliency Detection in Large Point Sets",
-        "aff": "Technion"
+        "aff": "Technion; Technion; Technion"
     },
     {
         "title": "Saliency Detection via Absorbing Markov Chain",
-        "aff": "Dalian University of Technology; University of California at Merced"
+        "aff": "Dalian University of Technology; Dalian University of Technology; Dalian University of Technology; Dalian University of Technology; University of California at Merced"
     },
     {
         "title": "Saliency Detection via Dense and Sparse Reconstruction",
-        "aff": "Dalian University of Technology; University of California at Merced; OMRON Corporation"
+        "aff": "Dalian University of Technology; Dalian University of Technology; Dalian University of Technology; OMRON Corporation; University of California at Merced"
     },
     {
         "title": "Saliency Detection: A Boolean Map Approach",
-        "aff": "Department of Computer Science, Boston University"
+        "aff": "Department of Computer Science, Boston University; Department of Computer Science, Boston University"
     },
     {
         "title": "Saliency and Human Fixations: State-of-the-Art and Study of Comparison Metrics",
-        "aff": "TCTS Lab, University of Mons (UMONS)"
+        "aff": "TCTS Lab, University of Mons (UMONS); TCTS Lab, University of Mons (UMONS); TCTS Lab, University of Mons (UMONS); TCTS Lab, University of Mons (UMONS); TCTS Lab, University of Mons (UMONS)"
     },
     {
         "title": "Salient Region Detection by UFO: Uniqueness, Focusness and Objectness",
-        "aff": "Computer & Information Science Department, Temple University, Philadelphia, PA USA; School of Computer Science and Technology, Shandong University, Jinan, China; Department of Computer and Information Sciences, University of Delaware, Newark, DE USA"
+        "aff": "School of Computer Science and Technology, Shandong University, Jinan, China; Computer & Information Science Department, Temple University, Philadelphia, PA USA; Department of Computer and Information Sciences, University of Delaware, Newark, DE USA; School of Computer Science and Technology, Shandong University, Jinan, China"
     },
     {
         "title": "Scene Collaging: Analysis and Synthesis of Natural Images with Semantic Layers",
@@ -1501,139 +1501,139 @@
     },
     {
         "title": "Scene Text Localization and Recognition with Oriented Stroke Detection",
-        "aff": "Centre for Machine Perception, Department of Cybernetics, Czech Technical University, Prague, Czech Republic"
+        "aff": "Centre for Machine Perception, Department of Cybernetics, Czech Technical University, Prague, Czech Republic; Centre for Machine Perception, Department of Cybernetics, Czech Technical University, Prague, Czech Republic"
     },
     {
         "title": "Segmentation Driven Object Detection with Fisher Vectors",
-        "aff": "LEAR, INRIA Grenoble - Rh\u00f4ne-Alpes, France; Laboratoire Jean Kuntzmann"
+        "aff": "LEAR, INRIA Grenoble - Rh\u00f4ne-Alpes, France; Laboratoire Jean Kuntzmann; LEAR, INRIA Grenoble - Rh\u00f4ne-Alpes, France"
     },
     {
         "title": "Semantic Segmentation without Annotating Segments",
-        "aff": "Dept. of ECE, National University of Singapore, Singapore, 117576"
+        "aff": "Dept. of ECE, National University of Singapore, Singapore, 117576; Dept. of ECE, National University of Singapore, Singapore, 117576; Dept. of ECE, National University of Singapore, Singapore, 117576; Dept. of ECE, National University of Singapore, Singapore, 117576; Dept. of ECE, National University of Singapore, Singapore, 117576"
     },
     {
         "title": "Semantic Transform: Weakly Supervised Semantic Inference for Relating Visual Attributes",
-        "aff": "Comm & SigProc Group, University of Cambridge; Machine Intelligence Lab, University of Cambridge"
+        "aff": "Machine Intelligence Lab, University of Cambridge; Comm & SigProc Group, University of Cambridge; Machine Intelligence Lab, University of Cambridge"
     },
     {
         "title": "Semantic-Aware Co-indexing for Image Retrieval",
-        "aff": "Dept. of CS, Univ. of Texas at San Antonio; NEC Laboratories America, Inc."
+        "aff": "Dept. of CS, Univ. of Texas at San Antonio; NEC Laboratories America, Inc.; NEC Laboratories America, Inc.; NEC Laboratories America, Inc.; Dept. of CS, Univ. of Texas at San Antonio"
     },
     {
         "title": "Semantically-Based Human Scanpath Estimation with HMMs",
-        "aff": "Microsoft Research Asia, Beijing, China, 100080; Nanyang Technological University, Singapore, 639798; University of Technology, Sydney, Sydney, Australia, 2007; Institute for Infocomm Research, Singapore, 138632; University of Chinese Academy of Sciences, Beijing, China, 100190"
+        "aff": "Institute for Infocomm Research, Singapore, 138632; Nanyang Technological University, Singapore, 639798; University of Chinese Academy of Sciences, Beijing, China, 100190; Nanyang Technological University, Singapore, 639798; University of Technology, Sydney, Sydney, Australia, 2007; Microsoft Research Asia, Beijing, China, 100080"
     },
     {
         "title": "Semi-dense Visual Odometry for a Monocular Camera",
-        "aff": "TU Munchen, Germany"
+        "aff": ";;"
     },
     {
         "title": "Semi-supervised Learning for Large Scale Image Cosegmentation",
-        "aff": "Fujitsu Research & Development Center Co., Ltd, Beijing, China"
+        "aff": "Fujitsu Research & Development Center Co., Ltd, Beijing, China; Fujitsu Research & Development Center Co., Ltd, Beijing, China"
     },
     {
         "title": "Semi-supervised Robust Dictionary Learning via Efficient l-Norms Minimization",
-        "aff": "University of Texas at Arlington, Arlington, Texas 76019, USA; School of Information Technologies, University of Sydney, NSW 2006, Australia; Colorado School of Mines, Golden, Colorado 80401, USA"
+        "aff": "Colorado School of Mines; University of Texas at Arlington; School of Information Technologies, University of Sydney; University of Texas at Arlington"
     },
     {
         "title": "Separating Reflective and Fluorescent Components Using High Frequency Illumination in the Spectral Domain",
-        "aff": "The University of Tokyo; National Institute of Informatics; Kyushu Institute of Technology"
+        "aff": "The University of Tokyo; National Institute of Informatics; National Institute of Informatics; Kyushu Institute of Technology; The University of Tokyo"
     },
     {
         "title": "Sequential Bayesian Model Update under Structured Scene Prior for Semantic Road Scenes Labeling",
-        "aff": "Max Planck Institute for Informatics, Saarbr\u00fccken, Germany"
+        "aff": "Max Planck Institute for Informatics, Saarbr \u00a8ucken, Germany; Max Planck Institute for Informatics, Saarbr \u00a8ucken, Germany"
     },
     {
         "title": "Shape Anchors for Data-Driven Multi-view Reconstruction",
-        "aff": "Princeton University; MIT CSAIL"
+        "aff": "MIT CSAIL; Princeton University; MIT CSAIL; MIT CSAIL"
     },
     {
         "title": "Shape Index Descriptors Applied to Texture-Based Galaxy Analysis",
-        "aff": "Department of Computer Science, University of Copenhagen, Denmark; Dark Cosmology Centre, Niels Bohr Institute, University of Copenhagen, Denmark"
+        "aff": ";;;"
     },
     {
         "title": "Shortest Paths with Curvature and Torsion",
-        "aff": "Lund University, Sweden; HeartFlow Inc.; Chalmers University of Technology, Sweden"
+        "aff": "Lund University, Sweden; Lund University, Sweden + Chalmers University of Technology, Sweden; Lund University, Sweden + Chalmers University of Technology, Sweden; HeartFlow Inc."
     },
     {
         "title": "Shufflets: Shared Mid-level Parts for Fast Object Detection",
-        "aff": "Ecole Centrale de Paris INRIA, Center for Visual Computing Galen Team, INRIA-Saclay"
+        "aff": ""
     },
     {
         "title": "Sieving Regression Forest Votes for Facial Feature Detection in the Wild",
-        "aff": "Queen Mary University of London"
+        "aff": "Queen Mary University of London; Queen Mary University of London"
     },
     {
         "title": "Similarity Metric Learning for Face Recognition",
-        "aff": "Department of Engineering Mathematics, University of Bristol, UK; Department of Computer Science, University of Exeter, UK"
+        "aff": "Department of Computer Science, University of Exeter, UK; Department of Computer Science, University of Exeter, UK; Department of Engineering Mathematics, University of Bristol, UK"
     },
     {
         "title": "Simultaneous Clustering and Tracklet Linking for Multi-face Tracking in Videos",
-        "aff": "Computer Science, Univ. at Albany, SUNY, Albany, NY 12222, USA; ECSE, Rensselaer Polytechnic Institute, Troy, NY 12180, USA; National Laboratory of Pattern Recognition, CASIA, Beijing 100190, China"
+        "aff": "National Laboratory of Pattern Recognition, CASIA; Computer Science, Univ. at Albany, SUNY; National Laboratory of Pattern Recognition, CASIA; ECSE, Rensselaer Polytechnic Institute"
     },
     {
         "title": "Single-Patch Low-Rank Prior for Non-pointwise Impulse Noise Removal",
-        "aff": "School of Computing, University of Dundee, UK"
+        "aff": "School of Computing, University of Dundee, UK; School of Computing, University of Dundee, UK"
     },
     {
         "title": "Slice Sampling Particle Belief Propagation",
-        "aff": "Institute for Information Processing (TNT), Leibniz University Hannover, Germany"
+        "aff": "Institute for Information Processing (TNT), Leibniz University Hannover, Germany; Institute for Information Processing (TNT), Leibniz University Hannover, Germany; Institute for Information Processing (TNT), Leibniz University Hannover, Germany"
     },
     {
         "title": "Space-Time Robust Representation for Action Recognition",
-        "aff": "CEA-List; Carnegie Mellon University; CEA-List & Mines-ParisTech; Mines-ParisTech"
+        "aff": "CEA-List & Mines-ParisTech; Carnegie Mellon University; Carnegie Mellon University; CEA-List; Mines-ParisTech; Carnegie Mellon University"
     },
     {
         "title": "Space-Time Tradeoffs in Photo Sequencing",
-        "aff": "Tel Aviv University; The Interdisciplinary Center"
+        "aff": "Tel Aviv University; The Interdisciplinary Center; Tel Aviv University"
     },
     {
         "title": "Sparse Variation Dictionary Learning for Face Recognition with a Single Training Sample per Person",
-        "aff": "ETH Zurich, Switzerland; The Hong Kong Polytechnic University, Hong Kong"
+        "aff": "ETH Zurich; ETH Zurich; The Hong Kong Polytechnic University"
     },
     {
         "title": "Spoken Attributes: Mixing Binary and Relative Attributes to Say the Right Thing",
-        "aff": "Cornell University; Virginia Tech"
+        "aff": "Cornell University; Cornell University; Virginia Tech; Cornell University"
     },
     {
         "title": "Stable Hyper-pooling and Query Expansion for Event Detection",
-        "aff": "INRIA Grenoble; INRIA Rennes"
+        "aff": ";;;"
     },
     {
         "title": "Stacked Predictive Sparse Coding for Classification of Distinct Regions in Tumor Histopathology",
-        "aff": "Center for Spatial Systems Biomedicine, Oregon Health Sciences University, Portland, Oregon, U.S.A; Life Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, California, U.S.A"
+        "aff": "Life Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, California, U.S.A; Life Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, California, U.S.A; Center for Spatial Systems Biomedicine, Oregon Health Sciences University, Portland, Oregon, U.S.A; Life Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, California, U.S.A"
     },
     {
         "title": "Street View Motion-from-Structure-from-Motion",
-        "aff": "Google"
+        "aff": "Google; Google; Google"
     },
     {
         "title": "Strong Appearance and Expressive Spatial Models for Human Pose Estimation",
-        "aff": "Max Planck Institute for Informatics, Saarbr\u00fccken, Germany; Max Planck Institute for Intelligent Systems, T\u00fcbingen, Germany"
+        "aff": ";;;"
     },
     {
         "title": "Structured Forests for Fast Edge Detection",
-        "aff": "Microsoft Research"
+        "aff": "Microsoft Research; Microsoft Research"
     },
     {
         "title": "Structured Learning of Sum-of-Submodular Higher Order Energy Functions",
-        "aff": "Computer Science Department, Cornell University"
+        "aff": ";;;"
     },
     {
         "title": "Structured Light in Sunlight",
-        "aff": "Columbia University, New York, NY 10027"
+        "aff": "Columbia University; Columbia University; Columbia University"
     },
     {
         "title": "Style-Aware Mid-level Representation for Discovering Visual Connections in Space and Time",
-        "aff": "Robotics Institute, Carnegie Mellon University; Robotics Institute, Carnegie Mellon University; Now with the EECS department at UC Berkeley"
+        "aff": "Robotics Institute, Carnegie Mellon University; Robotics Institute, Carnegie Mellon University; Robotics Institute, Carnegie Mellon University"
     },
     {
         "title": "Subpixel Scanning Invariant to Indirect Lighting Using Quadratic Code Length",
-        "aff": "Universit\u00e9 de Montr\u00e9al"
+        "aff": "Universit \u00b4e de Montr \u00b4eal; Universit \u00b4e de Montr \u00b4eal; Universit \u00b4e de Montr \u00b4eal"
     },
     {
         "title": "Super-resolution via Transform-Invariant Group-Sparse Regularization",
-        "aff": "Stanford University"
+        "aff": "Stanford University; Stanford University"
     },
     {
         "title": "Supervised Binary Hash Code Learning with Jensen Shannon Divergence",
@@ -1641,99 +1641,99 @@
     },
     {
         "title": "Support Surface Prediction in Indoor Scenes",
-        "aff": "ICCVR submission"
+        "aff": ";"
     },
     {
         "title": "Symbiotic Segmentation and Part Localization for Fine-Grained Categorization",
-        "aff": "Dept. of Engineering Science, University of Oxford; Skolkovo Institute of Science and Technology (Skoltech)"
+        "aff": "Dept. of Engineering Science, University of Oxford; Skolkovo Institute of Science and Technology (Skoltech); Dept. of Engineering Science, University of Oxford"
     },
     {
         "title": "Synergistic Clustering of Image and Segment Descriptors for Unsupervised Scene Understanding",
-        "aff": "Australian Centre for Field Robotics, The University of Sydney"
+        "aff": ";;"
     },
     {
         "title": "Target-Driven Moire Pattern Synthesis by Phase Modulation",
-        "aff": "National Taiwan University"
+        "aff": "National Taiwan University; National Taiwan University"
     },
     {
         "title": "Temporally Consistent Superpixels",
-        "aff": "Technicolor Research & Innovation, Germany; Leibniz Universit\u00e4t Hannover, Germany"
+        "aff": ";;;"
     },
     {
         "title": "Text Localization in Natural Images Using Stroke Feature Transform and Text Covariance Descriptors",
-        "aff": "Adobe Research; Shenzhen Key Lab of Comp. Vis and Pat. Rec., Shenzhen Institutes of Advanced Technology, CAS, China"
+        "aff": "Shenzhen Key Lab of Comp. Vis and Pat. Rec., Shenzhen Institutes of Advanced Technology, CAS, China + Department of Information Engineering, The Chinese University of Hong Kong; Adobe Research; Adobe Research; Adobe Research"
     },
     {
         "title": "The Interestingness of Images",
-        "aff": "Computer Vision Laboratory, ETH Zurich; K.U. Leuven; ESA T - PSI / IBBT; Computer Vision Laboratory, ETH Zurich; upicto GmbH; Computer Vision Laboratory, ETH Zurich; upicto GmbH"
+        "aff": "Computer Vision Laboratory, ETH Zurich; upicto GmbH, Zurich; ESA T - PSI / IBBT, K.U. Leuven; upicto GmbH, Zurich; Computer Vision Laboratory, ETH Zurich + ESA T - PSI / IBBT, K.U. Leuven"
     },
     {
         "title": "The Moving Pose: An Efficient 3D Kinematics Descriptor for Low-Latency Action Recognition and Detection",
-        "aff": "Department of Mathematics, Faculty of Engineering, Lund University; Institute of Mathematics of the Romanian Academy"
+        "aff": "Institute of Mathematics of the Romanian Academy; Institute of Mathematics of the Romanian Academy; Department of Mathematics, Faculty of Engineering, Lund University + Institute of Mathematics of the Romanian Academy"
     },
     {
         "title": "The Way They Move: Tracking Multiple Targets with Similar Appearance",
-        "aff": "Dept. of Electrical and Computer Engineering, Northeastern University, Boston, MA 02115"
+        "aff": "Dept. of Electrical and Computer Engineering, Northeastern University, Boston, MA 02115; Dept. of Electrical and Computer Engineering, Northeastern University, Boston, MA 02115; Dept. of Electrical and Computer Engineering, Northeastern University, Boston, MA 02115"
     },
     {
         "title": "To Aggregate or Not to aggregate: Selective Match Kernels for Image Search",
-        "aff": "NTUA; INRIA Rennes"
+        "aff": "INRIA Rennes; NTUA; INRIA Rennes"
     },
     {
         "title": "Topology-Constrained Layered Tracking with Latent Flow",
-        "aff": "CSAIL, MIT"
+        "aff": "CSAIL, MIT; CSAIL, MIT"
     },
     {
         "title": "Total Variation Regularization for Functions with Values in a Manifold",
-        "aff": "Department of Computer Science, Technical University of Munich; Department of Applied Mathematics and Theoretical Physics, University of Cambridge"
+        "aff": ";;;"
     },
     {
         "title": "Toward Guaranteed Illumination Models for Non-convex Objects",
-        "aff": "Columbia University in the City of New York"
+        "aff": "Columbia University in the City of New Y ork; Columbia University in the City of New Y ork; Columbia University in the City of New Y ork; Columbia University in the City of New Y ork"
     },
     {
         "title": "Towards Motion Aware Light Field Video for Dynamic Scenes",
-        "aff": "Mitsubishi Electric Research Labs (MERL); Rice University"
+        "aff": "Rice University; Rice University; Mitsubishi Electric Research Labs (MERL)"
     },
     {
         "title": "Towards Understanding Action Recognition",
-        "aff": "Brown University, USA; LEAR, INRIA, France; MPI for Intelligent Systems, Germany; University of Bonn, Germany"
+        "aff": ";;;;"
     },
     {
         "title": "Tracking Revisited Using RGBD Camera: Unified Benchmark and Baselines",
-        "aff": "Princeton University"
+        "aff": "Princeton University; Princeton University"
     },
     {
         "title": "Tracking via Robust Multi-task Multi-view Joint Sparse Representation",
-        "aff": "Toyota Research Institute, North America, Ann Arbor, MI 48105, USA; Centre for Quantum Computation and Intelligent Systems, Faculty of Engineering and Information Technology, University of Technology, Sydney, NSW 2007, Australia"
+        "aff": "Centre for Quantum Computation and Intelligent Systems, Faculty of Engineering and Information Technology, University of Technology, Sydney, NSW 2007, Australia+Toyota Research Institute, North America, Ann Arbor, MI 48105, USA; Toyota Research Institute, North America, Ann Arbor, MI 48105, USA; Toyota Research Institute, North America, Ann Arbor, MI 48105, USA; Centre for Quantum Computation and Intelligent Systems, Faculty of Engineering and Information Technology, University of Technology, Sydney, NSW 2007, Australia"
     },
     {
         "title": "Training Deformable Part Models with Decorrelated Features",
-        "aff": "UC Berkeley"
+        "aff": "UC Berkeley; UC Berkeley"
     },
     {
         "title": "Transfer Feature Learning with Joint Distribution Adaptation",
-        "aff": "School of Software, TNLIST, Tsinghua University, Beijing, China; Department of Computer Science, University of Illinois at Chicago, IL, USA"
+        "aff": "School of Software, TNLIST, Tsinghua University, Beijing, China+Department of Computer Science, Tsinghua University, Beijing, China; School of Software, TNLIST, Tsinghua University, Beijing, China; School of Software, TNLIST, Tsinghua University, Beijing, China; School of Software, TNLIST, Tsinghua University, Beijing, China; Department of Computer Science, University of Illinois at Chicago, IL, USA"
     },
     {
         "title": "Translating Video Content to Natural Language Descriptions",
-        "aff": "University of Amsterdam, Amsterdam, the Netherlands; Max Planck Institute for Informatics, Saarbr\u00fccken, Germany; Department of Computational Linguistics, Saarland University, Saarbr\u00fccken, Germany"
+        "aff": ";;;;;"
     },
     {
         "title": "Tree Shape Priors with Connectivity Constraints Using Convex Relaxation on General Graphs",
-        "aff": "TU M \u00a8unchen; TU M \u00a8unchen, Caltech; Caltech"
+        "aff": ";;"
     },
     {
         "title": "Two-Point Gait: Decoupling Gait from Body Shape",
-        "aff": "Drexel University, Philadelphia, PA, USA; Osaka University, Suita, Osaka, Japan"
+        "aff": "Drexel University, Philadelphia, PA, USA; Drexel University, Philadelphia, PA, USA; Osaka University, Suita, Osaka, Japan; Osaka University, Suita, Osaka, Japan"
     },
     {
         "title": "Unbiased Metric Learning: On the Utilization of Multiple Datasets and Web Images for Softening Bias",
-        "aff": "Computer Science Department, Dartmouth College, Hanover, NH 03755, U.S.A."
+        "aff": ";;"
     },
     {
         "title": "Uncertainty-Driven Efficiently-Sampled Sparse Graphical Models for Concurrent Tumor Segmentation and Atlas Registration",
-        "aff": "Intrasense SAS, Montpellier, France; Surgical Planning Laboratory, Brigham and Women\u2019s hospital, Harvard Medical School, USA; Center for Visual Computing, Ecole Centrale Paris, France; Equipe GALEN, INRIA Saclay-Ile-de-France, France; D\u00b4epartement de Neurochirurgie, Hopital Gui de Chauliac, CHU Montpellier, France"
+        "aff": "Center for Visual Computing, Ecole Centrale Paris, France+Equipe GALEN, INRIA Saclay-Ile-de-France, France; Surgical Planning Laboratory, Brigham and Women\u2019s hospital, Harvard Medical School, USA; Intrasense SAS, Montpellier, France; D\u00b4epartement de Neurochirurgie, Hopital Gui de Chauliac, CHU Montpellier, France; Center for Visual Computing, Ecole Centrale Paris, France+Equipe GALEN, INRIA Saclay-Ile-de-France, France"
     },
     {
         "title": "Understanding High-Level Semantics by Modeling Traffic Patterns",
@@ -1741,43 +1741,43 @@
     },
     {
         "title": "Unifying Nuclear Norm and Bilinear Factorization Approaches for Low-Rank Matrix Decomposition",
-        "aff": "Carnegie Mellon University, Pittsburgh, PA, USA; ISR - Instituto Superior T\u00e9cnico, Lisboa, Portugal"
+        "aff": "ISR - Instituto Superior T\u00e9cnico, Lisboa, Portugal+Carnegie Mellon University, Pittsburgh, PA, USA; Carnegie Mellon University, Pittsburgh, PA, USA; ISR - Instituto Superior T\u00e9cnico, Lisboa, Portugal; ISR - Instituto Superior T\u00e9cnico, Lisboa, Portugal"
     },
     {
         "title": "Unsupervised Domain Adaptation by Domain Invariant Projection",
-        "aff": "Australian National University, NICTA, Canberra; University of Queensland, NICTA, Canberra; University of Queensland"
+        "aff": "University of Queensland+Canberra; Australian National University+Canberra; University of Queensland+Canberra; Australian National University+Canberra"
     },
     {
         "title": "Unsupervised Intrinsic Calibration from a Single Frame Using a \"Plumb-Line\" Approach",
-        "aff": "Institute for Systems and Robotics, University of Coimbra; Instituto de Telecomunicac\u00f5es, University of Coimbra"
+        "aff": "Institute for Systems and Robotics, University of Coimbra; Institute for Systems and Robotics, University of Coimbra; Institute for Systems and Robotics, University of Coimbra; Instituto de Telecomunica\u00e7\u00f5es, University of Coimbra; Institute for Systems and Robotics, University of Coimbra"
     },
     {
         "title": "Unsupervised Random Forest Manifold Alignment for Lipreading",
-        "aff": "Peking University; Imperial College London"
+        "aff": "Peking University; Imperial College London; Peking University"
     },
     {
         "title": "Unsupervised Visual Domain Adaptation Using Subspace Alignment",
-        "aff": "KU Leuven, ESA T-PSI, iMinds, Belgium; Laboratoire Hubert Curien UMR 5516, 18 rue Benoit Lauras, 42000 St-Etienne, France"
+        "aff": ";;;"
     },
     {
         "title": "Video Co-segmentation for Meaningful Action Extraction",
-        "aff": "Department of ECE, National University of Singapore, Singapore; Department of ECE, National University of Singapore, Singapore; National University of Singapore Research Institute, Suzhou, China"
+        "aff": "Department of ECE, National University of Singapore, Singapore; Department of ECE, National University of Singapore, Singapore; Department of ECE, National University of Singapore, Singapore; Department of ECE, National University of Singapore, Singapore + National University of Singapore Research Institute, Suzhou, China"
     },
     {
         "title": "Video Event Understanding Using Natural Language Descriptions",
-        "aff": "Computer Science Department, Stanford University; Department of Electrical Engineering, Stanford University"
+        "aff": "Department of Electrical Engineering, Stanford University; Computer Science Department, Stanford University; Computer Science Department, Stanford University"
     },
     {
         "title": "Video Motion for Every Visible Point",
-        "aff": "Duke University; Google Research"
+        "aff": "Google Research + Duke University; Duke University"
     },
     {
         "title": "Video Segmentation by Tracking Many Figure-Ground Segments",
-        "aff": "School of Interactive Computing, Georgia Institute of Technology"
+        "aff": "School of Interactive Computing, Georgia Institute of Technology; School of Interactive Computing, Georgia Institute of Technology; School of Interactive Computing, Georgia Institute of Technology; School of Interactive Computing, Georgia Institute of Technology; School of Interactive Computing, Georgia Institute of Technology"
     },
     {
         "title": "Video Synopsis by Heterogeneous Multi-source Correlation",
-        "aff": "The Chinese University of Hong Kong, Shatin, N.T., Hong Kong; Queen Mary, University of London, London E1 4NS, UK"
+        "aff": "Queen Mary, University of London; The Chinese University of Hong Kong; Queen Mary, University of London"
     },
     {
         "title": "Viewing Real-World Faces in 3D",
@@ -1785,34 +1785,34 @@
     },
     {
         "title": "Visual Reranking through Weakly Supervised Multi-graph Learning",
-        "aff": "Xiamen University, Xiamen, China; Xidian University, Xi'an, China; University of Technology, Sydney, Australia; IBM Watson Research Center, Armonk, NY, USA"
+        "aff": "Xidian University, Xi\u2019an, China; Xiamen University, Xiamen, China; IBM Watson Research Center, Armonk, NY, USA; University of Technology, Sydney, Australia; Xidian University, Xi\u2019an, China"
     },
     {
         "title": "Visual Semantic Complex Network for Web Images",
-        "aff": "Department of Information Engineering, The Chinese University of Hong Kong; Department of Electronic Engineering, The Chinese University of Hong Kong; Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences"
+        "aff": "Department of Information Engineering; Department of Electronic Engineering + Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences; Department of Information Engineering + Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences"
     },
     {
         "title": "Volumetric Semantic Segmentation Using Pyramid Context Features",
-        "aff": "Lawrence Berkeley National Laboratory; UC Berkeley"
+        "aff": "UC Berkeley; UC Berkeley; Lawrence Berkeley National Laboratory; Lawrence Berkeley National Laboratory; Lawrence Berkeley National Laboratory; UC Berkeley"
     },
     {
         "title": "Weakly Supervised Learning of Image Partitioning Using Decision Trees with Structured Split Criteria",
-        "aff": "HCI, University of Heidelberg"
+        "aff": "HCI, University of Heidelberg; HCI, University of Heidelberg; HCI, University of Heidelberg"
     },
     {
         "title": "What Do You Do? Occupation Recognition in a Photo via Social Context",
-        "aff": "College of Computer and Information Science, Northeastern University, MA, USA; Department of Electrical and Computer Engineering, Northeastern University, MA, USA"
+        "aff": "College of Computer and Information Science, Northeastern University, MA, USA+Department of Electrical and Computer Engineering, Northeastern University, MA, USA; Department of Electrical and Computer Engineering, Northeastern University, MA, USA; College of Computer and Information Science, Northeastern University, MA, USA+Department of Electrical and Computer Engineering, Northeastern University, MA, USA"
     },
     {
         "title": "What is the Most Efficient Way to Select Nearest Neighbor Candidates for Fast Approximate Nearest Neighbor Search?",
-        "aff": "Graduate School of Engineering, Osaka Prefecture University"
+        "aff": ";;"
     },
     {
         "title": "Write a Classifier: Zero-Shot Learning Using Purely Textual Descriptions",
-        "aff": "Department of Computer Science, Rutgers University, New Brunswick, NJ"
+        "aff": "Department of Computer Science, Rutgers University, New Brunswick, NJ; Department of Computer Science, Rutgers University, New Brunswick, NJ; Department of Computer Science, Rutgers University, New Brunswick, NJ"
     },
     {
         "title": "YouTube2Text: Recognizing and Describing Arbitrary Activities Using Semantic Hierarchies and Zero-Shot Recognition",
-        "aff": "UMass Lowell; UC Berkeley; ICSI, UC Berkeley; UT Austin"
+        "aff": "UC Berkeley; UT Austin; UT Austin; UT Austin; UT Austin; ICSI, UC Berkeley; UMass Lowell"
     }
 ]

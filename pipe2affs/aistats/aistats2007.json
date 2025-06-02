@@ -1,0 +1,346 @@
+[
+    {
+        "title": "(Approximate) Subgradient Methods for Structured Prediction",
+        "aff": "Robotics Institute, Carnegie Mellon University, Pittsburgh, PA 15213; Robotics Institute / MLD, Carnegie Mellon University, Pittsburgh, PA 15213; Department of Computing Science, University of Alberta, Edmonton, AB T6G 2E1, Canada"
+    },
+    {
+        "title": "A Bayesian Divergence Prior for Classiffier Adaptation",
+        "aff": "Dept. of Electrical Engineering, University of Washington; Dept. of Electrical Engineering, University of Washington"
+    },
+    {
+        "title": "A Boosting Algorithm for Label Covering in Multilabel Problems",
+        "aff": "School of Comp. Sci. and Eng., Hebrew University, Jerusalem, Israel; School of Comp. Sci. and Eng., Hebrew University, Jerusalem, Israel; Google Inc., 1600 Amphitheatre Pkwy., 94043, Mountain View, CA"
+    },
+    {
+        "title": "A Fast Bundle-based Anytime Algorithm for Poker and other Convex Games",
+        "aff": "Google, Inc.; Computer Science Dept., Carnegie Mellon University"
+    },
+    {
+        "title": "A Framework for Probability Density Estimation",
+        "aff": "Centre for Computational Statistics and Machine Learning, University College London; Southampton Statistical Sciences Research Institute, University of Southampton"
+    },
+    {
+        "title": "A Hybrid Pareto Model for Conditional Density Estimation of Asymmetric Fat-Tail Data",
+        "aff": "Computer Science Dept., University of Montreal; Computer Science Dept., University of Montreal"
+    },
+    {
+        "title": "A Latent Space Approach to Dynamic Embedding of Co-occurrence Data",
+        "aff": ";;"
+    },
+    {
+        "title": "A Nonparametric Bayesian Approach to Modeling Overlapping Clusters",
+        "aff": "Gatsby Computational Neuroscience Unit, University College London; Engineering Department, University of Cambridge + Machine Learning Department, Carnegie Mellon University"
+    },
+    {
+        "title": "A Stochastic Quasi-Newton Method for Online Convex Optimization",
+        "aff": "Statistical Machine Learning, National ICT Australia; Research School of Information Sciences & Engineering, Australian National University; Statistical Machine Learning, National ICT Australia"
+    },
+    {
+        "title": "A Unified Algorithmic Approach for Efficient Online Label Ranking",
+        "aff": "School of Computer Sci. & Eng., The Hebrew University, Jerusalem 91904, Israel+Google Inc., 1600 Amphitheater Parkway, Mountain View, CA 94043, USA; School of Computer Sci. & Eng., The Hebrew University, Jerusalem 91904, Israel+Google Inc., 1600 Amphitheater Parkway, Mountain View, CA 94043, USA"
+    },
+    {
+        "title": "A Unified Energy-Based Framework for Unsupervised Learning",
+        "aff": ";;;"
+    },
+    {
+        "title": "A fast algorithm for learning large scale preference relations",
+        "aff": "Department of Computer Science, University of Maryland, CollegePark, CollegePark, MD, USA; Department of Computer Science, University of Maryland, CollegePark, CollegePark, MD, USA; Computer Aided Diagnosis and Therapy Group, Siemens Medical Solutions, Malvern, PA, USA"
+    },
+    {
+        "title": "AClass: A simple, online, parallelizable algorithm for probabilistic classification",
+        "aff": "MIT BCS\u2217and CSAIL\u2020; MIT CSAIL\u2020; Honda Research USA\u2021; MIT BCS\u2217and CSAIL\u2020"
+    },
+    {
+        "title": "An Improved 1-norm SVM for Simultaneous Classification and Variable Selection",
+        "aff": "School of Statistics, University of Minnesota"
+    },
+    {
+        "title": "Analogical Reasoning with Relational Bayesian Sets",
+        "aff": "Gatsby Unit, University College London; Gatsby Unit, University College London; Department of Engineering, University of Cambridge"
+    },
+    {
+        "title": "Approximate Counting of Graphical Models Via MCMC",
+        "aff": ""
+    },
+    {
+        "title": "Approximate inference using conditional entropy decompositions",
+        "aff": "Computer Science and Artificial Intelligence Laboratory, MIT; Computer Science and Artificial Intelligence Laboratory, MIT"
+    },
+    {
+        "title": "Bayesian Inference and Optimal Design in the Sparse Linear Model",
+        "aff": "Max Planck Institute for Biological Cybernetics, T\u00fcbingen, Germany; Max Planck Institute for Biological Cybernetics, T\u00fcbingen, Germany; Max Planck Institute for Biological Cybernetics, T\u00fcbingen, Germany"
+    },
+    {
+        "title": "Continuous Neural Networks",
+        "aff": "Universit\u0013edeMontr\u0013eal; Universit\u0013edeMontr\u0013eal"
+    },
+    {
+        "title": "Deterministic Annealing for Multiple-Instance Learning",
+        "aff": "MaxPlanckInstituteforBiologicalCybernetics, T\u00a8 ubingen,72070,Germany; MaxPlanckInstituteforBiologicalCybernetics, T\u00a8 ubingen,72070,Germany"
+    },
+    {
+        "title": "Dissimilarity in Graph-Based Semi-Supervised Classification",
+        "aff": "Department of Computer Sciences, University of Wisconsin, Madison; Department of Computer Sciences, University of Wisconsin, Madison; Department of Computer Sciences, University of Wisconsin, Madison"
+    },
+    {
+        "title": "Dynamic Factorization Tests: Applications to Multi-modal Data Association",
+        "aff": ";"
+    },
+    {
+        "title": "Efficient active learning with generalized linear models",
+        "aff": "Bioengineering, Georgia Institute of Technology; Electrical and Computer Engineering, Georgia Institute of Technology; Department of Statistics, Columbia University"
+    },
+    {
+        "title": "Efficient large margin semisupervised learning",
+        "aff": "School of Statistics, University of Minnesota"
+    },
+    {
+        "title": "Ellipsoidal Machines",
+        "aff": "Department of Computer Science, Columbia University, New York, NY 10027; Department of Computer Science, Columbia University, New York, NY 10027"
+    },
+    {
+        "title": "Emerge and spread models and word burstiness",
+        "aff": "Statistical Machine Learning Program, National ICT Australia"
+    },
+    {
+        "title": "Exact Bayesian structure learning from uncertain interventions",
+        "aff": "Computer Science Dept., University of British Columbia; Computer Science Dept., University of British Columbia"
+    },
+    {
+        "title": "Fast Kernel ICA using an Approximate Newton Method",
+        "aff": "National ICT Australia+Australian National University, Canberra, Australia; MPI for Biological Cybernetics, Spemannstr 38, 72076 T\u00fcbingen, Germany; MPI for Biological Cybernetics, Spemannstr 38, 72076 T\u00fcbingen, Germany"
+    },
+    {
+        "title": "Fast Low-Rank Semidefinite Programming for Embedding and Clustering",
+        "aff": "Department of Computer Sciences, University of Texas at Austin; Microsoft adCenter Labs; Microsoft Research"
+    },
+    {
+        "title": "Fast Mean Shift with Accurate and Stable Convergence",
+        "aff": "College of Computing, Georgia Institute of Technology; College of Computing, Georgia Institute of Technology; College of Computing, Georgia Institute of Technology; College of Computing, Georgia Institute of Technology"
+    },
+    {
+        "title": "Fast State Discovery for HMM Model Selection and Learning",
+        "aff": ";;"
+    },
+    {
+        "title": "Fast search for Dirichlet process mixture models",
+        "aff": "School of Computing, University of Utah"
+    },
+    {
+        "title": "Fisher Consistency of Multicategory Support Vector Machines",
+        "aff": ""
+    },
+    {
+        "title": "Generalized Darting Monte Carlo",
+        "aff": "Toyota Technological Institute, Chicago, USA; Bren School of Information and Computer Science, UC Irvine, CA 92697-3425, USA"
+    },
+    {
+        "title": "Generalized Do-Calculus with Testable Causal Assumptions",
+        "aff": "Division of Humanities and Social Sciences, California Institute of Technology"
+    },
+    {
+        "title": "Generalized Non-metric Multidimensional Scaling",
+        "aff": ";;;;;"
+    },
+    {
+        "title": "Hidden Topic Markov Models",
+        "aff": "School of CS and Eng. The Hebrew University Jerusalem 91904 Israel; IBM Research Laboratory in Haifa Haifa University, Mount Carmel Haifa 31905 Israel; School of CS and Eng. The Hebrew University Jerusalem 91904 Israel"
+    },
+    {
+        "title": "Hierarchical Beta Processes and the Indian Buffet Process",
+        "aff": "Dept. of EECS, University of California, Berkeley; Dept. of EECS and Dept. of Statistics, University of California, Berkeley"
+    },
+    {
+        "title": "How Powerful Can Any Regression Learning Procedure Be?",
+        "aff": "School of Statistics, University of Minnesota"
+    },
+    {
+        "title": "Importance Sampling for General Hybrid Bayesian Networks",
+        "aff": ";"
+    },
+    {
+        "title": "Incorporating Prior Knowledge on Features into Learning",
+        "aff": ";"
+    },
+    {
+        "title": "Inductive Transfer for Bayesian Network Structure Learning",
+        "aff": "Department of Computer Science, Cornell University; Department of Computer Science, Cornell University"
+    },
+    {
+        "title": "Information Retrieval by Inferring Implicit Queries from Eye Movements",
+        "aff": "Computer Science Dept., University College London, Gower Street, London, UK, WC1E 6BT; Computer Science Dept., University College London, Gower Street, London, UK, WC1E 6BT; Helsinki Institute for Information Technology, Laboratory of Computer and Information Science, Helsinki University of Technology, P.O. Box 5400, FI-02015 TKK, Finland; Helsinki Institute for Information Technology, Laboratory of Computer and Information Science, Helsinki University of Technology, P.O. Box 5400, FI-02015 TKK, Finland; Helsinki Institute for Information Technology, Laboratory of Computer and Information Science, Helsinki University of Technology, P.O. Box 5400, FI-02015 TKK, Finland"
+    },
+    {
+        "title": "Kernel Multi-task Learning using Task-specific Features",
+        "aff": "School of Informatics, University of Edinburgh, Edinburgh EH1 2QL, UK; School of Informatics, University of Edinburgh, Edinburgh EH1 2QL, UK; School of Informatics, University of Edinburgh, Edinburgh EH1 2QL, UK"
+    },
+    {
+        "title": "Large-Margin Classification in Banach Spaces",
+        "aff": "Department of Mathematics, University of Pennsylvania; Department of Electrical Engineering, University of Pennsylvania"
+    },
+    {
+        "title": "Learning A* underestimates : Using inference to guide inference",
+        "aff": "University of Massachusetts; Live Labs, Microsoft Corp.; Live Labs, Microsoft Corp."
+    },
+    {
+        "title": "Learning Markov Structure by Maximum Entropy Relaxation",
+        "aff": "Laboratory for Information and Decision Systems, Massachusetts Institute of Technology; Laboratory for Information and Decision Systems, Massachusetts Institute of Technology; Laboratory for Information and Decision Systems, Massachusetts Institute of Technology"
+    },
+    {
+        "title": "Learning Multilevel Distributed Representations for High-Dimensional Sequences",
+        "aff": "Department of Computer Science, University of Toronto; Department of Computer Science, University of Toronto"
+    },
+    {
+        "title": "Learning Nearest-Neighbor Quantizers from Labeled Data by Information Loss Minimization",
+        "aff": "Computer and Information Science Dept., University of Pennsylvania; Computer and Information Science Dept., University of Pennsylvania"
+    },
+    {
+        "title": "Learning a Nonlinear Embedding by Preserving Class Neighbourhood Structure",
+        "aff": "Department of Computer Science, University of Toronto; Department of Computer Science, University of Toronto"
+    },
+    {
+        "title": "Learning for Larger Datasets with the Gaussian Process Latent Variable Model",
+        "aff": "School of Computer Science, University of Manchester, Kilburn Building, Oxford Road, Manchester, M13 9PL, U.K."
+    },
+    {
+        "title": "Local and global sparse Gaussian process approximations",
+        "aff": "Gatsby Computational Neuroscience Unit, University College London, UK; Department of Engineering, University of Cambridge, UK"
+    },
+    {
+        "title": "Loop Corrected Belief Propagation",
+        "aff": "Department of Biophysics, Radboud University Nijmegen; Department of Biophysics, Radboud University Nijmegen; Department of Biophysics, Radboud University Nijmegen; Laboratoire de Physique Th\u00e9orique de l\u2019Ecole Normale Sup\u00e9rieure"
+    },
+    {
+        "title": "Loopy Belief Propagation for Bipartite Maximum Weight b-Matching",
+        "aff": "Computer Science Dept., Columbia University, New York, NY 10027; Computer Science Dept., Columbia University, New York, NY 10027"
+    },
+    {
+        "title": "MDL Histogram Density Estimation",
+        "aff": ";"
+    },
+    {
+        "title": "Margin based Transductive Graph Cuts using Linear Programming",
+        "aff": ";;;"
+    },
+    {
+        "title": "Maximum Entropy Correlated Equilibria",
+        "aff": "ECE Deptartment, Univ. of Puerto Rico at Mayag \u00a8uez; Dept. of Computer Science, Princeton University; Toyota Technological Institute"
+    },
+    {
+        "title": "Memory-Effcient Orthogonal Least Squares Kernel Density Estimation using Enhanced Empirical Cumulative Distribution Functions",
+        "aff": "Dept. of Electrical Engineering and Information Technology, Otto-von-Guericke-University; Dept. of Electrical Engineering and Information Technology, Otto-von-Guericke-University; Dept. of Electrical Engineering and Information Technology, Otto-von-Guericke-University; Dept. of Electrical Engineering and Information Technology, Otto-von-Guericke-University; Dept. of Electrical Engineering and Information Technology, Otto-von-Guericke-University"
+    },
+    {
+        "title": "Metric Learning for Kernel Regression",
+        "aff": "U. of Pennsylvania, Philadelphia, PA 19104; IBM T.J. Watson Research Center, 19 Skyline Drive, Hawthorne, NY 10532"
+    },
+    {
+        "title": "Minimum Volume Embedding",
+        "aff": "Computer Science Dept., Columbia University, New York, NY 10027; Computer Science Dept., Columbia University, New York, NY 10027"
+    },
+    {
+        "title": "Mixture of Watson Distributions: A Generative Model for Hyperspherical Embeddings",
+        "aff": ";;"
+    },
+    {
+        "title": "Multi-object tracking with representations of the symmetric group",
+        "aff": "Computer Science Department, Columbia University; Computer Science Department, Columbia University; Computer Science Department, Columbia University"
+    },
+    {
+        "title": "Nonlinear Dimensionality Reduction as Information Retrieval",
+        "aff": "Helsinki Institute for Information Technology; Helsinki Institute for Information Technology"
+    },
+    {
+        "title": "Nonnegative Garrote Component Selection in Functional ANOVA models",
+        "aff": "School of Industrial and Systems Engineering, Georgia Institute of Technology"
+    },
+    {
+        "title": "Online Learning of Search Heuristics",
+        "aff": "Center for Neural Computation, The Hebrew University of Jerusalem, Jerusalem, Israel 91904"
+    },
+    {
+        "title": "Performance Guarantees for Information Theoretic Active Inference",
+        "aff": ";;"
+    },
+    {
+        "title": "Policy-Gradients for PSRs and POMDPs",
+        "aff": "National ICT Australia; National ICT Australia; National ICT Australia"
+    },
+    {
+        "title": "Predictive Discretization during Model Selection",
+        "aff": "Siemens Medical Solutions, 51 Valley Stream Parkway E51, Malvern, PA 19355, USA; MIT CSAIL, Stata Center, Bldg. 32-Gates 498, Cambridge, MA 02139, USA"
+    },
+    {
+        "title": "Preface",
+        "aff": ";"
+    },
+    {
+        "title": "Recall Systems: Effcient Learning and Use of Category Indices",
+        "aff": "Yahoo! Research, Burbank, CA91504; Los Angeles Software, Santa Monica, CA90405; University of Southern California, Los Angeles, CA90089-0781; University of Alberta, Edmonton, ABT6G2E8"
+    },
+    {
+        "title": "SVM versus Least Squares SVM",
+        "aff": "Department of Computer Science and Engineering, Arizona State University, Tempe, AZ 85287; Department of Electrical and Computer Engineering, University of Minnesota, Minneapolis, MN 55455"
+    },
+    {
+        "title": "SampleSearch: A Scheme that Searches for Consistent Samples",
+        "aff": "Donald Bren School of Information and Computer Science, University of California, Irvine; Donald Bren School of Information and Computer Science, University of California, Irvine"
+    },
+    {
+        "title": "Seeking The Truly Correlated Topic Posterior - on tight approximate inference of logistic-normal admixture model",
+        "aff": "School of Computer Science, Carnegie Mellon University; School of Computer Science, Carnegie Mellon University"
+    },
+    {
+        "title": "Semi-Supervised Mean Fields",
+        "aff": ";;;"
+    },
+    {
+        "title": "Semi-supervised Clustering with Pairwise Constraints: A Discriminative Approach",
+        "aff": ""
+    },
+    {
+        "title": "Solving Markov Random Fields with Spectral Relaxation",
+        "aff": "Computer and Information Science Dept., University of Pennsylvania; Computer and Information Science Dept., University of Pennsylvania"
+    },
+    {
+        "title": "Space-Efficient Sampling",
+        "aff": "Dept. of Computer and Information Sciences, University of Pennsylvania, Philadelphia, PA 19104; Information Theory and Applications Center, University of California, San Diego, CA 92093"
+    },
+    {
+        "title": "Sparse Nonparametric Density Estimation in High Dimensions Using the Rodeo",
+        "aff": "Statistics Department\u2020\u2021; Computer Science Department\u2217\u2021; Statistics Department\u2020\u2021"
+    },
+    {
+        "title": "Stick-breaking Construction for the Indian Buffet Process",
+        "aff": "Gatsby Computational Neuroscience Unit, University College London; MPI for Biological Cybernetics, Dept. Sch\u00f6lkopf; Department of Engineering, University of Cambridge"
+    },
+    {
+        "title": "The Kernel Path in Kernelized LASSO",
+        "aff": ";;"
+    },
+    {
+        "title": "The Laplacian Eigenmaps Latent Variable Model",
+        "aff": ";"
+    },
+    {
+        "title": "The Rademacher Complexity of Co-Regularized Kernel Classes",
+        "aff": "Department of Statistics, University of California, Berkeley; Department of Statistics and Computer Science Division, University of California, Berkeley"
+    },
+    {
+        "title": "Transductive Classification via Local Learning Regularization",
+        "aff": ";"
+    },
+    {
+        "title": "Treelets | A Tool for Dimensionality Reduction and Multi-Scale Analysis of Unstructured Data",
+        "aff": "Department of Statistics, Carnegie Mellon University; Department of Computer Science and Applied Mathematics, Weizmann Institute of Science"
+    },
+    {
+        "title": "Visualizing Similarity Data with a Mixture of Maps",
+        "aff": ";;;"
+    },
+    {
+        "title": "Visualizing pairwise similarity via semidefinite programming",
+        "aff": "Computer Science and Artificial Intelligence Laboratory, MIT; Department of Computer Science, University of Toronto"
+    }
+]
