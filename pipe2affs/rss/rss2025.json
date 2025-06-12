@@ -1,0 +1,654 @@
+[
+    {
+        "title": "A Biconvex Method for Minimum-Time Motion Planning Through Sequences of Convex Sets",
+        "aff": "Amazon Robotics; Amazon Robotics; Amazon Robotics; Amazon Robotics; Amazon Robotics"
+    },
+    {
+        "title": "A Generic Continuous Multi-Joint Spinal Robotic System for Agile and Accurate Behaviors with GNN-MPC method",
+        "aff": "School of Computer Science and Engineering, Sun Yat-sen University, Guangzhou 510006, China; School of Computer Science and Engineering, Sun Yat-sen University, Guangzhou 510006, China; School of Computer Science and Engineering, Sun Yat-sen University, Guangzhou 510006, China; School of Computer Science and Engineering, Sun Yat-sen University, Guangzhou 510006, China; School of Computer Science and Engineering, Sun Yat-sen University, Guangzhou 510006, China"
+    },
+    {
+        "title": "A Probabilistic Measure of Multi-Robot Connectivity and Ergodic Optimal Control",
+        "aff": "UM-SJTU Joint Institute; UM-SJTU Joint Institute + Department of Automation Shanghai Jiao Tong University"
+    },
+    {
+        "title": "A Robot-Assisted Approach to Small Talk Training for Adults with ASD",
+        "aff": "Department of Computer Science, Yale University, USA; Graduate School of Informatics, Kyoto University, Japan; Department of Computer Science, Yale University, USA"
+    },
+    {
+        "title": "A Unified and General Humanoid Whole-Body Controller for Fine-Grained Locomotion",
+        "aff": "Shanghai Jiao Tong University+Shanghai AI Lab; Shanghai Jiao Tong University+Shanghai AI Lab; Shanghai Jiao Tong University; Shanghai Jiao Tong University+Shanghai AI Lab; Shanghai AI Lab"
+    },
+    {
+        "title": "A low-cost and lightweight 6 DoF bimanual arm for dynamic and contact-rich manipulation",
+        "aff": "Kim Jaechul Graduate School of AI, KAIST; Department of Mechanical System Design Engineering, SEOULTECH; Department of Mechanical System Design Engineering, SEOULTECH; Kim Jaechul Graduate School of AI, KAIST; Kim Jaechul Graduate School of AI, KAIST"
+    },
+    {
+        "title": "AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control",
+        "aff": ";;;;;"
+    },
+    {
+        "title": "APEX-MR: Multi-Robot Asynchronous Planning and Execution for Cooperative Assembly",
+        "aff": "Carnegie Mellon University; Carnegie Mellon University; Carnegie Mellon University; Carnegie Mellon University; Carnegie Mellon University"
+    },
+    {
+        "title": "ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills",
+        "aff": "Carnegie Mellon University; Carnegie Mellon University; Carnegie Mellon University+NVIDIA; Carnegie Mellon University; Carnegie Mellon University; Carnegie Mellon University; Carnegie Mellon University+NVIDIA; Carnegie Mellon University; Carnegie Mellon University; Carnegie Mellon University; Carnegie Mellon University; Carnegie Mellon University; Carnegie Mellon University; Carnegie Mellon University; NVIDIA; NVIDIA; Carnegie Mellon University; Carnegie Mellon University"
+    },
+    {
+        "title": "ASTRID: A Robotic Tutor for Nurse Training to Reduce Healthcare-Associated Infections",
+        "aff": "Department of Computer Science, Rice University, Houston, Texas USA; Department of Computer Science, Rice University, Houston, Texas USA; Department of Computer Science, Rice University, Houston, Texas USA; Department of Computer Science, Rice University, Houston, Texas USA; Center for Nursing Research, Education and Practice, Houston Methodist, Houston, Texas USA; Ken Kennedy Institute, Rice University, Houston, Texas USA; Ken Kennedy Institute, Rice University, Houston, Texas USA"
+    },
+    {
+        "title": "Action Flow Matching for Lifelong Learning",
+        "aff": "Indiana University\u2013Bloomington; Indiana University\u2013Bloomington"
+    },
+    {
+        "title": "Adaptive Locomotion on Mud through Proprioceptive Sensing of Substrate Properties",
+        "aff": "Department of Electrical and Computer Engineering, University of Southern California, Los Angeles, California, USA; Department of Electrical and Computer Engineering, University of Southern California, Los Angeles, California, USA; Department of Electrical and Computer Engineering, University of Southern California, Los Angeles, California, USA; Department of Electrical and Computer Engineering, University of Southern California, Los Angeles, California, USA"
+    },
+    {
+        "title": "ArticuBot: Learning Universal Articulated Object Manipulation Policy via Large Scale Simulation",
+        "aff": ";;;;;;;"
+    },
+    {
+        "title": "BeamDojo: Learning Agile Humanoid Locomotion on Sparse Footholds",
+        "aff": "Shanghai AI Laboratory + Shanghai Jiao Tong University; Shanghai AI Laboratory + Zhejiang University; Shanghai AI Laboratory + The University of Hong Kong; Shanghai AI Laboratory + The Chinese University of Hong Kong; Shanghai AI Laboratory + Shanghai Jiao Tong University; Shanghai AI Laboratory\u2020; Shanghai AI Laboratory\u2020"
+    },
+    {
+        "title": "Behavior Synthesis via Contact-Aware Fisher Information Maximization",
+        "aff": "Yale University, New Haven, CT, USA; Yale University, New Haven, CT, USA"
+    },
+    {
+        "title": "Bilevel Learning for Bilevel Planning",
+        "aff": "Carnegie Mellon University+Centaur AI Institute; Princeton University; Carnegie Mellon University; Centaur AI Institute"
+    },
+    {
+        "title": "Boxi: Design Decisions in the Context of Algorithmic Performance for Robotics",
+        "aff": "ETH Zurich; ETH Zurich; University of Oxford + Max Planck Institute for Intelligent Systems; ETH Zurich; ETH Zurich; ETH Zurich; ETH Zurich; ETH Zurich + Max Planck Institute for Intelligent Systems; University of Oxford; ETH Zurich; ETH Zurich"
+    },
+    {
+        "title": "Bridging Model Predictive Control and Deep Learning for Scalable Reachability Analysis",
+        "aff": "Department of Aeronautics and Astronautics at Stanford University; Department of Electrical Engineering at Tsinghua University; Department of Aeronautics and Astronautics at Stanford University"
+    },
+    {
+        "title": "Bridging Perception and Action: Spatially-Grounded Mid-Level Representations for Robot Generalization",
+        "aff": ";;;;;"
+    },
+    {
+        "title": "Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation",
+        "aff": "Improbable AI Lab, Massachusetts Institute of Technology, Cambridge, MA 02139 + Computer Science and Artificial Lab-oratory (CSAIL), the Laboratory for Information and Decision Systems (LIDS), and the MIT-IBM Watson AI Lab at MIT; Improbable AI Lab, Massachusetts Institute of Technology, Cambridge, MA 02139 + Computer Science and Artificial Lab-oratory (CSAIL), the Laboratory for Information and Decision Systems (LIDS), and the MIT-IBM Watson AI Lab at MIT; Improbable AI Lab, Massachusetts Institute of Technology, Cambridge, MA 02139 + Computer Science and Artificial Lab-oratory (CSAIL), the Laboratory for Information and Decision Systems (LIDS), and the MIT-IBM Watson AI Lab at MIT; Improbable AI Lab, Massachusetts Institute of Technology, Cambridge, MA 02139 + Computer Science and Artificial Lab-oratory (CSAIL), the Laboratory for Information and Decision Systems (LIDS), and the MIT-IBM Watson AI Lab at MIT"
+    },
+    {
+        "title": "Building Rome with Convex Optimization",
+        "aff": "School of Engineering and Applied Sciences, Harvard University; School of Engineering and Applied Sciences, Harvard University"
+    },
+    {
+        "title": "CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision",
+        "aff": "Seoul National University; Seoul National University; Seoul National University; Seoul National University; Seoul National University+Tommoro Robotics"
+    },
+    {
+        "title": "CREStE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance",
+        "aff": ";;;"
+    },
+    {
+        "title": "Can We Detect Failures Without Failure Data? Uncertainty-Aware Runtime Failure Detection for Imitation Learning Policies",
+        "aff": "Toyota Research Institute (TRI); Toyota Research Institute (TRI); Toyota Research Institute (TRI); Toyota Research Institute (TRI); Toyota Research Institute (TRI); Woven by Toyota (WbyT); Toyota Research Institute (TRI); Toyota Research Institute (TRI); Toyota Research Institute (TRI); Toyota Research Institute (TRI)"
+    },
+    {
+        "title": "Certifiably-Correct Mapping for Safe Navigation Despite Odometry Drift",
+        "aff": "University of Michigan, Ann Arbor; University of Michigan, Ann Arbor; University of Michigan, Ann Arbor; University of Michigan, Ann Arbor; University of Michigan, Ann Arbor; University of Michigan, Ann Arbor; University of Michigan, Ann Arbor"
+    },
+    {
+        "title": "CodeDiffuser: Attention-Enhanced Diffusion Policy via VLM-Generated Code for Instruction Ambiguity",
+        "aff": "University of Illinois Urbana-Champaign; Tsinghua University; Columbia University; Toyota Research Institute; Toyota Research Institute; Toyota Research Institute; University of Illinois Urbana-Champaign; Toyota Research Institute; Columbia University"
+    },
+    {
+        "title": "Coherance-based Approximate Derivatives via Web of Affine Spaces Optimization",
+        "aff": "Department of Computer Science, Yale University; Department of Computer Science, Yale University; Department of Computer Science, Yale University"
+    },
+    {
+        "title": "Collaborative Object Transportation in Space via Impact Interactions",
+        "aff": "School of Electrical Engineering and Computer Science, KTH Royal Institute of Technology, Stockholm, Sweden; School of Electrical Engineering and Computer Science, KTH Royal Institute of Technology, Stockholm, Sweden"
+    },
+    {
+        "title": "Complementarity-Free Multi-Contact Modeling and Optimization for Dexterous Manipulation",
+        "aff": "Arizona State University"
+    },
+    {
+        "title": "ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy",
+        "aff": "SKL-MAIS, Institute of Automation, Chinese Academy of Sciences, Beijing, China + School of Artificial Intelligence, University of Chinese Academy of Sciences, Beijing, China; SKL-MAIS, Institute of Automation, Chinese Academy of Sciences, Beijing, China + School of Artificial Intelligence, University of Chinese Academy of Sciences, Beijing, China; SKL-MAIS, Institute of Automation, Chinese Academy of Sciences, Beijing, China + School of Artificial Intelligence, University of Chinese Academy of Sciences, Beijing, China; SKL-MAIS, Institute of Automation, Chinese Academy of Sciences, Beijing, China + School of Artificial Intelligence, University of Chinese Academy of Sciences, Beijing, China; SKL-MAIS, Institute of Automation, Chinese Academy of Sciences, Beijing, China + School of Artificial Intelligence, University of Chinese Academy of Sciences, Beijing, China; SKL-MAIS, Institute of Automation, Chinese Academy of Sciences, Beijing, China + School of Artificial Intelligence, University of Chinese Academy of Sciences, Beijing, China"
+    },
+    {
+        "title": "CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World",
+        "aff": "State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University; State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University; State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University; State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University; State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University; State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University; The University of Hong Kong; State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University; State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University; State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University; State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University+Beijing Academy of Artificial Intelligence"
+    },
+    {
+        "title": "Curating Demonstrations using Online Experience",
+        "aff": "Stanford University; Stanford University; Stanford University; Stanford University"
+    },
+    {
+        "title": "DDAT: Diffusion Policies Enforcing Dynamically Admissible Robot Trajectories",
+        "aff": ";;;;"
+    },
+    {
+        "title": "DOGlove: Dexterous Manipulation with a Low-Cost Open-Source Haptic Force Feedback Glove",
+        "aff": "Tsinghua University+Shanghai Qi Zhi Institute+Shanghai AI Lab; Tsinghua University+Shanghai Qi Zhi Institute; Tsinghua University+Shanghai Qi Zhi Institute+Shanghai AI Lab; Tsinghua University+Shanghai Qi Zhi Institute+Shanghai AI Lab"
+    },
+    {
+        "title": "DRO: Doppler-Aware Direct Radar Odometry with Gyroscope",
+        "aff": "Autonomous Space Robotics Lab, University of Toronto Institute for Aerospace Studies (UTIAS), Toronto, Ontario, Canada+Department of Computer, Control, and Management Engineering \u201cAntonio Ruberti\u201d, Sapienza University of Rome; Department of Computer, Control, and Management Engineering \u201cAntonio Ruberti\u201d, Sapienza University of Rome; Autonomous Space Robotics Lab, University of Toronto Institute for Aerospace Studies (UTIAS), Toronto, Ontario, Canada; Autonomous Space Robotics Lab, University of Toronto Institute for Aerospace Studies (UTIAS), Toronto, Ontario, Canada; Autonomous Space Robotics Lab, University of Toronto Institute for Aerospace Studies (UTIAS), Toronto, Ontario, Canada+Department of Computer, Control, and Management Engineering \u201cAntonio Ruberti\u201d, Sapienza University of Rome; Autonomous Space Robotics Lab, University of Toronto Institute for Aerospace Studies (UTIAS), Toronto, Ontario, Canada"
+    },
+    {
+        "title": "DVS: Dynamic Virtual-Real Simulation Platform for Mobile Robotic Tasks",
+        "aff": "Tsinghua University; Tsinghua University; Tsinghua University; Tsinghua University; Tsinghua University"
+    },
+    {
+        "title": "Debiasing 6-DOF IMU via Hierarchical Learning of Continuous Bias Dynamics",
+        "aff": "Southern University of Science and Technology; University of Michigan; Southern University of Science and Technology\u2020; University of Michigan"
+    },
+    {
+        "title": "DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning",
+        "aff": ";;;;;"
+    },
+    {
+        "title": "Demonstrating Arena 5.0: A Photorealistic ROS2 Simulation Framework for Developing and Benchmarking Social Navigation",
+        "aff": ";;;;;;;;;;;;;"
+    },
+    {
+        "title": "Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot",
+        "aff": ";;;;;;;"
+    },
+    {
+        "title": "Demonstrating CavePI: Autonomous Exploration of Underwater Caves by Semantic Guidance",
+        "aff": "RoboPI laboratory, Department of ECE, University of Florida, FL 32611, USA; RoboPI laboratory, Department of ECE, University of Florida, FL 32611, USA; RoboPI laboratory, Department of ECE, University of Florida, FL 32611, USA; RoboPI laboratory, Department of ECE, University of Florida, FL 32611, USA; Department of ME, University of Delaware, Newark, DE 19716, USA; RoboPI laboratory, Department of ECE, University of Florida, FL 32611, USA"
+    },
+    {
+        "title": "Demonstrating GPU Parallelized Robot Simulation and Rendering for Generalizable Embodied AI with ManiSkill3",
+        "aff": "University of California San Diego; University of California San Diego; University of California San Diego; University of California San Diego; University of California San Diego; University of California San Diego; Carnegie Mellon University; University of California San Diego; University of California San Diego; University of California San Diego; University of California San Diego; University of California San Diego; University of California San Diego; University of California San Diego; University of California San Diego; University of California San Diego; University of California San Diego; University of California San Diego; University of California San Diego; TU Dresden; Tsinghua University; King\u2019s College London; University of California San Diego"
+    },
+    {
+        "title": "Demonstrating LEAP Hand V3: Low-Cost, Easy-to-Assemble, High-Performance Hand for Robot Learning",
+        "aff": "Carnegie Mellon University; Carnegie Mellon University"
+    },
+    {
+        "title": "Demonstrating MOSART: Opening Articulated Structures in the Real World",
+        "aff": ";;;"
+    },
+    {
+        "title": "Demonstrating MuJoCo Playground",
+        "aff": "UC Berkeley+Google DeepMind; Google DeepMind+University of Toronto; UC Berkeley+Google DeepMind; University of Toronto+University of Cambridge; University of Cambridge; Google DeepMind; UC Berkeley; Google DeepMind; UC Berkeley; University of Toronto; UC Berkeley+Google DeepMind; Google DeepMind; UC Berkeley+Google DeepMind"
+    },
+    {
+        "title": "Demonstrating Multi-Suction Item Picking at Scale via Multi-Modal Learning of Pick Success",
+        "aff": ";;;;;;;;"
+    },
+    {
+        "title": "Demonstrating REASSEMBLE: A Multimodal Dataset for Contact-rich Robotic Assembly and Disassembly",
+        "aff": "Autonomous Systems Lab, Institute of Computer Technology, TU Wien, Vienna, Austria; Autonomous Systems Lab, Institute of Computer Technology, TU Wien, Vienna, Austria; Autonomous Systems Lab, Institute of Computer Technology, TU Wien, Vienna, Austria; Autonomous Systems Lab, Institute of Computer Technology, TU Wien, Vienna, Austria; Autonomous Systems Lab, Institute of Computer Technology, TU Wien, Vienna, Austria; Autonomous Systems Lab, Institute of Computer Technology, TU Wien, Vienna, Austria + Institute of Robotics and Mechatronics (DLR), German Aerospace Center, Wessling, Germany"
+    },
+    {
+        "title": "Demonstrating Shared Force-Language Embeddings for Natural Human-Robot Communication",
+        "aff": "Electrical Engineering and Computer Science, Massachusetts Institute of Technology; Electrical Engineering and Computer Science, Massachusetts Institute of Technology; Electrical Engineering and Computer Science, Massachusetts Institute of Technology; Department of Physical Medicine, Harvard Medical School + Rehabilitation, Spaulding Rehabilitation Hospital; Mechanical Engineering, Massachusetts Institute of Technology"
+    },
+    {
+        "title": "Demonstrating ViSafe: Vision-enabled Safety for High-speed Detect and Avoid",
+        "aff": ";;;;;;;;;;"
+    },
+    {
+        "title": "Demonstrating a Control Framework for Physical Human-Robot Interaction Toward Industrial Applications",
+        "aff": "National Institute of Advanced Industrial Science and Technology (AIST), CNRS-AIST Joint Robotics Laboratory (JRL), Tsukuba, Ibaraki 305-8560, Japan+Department of Mechanical Engineering, The University of Tokyo, Tokyo 113-8654, Japan; National Institute of Advanced Industrial Science and Technology (AIST), CNRS-AIST Joint Robotics Laboratory (JRL), Tsukuba, Ibaraki 305-8560, Japan+Department of Mechanical Engineering, The University of Tokyo, Tokyo 113-8654, Japan; National Institute of Advanced Industrial Science and Technology (AIST), CNRS-AIST Joint Robotics Laboratory (JRL), Tsukuba, Ibaraki 305-8560, Japan; National Institute of Advanced Industrial Science and Technology (AIST), CNRS-AIST Joint Robotics Laboratory (JRL), Tsukuba, Ibaraki 305-8560, Japan+Department of Mechanical Engineering, The University of Tokyo, Tokyo 113-8654, Japan"
+    },
+    {
+        "title": "Demonstrating the Octopi-1.5 Visual-Tactile-Language Model",
+        "aff": "Dept. of Computer Science, National University of Singapore; Dept. of Computer Science, National University of Singapore; Dept. of Computer Science, National University of Singapore + NUS Smart Systems Institute"
+    },
+    {
+        "title": "Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation",
+        "aff": "UC San Diego; UC San Diego; UC San Diego; UC San Diego; UC San Diego; UC San Diego; UC San Diego; UC San Diego; UC San Diego"
+    },
+    {
+        "title": "DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies",
+        "aff": "Carnegie Mellon University; Carnegie Mellon University; Carnegie Mellon University; Carnegie Mellon University; Carnegie Mellon University"
+    },
+    {
+        "title": "Dexonomy: Synthesizing All Dexterous Grasp Types in a Grasp Taxonomy",
+        "aff": ";;;"
+    },
+    {
+        "title": "DexterityGen:  Foundation Controller for Unprecedented Dexterity",
+        "aff": "BAIR, UC Berkeley+FAIR at Meta; FAIR at Meta; FAIR at Meta; FAIR at Meta; FAIR at Meta; FAIR at Meta; FAIR at Meta; FAIR at Meta; FAIR at Meta; FAIR at Meta; FAIR at Meta; FAIR at Meta; BAIR, UC Berkeley; FAIR at Meta"
+    },
+    {
+        "title": "Diffeomorphic Obstacle Avoidance for Contractive Dynamical Systems via Implicit Representations",
+        "aff": "Karlsruhe Institute of Technology; Bosch Center for Artificial Intelligence; Bosch Center for Artificial Intelligence"
+    },
+    {
+        "title": "Differentiable GPU-Parallelized Task and Motion Planning",
+        "aff": "MIT CSAIL+University of Utah; NVIDIA Research; MIT CSAIL+NVIDIA Research; NVIDIA Research; University of Utah+NVIDIA Research; MIT CSAIL; MIT CSAIL; NVIDIA Research+University of Sydney"
+    },
+    {
+        "title": "Discrete-Time Hybrid Automata Learning: Legged Locomotion Meets Skateboarding",
+        "aff": "University of Michigan; University of Michigan; Southern University of Science and Technology; Southern University of Science and Technology; University of Michigan"
+    },
+    {
+        "title": "Distilling Contact Planning for Fast Trajectory Optimization in Robot Air Hockey",
+        "aff": "Idiap Research Institute, Martigny, Switzerland+\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL), Switzerland; Idiap Research Institute, Martigny, Switzerland+\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL), Switzerland; Intelligent Autonomous Systems, TU Darmstadt, Germany+German Research Center for AI (DFKI); Intelligent Autonomous Systems, TU Darmstadt, Germany; Intelligent Autonomous Systems, TU Darmstadt, Germany+German Research Center for AI (DFKI)+Centre for Cognitive Science, Hessian.AI; Idiap Research Institute, Martigny, Switzerland+\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL), Switzerland"
+    },
+    {
+        "title": "Doppler Correspondence: Non-Iterative Scan Matching With Doppler Velocity-Based Correspondence",
+        "aff": "Department of Mechanical Engineering, Ulsan National Institute of Science and Technology, Republic of Korea; Department of Mechanical Engineering, Ulsan National Institute of Science and Technology, Republic of Korea; Department of Mechanical Engineering, Ulsan National Institute of Science and Technology, Republic of Korea; Department of Mechanical Engineering, Ulsan National Institute of Science and Technology, Republic of Korea; Department of Mechanical Engineering, Ulsan National Institute of Science and Technology, Republic of Korea; Department of Mechanical Engineering, Ulsan National Institute of Science and Technology, Republic of Korea"
+    },
+    {
+        "title": "Dynamic Rank Adjustment in Diffusion Policies for Efficient and Flexible Training",
+        "aff": "Yale University; University of Pennsylvania; Yale University; Yale University; University of Pennsylvania; Yale University"
+    },
+    {
+        "title": "Dynamic Safety in Complex Environments: Synthesizing Safety Filters with Poisson\u2019s Equation",
+        "aff": "Department of Mechanical and Civil Engineering, California Institute of Technology, Pasadena, CA, USA; Department of Mechanical and Civil Engineering, California Institute of Technology, Pasadena, CA, USA; Department of Mechanical and Civil Engineering, California Institute of Technology, Pasadena, CA, USA"
+    },
+    {
+        "title": "Effective Sampling for Robot Motion Planning Through the Lens of Lattices",
+        "aff": "Viterbi Faculty of Electrical and Computer Engineering, Technion\u2013Israel Institute of Technology, Haifa, Israel; Viterbi Faculty of Electrical and Computer Engineering, Technion\u2013Israel Institute of Technology, Haifa, Israel"
+    },
+    {
+        "title": "Efficient Hierarchical Any-Angle Path Planning on Multi-Resolution 3D Grids",
+        "aff": "Autonomous Systems Lab, ETH Z\u00fcrich, Switzerland; Autonomous Systems Lab, ETH Z\u00fcrich, Switzerland; Autonomous Systems Lab, ETH Z\u00fcrich, Switzerland; Autonomous Systems Lab, ETH Z\u00fcrich, Switzerland"
+    },
+    {
+        "title": "Enhancing Autonomous Driving Systems with On-Board Deployed Large Language Models",
+        "aff": ";;;;;;"
+    },
+    {
+        "title": "FACTR: Force-Attending Curriculum Training for Contact-Rich Policy Learning",
+        "aff": ";;;;;"
+    },
+    {
+        "title": "FAST: Efficient Action Tokenization for Vision-Language-Action Models",
+        "aff": "Physical Intelligence+UC Berkeley+Stanford; UC Berkeley; Physical Intelligence; Physical Intelligence; Physical Intelligence; Physical Intelligence; UC Berkeley; Stanford+Physical Intelligence; Physical Intelligence+UC Berkeley"
+    },
+    {
+        "title": "FEAST: A Flexible Mealtime-Assistance System Towards In-the-Wild Personalization",
+        "aff": "Cornell University; Cornell University; Cornell University; Cornell University; Cornell University; University of Michigan; Cornell University; Independent researcher; Independent researcher; Cornell University"
+    },
+    {
+        "title": "FERMI: Flexible Radio Mapping with a Hybrid Propagation Model and Scalable Autonomous Data Collection",
+        "aff": "Southern University of Science and Technology+The University of Hong Kong; Hong Kong University of Science and Technology (Guangzhou); Sun Yat-Sen University; Hong Kong University of Science and Technology (Guangzhou); Sun Yat-Sen University; Hong Kong University of Science and Technology (Guangzhou); Hong Kong University of Science and Technology (Guangzhou); The University of Hong Kong; Southern University of Science and Technology"
+    },
+    {
+        "title": "Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success",
+        "aff": "Stanford University; Stanford University; Stanford University"
+    },
+    {
+        "title": "Flow Matching Ergodic Coverage",
+        "aff": "Center for Robotics and Biosystems, Northwestern University, Evanston, IL 60208; Center for Robotics and Biosystems, Northwestern University, Evanston, IL 60208; Center for Robotics and Biosystems, Northwestern University, Evanston, IL 60208"
+    },
+    {
+        "title": "Flying Hand: End-Effector-Centric Framework for Versatile Aerial Manipulation Teleoperation and Policy Learning",
+        "aff": "Robotics Institute, Carnegie Mellon University, Pittsburgh, PA 15213 USA; Robotics Institute, Carnegie Mellon University, Pittsburgh, PA 15213 USA; Robotics Institute, Carnegie Mellon University, Pittsburgh, PA 15213 USA; Robotics Institute, Carnegie Mellon University, Pittsburgh, PA 15213 USA; Robotics Institute, Carnegie Mellon University, Pittsburgh, PA 15213 USA; Robotics Institute, Carnegie Mellon University, Pittsburgh, PA 15213 USA; Department of Aerospace Engineering, Pennsylvania State University, University Park, PA 16802 USA; Robotics Institute, Carnegie Mellon University, Pittsburgh, PA 15213 USA; Robotics Institute, Carnegie Mellon University, Pittsburgh, PA 15213 USA"
+    },
+    {
+        "title": "From Foresight to Forethought: VLM-In-the-Loop Policy Steering via Latent Alignment",
+        "aff": "Carnegie Mellon University; UC Berkeley; Carnegie Mellon University; Carnegie Mellon University"
+    },
+    {
+        "title": "Gain Tuning Is Not What You Need: Reward Gain Adaptation for Constrained Locomotion Learning",
+        "aff": "Vidyasirimedhi Institute of Science and Technology, Rayong, Thailand; Vidyasirimedhi Institute of Science and Technology, Rayong, Thailand + The University of Southern Denmark, Odense, Denmark"
+    },
+    {
+        "title": "Gait-Net-augmented Implicit Kino-dynamic MPC for Dynamic Variable-frequency Humanoid Locomotion over Discrete Terrains",
+        "aff": "University of Southern California, USA; University of Southern California, USA; University of Southern California, USA; University of Southern California, USA"
+    },
+    {
+        "title": "GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction",
+        "aff": "School of Computing and Data Science, The University of Hong Kong, Hong Kong SAR, China+Centre for Transformative Garment Production, Hong Kong SAR, China; Division of Robotics, Perception, and Learning, KTH Royal Institute of Technology, Stockholm, Sweden; School of Computing and Data Science, The University of Hong Kong, Hong Kong SAR, China+Centre for Transformative Garment Production, Hong Kong SAR, China; Faculty of Engineering, The University of Hong Kong, Hong Kong SAR, China+Centre for Transformative Garment Production, Hong Kong SAR, China; School of Computing and Data Science, The University of Hong Kong, Hong Kong SAR, China+Centre for Transformative Garment Production, Hong Kong SAR, China"
+    },
+    {
+        "title": "Generalizing Safety Beyond Collision-Avoidance via Latent-Space Reachability Analysis",
+        "aff": "Carnegie Mellon University; Delft University of Technology; Carnegie Mellon University"
+    },
+    {
+        "title": "GeoDEx: A Unified Geometric Framework for Tactile Dexterous and Extrinsic Manipulation under Force Uncertainty",
+        "aff": "Computer Science Department, Stanford University, Stanford, CA 94305, USA; Honda Research Institute USA, San Jose, CA 95134, USA; Honda Research Institute USA, San Jose, CA 95134, USA; Honda Research Institute USA, San Jose, CA 95134, USA"
+    },
+    {
+        "title": "Geometric Gait Optimization for Kinodynamic Systems Using a Lie Group Integrator",
+        "aff": "Collaborative Robotics and Intelligent Systems (CoRIS) Institute at Oregon State University; Collaborative Robotics and Intelligent Systems (CoRIS) Institute at Oregon State University"
+    },
+    {
+        "title": "Global Contact-Rich Planning with Sparsity-Rich Semidefinite Relaxations",
+        "aff": "School of Engineering and Applied Sciences, Harvard University; School of Mathematical Sciences, University of Science and Technology of China; School of Engineering and Applied Sciences, Harvard University"
+    },
+    {
+        "title": "Gripper Pose and Object Pointflow as Interfaces for Robotic Bimanual Manipulation",
+        "aff": ""
+    },
+    {
+        "title": "HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit",
+        "aff": ";;;;;"
+    },
+    {
+        "title": "Hierarchical Temporal Logic Task and Motion Planning for Multi-Robot Systems",
+        "aff": "Robotics Institute, Carnegie Mellon University, Pittsburgh, PA 15213, USA; Robotics Institute, Carnegie Mellon University, Pittsburgh, PA 15213, USA; Robotics Institute, Carnegie Mellon University, Pittsburgh, PA 15213, USA"
+    },
+    {
+        "title": "Hierarchical and Modular Network on Non-prehensile Manipulation in General Environments",
+        "aff": ";;;"
+    },
+    {
+        "title": "How to Coordinate UAVs and UGVs for Efficient Mission Planning? Optimizing Energy-Constrained Cooperative Routing with a DRL Framework",
+        "aff": "Department of Mechanical and Industrial Engineering, University of Illinois Chicago, IL, 60607 USA; Department of Mechanical and Industrial Engineering, University of Illinois Chicago, IL, 60607 USA; Department of Mechanical and Industrial Engineering, University of Illinois Chicago, IL, 60607 USA"
+    },
+    {
+        "title": "Human2LocoMan: Learning Versatile Quadrupedal Manipulation with Human Pretraining",
+        "aff": "Carnegie Mellon University; Carnegie Mellon University; Carnegie Mellon University; Carnegie Mellon University; Carnegie Mellon University; Carnegie Mellon University; Google DeepMind; Google DeepMind; Google DeepMind; Bosch Center for AI; Carnegie Mellon University+Bosch Center for AI; Bosch Center for AI; Google DeepMind; Carnegie Mellon University"
+    },
+    {
+        "title": "IMLE Policy: Fast and Sample Efficient Visuomotor Policy Learning via Implicit Maximum Likelihood Estimation",
+        "aff": "QUT Centre for Robotics; QUT Centre for Robotics; QUT Centre for Robotics; QUT Centre for Robotics"
+    },
+    {
+        "title": "Implicit Neural-Representation Learning for Elastic Deformable-Object Manipulations",
+        "aff": "KAIST; KAIST; KAIST; KAIST"
+    },
+    {
+        "title": "Influence of Static and Dynamic Downwash Interactions on Multi-Quadrotor Systems",
+        "aff": "School of Engineering, Brown University, Providence, Rhode Island, USA; School of Engineering, Brown University, Providence, Rhode Island, USA; School of Engineering, Brown University, Providence, Rhode Island, USA"
+    },
+    {
+        "title": "Interface-level Intent Inference for Environment-agnostic Robot Teleoperation Assistance",
+        "aff": "Department of Mechanical Engineering, Northwestern University, Evanston, IL+Shirley Ryan AbilityLab, Chicago, IL, USA; Department of Computer Science, Northwestern University, Evanston, IL+Department of Physical Medicine and Rehabilitation, Northwestern University, Chicago, IL+Shirley Ryan AbilityLab, Chicago, IL, USA"
+    },
+    {
+        "title": "Interruption Handling for Conversational Robots",
+        "aff": ";;;;;;"
+    },
+    {
+        "title": "Is Your Imitation Learning Policy Better than Mine? Policy Comparison with Near-Optimal Stopping",
+        "aff": "Toyota Research Institute (TRI)+Princeton University; Princeton University; Princeton University; Toyota Research Institute (TRI); Toyota Research Institute (TRI); Toyota Research Institute (TRI); Princeton University; Toyota Research Institute (TRI); Toyota Research Institute (TRI)"
+    },
+    {
+        "title": "Joint State and Noise Covariance Estimation",
+        "aff": "School of Electrical Engineering and Computer Science, The University of Queensland, St Lucia, QLD, Australia + CSIRO Robotics, Data61; School of Engineering, The Australian National University, Canberra, ACT, Australia"
+    },
+    {
+        "title": "Kinodynamic Trajectory Following with STELA: Simultaneous Trajectory Estimation & Local Adaptation",
+        "aff": "Dept. of Computer Science, Rutgers University, NJ, USA; Dept. of Computer Science, Rutgers University, NJ, USA; Dept. of Computer Science, Rutgers University, NJ, USA"
+    },
+    {
+        "title": "LangWBC: Language-directed Humanoid Whole-Body Control via End-to-end Learning",
+        "aff": "University of California, Berkeley; University of California, Berkeley; University of California, Berkeley; University of California, Berkeley; University of California, Berkeley; University of California, Berkeley; University of California, Berkeley; University of California, Berkeley; University of California, Berkeley"
+    },
+    {
+        "title": "Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation",
+        "aff": "ETH Zurich\u2020NVIDIA; ETH Zurich\u2021Max Planck Institute for Intelligent Systems; ETH Zurich; ETH Zurich"
+    },
+    {
+        "title": "Learning Getting-Up Policies for Real-World Humanoid Robots",
+        "aff": ";;;"
+    },
+    {
+        "title": "Learning Humanoid Standing-up Control across Diverse Postures",
+        "aff": "Shanghai AI Laboratory; Shanghai Jiao Tong University; The University of Hong Kong; Zhejiang University; The Chinese University of Hong Kong; Shanghai AI Laboratory; Shanghai Jiao Tong University; The Chinese University of Hong Kong; Shanghai AI Laboratory"
+    },
+    {
+        "title": "Learning Interpretable Features from Interventions",
+        "aff": "Georgia Institute of Technology; Georgia Institute of Technology; Georgia Institute of Technology; Georgia Institute of Technology; Georgia Institute of Technology; Georgia Institute of Technology; University of Massachusettes Lowell; University of Massachusettes Lowell; Georgia Institute of Technology"
+    },
+    {
+        "title": "Learning to Act Anywhere with Task-centric Latent Actions",
+        "aff": "The University of Hong Kong; OpenDriveLab; AgiBot; The University of Hong Kong; OpenDriveLab; AgiBot; The University of Hong Kong; OpenDriveLab"
+    },
+    {
+        "title": "Leveling the Playing Field: Carefully Comparing Classical and Learned Controllers for Quadrotor Trajectory Tracking",
+        "aff": "University of Pennsylvania; University of Pennsylvania; University of Pennsylvania; University of Pennsylvania"
+    },
+    {
+        "title": "LiDAR Registration with Visual Foundation Models",
+        "aff": "University of Freiburg+University of Zurich; University of Zurich; University of Zurich; University of Technology Nuremberg; University of Zurich"
+    },
+    {
+        "title": "MISO: Multiresolution Submap Optimization for Efficient Globally Consistent Neural Implicit Reconstruction",
+        "aff": "Department of Electrical and Computer Engineering, University of California, San Diego; Department of Electrical and Computer Engineering, University of California, San Diego; Department of Electrical and Computer Engineering, University of California, San Diego; Department of Electrical and Computer Engineering, University of California, San Diego"
+    },
+    {
+        "title": "Manual2Skill: Learning to Read Manuals and Acquire Robotic Skills for Furniture Assembly Using Vision-Language Models",
+        "aff": "National University of Singapore; University of Toronto; National University of Singapore; Sichuan University; National University of Singapore; Zhejiang University; National University of Singapore; National University of Singapore; Peking University; National University of Singapore"
+    },
+    {
+        "title": "Map Space Belief Prediction for Manipulation-Enhanced Mapping",
+        "aff": "University of Illinois at Urbana-Champaign, IL, USA; Humanoid Robots Lab, University of Bonn, Germany + The Lamarr Institute, Bonn, Germany + The Center for Robotics, University of Bonn, Germany; Humanoid Robots Lab, University of Bonn, Germany + The Lamarr Institute, Bonn, Germany + The Center for Robotics, University of Bonn, Germany; Humanoid Robots Lab, University of Bonn, Germany; University of Illinois at Urbana-Champaign, IL, USA; Humanoid Robots Lab, University of Bonn, Germany + The Lamarr Institute, Bonn, Germany + The Center for Robotics, University of Bonn, Germany; University of Illinois at Urbana-Champaign, IL, USA"
+    },
+    {
+        "title": "Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving",
+        "aff": ";;;;;;"
+    },
+    {
+        "title": "Morpheus: A Neural-driven Animatronic Face with Hybrid Actuation and Diverse Emotion Control",
+        "aff": "Institute for AI Industry Research (AIR), Tsinghua University+Beijing Academy of Artificial Intelligence (BAAI); Institute for AI Industry Research (AIR), Tsinghua University; Institute for AI Industry Research (AIR), Tsinghua University; MGI Tech, Shenzhen, China; Institute for AI Industry Research (AIR), Tsinghua University; Beihang University; Institute for Interdisciplinary Information Sciences(IIIS), Tsinghua University; Institute for Interdisciplinary Information Sciences(IIIS), Tsinghua University; Institute for AI Industry Research (AIR), Tsinghua University+Beijing Academy of Artificial Intelligence (BAAI)"
+    },
+    {
+        "title": "NaVILA: Legged Robot Vision-Language-Action Model for Navigation",
+        "aff": "UC San Diego; UC San Diego; USC; UC San Diego; UC San Diego; NVIDIA; USC; NVIDIA; NVIDIA; UC San Diego+NVIDIA"
+    },
+    {
+        "title": "Neural Inertial Odometry from Lie Events",
+        "aff": ";;;;"
+    },
+    {
+        "title": "Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation",
+        "aff": "Shanghai AI Laboratory + The Chinese University of Hong Kong; Shanghai AI Laboratory + Shanghai Jiao Tong University; Shanghai AI Laboratory; Shanghai Jiao Tong University; Shanghai AI Laboratory + Shanghai Jiao Tong University; Shanghai Jiao Tong University; The Chinese University of Hong Kong; Shanghai AI Laboratory"
+    },
+    {
+        "title": "On the Surprising Robustness of Sequential Convex Optimization for Contact-Implicit Motion Planning",
+        "aff": "The Hong Kong University of Science and Technology+Harvard University; Harvard University; Harvard University; The Hong Kong University of Science and Technology; Harvard University"
+    },
+    {
+        "title": "Online Competitive Information Gathering for Partially Observable Trajectory Games",
+        "aff": ";;"
+    },
+    {
+        "title": "Optimal Interactive Learning on the Job via Facility Location Planning",
+        "aff": "Brown University; Carnegie Mellon University; Carnegie Mellon University; Brown University; Carnegie Mellon University; Carnegie Mellon University; Brown University"
+    },
+    {
+        "title": "PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation",
+        "aff": "National University of Defense Technology; Wuhan University; Wuhan University; National University of Defense Technology; Wuhan University+Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ); Shenzhen University; National University of Defense Technology"
+    },
+    {
+        "title": "PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map",
+        "aff": ";;;;;;"
+    },
+    {
+        "title": "PP-Tac: Paper Picking Using Omnidirectional Tactile Feedback in Dexterous Robotic Hands",
+        "aff": "Beijing Institute for General Artificial Intelligence+ShanghaiTech University; Beijing Institute for General Artificial Intelligence+Beihang University; Beijing Institute for General Artificial Intelligence; Beijing Institute for General Artificial Intelligence; ShanghaiTech University; Beijing Institute for General Artificial Intelligence"
+    },
+    {
+        "title": "PartInstruct: Part-level Instruction Following for Fine-grained Robot Manipulation",
+        "aff": "Johns Hopkins University; ShanghaiTech University; Johns Hopkins University; Johns Hopkins University; Johns Hopkins University; Johns Hopkins University; Johns Hopkins University; Johns Hopkins University; Johns Hopkins University"
+    },
+    {
+        "title": "Particle-Grid Neural Dynamics for Learning Deformable Object Models from RGB-D Videos",
+        "aff": ";;;"
+    },
+    {
+        "title": "Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization",
+        "aff": "Massachusetts Institute of Technology+Robotics and AI Institute; Massachusetts Institute of Technology; Robotics and AI Institute; Massachusetts Institute of Technology; Robotics and AI Institute; Robotics and AI Institute; Robotics and AI Institute; Massachusetts Institute of Technology"
+    },
+    {
+        "title": "Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins",
+        "aff": ";;"
+    },
+    {
+        "title": "Provably-Safe, Online System Identification",
+        "aff": "Robotics Institute, University of Michigan, Ann Arbor, MI; Robotics Institute, University of Michigan, Ann Arbor, MI; Robotics Institute, University of Michigan, Ann Arbor, MI"
+    },
+    {
+        "title": "RAMEN: Real-time Asynchronous Multi-agent Neural Implicit Mapping",
+        "aff": "ICON Lab, Department of Aerospace Engineering, University of Illinois Urbana-Champaign; NVIDIA Research; ICON Lab, Department of Mechanical Engineering, University of California Berkeley"
+    },
+    {
+        "title": "RAPID: Robust and Agile Planner Using Inverse Reinforcement Learning for Vision-Based Drone Navigation",
+        "aff": "Department of Mechanical Engineering, Ulsan National Institute of Science and Technology, Republic of Korea; Department of Mechanical Engineering, Ulsan National Institute of Science and Technology, Republic of Korea; Department of Mechanical Engineering, Ulsan National Institute of Science and Technology, Republic of Korea; Department of Mechanical Engineering, Ulsan National Institute of Science and Technology, Republic of Korea; Department of Mechanical Engineering, Ulsan National Institute of Science and Technology, Republic of Korea; Department of Mechanical Engineering, Ulsan National Institute of Science and Technology, Republic of Korea; Department of Mechanical Engineering, Ulsan National Institute of Science and Technology, Republic of Korea; Department of Mechanical Engineering, Ulsan National Institute of Science and Technology, Republic of Korea"
+    },
+    {
+        "title": "RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning",
+        "aff": "University of California, Berkeley\u2020; University of California, Berkeley\u2020; University of California, Berkeley\u2020; University of California, Berkeley\u2020"
+    },
+    {
+        "title": "ROMAN: Open-Set Object Map Alignment for Robust View-Invariant Global Localization",
+        "aff": "Massachusetts Institute of Technology; Massachusetts Institute of Technology; University of California San Diego; Massachusetts Institute of Technology; Massachusetts Institute of Technology"
+    },
+    {
+        "title": "RUKA: Rethinking the Design of Humanoid Hands with Learning",
+        "aff": ";;;"
+    },
+    {
+        "title": "Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation",
+        "aff": "Shanghai Jiao Tong University; Shanghai Jiao Tong University; Shanghai Jiao Tong University; Tsinghua University, IIIS + Shanghai Qi Zhi Institute + Shanghai AI Laboratory; Shanghai Jiao Tong University; Shanghai Jiao Tong University; Tsinghua University, IIIS + Shanghai Qi Zhi Institute + Shanghai AI Laboratory; Shanghai Jiao Tong University + Shanghai Innovation Institute"
+    },
+    {
+        "title": "Resolving Conflicting Constraints in Multi-Agent Reinforcement Learning with Layered Safety",
+        "aff": "University of California, Berkeley; Massachusetts Institute of Technology; University of California, Berkeley; University of California, Berkeley; Massachusetts Institute of Technology; University of California, Berkeley"
+    },
+    {
+        "title": "Riemannian Direct Trajectory Optimization of Rigid Bodies on Matrix Lie Groups",
+        "aff": "University of Michigan; University of Michigan; Ohio University; University of Michigan; University of Michigan"
+    },
+    {
+        "title": "RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation",
+        "aff": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "title": "RoboPanoptes: The All-Seeing Robot with Whole-body Dexterity",
+        "aff": ""
+    },
+    {
+        "title": "RoboVerse: A Unified Platform, Benchmark and Dataset for Scalable and Generalizable Robot Learning",
+        "aff": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "title": "Robot Data Curation with Mutual Information Estimators",
+        "aff": "Google DeepMind Robotics+Stanford University; Stanford University; Google DeepMind Robotics; Google DeepMind Robotics; Google DeepMind Robotics; Google DeepMind Robotics; Google DeepMind Robotics; Google DeepMind Robotics; Google DeepMind Robotics+Stanford University; Google DeepMind Robotics+Stanford University"
+    },
+    {
+        "title": "Robot Learning with Super-Linear Scaling",
+        "aff": ";;;;;;;"
+    },
+    {
+        "title": "Robust Peg-in-Hole Assembly under Uncertainties via Compliant and Interactive Contact-Rich Manipulation",
+        "aff": ";;;;;"
+    },
+    {
+        "title": "SATA: Safe and Adaptive Torque-Based Locomotion Policies Inspired by Animal Learning",
+        "aff": "MARMot Lab, National University of Singapore; MARMot Lab, National University of Singapore; MARMot Lab, National University of Singapore; Computational Robotics Lab, ETH Zurich; MARMot Lab, National University of Singapore; BioRob Lab, EPFL; BioRob Lab, EPFL; MARMot Lab, National University of Singapore; BioRob Lab, EPFL; MARMot Lab, National University of Singapore"
+    },
+    {
+        "title": "SKIL: Semantic Keypoint Imitation Learning for Generalizable Data-efficient Manipulation",
+        "aff": "IIIS, Tsinghua University + Shanghai AI Laboratory + Shanghai Qi Zhi Institute; IIIS, Tsinghua University + Shanghai AI Laboratory + Shanghai Qi Zhi Institute; IIIS, Tsinghua University; Department of Automation, Tsinghua University; IIIS, Tsinghua University + Shanghai AI Laboratory + Shanghai Qi Zhi Institute"
+    },
+    {
+        "title": "STDArm: Transfer Visuomotor Policy From Static Data Training to Dynamic Robot Manipulation",
+        "aff": "School of Computer Science and Technology, University of Science and Technology of China, Hefei, China; School of Computer Science and Technology, University of Science and Technology of China, Hefei, China; School of Computer Science and Technology, University of Science and Technology of China, Hefei, China; Institute of Advanced Technology, University of Science and Technology of China, Hefei, China; School of Computer Science and Technology, University of Science and Technology of China, Hefei, China; School of Computer Science and Technology, University of Science and Technology of China, Hefei, China; School of Computer Science and Technology, University of Science and Technology of China, Hefei, China; School of Artificial Intelligence and Data Science, University of Science and Technology of China, Hefei, China"
+    },
+    {
+        "title": "Safe Beyond the Horizon: Efficient Sampling-based MPC with Neural Control Barrier Functions",
+        "aff": "D. Guggenheim School of Aerospace Engineering, Georgia Institute of Technology; Department of Aeronautics and Astronautics, Massachusetts Institute of Technology; Department of Aeronautics and Astronautics, Massachusetts Institute of Technology; Department of Aeronautics and Astronautics, Massachusetts Institute of Technology; D. Guggenheim School of Aerospace Engineering, Georgia Institute of Technology"
+    },
+    {
+        "title": "SafeMimic: Towards Safe and Autonomous Human-to-Robot Imitation for Mobile Manipulation",
+        "aff": ";;;"
+    },
+    {
+        "title": "Safety with Agency: Human-Centered Safety Filter with Application to AI-Assisted Motorsports",
+        "aff": "Department of Electrical and Computer Engineering, Princeton University; Department of Mechanical and Aerospace Engineering, Princeton University; Department of Electrical and Computer Engineering, Princeton University; Department of Mechanical and Aerospace Engineering, Princeton University; Department of Electrical and Computer Engineering, Princeton University; Toyota Research Institute; Toyota Research Institute; Toyota Research Institute; Toyota Research Institute; Department of Mechanical and Aerospace Engineering, Princeton University; Department of Electrical and Computer Engineering, Princeton University"
+    },
+    {
+        "title": "Self-supervised Multi-future Occupancy Forecasting for Autonomous Driving",
+        "aff": ";;;"
+    },
+    {
+        "title": "Sense and Sensibility: What makes an social robot convincing to high-school students?",
+        "aff": "Dept. of Intelligent Systems, KTH Royal Institute of Technology, Stockholm, Sweden; Dept. of Intelligent Systems, KTH Royal Institute of Technology, Stockholm, Sweden; Dept. of Education, Stockholm University, Stockholm, Sweden"
+    },
+    {
+        "title": "Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation",
+        "aff": "UT Austin; NVIDIA+UT Austin; NVIDIA+UC Berkeley; NVIDIA+UT Austin; NVIDIA; NVIDIA; NVIDIA; NVIDIA+New York University; NVIDIA; NVIDIA; NVIDIA; UC Berkeley; NVIDIA; NVIDIA; NVIDIA+UT Austin"
+    },
+    {
+        "title": "Sketch-to-Skill: Bootstrapping Robot Learning with Human Drawn Trajectory Sketches",
+        "aff": "Department of Computer Science, University of Maryland, College Park, Maryland, 20742; Department of Computer Science, University of Maryland, College Park, Maryland, 20742; Department of Computer Science, University of Maryland, College Park, Maryland, 20742; Department of Computer Science, University of Maryland, College Park, Maryland, 20742; Department of Computer Science, University of Maryland, College Park, Maryland, 20742"
+    },
+    {
+        "title": "Solving Multi-Agent Safe Optimal Control with Distributed Epigraph Form MARL",
+        "aff": "Department of Aeronautics and Astronautics, MIT; Department of Aeronautics and Astronautics, MIT; MIT Lincoln Laboratory; MIT Lincoln Laboratory; Department of Aeronautics and Astronautics, MIT"
+    },
+    {
+        "title": "SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Models",
+        "aff": "Shanghai AI Laboratory; Shanghai AI Laboratory; Shanghai AI Laboratory; Shanghai AI Laboratory; Shanghai AI Laboratory; Shanghai AI Laboratory; Shanghai AI Laboratory; Shanghai AI Laboratory; ShanghaiTech University; Shanghai AI Laboratory; Shanghai AI Laboratory"
+    },
+    {
+        "title": "Superfast Configuration-Space Convex Set Computation on GPUs for Online Motion Planning",
+        "aff": "MIT CSAIL+Toyota Research Institute; Toyota Research Institute; Woven by Toyota; MIT CSAIL+Toyota Research Institute; MIT CSAIL"
+    },
+    {
+        "title": "Tactile sensing enables vertical obstacle negotiation for elongate many-legged robots",
+        "aff": "Institute for Robotics and Intelligent Machines, Georgia Institute of Technology; School of Physics, Georgia Institute of Technology; School of Mechanical Engineering, Georgia Institute of Technology; School of Mechanical Engineering, Georgia Institute of Technology; College of Computing, Georgia Institute of Technology; School of Physics, Georgia Institute of Technology"
+    },
+    {
+        "title": "Towards Uncertainty Unification: A Case Study for Preference Learning",
+        "aff": ";;"
+    },
+    {
+        "title": "Uncertainty-Aware Trajectory Prediction via Rule-Regularized Heteroscedastic Deep Classification",
+        "aff": "Department of Mathematics and Computer Science, Freie Universit\u00e4t Berlin; Continental Automotive Technologies GmbH, AI Lab Berlin + Karlsruhe Institute of Technology, Scientific Computing Center, Methods for Big Data; Department of Mathematics and Computer Science, Freie Universit\u00e4t Berlin + Fraunhofer Institute for Open Communication Systems, Berlin, Germany; Continental Automotive Technologies GmbH, AI Lab Berlin; Karlsruhe Institute of Technology, Scientific Computing Center, Methods for Big Data"
+    },
+    {
+        "title": "Uni-NaVid: A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks",
+        "aff": "CFCS, School of Computer Science, Peking University+Galbot+Beijing Academy of Artificial Intelligence; Galbot; CFCS, School of Computer Science, Peking University+Galbot+Beijing Academy of Artificial Intelligence; Galbot; CFCS, School of Computer Science, Peking University+Galbot+Beijing Academy of Artificial Intelligence; CFCS, School of Computer Science, Peking University+Galbot+Beijing Academy of Artificial Intelligence; Galbot; CFCS, School of Computer Science, Peking University+Galbot+Beijing Academy of Artificial Intelligence; CFCS, School of Computer Science, Peking University+Galbot+Beijing Academy of Artificial Intelligence"
+    },
+    {
+        "title": "Unified Video Action Model",
+        "aff": ";;;"
+    },
+    {
+        "title": "Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets",
+        "aff": "Paul G. Allen School of Computer Science and Engineering, University of Washington; Paul G. Allen School of Computer Science and Engineering, University of Washington; Toyota Research Institute; Toyota Research Institute; Toyota Research Institute; Paul G. Allen School of Computer Science and Engineering, University of Washington"
+    },
+    {
+        "title": "Users and Wizards in Conversations: How WoZ Interface Choices Define Human-Robot Interactions",
+        "aff": "Division of Speech, Music and Hearing, KTH Royal Institute of Technology, Stockholm, Sweden; Division of Speech, Music and Hearing, KTH Royal Institute of Technology, Stockholm, Sweden; Division of Speech, Music and Hearing, KTH Royal Institute of Technology, Stockholm, Sweden"
+    },
+    {
+        "title": "V-HOP: Visuo-Haptic 6D Object Pose Tracking",
+        "aff": "Brown University; Brown University; Brown University; The University of Texas at Dallas; Brown University; Brown University"
+    },
+    {
+        "title": "Verti-Bench: A General and Scalable Off-Road Mobility Benchmark for Vertically Challenging Terrain",
+        "aff": "George Mason University; George Mason University; George Mason University; George Mason University; George Mason University; George Mason University; George Mason University"
+    },
+    {
+        "title": "ViTaSCOPE: Visuo-tactile Implicit Representation for In-hand Pose and Extrinsic Contact Estimation",
+        "aff": "Robotics Department, University of Michigan; Robotics Department, University of Michigan"
+    },
+    {
+        "title": "Vib2Move: In-hand Object Reconfiguration via Fingertip Micro-vibrations",
+        "aff": "Department of Robotics, University of Michigan, Michigan, Ann Arbor 48109; Department of Robotics, University of Michigan, Michigan, Ann Arbor 48109"
+    },
+    {
+        "title": "Vysics: Object Reconstruction Under Occlusion by Fusing Vision and Contact-Rich Physics",
+        "aff": "General Robotics, Automation, Sensing, and Perception (GRASP) Laboratory, University of Pennsylvania, Philadelphia, PA 19104; General Robotics, Automation, Sensing, and Perception (GRASP) Laboratory, University of Pennsylvania, Philadelphia, PA 19104; Amazon, Seattle, WA 98004; General Robotics, Automation, Sensing, and Perception (GRASP) Laboratory, University of Pennsylvania, Philadelphia, PA 19104; General Robotics, Automation, Sensing, and Perception (GRASP) Laboratory, University of Pennsylvania, Philadelphia, PA 19104; General Robotics, Automation, Sensing, and Perception (GRASP) Laboratory, University of Pennsylvania, Philadelphia, PA 19104"
+    },
+    {
+        "title": "You Only Teach Once: Learn One-Shot Bimanual Robotic Manipulation from Video Demonstrations",
+        "aff": ""
+    },
+    {
+        "title": "emg2tendon: From sEMG Signals to Tendon Control in Musculoskeletal Hands",
+        "aff": ""
+    },
+    {
+        "title": "\u03c0\u2080: A Vision-Language-Action Flow Model for General Robot Control",
+        "aff": ";;;;;;;;;;;;;;;;;;;;;;;;"
+    }
+]

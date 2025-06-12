@@ -1,0 +1,602 @@
+[
+    {
+        "title": "A Generative Model for Attractor Dynamics",
+        "aff": "Department of Psychology, University of Arizona; Department of Computer Science, University of Colorado"
+    },
+    {
+        "title": "A Geometric Interpretation of v-SVM Classifiers",
+        "aff": "Centre for Sensor Signal and Information Processing, Deptartment of Electrical Engineering, University of Adelaide, South Australia; Advanced Technologies, Bell Laboratories, Lucent Technologies Holmdel, New Jersey"
+    },
+    {
+        "title": "A MCMC Approach to Hierarchical Mixture Modelling",
+        "aff": ""
+    },
+    {
+        "title": "A Multi-class Linear Learning Algorithm Related to Winnow",
+        "aff": "Rutgers Computer Science Department"
+    },
+    {
+        "title": "A Neurodynamical Approach to Visual Attention",
+        "aff": "Siemens AG Corporate Technology Neural Computation, ZT IK 4 Otto-Hahn-Ring 6 81739 Munich, Germany; Institute of Psychology Neuropsychology Ludwig-Maximilians- University Munich Leopoldstr. 13 80802 Munich, Germany"
+    },
+    {
+        "title": "A Neuromorphic VLSI System for Modeling the Neural Control of Axial Locomotion",
+        "aff": "School of Electrical and Computer Engineering, Georgia Institute of Technology; School of Electrical and Computer Engineering, Georgia Institute of Technology; School of Electrical and Computer Engineering, Georgia Institute of Technology"
+    },
+    {
+        "title": "A Recurrent Model of the Interaction Between Prefrontal and Inferotemporal Cortex in Delay Tasks",
+        "aff": ";;"
+    },
+    {
+        "title": "A SNoW-Based Face Detector",
+        "aff": "Department of Computer Science and the Beckman Institute, University of Illinois at Urbana-Champaign; Department of Computer Science and the Beckman Institute, University of Illinois at Urbana-Champaign; Department of Computer Science and the Beckman Institute, University of Illinois at Urbana-Champaign"
+    },
+    {
+        "title": "A Variational Baysian Framework for Graphical Models",
+        "aff": "Gatsby Unit, University College London"
+    },
+    {
+        "title": "A Winner-Take-All Circuit with Controllable Soft Max Property",
+        "aff": "Institute for Neuroinformatics, ETHjUNIZ"
+    },
+    {
+        "title": "Acquisition in Autoshaping",
+        "aff": ";"
+    },
+    {
+        "title": "Actor-Critic Algorithms",
+        "aff": ";"
+    },
+    {
+        "title": "Agglomerative Information Bottleneck",
+        "aff": "Institute of Computer Science and Center for Neural Computation, The Hebrew University, Jerusalem, 91904 Israel; Institute of Computer Science and Center for Neural Computation, The Hebrew University, Jerusalem, 91904 Israel"
+    },
+    {
+        "title": "Algebraic Analysis for Non-regular Learning Machines",
+        "aff": ""
+    },
+    {
+        "title": "Algorithms for Independent Components Analysis and Higher Order Statistics",
+        "aff": ";;"
+    },
+    {
+        "title": "An Analog VLSI Model of Periodicity Extraction",
+        "aff": "Computer Engineering Laboratory J03, University of Sydney, NSW 2006 Sydney, Australia"
+    },
+    {
+        "title": "An Analysis of Turbo Decoding with Gaussian Densities",
+        "aff": ";"
+    },
+    {
+        "title": "An Environment Model for Nonstationary Reinforcement Learning",
+        "aff": "Department of Computer Science, Hong Kong University of Science and Technology; Department of Computer Science, Hong Kong University of Science and Technology; Department of Computer Science, Hong Kong University of Science and Technology"
+    },
+    {
+        "title": "An Improved Decomposition Algorithm for Regression Support Vector Machines",
+        "aff": "Department of Computer and Information Sciences, University of Delaware"
+    },
+    {
+        "title": "An Information-Theoretic Framework for Understanding Saccadic Eye Movements",
+        "aff": "Department of Computer Science, Carnegie Mellon University; Robotics Institute, Carnegie Mellon University"
+    },
+    {
+        "title": "An MEG Study of Response Latency and Variability in the Human Visual System During a Visual-Motor Integration Task",
+        "aff": "Dept. of Psychology, University of New Mexico; Dept. of Computer Science, University of New Mexico; Santa Fe Institute; Dept. of Computer Science, University of New Mexico; VA Medical Center"
+    },
+    {
+        "title": "An Oculo-Motor System with Multi-Chip Neuromorphic Analog VLSI Control",
+        "aff": "CSEMSA 2007 Neuchatel / Switzerland + Koch Lab, Division of Biology 139-74, Caltech, Pasadena, CA 91125, USA; CSEMSA 2007 Neuchatel / Switzerland"
+    },
+    {
+        "title": "An Oscillatory Correlation Frame work for Computational Auditory Scene Analysis",
+        "aff": "Department of Computer Science, University of Sheffield; Department of Computer and Information Science and Centre for Cognitive Science, The Ohio State University"
+    },
+    {
+        "title": "Application of Blind Separation of Sources to Optical Recording of Brain Activity",
+        "aff": "Department of Computer Science, Technical University of Berlin, Germany; Department of Computer Science, Technical University of Berlin, Germany; Department of Computer Science, Technical University of Berlin, Germany; University of Sheffield, UK; Institute of Ophthalmology, University College London, UK; Institute of Ophthalmology, University College London, UK; Department of Computer Science, Technical University of Berlin, Germany"
+    },
+    {
+        "title": "Approximate Inference A lgorithms for Two-Layer Bayesian Networks",
+        "aff": "Computer Science Division, UC Berkeley; Computer Science Division and Department of Statistics, UC Berkeley"
+    },
+    {
+        "title": "Approximate Planning in Large POMDPs via Reusable Trajectories",
+        "aff": "AT&T Labs; Tel Aviv University; UC Berkeley"
+    },
+    {
+        "title": "Audio Vision: Using Audio-Visual Synchrony to Locate Sounds",
+        "aff": "Department of Cognitive Science, University of California, San Diego; Department of Cognitive Science, University of California, San Diego"
+    },
+    {
+        "title": "Bayesian Averaging is Well-Temperated",
+        "aff": "Department of Mathematical Modelling, Technical University of Denmark B321, DK-2800 Lyngby, Denmark"
+    },
+    {
+        "title": "Bayesian Map Learning in Dynamic Environments",
+        "aff": "Computer Science Division, University of California, Berkeley, CA 94720-1776"
+    },
+    {
+        "title": "Bayesian Model Selection for Support Vector Machines, Gaussian Processes and Other Kernel Classifiers",
+        "aff": "Institute for Adaptive and Neural Computation, University of Edinburgh"
+    },
+    {
+        "title": "Bayesian Modelling of fMRI lime Series",
+        "aff": "Department of Mathematical Modelling, Building 321, Technical University of Denmark, DK-2800 Lyngby, Denmark; Department of Mathematical Modelling, Building 321, Technical University of Denmark, DK-2800 Lyngby, Denmark; Department of Mathematical Modelling, Building 321, Technical University of Denmark, DK-2800 Lyngby, Denmark"
+    },
+    {
+        "title": "Bayesian Network Induction via Local Neighborhoods",
+        "aff": "Department of Computer Science, Carnegie Mellon University; Department of Computer Science, Carnegie Mellon University"
+    },
+    {
+        "title": "Bayesian Reconstruction of 3D Human Motion from Single-Camera Video",
+        "aff": "Department of Computer Science, Cornell University; Artificial Intelligence Lab, Massachusetts Institute of Technology; MERL - a Mitsubishi Electric Research Lab"
+    },
+    {
+        "title": "Bayesian Transduction",
+        "aff": "Department of Computer Science, Technical University of Berlin; Department of Computer Science, Technical University of Berlin; Department of Computer Science, Technical University of Berlin"
+    },
+    {
+        "title": "Better Generative Models for Sequential Data Problems: Bidirectional Recurrent Mixture Density Networks",
+        "aff": "ATR Interpreting Telecommunications Research Laboratories"
+    },
+    {
+        "title": "Bifurcation Analysis of a Silicon Neuron",
+        "aff": "School of Electrical and Computer Engineering, Georgia Institute of Technology; Department of Biology, Emory University + Institute of Mathematical Problems in Biology RAS; Department of Biology, Emory University; School of Electrical and Computer Engineering, Georgia Institute of Technology"
+    },
+    {
+        "title": "Boosting Algorithms as Gradient Descent",
+        "aff": "Research School of Information Sciences and Engineering, Australian National University, Canberra, ACT, 0200, Australia; Research School of Information Sciences and Engineering, Australian National University, Canberra, ACT, 0200, Australia; Research School of Information Sciences and Engineering, Australian National University, Canberra, ACT, 0200, Australia; Department of Computer Science and Electrical Engineering, The University of Queensland, Brisbane, QLD, 4072, Australia"
+    },
+    {
+        "title": "Boosting with Multi-Way Branching in Decision Trees",
+        "aff": "AT&T Labs-Research; AT&T Labs-Research"
+    },
+    {
+        "title": "Broadband Direction-Of-Arrival Estimation Based on Second Order Statistics",
+        "aff": ";;;"
+    },
+    {
+        "title": "Building Predictive Models from Fractal Representations of Symbolic Sequences",
+        "aff": ";"
+    },
+    {
+        "title": "Can VI Mechanisms Account for Figure-Ground and Medial Axis Effects?",
+        "aff": ""
+    },
+    {
+        "title": "Channel Noise in Excitable Neural Membranes",
+        "aff": "Computation and Neural Systems Program, M-S 139-74 California Institute of Technology Pasadena, CA 91125; Computation and Neural Systems Program, M-S 139-74 California Institute of Technology Pasadena, CA 91125; Computation and Neural Systems Program, M-S 139-74 California Institute of Technology Pasadena, CA 91125"
+    },
+    {
+        "title": "Churn Reduction in the Wireless Industry",
+        "aff": "Athene Software + Department of Computer Science; Athene Software; Athene Software + Department of Computer Science; Athene Software; Athene Software"
+    },
+    {
+        "title": "Coastal Navigation with Mobile Robots",
+        "aff": "School of Computer Science, Carnegie Mellon University; School of Computer Science, Carnegie Mellon University"
+    },
+    {
+        "title": "Constrained Hidden Markov Models",
+        "aff": "Gatsby Unit, University College London"
+    },
+    {
+        "title": "Constructing Heterogeneous Committees Using Input Feature Grouping: Application to Economic Forecasting",
+        "aff": "Department of Computer Science, Oregon Graduate Institute; Department of Computer Science, Oregon Graduate Institute"
+    },
+    {
+        "title": "Correctness of Belief Propagation in Gaussian Graphical Models of Arbitrary Topology",
+        "aff": "Computer Science Division, UC Berkeley; Mitsubishi Electric Research Lab"
+    },
+    {
+        "title": "Data Visualization and Feature Selection: New Algorithms for Nongaussian Data",
+        "aff": "Oregon Graduate Institute of Science and Technology; Oregon Graduate Institute of Science and Technology"
+    },
+    {
+        "title": "Differentiating Functions of the Jacobian with Respect to the Weights",
+        "aff": "NEC Research Institute; Dept of Computer Science, FEC 313, University of New Mexico"
+    },
+    {
+        "title": "Distributed Synchrony of Spiking Neurons in a Hebbian Cell Assembly",
+        "aff": "School of Physics and Astronomy, Raymond and Beverly Sackler Faculty of Exact Sciences, Tel Aviv University, Tel Aviv 69978, Israel; School of Physics and Astronomy, Raymond and Beverly Sackler Faculty of Exact Sciences, Tel Aviv University, Tel Aviv 69978, Israel; School of Mathematical Sciences, Raymond and Beverly Sackler Faculty of Exact Sciences, Tel Aviv University, Tel Aviv 69978, Israel; School of Mathematical Sciences, Raymond and Beverly Sackler Faculty of Exact Sciences, Tel Aviv University, Tel Aviv 69978, Israel"
+    },
+    {
+        "title": "Dual Estimation and the Unscented Transformation",
+        "aff": "Oregon Graduate Institute of Science & Technology, Department of Electrical and Computer Engineering; Oregon Graduate Institute of Science & Technology, Department of Electrical and Computer Engineering; Oregon Graduate Institute of Science & Technology, Department of Electrical and Computer Engineering"
+    },
+    {
+        "title": "Dynamics of Supervised Learning with Restricted Training Sets and Noisy Teachers",
+        "aff": "Dept of Mathematics, King's College London; Dept of Mathematics, King's College London"
+    },
+    {
+        "title": "Effective Learning Requires Neuronal Remodeling of Hebbian Synapses",
+        "aff": "School of Mathematical Sciences Tel-Aviv University Tel Aviv, Israel; School of Mathematical Sciences Tel-Aviv University Tel Aviv, Israel; School of Mathematical Sciences Tel-Aviv University Tel Aviv, Israel"
+    },
+    {
+        "title": "Effects of Spatial and Temporal Contiguity on the Acquisition of Spatial Information",
+        "aff": "Department of Information Science and Telecommunications, University of Pittsburgh; Department of Information Science and Telecommunications, University of Pittsburgh"
+    },
+    {
+        "title": "Efficient Approaches to Gaussian Process Classification",
+        "aff": "Neural Computing Research Group, School of Engineering and Applied Sciences, Aston University Birmingham B4 7ET, UK; Neural Computing Research Group, School of Engineering and Applied Sciences, Aston University Birmingham B4 7ET, UK; Neural Computing Research Group, School of Engineering and Applied Sciences, Aston University Birmingham B4 7ET, UK; Neural Computing Research Group, School of Engineering and Applied Sciences, Aston University Birmingham B4 7ET, UK; Theoretical Physics II, Lund University, Solvegatan 14 A, S-223 62 Lund, Sweden"
+    },
+    {
+        "title": "Emergence of Topography and Complex Cell Properties from Natural Images using Extensions of ICA",
+        "aff": "Neural Networks Research Center, Helsinki University of Technology; Neural Networks Research Center, Helsinki University of Technology"
+    },
+    {
+        "title": "Evolving Learnable Languages",
+        "aff": "Dept of Comp. Sci. and Elec. Engineering, University of Queensland, Queensland, 4072, Australia; Department of Computer Science, University of Melbourne, Parkville, Victoria, 3052, Australia; Dept of Comp. Sci. and Elec. Engineering + School of Psychology, University of Queensland, Queensland, 4072, Australia"
+    },
+    {
+        "title": "From Coexpression to Coregulation: An Approach to Inferring Transcriptional Regulation among Gene Classes from Large-Scale Expression Data",
+        "aff": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena CA 91109-8099; Jet Propulsion Laboratory, California Institute of Technology, Pasadena CA 91109-8099; Jet Propulsion Laboratory, California Institute of Technology, Pasadena CA 91109-8099; Division of Biology, California Institute of Technology, Pasadena CA 91125"
+    },
+    {
+        "title": "Gaussian Fields for Approximate Inference in Layered Sigmoid Belief Networks",
+        "aff": "Computer Science Division, UC Berkeley; Mitsubishi Electric Research Lab"
+    },
+    {
+        "title": "Generalized Model Selection for Unsupervised Learning in High Dimensions",
+        "aff": "IBM Almaden Research Center; IBM Almaden Research Center"
+    },
+    {
+        "title": "Graded Grammaticality in Prediction Fractal Machines",
+        "aff": ";;"
+    },
+    {
+        "title": "Greedy Importance Sampling",
+        "aff": "Department of Computer Science, University of Waterloo"
+    },
+    {
+        "title": "Hierarchical Image Probability (H1P) Models",
+        "aff": ";"
+    },
+    {
+        "title": "Image Recognition in Context: Application to Microscopic Urinalysis",
+        "aff": "Department of Electrical and Computer Engineering, Oregon Graduate Institute of Science and Technology; Department of Computation and Neural Systems, California Institute of Technology; Department of Electrical Engineering, California Institute of Technology; International Remote Imaging Systems, Inc."
+    },
+    {
+        "title": "Image Representations for Facial Expression Coding",
+        "aff": ";;;;;"
+    },
+    {
+        "title": "Independent Factor Analysis with Temporally Structured Sources",
+        "aff": "Gatsby Unit, University College London"
+    },
+    {
+        "title": "Inference for the Generalization Error",
+        "aff": "CIRANO; CIRANO and Dept. IRO Universite de Montreal"
+    },
+    {
+        "title": "Information Capacity and Robustness of Stochastic Neuron Models",
+        "aff": "Institute of Computer Science, Department of Neurobiology and Center for Neural Computation, Hebrew University; Institute of Computer Science, Department of Neurobiology and Center for Neural Computation, Hebrew University; Institute of Computer Science, Department of Neurobiology and Center for Neural Computation, Hebrew University"
+    },
+    {
+        "title": "Information Factorization in Connectionist Models of Perception",
+        "aff": "Department of Cognitive Science, Institute for Neural Computation, University of California San Diego; Center for the Neural Bases of Cognition, Department of Psychology, Carnegie Mellon University"
+    },
+    {
+        "title": "Invariant Feature Extraction and Classification in Kernel Spaces",
+        "aff": ";;;;;"
+    },
+    {
+        "title": "Kirchoff Law Markov Fields for Analog Circuit Design",
+        "aff": "RMG Consulting Inc. + Associate Professor at University of Texas at Dallas"
+    },
+    {
+        "title": "LTD Facilitates Learning in a Noisy Environment",
+        "aff": "School of Information Sciences, University of Pittsburgh; Intelligent Systems Program, University of Pittsburgh"
+    },
+    {
+        "title": "Large Margin DAGs for Multiclass Classification",
+        "aff": "Microsoft Research; Dept. of Engineering Mathematics, University of Bristol; Department of Computer Science, Royal Holloway College - University of London"
+    },
+    {
+        "title": "Learning Factored Representations for Partially Observable Markov Decision Processes",
+        "aff": ""
+    },
+    {
+        "title": "Learning Informative Statistics: A Nonparametnic Approach",
+        "aff": ";;"
+    },
+    {
+        "title": "Learning Sparse Codes with a Mixture-of-Gaussians Prior",
+        "aff": "Department of Psychology and Center for Neuroscience, UC Davis; Center for Neuroscience, UC Davis"
+    },
+    {
+        "title": "Learning Statistically Neutral Tasks without Expert Guidance",
+        "aff": ";;"
+    },
+    {
+        "title": "Learning from User Feedback in Image Retrieval Systems",
+        "aff": ";"
+    },
+    {
+        "title": "Learning the Similarity of Documents: An Information-Geometric Approach to Document Retrieval and Categorization",
+        "aff": "Department of Computer Science, Brown University, Providence, RI"
+    },
+    {
+        "title": "Learning to Parse Images",
+        "aff": "Gatsby Computational Neuroscience Unit, University College London, London, United Kingdom WC1N 3AR; Gatsby Computational Neuroscience Unit, University College London, London, United Kingdom WC1N 3AR; Department of Computer Science, University of Toronto, Toronto, Ontario, Canada M5S 3G4"
+    },
+    {
+        "title": "Leveraged Vector Machines",
+        "aff": "Hebrew University"
+    },
+    {
+        "title": "Local Probability Propagation for Factor Analysis",
+        "aff": "Computer Science, University of Waterloo, Waterloo, Ontario, Canada"
+    },
+    {
+        "title": "Low Power Wireless Communication via Reinforcement Learning",
+        "aff": "Electrical and Computer Engineering, University of Colorado"
+    },
+    {
+        "title": "Lower Bounds on the Complexity of Approximating Continuous Functions by Sigmoidal Neural Networks",
+        "aff": "Lehrstuhl Mathematik und Informatik FakuWit ftir Mathematik Ruhr-Universitat Bochum D-44780 Bochum, Germany"
+    },
+    {
+        "title": "Managing Uncertainty in Cue Combination",
+        "aff": "Department of Neurobiology, Box 3209, Duke University Medical Center, Durham, NC 27710; Department of Psychology, University of Arizona, Tucson, AZ 85721"
+    },
+    {
+        "title": "Manifold Stochastic Dynamics for Bayesian Learning",
+        "aff": "Department of Computer Science Technion -Israel Institute of Technology; Department of Computer Science Technion -Israel Institute of Technology"
+    },
+    {
+        "title": "Maximum Entropy Discrimination",
+        "aff": "MIT AI Lab; MIT AI Lab; MIT Media Lab"
+    },
+    {
+        "title": "Memory Capacity of Linear vs. Nonlinear Models of Dendritic Integration",
+        "aff": "Biomedical Engineering Department, University of Southern California; Biomedical Engineering Department, University of Southern California"
+    },
+    {
+        "title": "Mixture Density Estimation",
+        "aff": "Department of Statistics, Yale University; Department of Statistics, Yale University"
+    },
+    {
+        "title": "Model Selection for Support Vector Machines",
+        "aff": "AT&T Research Labs, Red Bank, NJ; AT&T Research Labs, Red Bank, NJ + LIP6, Paris, France"
+    },
+    {
+        "title": "Model Selection in Clustering by Uniform Convergence Bounds",
+        "aff": "Institut flir Informatik III, RomerstraBe 164, D-53117 Bonn, Germany; Institut flir Informatik III, RomerstraBe 164, D-53117 Bonn, Germany"
+    },
+    {
+        "title": "Modeling High-Dimensional Discrete Data with Multi-Layer Neural Networks",
+        "aff": "Dept.IRO, Universite de Montreal, Montreal, Qc, Canada, H3C 317; IDIAP, CP 592, rue du Simplon 4, 1920 Martigny, Switzerland + CIRANO, Montreal, Qc, Canada"
+    },
+    {
+        "title": "Monte Carlo POMDPs",
+        "aff": "School of Computer Science, Carnegie Mellon University"
+    },
+    {
+        "title": "Neural Computation with Winner-Take-All as the Only Nonlinear Operation",
+        "aff": ""
+    },
+    {
+        "title": "Neural Network Based Model Predictive Control",
+        "aff": "Pavilion Technologies; Pavilion Technologies; Pavilion Technologies; Pavilion Technologies; Pavilion Technologies; Pavilion Technologies"
+    },
+    {
+        "title": "Neural Representation of Multi-Dimensional Stimuli",
+        "aff": ";;"
+    },
+    {
+        "title": "Neural System Model of Human Sound Localization",
+        "aff": "Department of Physiology and Department of Electrical Engineering, Univ. of Sydney, NSW 2006, Australia; Department of Physiology and Institute of Biomedical Research, Univ. of Sydney, NSW 2006, Australia"
+    },
+    {
+        "title": "Noisy Neural Networks and Generalizations",
+        "aff": "Industrial Eng. and Management, Mathematics, Technion -lIT, Haifa 32000, Israel; Mathematics, Technion -lIT, Haifa 32000, Israel; Industrial Eng. and Management, Technion -lIT, Haifa 32000, Israel"
+    },
+    {
+        "title": "Nonlinear Discriminant Analysis Using Kernel Functions",
+        "aff": "University of Bonn, Institut of Computer Science III; University of Bonn, Institut of Computer Science III"
+    },
+    {
+        "title": "On Input Selection with Reversible Jump Markov Chain Monte Carlo Sampling",
+        "aff": "Austrian Research Institute for Artificial Intelligence (OFAI)"
+    },
+    {
+        "title": "Online Independent Component Analysis with Local Learning Rate Adaptation",
+        "aff": "IDSIA, Corso Elvezia 36 6900 Lugano, Switzerland; IDSIA, Corso Elvezia 36 6900 Lugano, Switzerland"
+    },
+    {
+        "title": "Optimal Kernel Shapes for Local Linear Regression",
+        "aff": "Department of Statistics, Stanford University; Department of Statistics, Stanford University"
+    },
+    {
+        "title": "Optimal Sizes of Dendritic and Axonal Arbors",
+        "aff": ""
+    },
+    {
+        "title": "Perceptual Organization Based on Temporal Dynamics",
+        "aff": "Department of Computer and Information Science+Center for Cognitive Science, The Ohio State University; Department of Computer and Information Science+Center for Cognitive Science, The Ohio State University"
+    },
+    {
+        "title": "Policy Gradient Methods for Reinforcement Learning with Function Approximation",
+        "aff": ";;;"
+    },
+    {
+        "title": "Policy Search via Density Estimation",
+        "aff": "Computer Science Division, u.c. Berkeley; Computer Science Dept., Stanford University; Computer Science Dept., Stanford University"
+    },
+    {
+        "title": "Population Decoding Based on an Unfaithful Model",
+        "aff": ";;;"
+    },
+    {
+        "title": "Potential Boosters?",
+        "aff": "Department of Computer Science, University of California, Santa Cruz, CA 95064; Department of Computer Science, University of California, Santa Cruz, CA 95064"
+    },
+    {
+        "title": "Predictive App roaches for Choosing Hyperparameters in Gaussian Processes",
+        "aff": "Mechanical and Production Engg., National University of Singapore; Computer Science and Automation, Indian Institute of Science"
+    },
+    {
+        "title": "Predictive Sequence Learning in Recurrent Neocortical Circuits",
+        "aff": "Computational Neurobiology Lab and Sloan Center for Theoretical Neurobiology, The Salk Institute, La Jolla, CA 92037; Computational Neurobiology Lab and Howard Hughes Medical Institute, The Salk Institute, La Jolla, CA 92037"
+    },
+    {
+        "title": "Probabilistic Methods for Support Vector Machines",
+        "aff": "Department of Mathematics, King's College London"
+    },
+    {
+        "title": "Recognizing Evoked Potentials in a Virtual Environment",
+        "aff": "Department of Computer Science, University of Rochester; Department of Computer Science, University of Rochester"
+    },
+    {
+        "title": "Reconstruction of Sequential Data with Probabilistic Models and Continuity Constraints",
+        "aff": "Dept. of Computer Science, University of Sheffield, UK"
+    },
+    {
+        "title": "Recurrent Cortical Competition: Strengthen or Weaken?",
+        "aff": "Dept. of Compo Sci., FR2-I, Technical University Berlin; Dept. of Compo Sci., FR2-I, Technical University Berlin; Dept. of Compo Sci., FR2-I, Technical University Berlin + Epigenomics GmbH; Dept. of Compo Sci., FR2-I, Technical University Berlin"
+    },
+    {
+        "title": "Regular and Irregular Gallager-zype Error-Correcting Codes",
+        "aff": ";;;"
+    },
+    {
+        "title": "Reinforcement Learning Using Approximate Belief States",
+        "aff": "Artificial Intelligence Center, SRI International; Computer Science Department, Stanford University; Computer Science Department, Stanford University"
+    },
+    {
+        "title": "Reinforcement Learning for Spoken Dialogue Systems",
+        "aff": "AT&T Labs; AT&T Labs; AT&T Labs; AT&T Labs"
+    },
+    {
+        "title": "Resonance in a Stochastic Neuron Model with Delayed Interaction",
+        "aff": "Sony Computer Science Laboratory, Shinagawa, Tokyo 141, Japan + Laboratory for Information Synthesis, RIKEN Brain Science Institute, Wako, Saitama, Japan; Institute of Physics, Graduate School of Arts and Science, University of Tokyo, Meguro, Tokyo 153 Japan; Department of Mathematics, University of Chicago, Chicago, IL 60637, U.S.A"
+    },
+    {
+        "title": "Robust Full Bayesian Methods for Neural Networks",
+        "aff": "Cambridge University Engineering Department; UC Berkeley Computer Science; Cambridge University Engineering Department"
+    },
+    {
+        "title": "Robust Learning of Chaotic Attractors",
+        "aff": "Chemical Reactor Engineering, Delft Univ. of Technology; Dept. Mathematics, University of Groningen; Chemical Reactor Engineering, Eindhoven Univ. of Technology; NEC Research Institute, Princeton Nl; Chemical Reactor Engineering, Delft Univ. of Technology; Chemical Reactor Engineering, Delft Univ. of Technology"
+    },
+    {
+        "title": "Robust Neural Network Regression for Offline and Online Learning",
+        "aff": "Siemens AG, Corporate Technology + McKinsey & Company, Inc.; Siemens AG, Corporate Technology"
+    },
+    {
+        "title": "Robust Recognition of Noisy and Superimposed Patterns via Selective Attention",
+        "aff": "Brain Science Research Center, Korea Advanced Institute of Science & Technology; Department of Computer Science, University of Colorado at Boulder"
+    },
+    {
+        "title": "Rules and Similarity in Concept Learning",
+        "aff": "Department of Psychology, Stanford University, Stanford, CA 94305"
+    },
+    {
+        "title": "Scale Mixtures of Gaussians and the Statistics of Natural Images",
+        "aff": "Stochastic Systems Group, Electrical Engineering & CS, MIT; Ctr. for Neural Science, and Courant Inst. of Mathematical Sciences, New York University"
+    },
+    {
+        "title": "Search for Information Bearing Components in Speech",
+        "aff": ";"
+    },
+    {
+        "title": "Semiparametric Approach to Multichannel Blind Deconvolution of Nonminimum Phase Systems",
+        "aff": "Brain-style Information Systems Research Group, BSI The Institute of Physical and Chemical Research Wako shi, Saitama 351-0198, JAPAN; Brain-style Information Systems Research Group, BSI The Institute of Physical and Chemical Research Wako shi, Saitama 351-0198, JAPAN; Brain-style Information Systems Research Group, BSI The Institute of Physical and Chemical Research Wako shi, Saitama 351-0198, JAPAN"
+    },
+    {
+        "title": "Some Theoretical Results Concerning the Convergence of Compositions of Regularized Linear Functions",
+        "aff": "Mathematical Sciences Department, IBM T.1. Watson Research Center"
+    },
+    {
+        "title": "Spectral Cues in Human Sound Localization",
+        "aff": ";;;"
+    },
+    {
+        "title": "Speech Modelling Using Subspace and EM Techniques",
+        "aff": "Cambridge University Engineering Department; UC Berkeley Computer Science Division; Sheffield University Computer Science; Cambridge University Engineering Department"
+    },
+    {
+        "title": "Spike-based Learning Rules and Stabilization of Persistent Neural Activity",
+        "aff": "Dept. of Brain & Cog. Sci., MIT, Cambridge, MA 02139; Dept. of Brain & Cog. Sci., MIT, Cambridge, MA 02139"
+    },
+    {
+        "title": "Spiking Boltzmann Machines",
+        "aff": "Gatsby Computational Neuroscience Unit, University College London; Department of Computer Science, University of Toronto"
+    },
+    {
+        "title": "State Abstraction in MAXQ Hierarchical Reinforcement Learning",
+        "aff": "Department of Computer Science, Oregon State University"
+    },
+    {
+        "title": "Statistical Dynamics of Batch Learning",
+        "aff": ";"
+    },
+    {
+        "title": "Support Vector Method for Multivariate Density Estimation",
+        "aff": "Royal Halloway College + AT &T Labs; CBCL, MIT"
+    },
+    {
+        "title": "Support Vector Method for Novelty Detection",
+        "aff": "Microsoft Research Ltd., 1 Guildhall Street, Cambridge, UK + Microsoft, 1 Microsoft Way, Redmond, WA, USA; Department of Engineering, Australian National University, Canberra 0200; Department of Engineering, Australian National University, Canberra 0200; Royal Holloway, University of London, Egham, UK; Microsoft Research Ltd., 1 Guildhall Street, Cambridge, UK + Microsoft, 1 Microsoft Way, Redmond, WA, USA"
+    },
+    {
+        "title": "The Entropy Regularization Information Criterion",
+        "aff": "Dept. of Engineering and RSISE, Australian National University; Microsoft Research Limited; Royal Holloway College, University of London; Dept. of Engineering, Australian National University"
+    },
+    {
+        "title": "The Infinite Gaussian Mixture Model",
+        "aff": ""
+    },
+    {
+        "title": "The Nonnegative Boltzmann Machine",
+        "aff": "Princeton University; Cavendish Laboratory, United Kingdom; Bell Laboratories, Lucent Technologies"
+    },
+    {
+        "title": "The Parallel Problems Server: an Interactive Tool for Large Scale Machine Learning",
+        "aff": "AT&T Labs; Lawrence Berkeley National LaboratorylNERSC"
+    },
+    {
+        "title": "The Relaxed Online Maximum Margin Algorithm",
+        "aff": "Department of Computer Science, National University of Singapore; Department of Computer Science, National University of Singapore"
+    },
+    {
+        "title": "The Relevance Vector Machine",
+        "aff": "Microsoft Research"
+    },
+    {
+        "title": "Topographic Transformation as a Discrete Latent Variable",
+        "aff": "Beckman Institute, University of Illinois at Urbana; Computer Science, University of Waterloo"
+    },
+    {
+        "title": "Training Data Selection for Optimal Generalization in Trigonometric Polynomial Networks",
+        "aff": "Department of Computer Science, Tokyo Institute of Technology; Department of Computer Science, Tokyo Institute of Technology"
+    },
+    {
+        "title": "Transductive Inference for Estimating Values of Functions",
+        "aff": "AT&T Research Laboratories, Red Bank, USA; AT&T Research Laboratories, Red Bank, USA + Royal Holloway, University of London, Egham, Surrey, UK; Royal Holloway, University of London, Egham, Surrey, UK + Barnhill BioInformatics.com, Savannah, Georgia, USA"
+    },
+    {
+        "title": "Understanding Stepwise Generalization of Support Vector Machines: a Toy Model",
+        "aff": "DRFMCjSPSMS CEA Grenoble, 17 avo des Martyrs 38054 Grenoble cedex 09, France; DRFMCjSPSMS CEA Grenoble, 17 avo des Martyrs 38054 Grenoble cedex 09, France"
+    },
+    {
+        "title": "Uniqueness of the SVM Solution",
+        "aff": "Advanced Technologies, Bell Laboratories, Lucent Technologies, Holmdel, New Jersey; Centre for Sensor Signal and Information Processing, Deptartment of Electrical Engineering, University of Adelaide, South Australia"
+    },
+    {
+        "title": "Unmixing Hyperspectral Data",
+        "aff": "Sarnoff Corporation, CN-5300, Princeton, NJ 08543, USA; Sarnoff Corporation, CN-5300, Princeton, NJ 08543, USA; Sarnoff Corporation, CN-5300, Princeton, NJ 08543, USA; GMD FIRST.lDA, Kekulestr. 7, 12489 Berlin, Germany; GMD FIRST.lDA, Kekulestr. 7, 12489 Berlin, Germany"
+    },
+    {
+        "title": "Variational Inference for Bayesian Mixtures of Factor Analysers",
+        "aff": ";"
+    },
+    {
+        "title": "Wiring Optimization in the Brain",
+        "aff": "Sloan Center for Theoretical Neurobiology, The Salk Institute, La Jolla, CA 92037; Howard Hughes Medical Institute and Molecular Neurobiology Lab, The Salk Institute, La Jolla, CA 92037"
+    },
+    {
+        "title": "v-Arc: Ensemble Learning in the Presence of Outliers",
+        "aff": ";;;;;"
+    }
+]

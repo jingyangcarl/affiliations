@@ -1,0 +1,634 @@
+[
+    {
+        "title": "A Comparative Study of a Modified Bumptree Neural Network with Radial Basis Function Networks and the Standard Multi Layer Perceptron",
+        "aff": "Department of Computer Science & Applied Mathematics, Aston University, Binningham, England; Department of Computer Science & Applied Mathematics, Aston University, Binningham, England"
+    },
+    {
+        "title": "A Comparison of Dynamic Reposing and Tangent Distance for Drug Activity Prediction",
+        "aff": ";;;"
+    },
+    {
+        "title": "A Computational Model for Cursive Handwriting Based on the Minimization Principle",
+        "aff": ";;;"
+    },
+    {
+        "title": "A Connectionist Model of the Owl's Sound Localization System",
+        "aff": ";;"
+    },
+    {
+        "title": "A Hodgkin-Huxley Type Neuron Model That Learns Slow Non-Spike Oscillation",
+        "aff": "Department of Biology, University of California, San Diego; Department of Biology, University of California, San Diego; Department of Biology, University of California, San Diego + The Salk Institute, CNL"
+    },
+    {
+        "title": "A Hybrid Radial Basis Function Neurocomputer and Its Applications",
+        "aff": "ECE Department, UCSD, La Jolla, CA. 92093; JPL; JPL; ECE Department, UCSD, La Jolla, CA. 92093 + Caltech, Pasadena, CA. 91109; CSE Department, UCSD, La Jolla, CA. 92093"
+    },
+    {
+        "title": "A Learning Analog Neural Network Chip with Continuous-Time Recurrent Dynamics",
+        "aff": ""
+    },
+    {
+        "title": "A Local Algorithm to Learn Trajectories with Stochastic Neural Networks",
+        "aff": "Department of Cognitive Science, University of California San Diego"
+    },
+    {
+        "title": "A Massively-Parallel SIMD Processor for Neural Network and Machine Vision Applications",
+        "aff": "Current Technology, Inc.; Department of Electrical and Computer Engineering, The University of New Hampshire"
+    },
+    {
+        "title": "A Network Mechanism for the Determination of Shape-From-Texture",
+        "aff": ";"
+    },
+    {
+        "title": "A Unified Gradient-Descent/Clustering Architecture for Finite State Machine Induction",
+        "aff": ";"
+    },
+    {
+        "title": "Adaptive knot Placement for Nonparametric Regression",
+        "aff": ";"
+    },
+    {
+        "title": "Address Block Location with a Neural Net System",
+        "aff": "AT&T Bell Laboratories; AT&T Bell Laboratories"
+    },
+    {
+        "title": "Agnostic PAC-Learning of Functions on Analog Neural Nets",
+        "aff": "Institute for Theoretical Computer Science, Technische Universitaet Graz"
+    },
+    {
+        "title": "Amplifying and Linearizing Apical Synaptic Inputs to Cortical Pyramidal Cells",
+        "aff": "Computation and Neural Systems Program, California Institute of Technology, 139-74 Pasadena, Ca 91125, USA; Computation and Neural Systems Program, California Institute of Technology, 139-74 Pasadena, Ca 91125, USA; Anatomical Neuropharmacology Unit, Dept. Pharmacology, Oxford, UK"
+    },
+    {
+        "title": "An Analog VLSI Model of Central Pattern Generation in the Leech",
+        "aff": ""
+    },
+    {
+        "title": "An Analog VLSI Saccadic Eye Movement System",
+        "aff": ";;"
+    },
+    {
+        "title": "An Optimization Method of Layered Neural Networks based on the Modified Information Criterion",
+        "aff": "Information and Communication R&D Center Ricoh Co., Ltd."
+    },
+    {
+        "title": "Analysis of Short Term Memories for Neural Networks",
+        "aff": "Computational NeuroEngineering Laboratory, Department of Electrical Engineering, University of Florida; Computational NeuroEngineering Laboratory, Department of Electrical Engineering, University of Florida; Computational NeuroEngineering Laboratory, Department of Electrical Engineering, University of Florida"
+    },
+    {
+        "title": "Analyzing Cross-Connected Networks",
+        "aff": "Center for Research on Language, Department of Cognitive Science, University of California at San Diego; Department of Psychology & McGill Cognitive Science Centre, McGill University"
+    },
+    {
+        "title": "Assessing the Quality of Learned Local Models",
+        "aff": "Department of Brain and Cognitive Sciences & The Artifical Intelligence Laboratory, Massachusetts Institute of Technology; Department of Brain and Cognitive Sciences & The Artifical Intelligence Laboratory, Massachusetts Institute of Technology"
+    },
+    {
+        "title": "Asynchronous Dynamics of Continuous Time Neural Networks",
+        "aff": ";;"
+    },
+    {
+        "title": "Autoencoders, Minimum Description Length and Helmholtz Free Energy",
+        "aff": "Department of Computer Science, University of Toronto; Computational Neuroscience Laboratory, The Salk Institute"
+    },
+    {
+        "title": "Backpropagation Convergence Via Deterministic Nonmonotone Perturbed Minimization",
+        "aff": "Computer Sciences Department, University of Wisconsin; Computer Sciences Department, University of Wisconsin"
+    },
+    {
+        "title": "Backpropagation without Multiplication",
+        "aff": "AT&T Bell Laboratories; AT&T Bell Laboratories"
+    },
+    {
+        "title": "Bayesian Backprop in Action: Pruning, Committees, Error Bars and an Application to Spectroscopy",
+        "aff": "Danish Meat Research Institute"
+    },
+    {
+        "title": "Bayesian Backpropagation Over I-O Functions Rather Than Weights",
+        "aff": "The Santa Fe Institute"
+    },
+    {
+        "title": "Bayesian Modeling and Classification of Neural Signals",
+        "aff": "Computation and Neural Systems Program, California Institute of Technology"
+    },
+    {
+        "title": "Bayesian Self-Organization",
+        "aff": "Division of Applied Sciences, Harvard University, Cambridge, MA 02138; Lyman Laboratory of Physics, Harvard University, Cambridge, MA 02138; Dept. of Computer Science, The Chinese University of Hong Kong, Shatin, NT, Hong Kong + Division of Applied Sciences, Harvard University, Cambridge, MA 02138"
+    },
+    {
+        "title": "Bounds on the complexity of recurrent neural network implementations of finite state machines",
+        "aff": "NEC Research Institute; EECE Department, University of New Mexico"
+    },
+    {
+        "title": "Catastrophic interference in connectionist networks: Can It Be predicted, can It be prevented?",
+        "aff": ""
+    },
+    {
+        "title": "Central and Pairwise Data Clustering by Competitive Neural Networks",
+        "aff": "Rheinische Friedrich-Wilhelms-Universit\u00e4t Institut f\u00fcr Informatik II, Romerstra\u00dfe 164 D-53117 Bonn, Fed. Rep. Germany; Rheinische Friedrich-Wilhelms-Universit\u00e4t Institut f\u00fcr Informatik II, Romerstra\u00dfe 164 D-53117 Bonn, Fed. Rep. Germany"
+    },
+    {
+        "title": "Classification of Electroencephalogram using Artificial Neural Networks",
+        "aff": ";;"
+    },
+    {
+        "title": "Classification of Multi-Spectral Pixels by the Binary Diamond Neural Network",
+        "aff": "Department of Physics and CSTEA, Howard University, Washington, DC 20059"
+    },
+    {
+        "title": "Classifying Hand Gestures with a View-Based Distributed Representation",
+        "aff": "Perceptual Computing Group, MIT Media Lab; Perceptual Computing Group, MIT Media Lab"
+    },
+    {
+        "title": "Clustering with a Domain-Specific Distance Measure",
+        "aff": ";;"
+    },
+    {
+        "title": "Combined Neural Networks for Time Series Analysis",
+        "aff": "School of Physics and Astronomy, Raymond and Beverly Sackler Faculty of Exact Science, Tel-Aviv University; School of Physics and Astronomy, Raymond and Beverly Sackler Faculty of Exact Science, Tel-Aviv University"
+    },
+    {
+        "title": "Comparison Training for a Rescheduling Problem in Neural Networks",
+        "aff": "Artificial Intelligence Laboratory, Vrije Universiteit Brussel; Prog Laboratory, Vrije Universiteit Brussel"
+    },
+    {
+        "title": "Complexity Issues in Neural Computation and Learning",
+        "aff": "School of Electrical Engineering, Purdue University; Dept. of Electrical & Compo Engr., University of California at Irvine"
+    },
+    {
+        "title": "Computational Elements of the Adaptive Controller of the Human Arm",
+        "aff": "Dept. of Brain and Cognitive Sciences, M. I. T., Cambridge, MA 02139; Dept. of Brain and Cognitive Sciences, M. I. T., Cambridge, MA 02139"
+    },
+    {
+        "title": "Connectionism for Music and Audition",
+        "aff": "Department of Computer Science and Institute of Cognitive Science, University of Colorado, Boulder, CO 80309-0430"
+    },
+    {
+        "title": "Connectionist Modeling and Parallel Architectures",
+        "aff": ";"
+    },
+    {
+        "title": "Connectionist Models for Auditory Scene Analysis",
+        "aff": "Department of Electrical Engineering, San Jose State University"
+    },
+    {
+        "title": "Constructive Learning Using Internal Representation Conflicts",
+        "aff": "Systems Engineering & Design Automation Laboratory, Department of Electrical Engineering, The University of Sydney; Systems Engineering & Design Automation Laboratory, Department of Electrical Engineering, The University of Sydney"
+    },
+    {
+        "title": "Convergence of Indirect Adaptive Asynchronous Value Iteration Algorithms",
+        "aff": "Department of Computer Science, University of Massachusetts; Department of Computer Science, University of Massachusetts"
+    },
+    {
+        "title": "Convergence of Stochastic Iterative Dynamic Programming Algorithms",
+        "aff": "Department of Brain and Cognitive Sciences; Department of Brain and Cognitive Sciences; Department of Brain and Cognitive Sciences"
+    },
+    {
+        "title": "Correlation Functions in a Large Stochastic Neural Network",
+        "aff": "School of Physics and Astronomy, Raymond and Beverly Sackler Faculty of Exact Sciences, Tel-Aviv University, Tel-Aviv 69978, Israel; Racah Institute of Physics and Center for Neural Computation, Hebrew University, Jerusalem 91904, Israel"
+    },
+    {
+        "title": "Counting function theorem for multi-layer networks",
+        "aff": "Telecom Australia, Research Laboratories"
+    },
+    {
+        "title": "Coupled Dynamics of Fast Neurons and Slow Interactions",
+        "aff": ";;"
+    },
+    {
+        "title": "Credit Assignment through Time: Alternatives to Backpropagation",
+        "aff": "Dept. Informatique et Recherche Operationnelle, Universite de Montreal, Montreal, Qc H3C-3J7 + AT&T Bell Labs, Holmdel, NJ 07733; Dip. di Sistemi e Informatica, Universita di Firenze, 50139 Firenze (Italy)"
+    },
+    {
+        "title": "Cross-Validation Estimates IMSE",
+        "aff": ";;"
+    },
+    {
+        "title": "Decoding Cursive Scripts",
+        "aff": "Institute of Computer Science and Center for Neural Computation, Hebrew University, Jerusalem 91904, Israel; Institute of Computer Science and Center for Neural Computation, Hebrew University, Jerusalem 91904, Israel"
+    },
+    {
+        "title": "Developing Population Codes by Minimizing Description Length",
+        "aff": "CNL, The Salk Institute; Department of Computer Science, University of Toronto"
+    },
+    {
+        "title": "Development of Orientation and Ocular Dominance Columns in Infant Macaques",
+        "aff": ";;"
+    },
+    {
+        "title": "Digital Boltzmann VLSI for constraint satisfaction and learning",
+        "aff": ";;;;;;;;;"
+    },
+    {
+        "title": "Directional Hearing by the Mauthner System",
+        "aff": "Department of Psychology, University of Colorado, Boulder, Co. 80309; E. P. O. Biology, University of Colorado, Boulder, Co. 80309"
+    },
+    {
+        "title": "Discontinuous Generalization in Large Committee Machines",
+        "aff": "Dept. of Theoretical Physics, Lund University; Nordita"
+    },
+    {
+        "title": "Dopaminergic Neuromodulation Brings a Dynamical Plasticity to the Retina",
+        "aff": "B3E, INSERM U263; B3E, INSERM U263"
+    },
+    {
+        "title": "Dual Mechanisms for Neural Binding and Segmentation",
+        "aff": "Department of Bioengineering and Institute of Neurological Science, University of Pennsylvania; Department of Bioengineering and Institute of Neurological Science, University of Pennsylvania"
+    },
+    {
+        "title": "Dynamic Modulation of Neurons and Networks",
+        "aff": "Center for Complex Systems, Brandeis University, Waltham, MA 02254 USA"
+    },
+    {
+        "title": "Efficient Computation of Complex Distance Metrics Using Hierarchical Filtering",
+        "aff": "AT&T Bell Laboratories"
+    },
+    {
+        "title": "Efficient Simulation of Biological Neural Networks on Massively Parallel Supercomputers with Hypercube Architecture",
+        "aff": "Computation and Neural Systems, California Institute of Technology, Pasadena, CA 91125, USA; Booz, Allen and Hamilton, Inc., 8283 Greensboro Drive, McLean, VA 22102-3838, USA"
+    },
+    {
+        "title": "Emergence of Global Structure from Local Associations",
+        "aff": "Department of Information Science, University of Pittsburgh, Pittsburgh PA 15260; Department of Information Science, University of Pittsburgh, Pittsburgh PA 15260"
+    },
+    {
+        "title": "Encoding Labeled Graphs by Labeling RAAM",
+        "aff": ""
+    },
+    {
+        "title": "Estimating analogical similarity by dot-products of Holographic Reduced Representations",
+        "aff": "Department of Computer Science, University of Toronto"
+    },
+    {
+        "title": "Event-Driven Simulation of Networks of Spiking Neurons",
+        "aff": "Synaptics Inc."
+    },
+    {
+        "title": "Exploiting Chaos to Control the Future",
+        "aff": ";;"
+    },
+    {
+        "title": "Fast Non-Linear Dimension Reduction",
+        "aff": ";"
+    },
+    {
+        "title": "Fast Pruning Using Principal Components",
+        "aff": ";;"
+    },
+    {
+        "title": "Feature Densities are Required for Computing Feature Correspondences",
+        "aff": "Interval Research Corporation"
+    },
+    {
+        "title": "Figure of Merit Training for Detection and Spotting",
+        "aff": ";"
+    },
+    {
+        "title": "Fool's Gold: Extracting Finite State Machines from Recurrent Network Dynamics",
+        "aff": ""
+    },
+    {
+        "title": "Foraging in an Uncertain Environment Using Predictive Hebbian Learning",
+        "aff": "Computational Neurobiology Lab, The Salk Institute; Computational Neurobiology Lab, The Salk Institute; Computational Neurobiology Lab, The Salk Institute + Division of Neuroscience, Baylor College of Medicine"
+    },
+    {
+        "title": "Functional Models of Selective Attention and Context Dependency",
+        "aff": ""
+    },
+    {
+        "title": "GDS: Gradient Descent Generation of Symbolic Classification Rules",
+        "aff": "Kaiserslautern University, Germany + Siemens AG, ZFE ST SN 41 81730 Miinchen, Germany"
+    },
+    {
+        "title": "Generalization Error and the Expected Network Complexity",
+        "aff": "Dept. of Elec., Compt. and Syst Engl'. Rensselaer Polytechnic Inst.itu( e Troy, NY 12180-3590"
+    },
+    {
+        "title": "Generation of Internal Representation by \u03b1-Transformation",
+        "aff": ""
+    },
+    {
+        "title": "Globally Trained Handwritten Word Recognizer using Spatial Representation, Convolutional Neural Networks, and Hidden Markov Models",
+        "aff": "Dept. Informatique et Recherche Operationnelle, Universite de Montreal; AT&T Bell Labs; AT&T Bell Labs"
+    },
+    {
+        "title": "Grammatical Inference by Attentional Control of Synchronization in an Oscillating Elman Network",
+        "aff": "Dept Mathematics, U.C.Berkeley, Berkeley, Ca. 94720; Dept of Phys., U.C.San Francisco, San Francisco, Ca. 94143; Lawrence Livermore National Laboratory, P.O. Box 808 (L-270), Livermore, Ca. 94550"
+    },
+    {
+        "title": "Hidden Markov Models for Human Genes",
+        "aff": "Jet Propulsion Laboratory, California Institute of Technology+Division of Biology, California Institute of Technology; Net-ID, Inc.+Department of Psychology, Stanford University; Center for Biological Sequence Analysis, The Technical University of Denmark; Center for Biological Sequence Analysis, The Technical University of Denmark; Electronics Institute, The Technical University of Denmark"
+    },
+    {
+        "title": "High Performance Neural Net Simulation on a Multiprocessor System with \"Intelligent\" Communication",
+        "aff": ";;"
+    },
+    {
+        "title": "Hoeffding Races: Accelerating Model Selection Search for Classification and Function Approximation",
+        "aff": "Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge, MA 02139; Robotics Institute, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213"
+    },
+    {
+        "title": "Hoo Optimality Criteria for LMS and Backpropagation",
+        "aff": ";;"
+    },
+    {
+        "title": "How to Choose an Activation Function",
+        "aff": "Department of Mathematics, California State University, Los Angeles, CA 90032; IBM Watson Research Center, P. O. Box 218, Yorktown Heights, NY 10598"
+    },
+    {
+        "title": "How to Describe Neuronal Activity: Spikes, Rates, or Assemblies?",
+        "aff": ";"
+    },
+    {
+        "title": "Identifying Fault-Prone Software Modules Using Feed-Forward Networks: A Case Study",
+        "aff": "Room 2E-378, Bellcore 435 South Street Morristown, NJ 07960"
+    },
+    {
+        "title": "Illumination-Invariant Face Recognition with a Contrast Sensitive Silicon Retina",
+        "aff": ";;"
+    },
+    {
+        "title": "Implementing Intelligence on Silicon Using Neuron-Like Functional MOS Transistors",
+        "aff": ";;;;;"
+    },
+    {
+        "title": "Inverse Dynamics of Speech Motor Control",
+        "aff": ";;"
+    },
+    {
+        "title": "Learning Classification with Unlabeled Data",
+        "aff": "Department of Computer Science, University of Rochester"
+    },
+    {
+        "title": "Learning Complex Boolean Functions: Algorithms and Applications",
+        "aff": "Dept. of EECS, UC Berkeley; Dept. of EECS, UC Berkeley"
+    },
+    {
+        "title": "Learning Curves: Asymptotic Values and Rate of Convergence",
+        "aff": "AT&T Bell Laboratories; AT&T Bell Laboratories; AT&T Bell Laboratories; AT&T Bell Laboratories; AT&T Bell Laboratories"
+    },
+    {
+        "title": "Learning Mackey-Glass from 25 examples, Plus or Minus 2",
+        "aff": ";;"
+    },
+    {
+        "title": "Learning Temporal Dependencies in Connectionist Speech Recognition",
+        "aff": ";;"
+    },
+    {
+        "title": "Learning in Compositional Hierarchies: Inducing the Structure of Objects from Data",
+        "aff": ""
+    },
+    {
+        "title": "Learning in Computer Vision and Image Understanding",
+        "aff": ""
+    },
+    {
+        "title": "Lipreading by neural networks: Visual preprocessing, learning, and sensory integration",
+        "aff": "Ricoh California Research Center; Ricoh California Research Center; Ricoh California Research Center; Department of Electrical Engineering, Stanford University"
+    },
+    {
+        "title": "Locally Adaptive Nearest Neighbor Algorithms",
+        "aff": ";"
+    },
+    {
+        "title": "Lower Boundaries of Motoneuron Desynchronization via Renshaw Interneurons",
+        "aff": "Dept. of Biomedical Engineering, Northwestern University, Evanston, IT.. 60201; V. A. Research Service, Lakeside Hospital and Dept. of Physiology, Northwestern University, Chicago, IT.. 60611; Dept. of Physiology, Northwestern University, Chicago, IT.. 60611; Dept. of Physiology and Biomedical Engineering, Northwestern University, Chicago, IT.. 60611"
+    },
+    {
+        "title": "Memory-Based Methods for Regression and Classification",
+        "aff": ";;;"
+    },
+    {
+        "title": "Mixtures of Controllers for Jump Linear and Non-Linear Plants",
+        "aff": "Department of Neurosciences, University of California at San Diego, La Jolla, CA 92093; Synaptics, Inc., 2698 Orchard Parkway, San Jose, CA 95134"
+    },
+    {
+        "title": "Monte Carlo Matrix Inversion and Reinforcement Learning",
+        "aff": "Computer Science Department, University of Massachusetts; Computer Science Department, University of Massachusetts"
+    },
+    {
+        "title": "Neural Network Definitions of Highly Predictable Protein Secondary Structure Classes",
+        "aff": ";;"
+    },
+    {
+        "title": "Neural Network Exploration Using Optimal Experiment Design",
+        "aff": "Dept. of Brain and Cognitive Sciences, Massachusetts Inst. of Technology, Cambridge, MA 02139"
+    },
+    {
+        "title": "Neural Network Methods for Optimization Problems",
+        "aff": ""
+    },
+    {
+        "title": "Neurobiology, Psychophysics, and Computational Models of Visual Attention",
+        "aff": "Computation and Neural Systems, California Institute of Technology, Pasadena, CA 91125, USA; Department of Anatomy and Neurobiology, Washington University School of Medicine, St. Louis, MO 63110"
+    },
+    {
+        "title": "Non-Intrusive Gaze Tracking Using Artificial Neural Networks",
+        "aff": "School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213; School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213"
+    },
+    {
+        "title": "Non-Linear Statistical Analysis and Self-Organizing Hebbian Networks",
+        "aff": ";"
+    },
+    {
+        "title": "Observability of Neural Network Behavior",
+        "aff": "Institute for Intelligent Systems; Department of Mathematical Sciences"
+    },
+    {
+        "title": "Odor Processing in the Bee: A Preliminary Study of the Role of Central Input to the Antennal Lobe",
+        "aff": "ESPeI, Laboratoire d'Electronique; ESPeI, Laboratoire d'Electronique; Laboratoire de Neurobiologie Comparee des Invertebrees INRNCNRS (URA 1190); Institut Pasteur CNRS (URA 1284) Neurobiologie Moleculaire"
+    },
+    {
+        "title": "On the Non-Existence of a Universal Learning Algorithm for Recurrent Neural Networks",
+        "aff": "Centrum voor Wiskunde en Informatica"
+    },
+    {
+        "title": "Optimal Brain Surgeon: Extensions and performance comparisons",
+        "aff": ";;"
+    },
+    {
+        "title": "Optimal Signalling in Attractor Neural Networks",
+        "aff": "School of Mathematical Sciences, Raymond and Beverly Sackler Faculty of Exact Sciences, Tel-Aviv University, 69978 Tel-Aviv, Israel; School of Mathematical Sciences, Raymond and Beverly Sackler Faculty of Exact Sciences, Tel-Aviv University, 69978 Tel-Aviv, Israel + Dept. of Computer Science, University of Maryland"
+    },
+    {
+        "title": "Optimal Stochastic Search and Adaptive Momentum",
+        "aff": "Oregon Graduate Institute of Science and Technology, Department of Computer Science and Engineering; Oregon Graduate Institute of Science and Technology, Department of Computer Science and Engineering"
+    },
+    {
+        "title": "Optimal Stopping and Effective Machine Complexity in Learning",
+        "aff": "Department of Systems Science; Department of Electrical Engineering, University of Pennsylvania; Siemens Corporate Research"
+    },
+    {
+        "title": "Optimal Unsupervised Motor Learning Predicts the Internal Representation of Barn Owl Head Movements",
+        "aff": "Jet Propulsion Laboratory"
+    },
+    {
+        "title": "Packet Routing in Dynamically Changing Networks: A Reinforcement Learning Approach",
+        "aff": "School of Computer Science, Carnegie Mellon University; Cognitive Science Research Group, Bellcore + Department of Computer Science, Brown University"
+    },
+    {
+        "title": "Postal Address Block Location Using a Convolutional Locator Network",
+        "aff": ";"
+    },
+    {
+        "title": "Probabilistic Anomaly Detection in Dynamic Systems",
+        "aff": ""
+    },
+    {
+        "title": "Processing of Visual and Auditory Space and Its Modification by Experience",
+        "aff": "Laboratory of Neurophysiology, National Institute of Mental Health, Poolesville, MD 20837; Computational Neurobiology Lab, The Salk Institute, San Diego, CA 92138"
+    },
+    {
+        "title": "Putting It All Together: Methods for Combining Neural Networks",
+        "aff": "Institute for Brain and Neural Systems, Brown University, Providence, RI"
+    },
+    {
+        "title": "Recognition-based Segmentation of On-Line Cursive Handwriting",
+        "aff": "Department of Computer Science, Utah State University"
+    },
+    {
+        "title": "Recovering a Feed-Forward Net From Its Output",
+        "aff": "David Sarnoff Research Center; David Sarnoff Research Center + Dept. of Mathematics, Princeton University"
+    },
+    {
+        "title": "Resolving motion ambiguities",
+        "aff": "Siemens Corporate Research; Courant Institute, NYU + Isaac Newton Institute + Siemens Corporate Research"
+    },
+    {
+        "title": "Robot Learning: Exploration and Continuous Domains",
+        "aff": ""
+    },
+    {
+        "title": "Robust Parameter Estimation and Model Selection for Neural Network Regression",
+        "aff": ""
+    },
+    {
+        "title": "Robust Reinforcement Learning in Motion Planning",
+        "aff": "Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology; Department of Computer Science, University of Massachusetts; Department of Computer Science, University of Massachusetts; Department of Computer Science, University of Massachusetts"
+    },
+    {
+        "title": "Segmental Neural Net Optimization for Continuous Speech Recognition",
+        "aff": ";;;"
+    },
+    {
+        "title": "Signature Verification using a \"Siamese\" Time Delay Neural Network",
+        "aff": "AT&T Bell Laboratories; AT&T Bell Laboratories; AT&T Bell Laboratories; AT&T Bell Laboratories; AT&T Bell Laboratories"
+    },
+    {
+        "title": "Solvable Models of Artificial Neural Networks",
+        "aff": "Information and Communication R&D Center, Ricoh Co., Ltd."
+    },
+    {
+        "title": "Speaker Recognition Using Neural Tree Networks",
+        "aff": ";"
+    },
+    {
+        "title": "Stability and Observability",
+        "aff": "Institute for Intelligent Systems; Department of Mathematical Sciences"
+    },
+    {
+        "title": "Statistics of Natural Images: Scaling in the Woods",
+        "aff": "NEe Research Institute; NEe Research Institute"
+    },
+    {
+        "title": "Structural and Behavioral Evolution of Recurrent Networks",
+        "aff": "Laboratory for Artificial Intelligence Research; Laboratory for Artificial Intelligence Research; Laboratory for Artificial Intelligence Research"
+    },
+    {
+        "title": "Structured Machine Learning for 'Soft' Classification with Smoothing Spline ANOVA and Stacked Tuning, Testing and Evaluation",
+        "aff": "Dept of Statistics, University of Wisconsin, Madison, WI 53706; Dept of Statistics, University of Wisconsin, Madison, WI 53706; Dept of Statistics, Purdue University, West Lafayette, IN 47907; Dept of Ophthalmalogy, University of Wisconsin, Madison, WI 53706; Dept of Ophthalmalogy, University of Wisconsin, Madison, WI 53706"
+    },
+    {
+        "title": "Supervised Learning with Growing Cell Structures",
+        "aff": "Institut fiir Neuroinformatik Ruhr-U niversitat Bochum Germany"
+    },
+    {
+        "title": "Supervised learning from incomplete data via an EM approach",
+        "aff": "Department of Brain & Cognitive Sciences, Massachusett.s Institute of Technology; Department of Brain & Cognitive Sciences, Massachusett.s Institute of Technology"
+    },
+    {
+        "title": "Surface Learning with Applications to Lipreading",
+        "aff": "Computer Science Division, University of California, Berkeley, CA 94720; Int. Computer Science Institute, 1947 Center Street Suite 600, Berkeley, CA 94704"
+    },
+    {
+        "title": "Synchronization, oscillations, and 1/f noise in networks of spiking neurons",
+        "aff": ";;;"
+    },
+    {
+        "title": "Temporal Difference Learning of Position Evaluation in the Game of Go",
+        "aff": "Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, San Diego, CA 92186-5800; Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, San Diego, CA 92186-5800; Computational Neurobiology Laboratory, The Salk Institute for Biological Studies, San Diego, CA 92186-5800"
+    },
+    {
+        "title": "The \"Softmax\" Nonlinearity: Derivation Using Statistical Mechanics and Useful Properties as a Multiterminal Analog Circuit Element",
+        "aff": "Research Laboratory of Electronics, Massachusetts Institute of Technology, Cambridge, MA 02139; Research Laboratory of Electronics, Massachusetts Institute of Technology, Cambridge, MA 02139"
+    },
+    {
+        "title": "The Parti-Game Algorithm for Variable Resolution Reinforcement Learning in Multidimensional State-Spaces",
+        "aff": "School of Computer Science, Carnegie-Mellon University"
+    },
+    {
+        "title": "The Power of Amnesia",
+        "aff": ";;"
+    },
+    {
+        "title": "The Role of MT Neuron Receptive Field Surrounds in Computing Object Shape from Velocity Fields",
+        "aff": "Vision Center Laboratory, The Salk Institute, P.O.Box 85800, San Diego, California 92138-9216; Vision Center Laboratory, The Salk Institute, P.O.Box 85800, San Diego, California 92138-9216"
+    },
+    {
+        "title": "The Statistical Mechanics of k-Satisfaction",
+        "aff": ";;;"
+    },
+    {
+        "title": "Tonal Music as a Componential Code: Learning Temporal Relationships Between and Within Pitch and Timing Components",
+        "aff": "Department of Psychology, University of Queensland; Depts of Psychology & Computer Science, University of Queensland"
+    },
+    {
+        "title": "Training Neural Networks with Deficient Data",
+        "aff": "Siemens AG, Central Research, 81730 Munchen, Germany; Interval Research Corporation, 1801-C Page Mill Rd., Palo Alto, CA 94304; Siemens AG, Central Research, 81730 Munchen, Germany"
+    },
+    {
+        "title": "Transition Point Dynamic Programming",
+        "aff": "Dept. of Electrical Engineering, University of British Columbia, Vancouver, B.C, Canada V6T 1Z4 + PMC-Sierra Inc., 8501 Commerce Court, Burnaby, B.C., Canada V5A 4N3; Dept. of Electrical Engineering, University of British Columbia, Vancouver, B.C, Canada V6T 1Z4"
+    },
+    {
+        "title": "Two Iterative Algorithms for Computing the Singular Value Decomposition from Input/Output Samples",
+        "aff": ""
+    },
+    {
+        "title": "Two-Dimensional Object Localization by Coarse-to-Fine Correlation Matching",
+        "aff": "Department of Computer Science, Yale University; Department of Computer Science, Yale University"
+    },
+    {
+        "title": "Unsupervised Learning of Mixtures of Multiple Causes in Binary Data",
+        "aff": "Xerox Palo Alto Research Center"
+    },
+    {
+        "title": "Unsupervised Parallel Feature Extraction from First Principles",
+        "aff": "Image Processing Laboratory, Dept. EE., Linkoping University, S-58183 Linkoping Sweden; Image Processing Laboratory, Dept. EE., Linkoping University, S-58183 Linkoping Sweden"
+    },
+    {
+        "title": "Use of Bad Training Data for Better Predictions",
+        "aff": "Complex Systems Group (T13) and CNLS LANL, MS B213 Los Alamos N.M. 87545; Complex Systems Group (T13) LANL, MS B213 Los Alamos N.M. 87545 + The Santa Fe Institute, Santa Fe, New Mexico"
+    },
+    {
+        "title": "Using Local Trajectory Optimizers to Speed Up Global Optimization in Dynamic Programming",
+        "aff": "Department of Brain and Cognitive Sciences and the Artificial Intelligence Laboratory, Massachusetts Institute of Technology"
+    },
+    {
+        "title": "VLSI Phase Locking Architectures for Feature Linking in Multiple Target Tracking Systems",
+        "aff": "Department of Electrical and Computer Engineering, The Johns Hopkins University, Baltimore, MD 21218; Department of Electrical Engineering, The University of Maryland, College Park, MD 20722"
+    },
+    {
+        "title": "WATTLE: A Trainable Gain Analogue VLSI Neural Network",
+        "aff": "Systems Engineering and Design Automation Laboratory, Department of Electrical Engineering J03, University of Sydney, 2006, Australia; Systems Engineering and Design Automation Laboratory, Department of Electrical Engineering J03, University of Sydney, 2006, Australia"
+    },
+    {
+        "title": "What Does the Hippocampus Compute?: A Precis of the 1993 NIPS Workshop",
+        "aff": ""
+    },
+    {
+        "title": "When will a Genetic Algorithm Outperform Hill Climbing",
+        "aff": ";;"
+    }
+]
